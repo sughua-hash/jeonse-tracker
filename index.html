@@ -137,6 +137,7 @@ code{background:var(--surface-2);padding:1px 5px;border-radius:5px;font-size:12p
   <button class="chip" data-f="jeonse">전세가 낮은순</button>
   <button class="chip" data-f="conv">환산가 낮은순</button>
   <button class="chip" data-f="rent">월세 낮은순</button>
+  <button class="chip" data-f="hidden" id="chip-hidden" hidden>숨김</button>
 </div>
 <main id="main"></main>
 <div id="sheet-root"></div>
@@ -150,7 +151,10 @@ const S = {
   cfg: null, latest: null, view: 'list', filter: 'all', detailNo: null,
   charts: [], range: 90,
   settings: JSON.parse(safeGet('settings') || '{}'),
+  localHidden: new Set(JSON.parse(safeGet('hidden') || '[]')),
 };
+function saveHidden(){ safeSet('hidden', JSON.stringify([...S.localHidden])); }
+function isHidden(it){ return !!(it.cfg.hidden || S.localHidden.has(it.name)); }
 function safeGet(k){ try{ return localStorage.getItem(k); }catch(e){ return null; } }
 function safeSet(k,v){ try{ localStorage.setItem(k,v); }catch(e){} }
 function saveSettings(){ safeSet('settings', JSON.stringify(S.settings)); }
@@ -236,6 +240,9 @@ function renderList(){
     ? `마지막 수집 ${fmt.date(L.generated_at)} · 전용 ${set.area_min_m2}~${set.area_max_m2}㎡ · 월세 보증금 ≤${fmt.money(set.wolse_deposit_max_manwon)}`
     : '아직 수집된 데이터가 없습니다';
   let items = mergedComplexes();
+  const hiddenCount = items.filter(isHidden).length;
+  const chipH = document.getElementById('chip-hidden'); chipH.hidden = hiddenCount === 0 && S.filter !== 'hidden'; chipH.textContent = `숨김 ${hiddenCount}`;
+  items = items.filter(it => S.filter === 'hidden' ? isHidden(it) : !isHidden(it));
   if (S.filter === 'changed') items = items.filter(it => it.today && ['jeonse','wolse_rent','wolse_conv'].some(k => (it.today.deltas?.[k]?.d1?.delta || 0) !== 0));
   const keyMap = { jeonse:'jeonse', conv:'wolse_conv', rent:'wolse_rent' };
   if (keyMap[S.filter]) items.sort((a,b) => (metric(a.today,keyMap[S.filter]) ?? 1e15) - (metric(b.today,keyMap[S.filter]) ?? 1e15));
@@ -243,7 +250,7 @@ function renderList(){
   let html = '';
   if (!repoInfo() || !S.settings.token) html += `<div class="note">⚙ 설정에서 GitHub 토큰을 등록하면 앱에서 단지를 추가·제거할 수 있습니다.</div>`;
   if (L?.errors?.length) html += `<details class="alert"><summary>수집 오류 ${L.errors.length}건</summary><pre>${esc(L.errors.join('\n'))}</pre></details>`;
-  if (!items.length) html += `<div class="empty">등록된 단지가 없습니다. ＋ 버튼으로 추가하세요.</div>`;
+  if (!items.length) html += `<div class="empty">${S.filter === 'hidden' ? '숨긴 단지가 없습니다.' : '등록된 단지가 없습니다. ＋ 버튼으로 추가하세요.'}</div>`;
   for (const it of items){
     const t = it.today; const d = t?.deltas || {};
     const j = t?.jeonse, w = t?.wolse_rent, c = t?.wolse_conv;
@@ -310,12 +317,14 @@ async function renderDetail(){
       <div class="list" id="tab-je">${je.map(a=>li(a,false)).join('') || '<div class="empty">없음</div>'}</div>
       <div class="list" id="tab-wo" hidden>${wo.map(a=>li(a,true)).join('') || '<div class="empty">없음</div>'}</div></div>`;
   }
-  html += `<div class="panel"><button class="btn danger" id="btn-remove">이 단지 추적 중단(제거)</button></div></div>`;
+  const hid = it ? isHidden(it) : false;
+  html += `<div class="panel" style="display:grid;gap:8px"><button class="btn ghost" id="btn-hide">${hid ? '숨김 해제 (목록에 다시 표시)' : '숨기기 (수집·기록은 계속, 목록·알림에서만 제외)'}</button><button class="btn danger" id="btn-remove">이 단지 추적 중단(제거)</button></div></div>`;
   main.innerHTML = html;
 
   document.querySelectorAll('#range button').forEach(b => b.addEventListener('click', () => { S.range = +b.dataset.r; render(); }));
   document.querySelectorAll('#tabs button').forEach(b => b.addEventListener('click', () => { document.querySelectorAll('#tabs button').forEach(x=>x.classList.toggle('on', x===b)); document.getElementById('tab-je').hidden = b.dataset.t!=='je'; document.getElementById('tab-wo').hidden = b.dataset.t!=='wo'; }));
   document.getElementById('btn-remove').addEventListener('click', () => removeComplex(it));
+  document.getElementById('btn-hide').addEventListener('click', () => toggleHide(it));
   drawCharts(h);
 }
 
@@ -389,6 +398,24 @@ function openAdd(){
     } catch(e){ toast('실패: ' + e.message, 4000); btn.disabled = false; btn.textContent = '저장'; }
   });
 }
+async function toggleHide(it){
+  if (!it) return;
+  const to = !isHidden(it);
+  if (S.settings.token && repoInfo()) {
+    try {
+      const { cfg, sha } = await readConfigFromGithub();
+      const c = cfg.complexes.find(x => x.name === it.name || (it.complexNo && String(x.complexNo) === String(it.complexNo)));
+      if (c) { if (to) c.hidden = true; else delete c.hidden; }
+      await writeConfig(cfg, sha, `config: ${to ? 'hide' : 'unhide'} ${it.name}`);
+      S.cfg = cfg; S.localHidden.delete(it.name); saveHidden();
+    } catch(e){ toast('실패: ' + e.message, 4000); return; }
+  } else {
+    if (to) S.localHidden.add(it.name); else S.localHidden.delete(it.name);
+    saveHidden();
+  }
+  S.view = 'list'; S.filter = 'all'; document.querySelectorAll('#chips .chip').forEach(x => x.classList.toggle('on', x.dataset.f === 'all'));
+  render(); toast(to ? '숨겼습니다 (칩 "숨김"에서 다시 볼 수 있음)' : '다시 표시합니다');
+}
 async function removeComplex(it){
   if (!it) return;
   if (!confirm(`'${it.name}' 추적을 중단할까요?\n(지금까지 쌓인 기록 파일은 저장소에 남습니다)`)) return;
@@ -440,7 +467,7 @@ function openSettings(){
 }
 
 // ------------------------------------------------------------- 이벤트/시작
-const APP_VERSION = '1.2.0';
+const APP_VERSION = '1.3.0';
 document.getElementById('btn-back').addEventListener('click', () => { S.view = 'list'; render(); });
 document.getElementById('btn-add').addEventListener('click', openAdd);
 document.getElementById('btn-settings').addEventListener('click', openSettings);
