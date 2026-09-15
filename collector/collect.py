@@ -239,6 +239,9 @@ def run(args) -> int:
         return 2
     session = naver.make_session()
     today = now_kst().date().isoformat()
+    print(f"[start] {now_kst().isoformat(timespec='seconds')}", flush=True)
+    for k, v in naver.preflight(session).items():
+        print(f"[preflight] {k}: {v}", flush=True)
     dashboard = os.environ.get("DASHBOARD_URL", "").strip()
 
     complexes = cfg.get("complexes", [])
@@ -352,6 +355,10 @@ def run(args) -> int:
 
 
 def main():
+    try:
+        sys.stdout.reconfigure(line_buffering=True)
+    except Exception:  # noqa: BLE001
+        pass
     p = argparse.ArgumentParser()
     p.add_argument("--no-notify", action="store_true")
     p.add_argument("--dry-run", action="store_true")
