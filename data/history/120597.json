@@ -1,0 +1,83 @@
+[
+ {
+  "jeonse": {
+   "price": 34000,
+   "article": {
+    "article_no": "2645919542",
+    "deposit": 34000,
+    "rent": 0,
+    "area": 84.95,
+    "floor": "2/33",
+    "building": "111",
+    "direction": "ES",
+    "confirmed": "2026-08-26",
+    "price_text": "34000",
+    "url": "https://m.land.naver.com/article/info/2645919542"
+   }
+  },
+  "wolse_rent": null,
+  "wolse_conv": null,
+  "counts": {
+   "all": 6,
+   "in_area": 3,
+   "jeonse": 3,
+   "wolse": 0,
+   "wolse_ok": 0
+  },
+  "date": "2026-09-16",
+  "source": "fin",
+  "deltas": {
+   "jeonse": {
+    "d1": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    },
+    "d7": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    },
+    "d30": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    }
+   },
+   "wolse_rent": {
+    "d1": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    },
+    "d7": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    },
+    "d30": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    }
+   },
+   "wolse_conv": {
+    "d1": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    },
+    "d7": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    },
+    "d30": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    }
+   }
+  }
+ }
+]

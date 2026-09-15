@@ -1,0 +1,115 @@
+[
+ {
+  "jeonse": {
+   "price": 78000,
+   "article": {
+    "article_no": "2649953838",
+    "deposit": 78000,
+    "rent": 0,
+    "area": 84.98,
+    "floor": "고/15",
+    "building": "6404",
+    "direction": "SS",
+    "confirmed": "2026-09-15",
+    "price_text": "78000",
+    "url": "https://m.land.naver.com/article/info/2649953838"
+   }
+  },
+  "wolse_rent": {
+   "rent": 130,
+   "deposit": 50000,
+   "article": {
+    "article_no": "2649954985",
+    "deposit": 50000,
+    "rent": 130,
+    "area": 84.98,
+    "floor": "고/15",
+    "building": "6404",
+    "direction": "SS",
+    "confirmed": "2026-09-15",
+    "price_text": "50000/130",
+    "url": "https://m.land.naver.com/article/info/2649954985"
+   }
+  },
+  "wolse_conv": {
+   "conv": 78364,
+   "rent": 130,
+   "deposit": 50000,
+   "rate_pct": 5.5,
+   "article": {
+    "article_no": "2649954985",
+    "deposit": 50000,
+    "rent": 130,
+    "area": 84.98,
+    "floor": "고/15",
+    "building": "6404",
+    "direction": "SS",
+    "confirmed": "2026-09-15",
+    "price_text": "50000/130",
+    "url": "https://m.land.naver.com/article/info/2649954985"
+   }
+  },
+  "counts": {
+   "all": 74,
+   "in_area": 37,
+   "jeonse": 36,
+   "wolse": 1,
+   "wolse_ok": 1
+  },
+  "date": "2026-09-16",
+  "source": "fin",
+  "deltas": {
+   "jeonse": {
+    "d1": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    },
+    "d7": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    },
+    "d30": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    }
+   },
+   "wolse_rent": {
+    "d1": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    },
+    "d7": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    },
+    "d30": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    }
+   },
+   "wolse_conv": {
+    "d1": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    },
+    "d7": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    },
+    "d30": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    }
+   }
+  }
+ }
+]

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-15T23:51:01+09:00",
- "date": "2026-09-15",
+ "generated_at": "2026-09-16T07:25:50+09:00",
+ "date": "2026-09-16",
  "settings": {
   "area_min_m2": 83,
   "area_max_m2": 85,
@@ -9,76 +9,1118 @@
  },
  "complexes": [
   {
-   "complexNo": null,
+   "complexNo": "108789",
    "name": "위례호반써밋에비뉴",
-   "error": "단지번호 미확인",
-   "region": "경기 성남시 수정구 창곡동"
+   "region": "경기 성남시 수정구 창곡동",
+   "address": "경기도 성남시 수정구 창곡동",
+   "today": {
+    "jeonse": null,
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 102,
+     "in_area": 0,
+     "jeonse": 0,
+     "wolse": 0,
+     "wolse_ok": 0
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "107661",
    "name": "위례센트럴푸르지오",
-   "error": "단지번호 미확인",
-   "region": "경기 성남시 수정구 창곡동"
+   "region": "경기 성남시 수정구 창곡동",
+   "address": "경기도 성남시 수정구 창곡동",
+   "today": {
+    "jeonse": null,
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 78,
+     "in_area": 0,
+     "jeonse": 0,
+     "wolse": 0,
+     "wolse_ok": 0
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "107023",
    "name": "위례롯데캐슬",
-   "error": "단지번호 미확인",
-   "region": "경기 하남시 학암동"
+   "region": "경기 하남시 학암동",
+   "address": "경기도 하남시 학암동",
+   "today": {
+    "jeonse": {
+     "price": 78000,
+     "article": {
+      "article_no": "2649953838",
+      "deposit": 78000,
+      "rent": 0,
+      "area": 84.98,
+      "floor": "고/15",
+      "building": "6404",
+      "direction": "SS",
+      "confirmed": "2026-09-15",
+      "price_text": "78000",
+      "url": "https://m.land.naver.com/article/info/2649953838"
+     }
+    },
+    "wolse_rent": {
+     "rent": 130,
+     "deposit": 50000,
+     "article": {
+      "article_no": "2649954985",
+      "deposit": 50000,
+      "rent": 130,
+      "area": 84.98,
+      "floor": "고/15",
+      "building": "6404",
+      "direction": "SS",
+      "confirmed": "2026-09-15",
+      "price_text": "50000/130",
+      "url": "https://m.land.naver.com/article/info/2649954985"
+     }
+    },
+    "wolse_conv": {
+     "conv": 78364,
+     "rent": 130,
+     "deposit": 50000,
+     "rate_pct": 5.5,
+     "article": {
+      "article_no": "2649954985",
+      "deposit": 50000,
+      "rent": 130,
+      "area": 84.98,
+      "floor": "고/15",
+      "building": "6404",
+      "direction": "SS",
+      "confirmed": "2026-09-15",
+      "price_text": "50000/130",
+      "url": "https://m.land.naver.com/article/info/2649954985"
+     }
+    },
+    "counts": {
+     "all": 74,
+     "in_area": 37,
+     "jeonse": 36,
+     "wolse": 1,
+     "wolse_ok": 1
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "107715",
    "name": "위례래미안이편한세상",
-   "error": "단지번호 미확인",
-   "region": "경기 성남시 수정구 창곡동"
+   "region": "경기 성남시 수정구 창곡동",
+   "address": "경기도 성남시 수정구 창곡동",
+   "today": {
+    "jeonse": {
+     "price": 95000,
+     "article": {
+      "article_no": "2649930945",
+      "deposit": 95000,
+      "rent": 0,
+      "area": 84.98,
+      "floor": "중/15",
+      "building": "5615",
+      "direction": "WS",
+      "confirmed": "2026-09-15",
+      "price_text": "95000",
+      "url": "https://m.land.naver.com/article/info/2649930945"
+     }
+    },
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 42,
+     "in_area": 41,
+     "jeonse": 17,
+     "wolse": 24,
+     "wolse_ok": 0
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "109266",
    "name": "위례센트럴자이",
-   "error": "단지번호 미확인",
-   "region": "경기 성남시 수정구 창곡동"
+   "region": "경기 성남시 수정구 창곡동",
+   "address": "경기도 성남시 수정구 창곡동",
+   "today": {
+    "jeonse": {
+     "price": 90000,
+     "article": {
+      "article_no": "2649992765",
+      "deposit": 90000,
+      "rent": 0,
+      "area": 84.94,
+      "floor": "저/15",
+      "building": "3201",
+      "direction": "SS",
+      "confirmed": "2026-09-15",
+      "price_text": "90000",
+      "url": "https://m.land.naver.com/article/info/2649992765"
+     }
+    },
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 86,
+     "in_area": 19,
+     "jeonse": 18,
+     "wolse": 1,
+     "wolse_ok": 0
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "110522",
    "name": "남양주월산사랑으로부영2단지",
-   "error": "단지번호 미확인",
-   "region": "경기 남양주시 화도읍 경춘로"
+   "region": "경기 남양주시 화도읍 경춘로",
+   "address": "경기도 남양주시 화도읍",
+   "today": {
+    "jeonse": null,
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 1,
+     "in_area": 0,
+     "jeonse": 0,
+     "wolse": 0,
+     "wolse_ok": 0
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "110520",
    "name": "남양주월산사랑으로부영1단지",
-   "error": "단지번호 미확인",
-   "region": "경기 남양주시 화도읍 경춘로"
+   "region": "경기 남양주시 화도읍 경춘로",
+   "address": "경기도 남양주시 화도읍",
+   "today": {
+    "jeonse": null,
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 1,
+     "in_area": 0,
+     "jeonse": 0,
+     "wolse": 0,
+     "wolse_ok": 0
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "27297",
    "name": "이안남양주",
-   "error": "단지번호 미확인",
-   "region": "경기 남양주시 화도읍 수레로"
+   "region": "경기 남양주시 화도읍 수레로",
+   "address": "경기도 남양주시 화도읍",
+   "today": {
+    "jeonse": null,
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 8,
+     "in_area": 0,
+     "jeonse": 0,
+     "wolse": 0,
+     "wolse_ok": 0
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "150311",
    "name": "빌리브센트하이",
-   "error": "단지번호 미확인",
-   "region": "경기 남양주시 화도읍 마석"
+   "region": "경기 남양주시 화도읍 마석",
+   "address": "경기도 남양주시 화도읍",
+   "today": {
+    "jeonse": {
+     "price": 41000,
+     "article": {
+      "article_no": "2649845687",
+      "deposit": 41000,
+      "rent": 0,
+      "area": 84.97,
+      "floor": "6/29",
+      "building": "101",
+      "direction": "WS",
+      "confirmed": "2026-09-15",
+      "price_text": "41000",
+      "url": "https://m.land.naver.com/article/info/2649845687"
+     }
+    },
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 53,
+     "in_area": 31,
+     "jeonse": 31,
+     "wolse": 0,
+     "wolse_ok": 0
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "113907",
    "name": "고덕그라시움",
-   "error": "단지번호 미확인",
-   "region": "서울 강동구 고덕동 고덕로 333"
+   "region": "서울 강동구 고덕동 고덕로 333",
+   "address": "서울시 강동구 고덕동",
+   "today": {
+    "jeonse": {
+     "price": 120000,
+     "article": {
+      "article_no": "2649386442",
+      "deposit": 120000,
+      "rent": 0,
+      "area": 84.24,
+      "floor": "저/30",
+      "building": "118",
+      "direction": "ES",
+      "confirmed": "2026-09-12",
+      "price_text": "120000",
+      "url": "https://m.land.naver.com/article/info/2649386442"
+     }
+    },
+    "wolse_rent": {
+     "rent": 400,
+     "deposit": 30000,
+     "article": {
+      "article_no": "2648808831",
+      "deposit": 30000,
+      "rent": 400,
+      "area": 84.04,
+      "floor": "중/30",
+      "building": "118",
+      "direction": "WS",
+      "confirmed": "2026-09-09",
+      "price_text": "30000/400",
+      "url": "https://m.land.naver.com/article/info/2648808831"
+     }
+    },
+    "wolse_conv": {
+     "conv": 116000,
+     "rent": 440,
+     "deposit": 20000,
+     "rate_pct": 5.5,
+     "article": {
+      "article_no": "2649353318",
+      "deposit": 20000,
+      "rent": 440,
+      "area": 84.04,
+      "floor": "중/30",
+      "building": "118",
+      "direction": "SS",
+      "confirmed": "2026-09-12",
+      "price_text": "20000/440",
+      "url": "https://m.land.naver.com/article/info/2649353318"
+     }
+    },
+    "counts": {
+     "all": 108,
+     "in_area": 7,
+     "jeonse": 2,
+     "wolse": 5,
+     "wolse_ok": 2
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "118210",
    "name": "고덕센트럴아이파크",
-   "error": "단지번호 미확인",
-   "region": "서울 강동구 상일동 고덕로80"
+   "region": "서울 강동구 상일동 고덕로80",
+   "address": "서울시 강동구 상일동",
+   "today": {
+    "jeonse": {
+     "price": 95000,
+     "article": {
+      "article_no": "2650038029",
+      "deposit": 95000,
+      "rent": 0,
+      "area": 84.91,
+      "floor": "저/29",
+      "building": "514",
+      "direction": "SS",
+      "confirmed": "2026-09-16",
+      "price_text": "95000",
+      "url": "https://m.land.naver.com/article/info/2650038029"
+     }
+    },
+    "wolse_rent": {
+     "rent": 220,
+     "deposit": 50000,
+     "article": {
+      "article_no": "2649828664",
+      "deposit": 50000,
+      "rent": 220,
+      "area": 84.97,
+      "floor": "7/29",
+      "building": "514",
+      "direction": "SS",
+      "confirmed": "2026-09-15",
+      "price_text": "50000/220",
+      "url": "https://m.land.naver.com/article/info/2649828664"
+     }
+    },
+    "wolse_conv": {
+     "conv": 96727,
+     "rent": 260,
+     "deposit": 40000,
+     "rate_pct": 5.5,
+     "article": {
+      "article_no": "2649956470",
+      "deposit": 40000,
+      "rent": 260,
+      "area": 84.97,
+      "floor": "7/29",
+      "building": "514",
+      "direction": "SS",
+      "confirmed": "2026-09-15",
+      "price_text": "40000/260",
+      "url": "https://m.land.naver.com/article/info/2649956470"
+     }
+    },
+    "counts": {
+     "all": 320,
+     "in_area": 128,
+     "jeonse": 110,
+     "wolse": 18,
+     "wolse_ok": 14
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "119341",
    "name": "고덕아르테온",
-   "error": "단지번호 미확인",
-   "region": "서울 강동구 상일동 고덕로 360"
+   "region": "서울 강동구 상일동 고덕로 360",
+   "address": "서울시 강동구 상일동",
+   "today": {
+    "jeonse": {
+     "price": 100000,
+     "article": {
+      "article_no": "2650011082",
+      "deposit": 100000,
+      "rent": 0,
+      "area": 84.97,
+      "floor": "중/21",
+      "building": "335",
+      "direction": "SS",
+      "confirmed": "2026-09-15",
+      "price_text": "100000",
+      "url": "https://m.land.naver.com/article/info/2650011082"
+     }
+    },
+    "wolse_rent": {
+     "rent": 220,
+     "deposit": 50000,
+     "article": {
+      "article_no": "2648291778",
+      "deposit": 50000,
+      "rent": 220,
+      "area": 84.97,
+      "floor": "저/32",
+      "building": "316",
+      "direction": "ES",
+      "confirmed": "2026-09-07",
+      "price_text": "50000/220",
+      "url": "https://m.land.naver.com/article/info/2648291778"
+     }
+    },
+    "wolse_conv": {
+     "conv": 96364,
+     "rent": 350,
+     "deposit": 20000,
+     "rate_pct": 5.5,
+     "article": {
+      "article_no": "2648901584",
+      "deposit": 20000,
+      "rent": 350,
+      "area": 84.95,
+      "floor": "중/32",
+      "building": "326",
+      "direction": "WS",
+      "confirmed": "2026-09-10",
+      "price_text": "20000/350",
+      "url": "https://m.land.naver.com/article/info/2648901584"
+     }
+    },
+    "counts": {
+     "all": 168,
+     "in_area": 164,
+     "jeonse": 156,
+     "wolse": 8,
+     "wolse_ok": 2
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
    "complexNo": null,
@@ -87,58 +1129,804 @@
    "region": "서울 강동구 상일동 상일로 55"
   },
   {
-   "complexNo": null,
+   "complexNo": "140148",
    "name": "고덕풍경채어바니티",
-   "error": "단지번호 미확인",
-   "region": "서울 강동구 고덕동 아리수로"
+   "region": "서울 강동구 고덕동 아리수로",
+   "address": "서울시 강동구 고덕동",
+   "today": {
+    "jeonse": {
+     "price": 83000,
+     "article": {
+      "article_no": "2647791177",
+      "deposit": 83000,
+      "rent": 0,
+      "area": 84.23,
+      "floor": "저/25",
+      "building": "102",
+      "direction": "EE",
+      "confirmed": "2026-09-04",
+      "price_text": "83000",
+      "url": "https://m.land.naver.com/article/info/2647791177"
+     }
+    },
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 28,
+     "in_area": 22,
+     "jeonse": 14,
+     "wolse": 8,
+     "wolse_ok": 0
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "108479",
    "name": "미사강변푸르지오2차",
-   "error": "단지번호 미확인",
-   "region": "경기 하남시 선동 미사강변한강로"
+   "region": "경기 하남시 선동 미사강변한강로",
+   "address": "경기도 하남시 선동",
+   "today": {
+    "jeonse": null,
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 6,
+     "in_area": 0,
+     "jeonse": 0,
+     "wolse": 0,
+     "wolse_ok": 0
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "110765",
    "name": "고덕숲아이파크",
-   "error": "단지번호 미확인",
-   "region": "서울 강동구 상일동 고덕로80"
+   "region": "서울 강동구 상일동 고덕로80",
+   "address": "서울시 강동구 상일동",
+   "today": {
+    "jeonse": {
+     "price": 90000,
+     "article": {
+      "article_no": "2649814937",
+      "deposit": 90000,
+      "rent": 0,
+      "area": 84.85,
+      "floor": "저/21",
+      "building": "107",
+      "direction": "SS",
+      "confirmed": "2026-09-14",
+      "price_text": "90000",
+      "url": "https://m.land.naver.com/article/info/2649814937"
+     }
+    },
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 4,
+     "in_area": 3,
+     "jeonse": 3,
+     "wolse": 0,
+     "wolse_ok": 0
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "102235",
    "name": "고덕리엔파크3단지",
-   "error": "단지번호 미확인",
-   "region": "서울 강동구 상일동 상일로 74"
+   "region": "서울 강동구 상일동 상일로 74",
+   "address": "서울시 강동구 상일동",
+   "today": {
+    "jeonse": {
+     "price": 70000,
+     "article": {
+      "article_no": "2649619849",
+      "deposit": 70000,
+      "rent": 0,
+      "area": 84.83,
+      "floor": "1/17",
+      "building": "321",
+      "direction": "SS",
+      "confirmed": "2026-09-14",
+      "price_text": "70000",
+      "url": "https://m.land.naver.com/article/info/2649619849"
+     }
+    },
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 14,
+     "in_area": 8,
+     "jeonse": 7,
+     "wolse": 1,
+     "wolse_ok": 0
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "118771",
    "name": "산성역포레스티아",
-   "error": "단지번호 미확인",
-   "region": "경기 성남시 수정구 신흥동"
+   "region": "경기 성남시 수정구 신흥동",
+   "address": "경기도 성남시 수정구 신흥동",
+   "today": {
+    "jeonse": {
+     "price": 75000,
+     "article": {
+      "article_no": "2647016515",
+      "deposit": 75000,
+      "rent": 0,
+      "area": 84.92,
+      "floor": "저/26",
+      "building": "116",
+      "direction": "ES",
+      "confirmed": "2026-09-01",
+      "price_text": "75000",
+      "url": "https://m.land.naver.com/article/info/2647016515"
+     }
+    },
+    "wolse_rent": {
+     "rent": 130,
+     "deposit": 50000,
+     "article": {
+      "article_no": "2647081940",
+      "deposit": 50000,
+      "rent": 130,
+      "area": 84.92,
+      "floor": "중/25",
+      "building": "125",
+      "direction": "WS",
+      "confirmed": "2026-09-01",
+      "price_text": "50000/130",
+      "url": "https://m.land.naver.com/article/info/2647081940"
+     }
+    },
+    "wolse_conv": {
+     "conv": 76727,
+     "rent": 260,
+     "deposit": 20000,
+     "rate_pct": 5.5,
+     "article": {
+      "article_no": "2646117749",
+      "deposit": 20000,
+      "rent": 260,
+      "area": 84.96,
+      "floor": "고/23",
+      "building": "121",
+      "direction": "ES",
+      "confirmed": "2026-08-27",
+      "price_text": "20000/260",
+      "url": "https://m.land.naver.com/article/info/2646117749"
+     }
+    },
+    "counts": {
+     "all": 258,
+     "in_area": 71,
+     "jeonse": 55,
+     "wolse": 16,
+     "wolse_ok": 13
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "109543",
    "name": "남양주창현두산(창현도뮤토)",
-   "error": "단지번호 미확인",
-   "region": "경기 남양주시 화도읍 창현"
+   "region": "경기 남양주시 화도읍 창현",
+   "address": "경기도 남양주시 화도읍",
+   "today": {
+    "jeonse": null,
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 0,
+     "in_area": 0,
+     "jeonse": 0,
+     "wolse": 0,
+     "wolse_ok": 0
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "112926",
    "name": "화도센트럴우방아이유쉘",
-   "error": "단지번호 미확인",
-   "region": "경기 남양주시 화도읍 수레로"
+   "region": "경기 남양주시 화도읍 수레로",
+   "address": "경기도 남양주시 화도읍",
+   "today": {
+    "jeonse": {
+     "price": 36000,
+     "article": {
+      "article_no": "2644413206",
+      "deposit": 36000,
+      "rent": 0,
+      "area": 84.95,
+      "floor": "6/20",
+      "building": "110",
+      "direction": "SS",
+      "confirmed": "2026-08-18",
+      "price_text": "36000",
+      "url": "https://m.land.naver.com/article/info/2644413206"
+     }
+    },
+    "wolse_rent": {
+     "rent": 160,
+     "deposit": 4000,
+     "article": {
+      "article_no": "2649896081",
+      "deposit": 4000,
+      "rent": 160,
+      "area": 84.91,
+      "floor": "16/18",
+      "building": "111",
+      "direction": "ES",
+      "confirmed": "2026-09-15",
+      "price_text": "4000/160",
+      "url": "https://m.land.naver.com/article/info/2649896081"
+     }
+    },
+    "wolse_conv": {
+     "conv": 38909,
+     "rent": 160,
+     "deposit": 4000,
+     "rate_pct": 5.5,
+     "article": {
+      "article_no": "2649896081",
+      "deposit": 4000,
+      "rent": 160,
+      "area": 84.91,
+      "floor": "16/18",
+      "building": "111",
+      "direction": "ES",
+      "confirmed": "2026-09-15",
+      "price_text": "4000/160",
+      "url": "https://m.land.naver.com/article/info/2649896081"
+     }
+    },
+    "counts": {
+     "all": 5,
+     "in_area": 5,
+     "jeonse": 4,
+     "wolse": 1,
+     "wolse_ok": 1
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "114589",
    "name": "남양주라온프라이빗5단지",
-   "error": "단지번호 미확인",
-   "region": "경기 남양주시 화도읍 경춘로"
+   "region": "경기 남양주시 화도읍 경춘로",
+   "address": "경기도 남양주시 화도읍",
+   "today": {
+    "jeonse": null,
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 5,
+     "in_area": 0,
+     "jeonse": 0,
+     "wolse": 0,
+     "wolse_ok": 0
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "116370",
    "name": "e편한세상시티인하대역",
-   "error": "단지번호 미확인",
-   "region": "인천 미추홀구 용현동"
+   "region": "인천 미추홀구 용현동",
+   "address": "인천시 미추홀구 용현동",
+   "today": {
+    "jeonse": null,
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 10,
+     "in_area": 0,
+     "jeonse": 0,
+     "wolse": 0,
+     "wolse_ok": 0
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
    "complexNo": null,
@@ -147,50 +1935,304 @@
    "region": "경기 평택시 동삭동 지제동삭"
   },
   {
-   "complexNo": null,
+   "complexNo": "120597",
    "name": "남양주두산위브트레지움",
-   "error": "단지번호 미확인",
-   "region": "경기 남양주시 화도읍 비룡로"
+   "region": "경기 남양주시 화도읍 비룡로",
+   "address": "경기도 남양주시 화도읍",
+   "today": {
+    "jeonse": {
+     "price": 34000,
+     "article": {
+      "article_no": "2645919542",
+      "deposit": 34000,
+      "rent": 0,
+      "area": 84.95,
+      "floor": "2/33",
+      "building": "111",
+      "direction": "ES",
+      "confirmed": "2026-08-26",
+      "price_text": "34000",
+      "url": "https://m.land.naver.com/article/info/2645919542"
+     }
+    },
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 6,
+     "in_area": 3,
+     "jeonse": 3,
+     "wolse": 0,
+     "wolse_ok": 0
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "983",
    "name": "푸른마을",
-   "error": "단지번호 미확인",
-   "region": "서울 강남구 일원동 일원로14"
+   "region": "서울 강남구 일원동 일원로14",
+   "address": "서울시 강남구 일원동",
+   "today": {
+    "jeonse": {
+     "price": 110000,
+     "article": {
+      "article_no": "2650018795",
+      "deposit": 110000,
+      "rent": 0,
+      "area": 84.93,
+      "floor": "고/13",
+      "building": "105",
+      "direction": "ES",
+      "confirmed": "2026-09-15",
+      "price_text": "110000",
+      "url": "https://m.land.naver.com/article/info/2650018795"
+     }
+    },
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 18,
+     "in_area": 11,
+     "jeonse": 6,
+     "wolse": 5,
+     "wolse_ok": 0
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   },
   {
-   "complexNo": null,
+   "complexNo": "115545",
    "name": "다산펜테리움리버테라스Ⅱ",
-   "error": "단지번호 미확인",
-   "region": "경기 남양주시 다산동"
+   "region": "경기 남양주시 다산동",
+   "address": "경기도 남양주시 다산동",
+   "today": {
+    "jeonse": {
+     "price": 62000,
+     "article": {
+      "article_no": "2649141262",
+      "deposit": 62000,
+      "rent": 0,
+      "area": 84.95,
+      "floor": "저/30",
+      "building": "7511",
+      "direction": "SS",
+      "confirmed": "2026-09-11",
+      "price_text": "62000",
+      "url": "https://m.land.naver.com/article/info/2649141262"
+     }
+    },
+    "wolse_rent": {
+     "rent": 80,
+     "deposit": 50000,
+     "article": {
+      "article_no": "2649982919",
+      "deposit": 50000,
+      "rent": 80,
+      "area": 84.95,
+      "floor": "저/15",
+      "building": "7514",
+      "direction": "SS",
+      "confirmed": "2026-09-15",
+      "price_text": "50000/80",
+      "url": "https://m.land.naver.com/article/info/2649982919"
+     }
+    },
+    "wolse_conv": {
+     "conv": 64273,
+     "rent": 180,
+     "deposit": 25000,
+     "rate_pct": 5.5,
+     "article": {
+      "article_no": "2649983460",
+      "deposit": 25000,
+      "rent": 180,
+      "area": 84.95,
+      "floor": "5/30",
+      "building": "7511",
+      "direction": "SS",
+      "confirmed": "2026-09-15",
+      "price_text": "25000/180",
+      "url": "https://m.land.naver.com/article/info/2649983460"
+     }
+    },
+    "counts": {
+     "all": 93,
+     "in_area": 90,
+     "jeonse": 25,
+     "wolse": 65,
+     "wolse_ok": 65
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1
   }
  ],
  "errors": [
-  "위례호반써밋에비뉴: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "위례센트럴푸르지오: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "위례롯데캐슬: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "위례래미안이편한세상: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "위례센트럴자이: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "남양주월산사랑으로부영2단지: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "남양주월산사랑으로부영1단지: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "이안남양주: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "빌리브센트하이: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "고덕그라시움: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "고덕센트럴아이파크: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "고덕아르테온: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
   "고덕자이: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "고덕풍경채어바니티: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "미사강변푸르지오2차: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "고덕숲아이파크: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "고덕리엔파크3단지: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "산성역포레스티아: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "남양주창현두산(창현도뮤토): 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "화도센트럴우방아이유쉘: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "남양주라온프라이빗5단지: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "e편한세상시티인하대역: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "더샵지제역센트럴파크(1BL): 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "남양주두산위브트레지움: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "푸른마을: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "다산펜테리움리버테라스Ⅱ: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요."
+  "더샵지제역센트럴파크(1BL): 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요."
  ]
 }
