@@ -1,5 +1,5 @@
 // 앱 셸만 캐시. 데이터(data/, config/)는 항상 네트워크 우선.
-const VERSION = 'v1.4.0';
+const VERSION = 'v1.5.0';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png',
   './vendor/chart.umd.js'];
 
