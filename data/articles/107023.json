@@ -169,6 +169,21 @@
    "price_text": "88000"
   },
   {
+   "article_no": "2649859264",
+   "trade": "B1",
+   "deposit": 88000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 114.23,
+   "floor": "고/15",
+   "building": "6403",
+   "direction": "SS",
+   "confirmed": "2026-09-15",
+   "description": "귀한전세,시스템에어컨. 채광좋고 관리잘된집. 붙박이장. 위례초중고바로앞",
+   "realtor": "위례제일024033777공인중개사사무소",
+   "price_text": "88000"
+  },
+  {
    "article_no": "2649871837",
    "trade": "B1",
    "deposit": 88000,
@@ -229,21 +244,6 @@
    "price_text": "88000"
   },
   {
-   "article_no": "2649859264",
-   "trade": "B1",
-   "deposit": 88000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 114.23,
-   "floor": "고/15",
-   "building": "6403",
-   "direction": "SS",
-   "confirmed": "2026-09-15",
-   "description": "귀한전세,시스템에어컨. 채광좋고 관리잘된집. 붙박이장. 위례초중고바로앞",
-   "realtor": "위례제일024033777공인중개사사무소",
-   "price_text": "88000"
-  },
-  {
    "article_no": "2649827717",
    "trade": "B1",
    "deposit": 88000,
@@ -256,21 +256,6 @@
    "confirmed": "2026-09-15",
    "description": "",
    "realtor": "위례우미린공인중개사사무소",
-   "price_text": "88000"
-  },
-  {
-   "article_no": "2649712654",
-   "trade": "B1",
-   "deposit": 88000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 114.23,
-   "floor": "고/15",
-   "building": "6403",
-   "direction": "SS",
-   "confirmed": "2026-09-14",
-   "description": "융자없어요 로얄동.층 선호타입  초중고,상가인접 생활매우편리",
-   "realtor": "위례성원공인중개사사무소",
    "price_text": "88000"
   },
   {
@@ -289,21 +274,6 @@
    "price_text": "88000"
   },
   {
-   "article_no": "2649529945",
-   "trade": "B1",
-   "deposit": 88000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 114.23,
-   "floor": "고/15",
-   "building": "6403",
-   "direction": "SS",
-   "confirmed": "2026-09-14",
-   "description": "I아성I34,강력추천,귀한전세,융자무,컨디션굿,로얄동층,에유,상권이용편리",
-   "realtor": "아성플로리체공인중개사사무소",
-   "price_text": "88000"
-  },
-  {
    "article_no": "2649680717",
    "trade": "B1",
    "deposit": 88000,
@@ -319,7 +289,7 @@
    "price_text": "88000"
   },
   {
-   "article_no": "2649386188",
+   "article_no": "2649529945",
    "trade": "B1",
    "deposit": 88000,
    "rent": 0,
@@ -328,9 +298,24 @@
    "floor": "고/15",
    "building": "6403",
    "direction": "SS",
-   "confirmed": "2026-09-12",
-   "description": "융자없음. 상가 학원 이용편리. 에어컨있음. 판상형구조.",
-   "realtor": "오페라(02-431-8300)공인중개사사무소",
+   "confirmed": "2026-09-14",
+   "description": "I아성I34,강력추천,귀한전세,융자무,컨디션굿,로얄동층,에유,상권이용편리",
+   "realtor": "아성플로리체공인중개사사무소",
+   "price_text": "88000"
+  },
+  {
+   "article_no": "2649712654",
+   "trade": "B1",
+   "deposit": 88000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 114.23,
+   "floor": "고/15",
+   "building": "6403",
+   "direction": "SS",
+   "confirmed": "2026-09-14",
+   "description": "융자없어요 로얄동.층 선호타입  초중고,상가인접 생활매우편리",
+   "realtor": "위례성원공인중개사사무소",
    "price_text": "88000"
   },
   {
@@ -346,6 +331,21 @@
    "confirmed": "2026-09-12",
    "description": "Bom 귀한전세 융자무 확트인 로얄층 에어컨  상가이용편리 초중고학세권",
    "realtor": "호반의봄(02-402-7070)공인중개사사무소",
+   "price_text": "88000"
+  },
+  {
+   "article_no": "2649386188",
+   "trade": "B1",
+   "deposit": 88000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 114.23,
+   "floor": "고/15",
+   "building": "6403",
+   "direction": "SS",
+   "confirmed": "2026-09-12",
+   "description": "융자없음. 상가 학원 이용편리. 에어컨있음. 판상형구조.",
+   "realtor": "오페라(02-431-8300)공인중개사사무소",
    "price_text": "88000"
   },
   {
