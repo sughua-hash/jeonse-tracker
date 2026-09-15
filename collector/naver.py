@@ -111,7 +111,7 @@ def make_session() -> requests.Session:
     return s
 
 
-def _get(session: requests.Session, url: str, headers: dict, retries: int = 3, timeout: int = 20):
+def _get(session: requests.Session, url: str, headers: dict, retries: int = 2, timeout: int = 12):
     last = None
     for i in range(retries):
         try:
@@ -119,12 +119,29 @@ def _get(session: requests.Session, url: str, headers: dict, retries: int = 3, t
             if r.status_code == 200:
                 return r
             last = NaverError(f"HTTP {r.status_code} for {url}")
-            if r.status_code in (403, 429):
-                time.sleep(3 * (i + 1))
+            if r.status_code in (403, 404, 429):
+                break  # 차단/없음은 재시도해도 소용없음
         except requests.RequestException as e:  # noqa: PERF203
             last = e
-            time.sleep(2 * (i + 1))
+            time.sleep(1.5 * (i + 1))
     raise NaverError(str(last))
+
+
+def preflight(session: requests.Session) -> dict:
+    """네이버 접근 가능 여부를 빠르게 점검. {mobile: 'ok'|오류, pc: ...}"""
+    out = {}
+    for name, url, ua in (
+        ("mobile", "https://m.land.naver.com/complex/getComplexArticleList?hscpNo=111515&tradTpCd=B1&order=price_&showR0=N&page=1", MOBILE_UA),
+        ("pc", "https://new.land.naver.com/api/complexes/111515?sameAddressGroup=false", PC_UA),
+    ):
+        t = time.time()
+        try:
+            r = session.get(url, headers={"User-Agent": ua, "Referer": "https://m.land.naver.com/" if name == "mobile" else "https://new.land.naver.com/"}, timeout=12)
+            body = r.text[:120].replace("\n", " ")
+            out[name] = f"HTTP {r.status_code} ({time.time()-t:.1f}s) {body!r}"
+        except Exception as e:  # noqa: BLE001
+            out[name] = f"실패 ({time.time()-t:.1f}s): {type(e).__name__}: {e}"
+    return out
 
 
 # ---------------------------------------------------------------- 모바일 API
@@ -311,7 +328,7 @@ def search_complex(session: requests.Session, keyword: str) -> list[dict]:
     try:
         r = session.get(f"https://m.land.naver.com/search/result/{quote(keyword)}",
                         headers={"User-Agent": MOBILE_UA, "Accept": "text/html,*/*"},
-                        timeout=20, allow_redirects=True)
+                        timeout=12, allow_redirects=True)
         m = re.search(r"/complex/info/(\d+)", r.url)
         if m:
             return [{"complexNo": m.group(1), "name": keyword, "address": ""}]
