@@ -252,8 +252,8 @@ function renderList(){
       <div class="name">${esc(it.name)} ${badge}</div>
       <div class="region">${esc(it.region)}${t?.date && t.date !== L?.date ? ' · ' + fmt.md(t.date) + ' 기준' : ''}</div>
       ${t ? `<div class="rows">
-        <div class="row"><span class="k">전세</span><span class="v">${j ? fmt.money(j.price) + `<small>${esc(dong(j.article.building))} ${esc(j.article.floor)}콸</small>` : '<span class="none">매물 없음</span>'}</span>${j ? deltaChips(d.jeonse) : ''}</div>
-        <div class="row"><span class="k">월세</span><span class="v">${w ? `${fmt.money(w.deposit)}/${w.rent}<small>${esc(dong(w.article.building))} ${esc(w.article.floor)}콸</small>` : '<span class="none">조건 내 매물 없음</span>'}</span>${w ? deltaChips(d.wolse_rent,'rent') : ''}</div>
+        <div class="row"><span class="k">전세</span><span class="v">${j ? fmt.money(j.price) + `<small>${esc(dong(j.article.building))} ${esc(j.article.floor)}층</small>` : '<span class="none">매물 없음</span>'}</span>${j ? deltaChips(d.jeonse) : ''}</div>
+        <div class="row"><span class="k">월세</span><span class="v">${w ? `${fmt.money(w.deposit)}/${w.rent}<small>${esc(dong(w.article.building))} ${esc(w.article.floor)}층</small>` : '<span class="none">조건 내 매물 없음</span>'}</span>${w ? deltaChips(d.wolse_rent,'rent') : ''}</div>
         ${c ? `<div class="row"><span class="k">환산</span><span class="v">${fmt.money(c.conv)}<small>${fmt.money(c.deposit)}/${c.rent}</small></span>${deltaChips(d.wolse_conv)}</div>` : ''}
       </div>${(!j && !w) ? areaLine(t) : ''}` : `<div class="rows"><div class="row"><span class="k">상태</span><span class="v none">${it.error ? esc(it.error) : '다음 수집 때 데이터가 생성됩니다'}</span></div></div>`}
     </button>`;
@@ -304,7 +304,7 @@ async function renderDetail(){
     const je = arts.articles.filter(a => a.trade==='B1').slice(0,15);
     const wo = arts.articles.filter(a => a.trade==='B2').sort((a,b)=> a.rent-b.rent || a.deposit-b.deposit).slice(0,15);
     const li = (a, isW) => `<a class="it" href="${esc(a.url || 'https://m.land.naver.com/article/info/'+a.article_no)}" target="_blank" rel="noopener">
-      <span><div class="p">${isW ? `${fmt.money(a.deposit)}/${a.rent}` : fmt.money(a.deposit)}${isW && a.deposit > depMax ? ' <span class="badge">보증금 초과</span>' : ''}</div><div class="m">${esc(dong(a.building))} ${esc(a.floor)}콸 · ${a.area_exclusive}㎡ · ${esc(a.direction)}</div></span>
+      <span><div class="p">${isW ? `${fmt.money(a.deposit)}/${a.rent}` : fmt.money(a.deposit)}${isW && a.deposit > depMax ? ' <span class="badge">보증금 초과</span>' : ''}</div><div class="m">${esc(dong(a.building))} ${esc(a.floor)}층 · ${a.area_exclusive}㎡ · ${esc(a.direction)}</div></span>
       <span class="m" style="text-align:right">${isW ? '환산 ' + fmt.money(convWithRate(a.deposit,a.rent)) + '<br>' : ''}${esc(a.confirmed)}</span></a>`;
     html += `<div class="panel"><h3>오늘 매물 (${fmt.md(arts.date)}) <span class="sp"></span><span class="seg" id="tabs"><button data-t="je" class="on">전세 ${je.length}</button><button data-t="wo">월세 ${wo.length}</button></span></h3>
       <div class="list" id="tab-je">${je.map(a=>li(a,false)).join('') || '<div class="empty">없음</div>'}</div>
