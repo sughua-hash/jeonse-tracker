@@ -115,6 +115,14 @@ th{color:var(--muted);font-weight:500;font-size:12px}
 .spin{display:inline-block;width:14px;height:14px;border:2px solid currentColor;border-right-color:transparent;border-radius:50%;animation:sp .7s linear infinite}
 @keyframes sp{to{transform:rotate(360deg)}}
 .step{font-size:13px;color:var(--ink-2);line-height:1.55}
+.ord{display:flex;align-items:center;gap:6px;padding:7px 0;border-bottom:1px solid var(--line)}
+.ord:last-child{border-bottom:0}
+.ord .n{flex:1;font-size:14px;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ord .n small{color:var(--muted);font-size:11px;margin-left:4px}
+.ord .num{width:22px;font-size:12px;color:var(--muted);text-align:right;font-variant-numeric:tabular-nums}
+.ord button{width:34px;height:34px;border-radius:9px;background:var(--surface-2);font-size:15px;flex:none}
+.ord button:disabled{opacity:.3}
+.ord.mv{background:var(--surface-2);border-radius:8px}
 .step ol{padding-left:18px;margin:6px 0}
 code{background:var(--surface-2);padding:1px 5px;border-radius:5px;font-size:12px}
 </style>
@@ -127,6 +135,7 @@ code{background:var(--surface-2);padding:1px 5px;border-radius:5px;font-size:12p
       <div class="sub" id="subtitle">불러오는 중…</div>
     </div>
     <button class="icon-btn" id="btn-back" hidden title="뒤로">←</button>
+    <button class="icon-btn" id="btn-order" title="순서 편집">↕</button>
     <button class="icon-btn" id="btn-add" title="단지 추가">＋</button>
     <button class="icon-btn" id="btn-settings" title="설정">⚙</button>
   </div>
@@ -152,7 +161,10 @@ const S = {
   charts: [], range: 90,
   settings: JSON.parse(safeGet('settings') || '{}'),
   localHidden: new Set(JSON.parse(safeGet('hidden') || '[]')),
+  localOrder: JSON.parse(safeGet('order') || 'null'),
 };
+function saveOrder(){ if (S.localOrder) safeSet('order', JSON.stringify(S.localOrder)); else { try{ localStorage.removeItem('order'); }catch(e){} } }
+function orderComplexes(list){ if (!S.localOrder) return list; const idx = new Map(S.localOrder.map((n,i)=>[n,i])); return list.map((c,i)=>[idx.has(c.name)?idx.get(c.name):1e6+i, c]).sort((a,b)=>a[0]-b[0]).map(x=>x[1]); }
 function saveHidden(){ safeSet('hidden', JSON.stringify([...S.localHidden])); }
 function isHidden(it){ return !!(it.cfg.hidden || S.localHidden.has(it.name)); }
 function safeGet(k){ try{ return localStorage.getItem(k); }catch(e){ return null; } }
@@ -202,7 +214,7 @@ async function loadAll(){
 function mergedComplexes(){
   const byNo = new Map(), byName = new Map();
   for (const e of (S.latest?.complexes || [])) { if (e.complexNo) byNo.set(String(e.complexNo), e); byName.set(e.name, e); }
-  return (S.cfg.complexes || []).map(c => {
+  return orderComplexes(S.cfg.complexes || []).map(c => {
     const e = (c.complexNo && byNo.get(String(c.complexNo))) || byName.get(c.name) || null;
     return { cfg: c, name: c.name, complexNo: c.complexNo || e?.complexNo || null,
       region: c.address || c.region || e?.region || '', today: e?.today || e?.last || null, error: e?.error || null, stale: !!(e && !e.today && e.last) };
@@ -219,6 +231,7 @@ function render(){
   destroyCharts();
   document.getElementById('btn-back').hidden = S.view === 'list';
   document.getElementById('btn-add').hidden = S.view !== 'list';
+  document.getElementById('btn-order').hidden = S.view !== 'list';
   document.getElementById('chips').hidden = S.view !== 'list';
   if (S.view === 'list') renderList(); else renderDetail();
 }
@@ -398,6 +411,52 @@ function openAdd(){
     } catch(e){ toast('실패: ' + e.message, 4000); btn.disabled = false; btn.textContent = '저장'; }
   });
 }
+function openOrder(){
+  const ord = orderComplexes(S.cfg?.complexes || []).map(c => ({ name: c.name, hidden: !!(c.hidden || S.localHidden.has(c.name)) }));
+  if (!ord.length) return toast('등록된 단지가 없습니다');
+  let sel = -1;
+  openSheet(`<h2>단지 순서 편집</h2>
+    <div class="help" style="margin:-6px 0 10px">단지를 누르면 선택되고, 다른 단지 자리를 누르면 그곳으로 이동합니다. ▲▼⤒ 버튼으로도 옮길 수 있어요. 목록과 아침 알림 순서에 함께 적용됩니다.</div>
+    <div id="ord-list"></div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:12px">
+      <button class="btn ghost" id="o-cancel">취소</button><button class="btn" id="o-save">저장</button></div>`);
+  const listEl = document.getElementById('ord-list');
+  function move(i, j){ if (j < 0 || j >= ord.length) return; const [x] = ord.splice(i,1); ord.splice(j,0,x); sel = j; draw(); }
+  function draw(){
+    listEl.innerHTML = ord.map((o,i) => `<div class="ord${i===sel?' mv':''}" data-i="${i}">
+      <span class="num">${i+1}</span><span class="n">${esc(o.name)}${o.hidden ? '<small>숨김</small>' : ''}</span>
+      <button data-a="top" title="맨 위로" ${i===0?'disabled':''}>⤒</button><button data-a="up" title="위로" ${i===0?'disabled':''}>▲</button><button data-a="down" title="아래로" ${i===ord.length-1?'disabled':''}>▼</button></div>`).join('');
+    listEl.querySelectorAll('.ord').forEach(row => {
+      const i = +row.dataset.i;
+      row.addEventListener('click', e => {
+        const a = e.target.closest('button')?.dataset.a;
+        if (a === 'top') return move(i, 0);
+        if (a === 'up') return move(i, i-1);
+        if (a === 'down') return move(i, i+1);
+        if (sel >= 0 && sel !== i) { move(sel, i); return; }
+        sel = sel === i ? -1 : i; draw();
+      });
+    });
+    if (sel >= 0) listEl.querySelector('.ord.mv')?.scrollIntoView({ block: 'nearest' });
+  }
+  draw();
+  document.getElementById('o-cancel').addEventListener('click', closeSheet);
+  document.getElementById('o-save').addEventListener('click', async () => {
+    const names = ord.map(o => o.name); const btn = document.getElementById('o-save');
+    btn.disabled = true; btn.innerHTML = '<span class="spin"></span>';
+    if (S.settings.token && repoInfo()) {
+      try {
+        const { cfg, sha } = await readConfigFromGithub();
+        const idx = new Map(names.map((n,i)=>[n,i]));
+        cfg.complexes = cfg.complexes.map((c,i)=>[idx.has(c.name)?idx.get(c.name):1e6+i, c]).sort((a,b)=>a[0]-b[0]).map(x=>x[1]);
+        await writeConfig(cfg, sha, 'config: reorder');
+        S.cfg = cfg; S.localOrder = null; saveOrder();
+        toast('순서 저장 완료 · 알림 순서는 다음 수집부터 반영');
+      } catch(e){ toast('실패: ' + e.message, 4000); btn.disabled = false; btn.textContent = '저장'; return; }
+    } else { S.localOrder = names; saveOrder(); toast('이 기기에만 순서를 저장했습니다 (⚙ 토큰 등록 시 알림 순서에도 반영)', 4000); }
+    closeSheet(); render();
+  });
+}
 async function toggleHide(it){
   if (!it) return;
   const to = !isHidden(it);
@@ -467,9 +526,10 @@ function openSettings(){
 }
 
 // ------------------------------------------------------------- 이벤트/시작
-const APP_VERSION = '1.3.0';
+const APP_VERSION = '1.4.0';
 document.getElementById('btn-back').addEventListener('click', () => { S.view = 'list'; render(); });
 document.getElementById('btn-add').addEventListener('click', openAdd);
+document.getElementById('btn-order').addEventListener('click', openOrder);
 document.getElementById('btn-settings').addEventListener('click', openSettings);
 document.querySelectorAll('#chips .chip').forEach(b => b.addEventListener('click', () => { document.querySelectorAll('#chips .chip').forEach(x => x.classList.toggle('on', x===b)); S.filter = b.dataset.f; render(); }));
 window.addEventListener('popstate', () => { if (S.view === 'detail') { S.view = 'list'; render(); } });
