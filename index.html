@@ -44,6 +44,8 @@ a{color:var(--blue)}
 .top .sub{font-size:12px;color:var(--muted);margin-top:2px}
 .icon-btn{width:38px;height:38px;border-radius:12px;display:grid;place-items:center;background:var(--surface);border:1px solid var(--border);font-size:18px;box-shadow:var(--shadow)}
 .icon-btn:active{transform:scale(.96)}
+.icon-btn.busy{animation:sp 1.2s linear infinite;color:var(--blue)}
+@media (max-width:400px){.top h1{font-size:17px}.icon-btn{width:34px;height:34px;font-size:16px}.top-row{gap:6px}}
 
 .chips{display:flex;gap:6px;overflow-x:auto;padding:10px 16px 4px;scrollbar-width:none}
 .chips::-webkit-scrollbar{display:none}
@@ -135,6 +137,7 @@ code{background:var(--surface-2);padding:1px 5px;border-radius:5px;font-size:12p
       <div class="sub" id="subtitle">불러오는 중…</div>
     </div>
     <button class="icon-btn" id="btn-back" hidden title="뒤로">←</button>
+    <button class="icon-btn" id="btn-collect" title="지금 수집">⟳</button>
     <button class="icon-btn" id="btn-order" title="순서 편집">↕</button>
     <button class="icon-btn" id="btn-add" title="단지 추가">＋</button>
     <button class="icon-btn" id="btn-settings" title="설정">⚙</button>
@@ -232,6 +235,7 @@ function render(){
   document.getElementById('btn-back').hidden = S.view === 'list';
   document.getElementById('btn-add').hidden = S.view !== 'list';
   document.getElementById('btn-order').hidden = S.view !== 'list';
+  document.getElementById('btn-collect').hidden = S.view !== 'list';
   document.getElementById('chips').hidden = S.view !== 'list';
   if (S.view === 'list') renderList(); else renderDetail();
 }
@@ -411,6 +415,30 @@ function openAdd(){
     } catch(e){ toast('실패: ' + e.message, 4000); btn.disabled = false; btn.textContent = '저장'; }
   });
 }
+async function requestCollect(){
+  const topic = (S.settings.topic || '').trim();
+  if (!topic) { toast('⚙ 설정에서 ntfy 채널 이름을 먼저 입력하세요', 3500); return openSettings(); }
+  const btn = document.getElementById('btn-collect');
+  if (S.collectWatch) return toast('이미 수집 요청 중입니다 · 완료되면 알려드려요');
+  const before = S.latest?.generated_at || null;
+  try {
+    const r = await fetch('https://ntfy.sh', { method: 'POST', body: JSON.stringify({ topic: topic + '-cmd', title: 'collect', message: 'collect ' + new Date().toISOString(), tags: ['arrows_counterclockwise'] }) });
+    if (!r.ok) throw new Error('ntfy ' + r.status);
+  } catch(e){ return toast('요청 실패: ' + e.message, 4000); }
+  toast('수집 요청 보냈습니다 · 집 폰이 30초 내 시작, 3~5분 뒤 알림·데이터 갱신', 5000);
+  btn.classList.add('busy');
+  const t0 = Date.now();
+  S.collectWatch = setInterval(async () => {
+    const L = await getJSON('data/latest.json', null);
+    if (L && L.generated_at !== before) {
+      clearInterval(S.collectWatch); S.collectWatch = null; btn.classList.remove('busy');
+      S.latest = L; render(); toast('수집 완료 · ' + fmt.date(L.generated_at) + ' 기준으로 갱신됨', 5000);
+    } else if (Date.now() - t0 > 15*60e3) {
+      clearInterval(S.collectWatch); S.collectWatch = null; btn.classList.remove('busy');
+      toast('15분 내 새 데이터가 없습니다 · 집 폰의 Termux(데몬)가 켜져 있는지 확인하세요', 6000);
+    }
+  }, 20e3);
+}
 function openOrder(){
   const ord = orderComplexes(S.cfg?.complexes || []).map(c => ({ name: c.name, hidden: !!(c.hidden || S.localHidden.has(c.name)) }));
   if (!ord.length) return toast('등록된 단지가 없습니다');
@@ -494,7 +522,7 @@ function openSettings(){
     <div class="field"><label>GitHub 개인 토큰 (fine-grained, 이 저장소의 Contents 쓰기)</label><input id="s-token" type="password" placeholder="github_pat_…" value="${esc(S.settings.token || '')}">
       <div class="help">이 기기의 브라우저에만 저장됩니다. 단지 추가/제거에 사용.</div></div>
     <div class="field"><label>ntfy 채널 이름</label><input id="s-topic" placeholder="예: jeonse-hong-3f9k2" value="${esc(topic)}">
-      <div class="help">수집기 폰의 <code>local_config.json</code>과 같은 값. ntfy 앱에서 이 이름을 구독하세요.</div></div>
+      <div class="help">수집기 폰의 <code>local_config.json</code>과 같은 값. ntfy 앱에서 이 이름을 구독하세요. 상단 ⟳(지금 수집) 버튼도 이 채널을 통해 집 폰에 요청을 보냅니다.</div></div>
     <div class="field"><label>전월세 전환율 (%) — 환산가 계산용</label><input id="s-rate" type="number" step="0.1" value="${esc(S.cfg?.conversion_rate_pct ?? 5.5)}"><div class="help">저장 시 config에 기록되어 다음 수집부터 반영됩니다.</div></div>
     <div style="display:grid;gap:8px;margin-top:6px">
       <button class="btn" id="s-save">저장</button>
@@ -504,7 +532,7 @@ function openSettings(){
     <details style="margin-top:14px" class="step"><summary>휴대폰 홈화면에 설치 / 알림 받기</summary>
       <ol><li>Play 스토어에서 <b>ntfy</b> 설치 → ＋ → 위 채널 이름 구독</li>
       <li>Chrome 메뉴(⋮) → <b>홈 화면에 추가</b> → 앱처럼 실행</li>
-      <li>수집은 집에 둔 안드로이드폰(Termux)이 매일 10:00에 실행</li></ol></details>
+      <li>수집은 집에 둔 안드로이드폰(Termux)이 매일 10:00에 실행 · 상단 ⟳ 버튼으로 지금 바로 수집 요청 가능</li></ol></details>
     <div class="help" style="margin-top:10px">앱 버전 ${APP_VERSION} · <a href="https://github.com/${esc(info.owner||'')}/${esc(info.repo||'')}/commits/main" target="_blank" rel="noopener">수집 기록(커밋) ↗</a></div>`);
   document.getElementById('s-save').addEventListener('click', async () => {
     S.settings.owner = document.getElementById('s-owner').value.trim(); S.settings.repo = document.getElementById('s-repo').value.trim();
@@ -526,10 +554,11 @@ function openSettings(){
 }
 
 // ------------------------------------------------------------- 이벤트/시작
-const APP_VERSION = '1.4.0';
+const APP_VERSION = '1.5.0';
 document.getElementById('btn-back').addEventListener('click', () => { S.view = 'list'; render(); });
 document.getElementById('btn-add').addEventListener('click', openAdd);
 document.getElementById('btn-order').addEventListener('click', openOrder);
+document.getElementById('btn-collect').addEventListener('click', requestCollect);
 document.getElementById('btn-settings').addEventListener('click', openSettings);
 document.querySelectorAll('#chips .chip').forEach(b => b.addEventListener('click', () => { document.querySelectorAll('#chips .chip').forEach(x => x.classList.toggle('on', x===b)); S.filter = b.dataset.f; render(); }));
 window.addEventListener('popstate', () => { if (S.view === 'detail') { S.view = 'list'; render(); } });
