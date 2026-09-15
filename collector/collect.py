@@ -330,11 +330,13 @@ def run(args) -> int:
                                                     "articles": filtered})
 
         entry = {"complexNo": no, "name": name, "region": c.get("region", ""),
-                 "address": c.get("address", ""), "today": rec, "history_len": len(hist)}
+                 "address": c.get("address", ""), "today": rec, "history_len": len(hist),
+                 "hidden": bool(c.get("hidden"))}
         latest_entries.append(entry)
-        if any((deltas[k]["d1"]["delta"] or 0) != 0 for k in deltas):
-            changed_count += 1
-        blocks.append(build_lines(name, rec, deltas))
+        if not c.get("hidden"):  # 숨긴 단지는 수집·기록은 하되 알림에서 제외
+            if any((deltas[k]["d1"]["delta"] or 0) != 0 for k in deltas):
+                changed_count += 1
+            blocks.append(build_lines(name, rec, deltas))
         w = rec["wolse_rent"]
         wtxt = f"{fmt_money(w['deposit'])}/{w['rent']}" if w else "—"
         print(f"[ok] {name} ({source}) 전용필터 {rec['counts']['in_area']}건 "
