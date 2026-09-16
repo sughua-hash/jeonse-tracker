@@ -143,7 +143,7 @@ def preflight(session: requests.Session) -> dict:
     return out
 
 
-# ---------------------------------------------------------------- fin.land (신그 모바일) API — 2026.09 기준 동작 확인
+# ---------------------------------------------------------------- fin.land (신규 모바일) API — 2026.09 기준 동작 확인
 FIN_BASE = "https://fin.land.naver.com/front-api/v1"
 
 
@@ -244,6 +244,37 @@ def fetch_complex_info(session: requests.Session, complex_no: str) -> dict:
 def fetch_articles(session: requests.Session, complex_no: str) -> tuple[list[Article], str]:
     """(매물목록, 사용한 소스) 반환."""
     return fetch_articles_fin(session, complex_no), "fin"
+
+
+# ---------------------------------------------------------------- 공유 링크(naver.me 등) → 단지번호
+_NO_PATTERNS = (
+    r"/complex(?:es|/info)/(\d+)",
+    r"[?&](?:complexNo|hscpNo|complexNumber)=(\d+)",
+    r"complexNo\"?\s*[:=]\s*\"?(\d{3,8})",
+    r"complexNumber\"?\s*[:=]\s*\"?(\d{3,8})",
+)
+
+
+def resolve_complex_url(session: requests.Session, url: str) -> Optional[str]:
+    """네이버 부동산 공유 링크(https://naver.me/xxxx, m.land.naver.com/..., new.land.naver.com/complexes/...)를
+    따라가 단지번호를 뽑아낸다. 못 찾으면 None."""
+    for pat in _NO_PATTERNS[:2]:
+        m = re.search(pat, url)
+        if m:
+            return m.group(1)
+    r = session.get(url, headers={"User-Agent": MOBILE_UA, "Accept": "text/html,*/*"}, timeout=15, allow_redirects=True)
+    chain = [h.headers.get("Location", "") for h in r.history] + [r.url]
+    for u in chain:
+        for pat in _NO_PATTERNS[:2]:
+            m = re.search(pat, u or "")
+            if m:
+                return m.group(1)
+    body = r.text or ""
+    for pat in _NO_PATTERNS:
+        m = re.search(pat, body)
+        if m:
+            return m.group(1)
+    return None
 
 
 # ---------------------------------------------------------------- 단지 검색 (이름 → 단지번호)
