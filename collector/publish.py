@@ -60,12 +60,19 @@ def pull(c: dict) -> None:
     with open(local_path, "w", encoding="utf-8") as f:
         json.dump(remote, f, ensure_ascii=False, indent=2)
         f.write("\n")
+    # 수집 중 앱에서 바뀐 설정(숨김·순서 등)을 덮어쓰지 않도록, 내려받은 원본을 기억해 두고 push 때 비교
+    (ROOT / "config" / ".pulled.json").write_text(local_path.read_text(encoding="utf-8"), encoding="utf-8")
     print(f"[pull] 단지 {len(merged)}개 설정 내려받음")
 
 
 def push(c: dict) -> None:
     """data/ 와 config/ 전체를 하나의 커밋으로 올림 (Git Data API)."""
-    files = [p for p in (ROOT / "data").rglob("*.json")] + [ROOT / "config" / "complexes.json"]
+    files = [p for p in (ROOT / "data").rglob("*.json")]
+    cfg_path, pulled = ROOT / "config" / "complexes.json", ROOT / "config" / ".pulled.json"
+    if not pulled.exists() or cfg_path.read_text(encoding="utf-8") != pulled.read_text(encoding="utf-8"):
+        files.append(cfg_path)  # 수집기가 설정을 바꾼 경우(단지번호 해석 등)에만 config 업로드
+    else:
+        print("[push] 설정 변경 없음 → config 는 올리지 않음(앱 편집 보호)")
     ref = gh(c, "GET", f"/repos/{c['repo']}/git/ref/heads/{c['branch']}")
     head_sha = ref["object"]["sha"]
     base_tree = gh(c, "GET", f"/repos/{c['repo']}/git/commits/{head_sha}")["tree"]["sha"]
@@ -78,7 +85,7 @@ def push(c: dict) -> None:
     if new_tree["sha"] == base_tree:
         print("[push] 변경 없음")
         return
-    msg = "data: " + dt.datetime.now().strftime("%Y-%m-%d %H:%M") + " (PC)"
+    msg = "data: " + dt.datetime.now().strftime("%Y-%m-%d %H:%M")
     commit = gh(c, "POST", f"/repos/{c['repo']}/git/commits",
                 json={"message": msg, "tree": new_tree["sha"], "parents": [head_sha]})
     gh(c, "PATCH", f"/repos/{c['repo']}/git/refs/heads/{c['branch']}", json={"sha": commit["sha"], "force": False})
