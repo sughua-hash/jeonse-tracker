@@ -582,7 +582,7 @@ function openSettings(){
 }
 
 // ------------------------------------------------------------- 이벤트/시작
-const APP_VERSION = '1.6.0';
+const APP_VERSION = '1.6.1';
 document.getElementById('btn-back').addEventListener('click', () => { S.view = 'list'; render(); });
 document.getElementById('btn-add').addEventListener('click', openAdd);
 document.getElementById('btn-order').addEventListener('click', openOrder);
@@ -590,8 +590,15 @@ document.getElementById('btn-collect').addEventListener('click', requestCollect)
 document.getElementById('btn-settings').addEventListener('click', openSettings);
 document.querySelectorAll('#chips .chip').forEach(b => b.addEventListener('click', () => { document.querySelectorAll('#chips .chip').forEach(x => x.classList.toggle('on', x===b)); S.filter = b.dataset.f; render(); }));
 window.addEventListener('popstate', () => { if (S.view === 'detail') { S.view = 'list'; render(); } });
-document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible' && Date.now() - (S.loadedAt||0) > 5*60e3) loadAll().then(()=> S.loadedAt = Date.now()); });
-if ('serviceWorker' in navigator) navigator.serviceWorker.register('./sw.js').catch(()=>{});
+document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible' && Date.now() - (S.loadedAt||0) > 5*60e3) { loadAll().then(()=> S.loadedAt = Date.now()); checkAppUpdate(); } });
+// 앱 자동 업데이트: 앱을 열 때마다 새 sw.js 가 있는지 확인 → 새 버전이 설치되면 한 번 새로고침
+function checkAppUpdate(){ if ('serviceWorker' in navigator) navigator.serviceWorker.getRegistration().then(r => r && r.update()).catch(()=>{}); }
+if ('serviceWorker' in navigator) {
+  const hadController = !!navigator.serviceWorker.controller; let refreshing = false;
+  navigator.serviceWorker.register('./sw.js').catch(()=>{});
+  navigator.serviceWorker.addEventListener('controllerchange', () => { if (hadController && !refreshing) { refreshing = true; toast('새 버전으로 업데이트합니다…'); setTimeout(() => location.reload(), 700); } });
+  setTimeout(checkAppUpdate, 3000);
+}
 loadAll().then(() => S.loadedAt = Date.now());
 </script>
 </body>
