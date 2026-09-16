@@ -3,7 +3,7 @@
   "jeonse": {
    "price": 95000,
    "article": {
-    "article_no": "2650086080",
+    "article_no": "2650107176",
     "deposit": 95000,
     "rent": 0,
     "area": 84.91,
@@ -12,7 +12,7 @@
     "direction": "SS",
     "confirmed": "2026-09-16",
     "price_text": "95000",
-    "url": "https://m.land.naver.com/article/info/2650086080"
+    "url": "https://m.land.naver.com/article/info/2650107176"
    }
   },
   "wolse_rent": {
@@ -50,16 +50,16 @@
    }
   },
   "counts": {
-   "all": 322,
-   "in_area": 127,
+   "all": 325,
+   "in_area": 128,
    "jeonse": 110,
-   "wolse": 17,
+   "wolse": 18,
    "wolse_ok": 13
   },
   "areas": {
-   "60": 195,
+   "60": 197,
    "84.9": 49,
-   "85": 78
+   "85": 79
   },
   "date": "2026-09-16",
   "source": "fin",

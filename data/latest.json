@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T11:22:21+09:00",
+ "generated_at": "2026-09-16T11:50:12+09:00",
  "date": "2026-09-16",
  "settings": {
   "area_min_m2": 83,
@@ -18,14 +18,14 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 104,
+     "all": 103,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
      "wolse_ok": 0
     },
     "areas": {
-     "98.9": 30,
+     "98.9": 29,
      "99": 74
     },
     "date": "2026-09-16",
@@ -222,14 +222,14 @@
      }
     },
     "counts": {
-     "all": 75,
+     "all": 78,
      "in_area": 37,
      "jeonse": 36,
      "wolse": 1,
      "wolse_ok": 1
     },
     "areas": {
-     "75.5": 38,
+     "75.5": 41,
      "85": 37
     },
     "date": "2026-09-16",
@@ -315,15 +315,15 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 42,
-     "in_area": 41,
-     "jeonse": 17,
+     "all": 43,
+     "in_area": 42,
+     "jeonse": 18,
      "wolse": 24,
      "wolse_ok": 0
     },
     "areas": {
      "76": 1,
-     "85": 41
+     "85": 42
     },
     "date": "2026-09-16",
     "source": "fin",
@@ -408,14 +408,14 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 91,
+     "all": 94,
      "in_area": 19,
      "jeonse": 18,
      "wolse": 1,
      "wolse_ok": 0
     },
     "areas": {
-     "51.9": 12,
+     "51.9": 15,
      "59.8": 51,
      "60": 6,
      "75": 3,
@@ -865,7 +865,7 @@
      }
     },
     "counts": {
-     "all": 91,
+     "all": 90,
      "in_area": 7,
      "jeonse": 2,
      "wolse": 5,
@@ -873,7 +873,7 @@
     },
     "areas": {
      "59": 8,
-     "59.8": 19,
+     "59.8": 18,
      "73.6": 47,
      "73.9": 5,
      "84": 2,
@@ -948,7 +948,7 @@
     "jeonse": {
      "price": 95000,
      "article": {
-      "article_no": "2650086080",
+      "article_no": "2650107176",
       "deposit": 95000,
       "rent": 0,
       "area": 84.91,
@@ -957,7 +957,7 @@
       "direction": "SS",
       "confirmed": "2026-09-16",
       "price_text": "95000",
-      "url": "https://m.land.naver.com/article/info/2650086080"
+      "url": "https://m.land.naver.com/article/info/2650107176"
      }
     },
     "wolse_rent": {
@@ -995,16 +995,16 @@
      }
     },
     "counts": {
-     "all": 322,
-     "in_area": 127,
+     "all": 325,
+     "in_area": 128,
      "jeonse": 110,
-     "wolse": 17,
+     "wolse": 18,
      "wolse_ok": 13
     },
     "areas": {
-     "60": 195,
+     "60": 197,
      "84.9": 49,
-     "85": 78
+     "85": 79
     },
     "date": "2026-09-16",
     "source": "fin",
@@ -1121,16 +1121,16 @@
      }
     },
     "counts": {
-     "all": 170,
-     "in_area": 166,
-     "jeonse": 158,
+     "all": 171,
+     "in_area": 167,
+     "jeonse": 159,
      "wolse": 8,
      "wolse_ok": 2
     },
     "areas": {
      "60": 4,
-     "84.9": 74,
-     "85": 92
+     "84.9": 76,
+     "85": 91
     },
     "date": "2026-09-16",
     "source": "fin",
@@ -1198,33 +1198,33 @@
    "address": "서울시 강동구 고덕동",
    "today": {
     "jeonse": {
-     "price": 83000,
+     "price": 85000,
      "article": {
-      "article_no": "2647791177",
-      "deposit": 83000,
+      "article_no": "2649968906",
+      "deposit": 85000,
       "rent": 0,
       "area": 84.23,
       "floor": "저/25",
       "building": "102",
       "direction": "EE",
-      "confirmed": "2026-09-04",
-      "price_text": "83000",
-      "url": "https://m.land.naver.com/article/info/2647791177"
+      "confirmed": "2026-09-15",
+      "price_text": "85000",
+      "url": "https://m.land.naver.com/article/info/2649968906"
      }
     },
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 29,
-     "in_area": 23,
-     "jeonse": 14,
+     "all": 27,
+     "in_area": 21,
+     "jeonse": 12,
      "wolse": 9,
      "wolse_ok": 0
     },
     "areas": {
      "84": 1,
-     "84.2": 4,
-     "84.7": 18,
+     "84.2": 3,
+     "84.7": 17,
      "101": 6
     },
     "date": "2026-09-16",
@@ -1609,17 +1609,17 @@
      }
     },
     "counts": {
-     "all": 270,
-     "in_area": 73,
-     "jeonse": 57,
+     "all": 273,
+     "in_area": 74,
+     "jeonse": 58,
      "wolse": 16,
      "wolse_ok": 13
     },
     "areas": {
-     "59.8": 43,
+     "59.8": 44,
      "67.9": 14,
-     "75": 128,
-     "84.9": 58,
+     "75": 129,
+     "84.9": 59,
      "85": 15,
      "98.7": 12
     },
@@ -2292,15 +2292,15 @@
      }
     },
     "counts": {
-     "all": 94,
-     "in_area": 91,
-     "jeonse": 26,
+     "all": 95,
+     "in_area": 92,
+     "jeonse": 27,
      "wolse": 65,
      "wolse_ok": 65
     },
     "areas": {
      "79.8": 3,
-     "85": 91
+     "85": 92
     },
     "date": "2026-09-16",
     "source": "fin",
