@@ -1,69 +1,64 @@
 [
  {
   "jeonse": {
-   "price": 120000,
+   "price": 90000,
    "article": {
-    "article_no": "2649386442",
-    "deposit": 120000,
+    "article_no": "2650063167",
+    "deposit": 90000,
     "rent": 0,
-    "area": 84.24,
-    "floor": "저/30",
-    "building": "118",
+    "area": 84.56,
+    "floor": "중/29",
+    "building": "5203",
     "direction": "ES",
-    "confirmed": "2026-09-12",
-    "price_text": "120000",
-    "url": "https://m.land.naver.com/article/info/2649386442"
+    "confirmed": "2026-09-16",
+    "price_text": "90000",
+    "url": "https://m.land.naver.com/article/info/2650063167"
    }
   },
   "wolse_rent": {
-   "rent": 400,
-   "deposit": 30000,
+   "rent": 300,
+   "deposit": 20000,
    "article": {
-    "article_no": "2648808831",
-    "deposit": 30000,
-    "rent": 400,
-    "area": 84.04,
-    "floor": "중/30",
-    "building": "118",
+    "article_no": "2650056641",
+    "deposit": 20000,
+    "rent": 300,
+    "area": 84.56,
+    "floor": "저/29",
+    "building": "5207",
     "direction": "WS",
-    "confirmed": "2026-09-09",
-    "price_text": "30000/400",
-    "url": "https://m.land.naver.com/article/info/2648808831"
+    "confirmed": "2026-09-16",
+    "price_text": "20000/300",
+    "url": "https://m.land.naver.com/article/info/2650056641"
    }
   },
   "wolse_conv": {
-   "conv": 130000,
-   "rent": 440,
+   "conv": 95000,
+   "rent": 300,
    "deposit": 20000,
    "rate_pct": 4.8,
    "article": {
-    "article_no": "2649353318",
+    "article_no": "2650056641",
     "deposit": 20000,
-    "rent": 440,
-    "area": 84.04,
-    "floor": "중/30",
-    "building": "118",
-    "direction": "SS",
-    "confirmed": "2026-09-12",
-    "price_text": "20000/440",
-    "url": "https://m.land.naver.com/article/info/2649353318"
+    "rent": 300,
+    "area": 84.56,
+    "floor": "저/29",
+    "building": "5207",
+    "direction": "WS",
+    "confirmed": "2026-09-16",
+    "price_text": "20000/300",
+    "url": "https://m.land.naver.com/article/info/2650056641"
    }
   },
   "counts": {
-   "all": 83,
-   "in_area": 6,
-   "jeonse": 2,
-   "wolse": 4,
+   "all": 17,
+   "in_area": 15,
+   "jeonse": 13,
+   "wolse": 2,
    "wolse_ok": 2
   },
   "areas": {
-   "59": 7,
-   "59.8": 17,
-   "73.6": 47,
-   "73.9": 1,
-   "84": 2,
-   "84.2": 4,
-   "113.4": 5
+   "66.8": 2,
+   "84.6": 15
   },
   "date": "2026-09-16",
   "source": "fin",
@@ -126,7 +121,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 83,
+     "all": 17,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -188,46 +183,14 @@
    },
    "115": {
     "jeonse": null,
-    "wolse_rent": {
-     "rent": 110,
-     "deposit": 2000,
-     "article": {
-      "article_no": "2649053393",
-      "deposit": 2000,
-      "rent": 110,
-      "area": 113.39,
-      "floor": "고/35",
-      "building": "101",
-      "direction": "SS",
-      "confirmed": "2026-09-10",
-      "price_text": "2000/110",
-      "url": "https://m.land.naver.com/article/info/2649053393"
-     }
-    },
-    "wolse_conv": {
-     "conv": 29500,
-     "rent": 110,
-     "deposit": 2000,
-     "rate_pct": 4.8,
-     "article": {
-      "article_no": "2649053393",
-      "deposit": 2000,
-      "rent": 110,
-      "area": 113.39,
-      "floor": "고/35",
-      "building": "101",
-      "direction": "SS",
-      "confirmed": "2026-09-10",
-      "price_text": "2000/110",
-      "url": "https://m.land.naver.com/article/info/2649053393"
-     }
-    },
+    "wolse_rent": null,
+    "wolse_conv": null,
     "counts": {
-     "all": 83,
-     "in_area": 5,
+     "all": 17,
+     "in_area": 0,
      "jeonse": 0,
-     "wolse": 5,
-     "wolse_ok": 5
+     "wolse": 0,
+     "wolse_ok": 0
     },
     "deltas": {
      "jeonse": {
@@ -288,7 +251,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 83,
+     "all": 17,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -353,7 +316,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 83,
+     "all": 17,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
