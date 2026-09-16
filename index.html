@@ -144,8 +144,9 @@ code{background:var(--surface-2);padding:1px 5px;border-radius:5px;font-size:12p
   </div>
 </header>
 <div class="chips" id="chips">
-  <button class="chip on" data-f="all">전체</button>
+  <button class="chip" data-f="all">전체</button>
   <button class="chip" data-f="changed">오늘 변동</button>
+  <button class="chip" data-f="jeonse_desc">전세가 높은순</button>
   <button class="chip" data-f="jeonse">전세가 낮은순</button>
   <button class="chip" data-f="conv">환산가 낮은순</button>
   <button class="chip" data-f="rent">월세 낮은순</button>
@@ -160,7 +161,7 @@ code{background:var(--surface-2);padding:1px 5px;border-radius:5px;font-size:12p
 'use strict';
 // ------------------------------------------------------------- 상태
 const S = {
-  cfg: null, latest: null, view: 'list', filter: 'all', detailNo: null,
+  cfg: null, latest: null, view: 'list', filter: safeGet('filter') || 'jeonse_desc', detailNo: null,
   charts: [], range: 90,
   settings: JSON.parse(safeGet('settings') || '{}'),
   localHidden: new Set(JSON.parse(safeGet('hidden') || '[]')),
@@ -261,8 +262,10 @@ function renderList(){
   const chipH = document.getElementById('chip-hidden'); chipH.hidden = hiddenCount === 0 && S.filter !== 'hidden'; chipH.textContent = `숨김 ${hiddenCount}`;
   items = items.filter(it => S.filter === 'hidden' ? isHidden(it) : !isHidden(it));
   if (S.filter === 'changed') items = items.filter(it => it.today && ['jeonse','wolse_rent','wolse_conv'].some(k => (it.today.deltas?.[k]?.d1?.delta || 0) !== 0));
-  const keyMap = { jeonse:'jeonse', conv:'wolse_conv', rent:'wolse_rent' };
-  if (keyMap[S.filter]) items.sort((a,b) => (metric(a.today,keyMap[S.filter]) ?? 1e15) - (metric(b.today,keyMap[S.filter]) ?? 1e15));
+  const keyMap = { jeonse:'jeonse', jeonse_desc:'jeonse', conv:'wolse_conv', rent:'wolse_rent' };
+  if (keyMap[S.filter]) items.sort((a,b) => S.filter === 'jeonse_desc'
+    ? (metric(b.today,'jeonse') ?? -1) - (metric(a.today,'jeonse') ?? -1)   // 높은순, 매물 없음은 맨 아래
+    : (metric(a.today,keyMap[S.filter]) ?? 1e15) - (metric(b.today,keyMap[S.filter]) ?? 1e15));
 
   let html = '';
   if (!repoInfo() || !S.settings.token) html += `<div class="note">⚙ 설정에서 GitHub 토큰을 등록하면 앱에서 단지를 추가·제거할 수 있습니다.</div>`;
@@ -283,7 +286,7 @@ function renderList(){
     </button>`;
   }
   document.getElementById('main').innerHTML = html;
-  document.querySelectorAll('.card').forEach(el => el.addEventListener('click', () => { S.detailNo = el.dataset.no; S.detailName = el.dataset.name; S.view = 'detail'; render(); window.scrollTo(0,0); }));
+  document.querySelectorAll('.card').forEach(el => el.addEventListener('click', () => openDetail(el.dataset.no, el.dataset.name)));
 }
 
 // ------------------------------------------------------------- 상세
@@ -404,7 +407,7 @@ async function saveComplexUrl(it, url){
     await writeConfig(cfg, sha, `config: url ${it.name}`);
     S.cfg = cfg; S.detailNo = no || null; S.detailName = it.name;
     toast(no ? '단지번호 저장 완료 · 상단 ⟳로 바로 수집해 보세요' : '링크 저장 완료 · 다음 수집(⟳) 때 단지번호를 알아냅니다', 4500);
-    S.view = 'list'; render();
+    goList();
   } catch(e){ toast('실패: ' + e.message, 4000); }
 }
 async function writeConfig(cfg, sha, message){
@@ -413,8 +416,12 @@ async function writeConfig(cfg, sha, message){
 
 // ------------------------------------------------------------- 시트
 function openSheet(html){ const root = document.getElementById('sheet-root'); root.innerHTML = `<div class="sheet-bg" id="sheet-bg"><div class="sheet"><div class="grip"></div>${html}</div></div>`;
-  root.querySelector('#sheet-bg').addEventListener('click', e => { if (e.target.id === 'sheet-bg') closeSheet(); }); }
-function closeSheet(){ document.getElementById('sheet-root').innerHTML = ''; }
+  root.querySelector('#sheet-bg').addEventListener('click', e => { if (e.target.id === 'sheet-bg') closeSheet(); });
+  history.pushState({ sheet: true }, ''); }
+// 시트/상세는 브라우저 히스토리에 한 단계씩 쌓아서, 폰의 뒤로가기 버튼이 앱 안에서 동작하게 함
+function closeSheet(fromPop){ if (!fromPop && history.state?.sheet) { history.back(); return; } document.getElementById('sheet-root').innerHTML = ''; }
+function openDetail(no, name){ S.detailNo = no; S.detailName = name; S.view = 'detail'; history.pushState({ v: 'detail' }, ''); render(); window.scrollTo(0,0); }
+function goList(){ if (history.state?.v === 'detail') history.back(); else { S.view = 'list'; render(); } }
 
 function openAdd(){
   openSheet(`<h2>단지 추가</h2>
@@ -528,8 +535,7 @@ async function toggleHide(it){
     if (to) S.localHidden.add(it.name); else S.localHidden.delete(it.name);
     saveHidden();
   }
-  S.view = 'list'; S.filter = 'all'; document.querySelectorAll('#chips .chip').forEach(x => x.classList.toggle('on', x.dataset.f === 'all'));
-  render(); toast(to ? '숨겼습니다 (칩 "숨김"에서 다시 볼 수 있음)' : '다시 표시합니다');
+  goList(); toast(to ? '숨겼습니다 (칩 "숨김"에서 다시 볼 수 있음)' : '다시 표시합니다');
 }
 async function removeComplex(it){
   if (!it) return;
@@ -538,7 +544,7 @@ async function removeComplex(it){
     const { cfg, sha } = await readConfigFromGithub();
     cfg.complexes = cfg.complexes.filter(c => c.name !== it.name && !(it.complexNo && String(c.complexNo) === String(it.complexNo)));
     await writeConfig(cfg, sha, `config: remove ${it.name}`);
-    S.cfg = cfg; S.view = 'list'; render(); toast('제거했습니다');
+    S.cfg = cfg; goList(); toast('제거했습니다');
   } catch(e){ toast('실패: ' + e.message, 4000); }
 }
 function openSettings(){
@@ -582,14 +588,19 @@ function openSettings(){
 }
 
 // ------------------------------------------------------------- 이벤트/시작
-const APP_VERSION = '1.6.1';
-document.getElementById('btn-back').addEventListener('click', () => { S.view = 'list'; render(); });
+const APP_VERSION = '1.7.0';
+document.getElementById('btn-back').addEventListener('click', goList);
+history.replaceState(null, '');  // 새로 열 때는 항상 목록부터
+document.querySelectorAll('#chips .chip').forEach(x => x.classList.toggle('on', x.dataset.f === S.filter));
 document.getElementById('btn-add').addEventListener('click', openAdd);
 document.getElementById('btn-order').addEventListener('click', openOrder);
 document.getElementById('btn-collect').addEventListener('click', requestCollect);
 document.getElementById('btn-settings').addEventListener('click', openSettings);
-document.querySelectorAll('#chips .chip').forEach(b => b.addEventListener('click', () => { document.querySelectorAll('#chips .chip').forEach(x => x.classList.toggle('on', x===b)); S.filter = b.dataset.f; render(); }));
-window.addEventListener('popstate', () => { if (S.view === 'detail') { S.view = 'list'; render(); } });
+document.querySelectorAll('#chips .chip').forEach(b => b.addEventListener('click', () => { document.querySelectorAll('#chips .chip').forEach(x => x.classList.toggle('on', x===b)); S.filter = b.dataset.f; if (S.filter !== 'hidden' && S.filter !== 'changed') safeSet('filter', S.filter); render(); }));
+window.addEventListener('popstate', () => {
+  if (document.getElementById('sheet-root').firstChild) { closeSheet(true); return; }  // 시트가 열려 있으면 먼저 닫기
+  if (S.view === 'detail') { S.view = 'list'; render(); }
+});
 document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible' && Date.now() - (S.loadedAt||0) > 5*60e3) { loadAll().then(()=> S.loadedAt = Date.now()); checkAppUpdate(); } });
 // 앱 자동 업데이트: 앱을 열 때마다 새 sw.js 가 있는지 확인 → 새 버전이 설치되면 한 번 새로고침
 function checkAppUpdate(){ if ('serviceWorker' in navigator) navigator.serviceWorker.getRegistration().then(r => r && r.update()).catch(()=>{}); }
