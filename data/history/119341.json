@@ -50,11 +50,16 @@
    }
   },
   "counts": {
-   "all": 168,
-   "in_area": 164,
-   "jeonse": 156,
+   "all": 166,
+   "in_area": 162,
+   "jeonse": 154,
    "wolse": 8,
    "wolse_ok": 2
+  },
+  "areas": {
+   "60": 4,
+   "84.9": 73,
+   "85": 89
   },
   "date": "2026-09-16",
   "source": "fin",

@@ -3,26 +3,33 @@
   "jeonse": {
    "price": 90000,
    "article": {
-    "article_no": "2649992765",
+    "article_no": "2650054209",
     "deposit": 90000,
     "rent": 0,
     "area": 84.94,
     "floor": "저/15",
     "building": "3201",
     "direction": "SS",
-    "confirmed": "2026-09-15",
+    "confirmed": "2026-09-16",
     "price_text": "90000",
-    "url": "https://m.land.naver.com/article/info/2649992765"
+    "url": "https://m.land.naver.com/article/info/2650054209"
    }
   },
   "wolse_rent": null,
   "wolse_conv": null,
   "counts": {
-   "all": 86,
+   "all": 88,
    "in_area": 19,
    "jeonse": 18,
    "wolse": 1,
    "wolse_ok": 0
+  },
+  "areas": {
+   "51.9": 9,
+   "59.8": 51,
+   "60": 6,
+   "75": 3,
+   "84.9": 19
   },
   "date": "2026-09-16",
   "source": "fin",

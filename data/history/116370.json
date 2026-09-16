@@ -4,11 +4,19 @@
   "wolse_rent": null,
   "wolse_conv": null,
   "counts": {
-   "all": 10,
+   "all": 12,
    "in_area": 0,
    "jeonse": 0,
    "wolse": 0,
    "wolse_ok": 0
+  },
+  "areas": {
+   "19.8": 1,
+   "27.1": 2,
+   "58.6": 2,
+   "58.7": 4,
+   "58.9": 1,
+   "79.6": 2
   },
   "date": "2026-09-16",
   "source": "fin",
