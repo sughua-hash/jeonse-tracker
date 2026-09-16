@@ -32,10 +32,10 @@
    }
   },
   "wolse_conv": {
-   "conv": 89000,
+   "conv": 82500,
    "rent": 130,
    "deposit": 50000,
-   "rate_pct": 4.0,
+   "rate_pct": 4.8,
    "article": {
     "article_no": "2649954985",
     "deposit": 50000,
@@ -50,14 +50,14 @@
    }
   },
   "counts": {
-   "all": 78,
+   "all": 79,
    "in_area": 37,
    "jeonse": 36,
    "wolse": 1,
    "wolse_ok": 1
   },
   "areas": {
-   "75.5": 41,
+   "75.5": 42,
    "85": 37
   },
   "date": "2026-09-16",
@@ -121,7 +121,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 78,
+     "all": 79,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -186,7 +186,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 78,
+     "all": 79,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -251,7 +251,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 78,
+     "all": 79,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -316,7 +316,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 78,
+     "all": 79,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,

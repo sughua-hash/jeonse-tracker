@@ -64,6 +64,21 @@
    "price_text": "70000/60"
   },
   {
+   "article_no": "2650162623",
+   "trade": "B2",
+   "deposit": 30000,
+   "rent": 300,
+   "area_exclusive": 84.44,
+   "area_supply": 110.43,
+   "floor": "중/29",
+   "building": "110",
+   "direction": "SS",
+   "confirmed": "2026-09-16",
+   "description": "전면이 트인 뷰,에어컨 풀,중 문,수납 공간 탁월 12월 10일 이후 입",
+   "realtor": "센트럴부자공인중개사사무소",
+   "price_text": "30000/300"
+  },
+  {
    "article_no": "2650105147",
    "trade": "B2",
    "deposit": 30000,
@@ -109,36 +124,6 @@
    "price_text": "30000/300"
   },
   {
-   "article_no": "2649946922",
-   "trade": "B2",
-   "deposit": 30000,
-   "rent": 300,
-   "area_exclusive": 84.44,
-   "area_supply": 110.43,
-   "floor": "중/29",
-   "building": "110",
-   "direction": "WS",
-   "confirmed": "2026-09-15",
-   "description": "초품아, 로얄동 층, 채광굿, 편의시설우수",
-   "realtor": "고덕하나부동산공인중개사사무소",
-   "price_text": "30000/300"
-  },
-  {
-   "article_no": "2649833178",
-   "trade": "B2",
-   "deposit": 30000,
-   "rent": 300,
-   "area_exclusive": 84.44,
-   "area_supply": 110.43,
-   "floor": "중/29",
-   "building": "110",
-   "direction": "SS",
-   "confirmed": "2026-09-15",
-   "description": "보증금조정가, 에풀, 채광좋은집, 세대지하창고, 고일초초품아",
-   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
-   "price_text": "30000/300"
-  },
-  {
    "article_no": "2649990823",
    "trade": "B2",
    "deposit": 30000,
@@ -169,6 +154,36 @@
    "price_text": "30000/300"
   },
   {
+   "article_no": "2649833178",
+   "trade": "B2",
+   "deposit": 30000,
+   "rent": 300,
+   "area_exclusive": 84.44,
+   "area_supply": 110.43,
+   "floor": "중/29",
+   "building": "110",
+   "direction": "SS",
+   "confirmed": "2026-09-15",
+   "description": "보증금조정가, 에풀, 채광좋은집, 세대지하창고, 고일초초품아",
+   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
+   "price_text": "30000/300"
+  },
+  {
+   "article_no": "2649946922",
+   "trade": "B2",
+   "deposit": 30000,
+   "rent": 300,
+   "area_exclusive": 84.44,
+   "area_supply": 110.43,
+   "floor": "중/29",
+   "building": "110",
+   "direction": "WS",
+   "confirmed": "2026-09-15",
+   "description": "초품아, 로얄동 층, 채광굿, 편의시설우수",
+   "realtor": "고덕하나부동산공인중개사사무소",
+   "price_text": "30000/300"
+  },
+  {
    "article_no": "2649655042",
    "trade": "B2",
    "deposit": 30000,
@@ -184,21 +199,6 @@
    "price_text": "30000/300"
   },
   {
-   "article_no": "2650063549",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 340,
-   "area_exclusive": 84.44,
-   "area_supply": 110.43,
-   "floor": "중/29",
-   "building": "110",
-   "direction": "ES",
-   "confirmed": "2026-09-16",
-   "description": "융무,보증금조정가. 시스템에어컨풀,수납공간많음, 세대지하창고,초품아",
-   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
-   "price_text": "20000/340"
-  },
-  {
    "article_no": "2650082717",
    "trade": "B2",
    "deposit": 20000,
@@ -211,6 +211,21 @@
    "confirmed": "2026-09-16",
    "description": "추천, 귀한 월세, 풀에어컨, 밝고 환한 뷰, 수납 좋은 구조, 초품아",
    "realtor": "자이햇살공인중개사사무소",
+   "price_text": "20000/340"
+  },
+  {
+   "article_no": "2650063549",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 340,
+   "area_exclusive": 84.44,
+   "area_supply": 110.43,
+   "floor": "중/29",
+   "building": "110",
+   "direction": "ES",
+   "confirmed": "2026-09-16",
+   "description": "융무,보증금조정가. 시스템에어컨풀,수납공간많음, 세대지하창고,초품아",
+   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
    "price_text": "20000/340"
   },
   {
