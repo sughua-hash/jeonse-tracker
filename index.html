@@ -125,6 +125,10 @@ th{color:var(--muted);font-weight:500;font-size:12px}
 .ord .num{width:22px;font-size:12px;color:var(--muted);text-align:right;font-variant-numeric:tabular-nums}
 .ord button{width:34px;height:34px;border-radius:9px;background:var(--surface-2);font-size:15px;flex:none}
 .ord button:disabled{opacity:.3}
+.ord button.eye.off{opacity:.35}
+.ord .n.hid{color:var(--muted);text-decoration:line-through}
+.sheet{position:relative}
+.sheet-x{position:absolute;top:10px;right:12px;width:32px;height:32px;border-radius:50%;background:var(--surface-2);color:var(--ink-2);font-size:15px;display:grid;place-items:center}
 .ord.mv{background:var(--surface-2);border-radius:8px}
 .step ol{padding-left:18px;margin:6px 0}
 code{background:var(--surface-2);padding:1px 5px;border-radius:5px;font-size:12px}
@@ -437,8 +441,9 @@ async function writeConfig(cfg, sha, message){
 }
 
 // ------------------------------------------------------------- 시트
-function openSheet(html){ const root = document.getElementById('sheet-root'); root.innerHTML = `<div class="sheet-bg" id="sheet-bg"><div class="sheet"><div class="grip"></div>${html}</div></div>`;
+function openSheet(html){ const root = document.getElementById('sheet-root'); root.innerHTML = `<div class="sheet-bg" id="sheet-bg"><div class="sheet"><div class="grip"></div><button class="sheet-x" id="sheet-x" title="닫기">✕</button>${html}</div></div>`;
   root.querySelector('#sheet-bg').addEventListener('click', e => { if (e.target.id === 'sheet-bg') closeSheet(); });
+  root.querySelector('#sheet-x').addEventListener('click', () => closeSheet());
   history.pushState({ sheet: true }, ''); }
 // 시트/상세는 브라우저 히스토리에 한 단계씩 쌓아서, 폰의 뒤로가기 버튼이 앱 안에서 동작하게 함
 function closeSheet(fromPop){ if (!fromPop && history.state?.sheet) { history.back(); return; } document.getElementById('sheet-root').innerHTML = ''; }
@@ -501,7 +506,7 @@ function openOrder(){
   if (!ord.length) return toast('등록된 단지가 없습니다');
   let sel = -1;
   openSheet(`<h2>단지 순서 편집</h2>
-    <div class="help" style="margin:-6px 0 10px">단지를 누르면 선택되고, 다른 단지 자리를 누르면 그곳으로 이동합니다. ▲▼⤒ 버튼으로도 옮길 수 있어요. 목록과 아침 알림 순서에 함께 적용됩니다.</div>
+    <div class="help" style="margin:-6px 0 10px">단지를 누르면 선택되고, 다른 단지 자리를 누르면 그곳으로 이동합니다. ▲▼⤒ 버튼으로도 옮길 수 있어요. 👁 버튼으로 숨기기/보이기를 바꿉니다. 저장하면 목록·아침 알림에 함께 적용됩니다.</div>
     <div id="ord-list"></div>
     <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:12px">
       <button class="btn ghost" id="o-cancel">취소</button><button class="btn" id="o-save">저장</button></div>`);
@@ -509,12 +514,13 @@ function openOrder(){
   function move(i, j){ if (j < 0 || j >= ord.length) return; const [x] = ord.splice(i,1); ord.splice(j,0,x); sel = j; draw(); }
   function draw(){
     listEl.innerHTML = ord.map((o,i) => `<div class="ord${i===sel?' mv':''}" data-i="${i}">
-      <span class="num">${i+1}</span><span class="n">${esc(o.name)}${o.hidden ? '<small>숨김</small>' : ''}</span>
-      <button data-a="top" title="맨 위로" ${i===0?'disabled':''}>⤒</button><button data-a="up" title="위로" ${i===0?'disabled':''}>▲</button><button data-a="down" title="아래로" ${i===ord.length-1?'disabled':''}>▼</button></div>`).join('');
+      <span class="num">${i+1}</span><span class="n${o.hidden?' hid':''}">${esc(o.name)}${o.hidden ? '<small>숨김</small>' : ''}</span>
+      <button data-a="eye" class="eye${o.hidden?' off':''}" title="${o.hidden?'보이기':'숨기기'}">👁</button><button data-a="top" title="맨 위로" ${i===0?'disabled':''}>⤒</button><button data-a="up" title="위로" ${i===0?'disabled':''}>▲</button><button data-a="down" title="아래로" ${i===ord.length-1?'disabled':''}>▼</button></div>`).join('');
     listEl.querySelectorAll('.ord').forEach(row => {
       const i = +row.dataset.i;
       row.addEventListener('click', e => {
         const a = e.target.closest('button')?.dataset.a;
+        if (a === 'eye') { ord[i].hidden = !ord[i].hidden; draw(); return; }
         if (a === 'top') return move(i, 0);
         if (a === 'up') return move(i, i-1);
         if (a === 'down') return move(i, i+1);
@@ -534,11 +540,13 @@ function openOrder(){
         const { cfg, sha } = await readConfigFromGithub();
         const idx = new Map(names.map((n,i)=>[n,i]));
         cfg.complexes = cfg.complexes.map((c,i)=>[idx.has(c.name)?idx.get(c.name):1e6+i, c]).sort((a,b)=>a[0]-b[0]).map(x=>x[1]);
-        await writeConfig(cfg, sha, 'config: reorder');
-        S.cfg = cfg; S.localOrder = null; saveOrder();
-        toast('순서 저장 완료 · 알림 순서는 다음 수집부터 반영');
+        const hid = new Map(ord.map(o => [o.name, o.hidden]));
+        cfg.complexes.forEach(c => { if (!hid.has(c.name)) return; if (hid.get(c.name)) c.hidden = true; else delete c.hidden; });
+        await writeConfig(cfg, sha, 'config: reorder/visibility');
+        S.cfg = cfg; S.localOrder = null; saveOrder(); S.localHidden = new Set(); saveHidden();
+        toast('순서·숨김 저장 완료 · 알림에는 다음 수집부터 반영');
       } catch(e){ toast('실패: ' + e.message, 4000); btn.disabled = false; btn.textContent = '저장'; return; }
-    } else { S.localOrder = names; saveOrder(); toast('이 기기에만 순서를 저장했습니다 (⚙ 토큰 등록 시 알림 순서에도 반영)', 4000); }
+    } else { S.localOrder = names; saveOrder(); S.localHidden = new Set(ord.filter(o => o.hidden).map(o => o.name)); saveHidden(); toast('이 기기에만 순서·숨김을 저장했습니다 (⚙ 토큰 등록 시 알림에도 반영)', 4000); }
     closeSheet(); render();
   });
 }
@@ -584,6 +592,7 @@ function openSettings(){
       <button class="btn" id="s-save">저장</button>
       <button class="btn ghost" id="s-test">ntfy 테스트 알림 보내기</button>
       <button class="btn ghost" id="s-reload">데이터 새로고침</button>
+      <button class="btn ghost" id="s-close">닫기</button>
     </div>
     <details style="margin-top:14px" class="step"><summary>휴대폰 홈화면에 설치 / 알림 받기</summary>
       <ol><li>Play 스토어에서 <b>ntfy</b> 설치 → ＋ → 위 채널 이름 구독</li>
@@ -607,10 +616,11 @@ function openSettings(){
     try { const r = await fetch('https://ntfy.sh', { method: 'POST', body: JSON.stringify({ topic: t, title: '전월세 최저가 테스트', message: '알림 연결이 정상입니다 🏠', click: location.href }) }); toast(r.ok ? '테스트 알림을 보냈습니다' : '전송 실패 ' + r.status); }
     catch(err){ toast('전송 실패: ' + err.message); } e.target.disabled = false; });
   document.getElementById('s-reload').addEventListener('click', async () => { closeSheet(); await loadAll(); toast('새로고침 완료'); });
+  document.getElementById('s-close').addEventListener('click', () => closeSheet());
 }
 
 // ------------------------------------------------------------- 이벤트/시작
-const APP_VERSION = '1.8.0';
+const APP_VERSION = '1.8.1';
 document.getElementById('btn-back').addEventListener('click', goList);
 history.replaceState(null, '');  // 새로 열 때는 항상 목록부터
 document.querySelectorAll('#chips .chip').forEach(x => x.classList.toggle('on', x.dataset.f === S.filter));
