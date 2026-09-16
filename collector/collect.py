@@ -93,9 +93,27 @@ def conv_price(deposit: int, rent: int, rate_pct: float) -> int:
 
 
 # ---------------------------------------------------------------- 핵심 계산
-def summarize(articles: list[Article], cfg: dict) -> dict:
-    amin = float(cfg.get("area_min_m2", 83))
-    amax = float(cfg.get("area_max_m2", 85))
+# 평형대(전용면적 구간). 기본 구간(default)은 config의 area_min/max를 따른다.
+DEFAULT_BANDS = [
+    {"key": "84", "label": "84㎡ (전용 83~85)", "min": 83, "max": 85, "default": True},
+    {"key": "100", "label": "86~105㎡", "min": 85.01, "max": 105},
+    {"key": "115", "label": "106~120㎡", "min": 105.01, "max": 120},
+    {"key": "130", "label": "121~140㎡", "min": 120.01, "max": 140},
+    {"key": "150", "label": "141㎡ 이상", "min": 140.01, "max": 9999},
+]
+
+
+def area_bands(cfg: dict) -> list[dict]:
+    bands = [dict(b) for b in (cfg.get("area_bands") or DEFAULT_BANDS)]
+    for b in bands:
+        if b.get("default"):
+            b["min"], b["max"] = float(cfg.get("area_min_m2", 83)), float(cfg.get("area_max_m2", 85))
+    return bands
+
+
+def summarize(articles: list[Article], cfg: dict, amin: Optional[float] = None, amax: Optional[float] = None) -> dict:
+    amin = float(cfg.get("area_min_m2", 83)) if amin is None else float(amin)
+    amax = float(cfg.get("area_max_m2", 85)) if amax is None else float(amax)
     dep_max = int(cfg.get("wolse_deposit_max_manwon", 50000))
     rate = float(cfg.get("conversion_rate_pct", 5.5))
 
@@ -279,6 +297,9 @@ def run(args) -> int:
         print(f"[preflight] {k}: {v}", flush=True)
     dashboard = (os.environ.get("DASHBOARD_URL") or local_cfg().get("dashboard_url") or "").strip()
 
+    bands = area_bands(cfg)
+    if not cfg.get("area_bands"):
+        cfg["area_bands"] = DEFAULT_BANDS
     complexes = cfg.get("complexes", [])
     if args.only:
         complexes = [c for c in complexes if args.only in c["name"]]
@@ -354,6 +375,16 @@ def run(args) -> int:
         hist = load_json(HISTORY_DIR / f"{no}.json", [])
         deltas = compute_deltas(hist, rec, today)
         rec["deltas"] = deltas
+        # 다른 평형대도 같은 방식으로 요약해 rec["bands"][key]에 저장 (앱에서 평형 선택용). 알림은 기본 평형대만.
+        rec["bands"] = {}
+        for b in bands:
+            if b.get("default"):
+                continue
+            rb = summarize(articles, cfg, b["min"], b["max"])
+            rb.pop("areas", None)
+            hist_b = [dict(h["bands"][b["key"]], date=h["date"]) for h in hist if (h.get("bands") or {}).get(b["key"])]
+            rb["deltas"] = compute_deltas(hist_b, rb, today)
+            rec["bands"][b["key"]] = rb
         is_new = not any(h["date"] < today for h in hist)  # 오늘 처음 기록되는(신규 등록) 단지
 
         # 3) 저장 (같은 날짜는 교체)
@@ -361,8 +392,8 @@ def run(args) -> int:
         hist.sort(key=lambda h: h["date"])
         if not args.dry_run:
             save_json(HISTORY_DIR / f"{no}.json", hist)
-            amin, amax = float(cfg.get("area_min_m2", 83)), float(cfg.get("area_max_m2", 85))
-            filtered = [a.to_dict() for a in articles if amin <= a.area_exclusive <= amax]
+            # 모든 평형의 매물을 저장 (앱이 선택한 평형대로 걸러서 보여줌)
+            filtered = [a.to_dict() for a in articles]
             filtered.sort(key=lambda a: (a["trade"], a["rent"] if a["trade"] == "B2" else a["deposit"], a["deposit"]))
             save_json(ARTICLES_DIR / f"{no}.json", {"date": today, "complexNo": no, "name": name,
                                                     "articles": filtered})
@@ -388,13 +419,13 @@ def run(args) -> int:
     latest = {
         "generated_at": now_kst().isoformat(timespec="seconds"),
         "date": today,
-        "settings": {k: cfg.get(k) for k in ("area_min_m2", "area_max_m2", "wolse_deposit_max_manwon", "conversion_rate_pct")},
+        "settings": {k: cfg.get(k) for k in ("area_min_m2", "area_max_m2", "wolse_deposit_max_manwon", "conversion_rate_pct", "area_bands")},
         "complexes": latest_entries,
         "errors": errors,
     }
     if not args.dry_run:
         save_json(LATEST_PATH, latest)
-        if config_changed:
+        if config_changed or not load_json(CONFIG_PATH, {}).get("area_bands"):
             save_json(CONFIG_PATH, cfg)
     else:
         print(json.dumps(latest, ensure_ascii=False, indent=1)[:4000])
