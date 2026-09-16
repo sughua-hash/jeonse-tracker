@@ -349,9 +349,19 @@ def run(args) -> int:
             c["complexNo"] = str(best["complexNo"])
             if best.get("address"):
                 c["address"] = best["address"]
+            config_changed = True
+            # 이미 같은 단지번호로 등록된 단지가 있으면 중복 → 새 항목 삭제
+            dup = next((x for x in cfg["complexes"] if x is not c and str(x.get("complexNo") or "") == c["complexNo"]), None)
+            if dup:
+                errors.append(f"{name}: '{dup['name']}'와 같은 단지({c['complexNo']})라 중복 등록을 삭제했습니다.")
+                cfg["complexes"] = [x for x in cfg["complexes"] if x is not c]
+                continue
             if best.get("name"):
                 c["naverName"] = best["name"]
-            config_changed = True
+                if c.get("auto_name"):  # 링크만으로 등록된 단지: 네이버 단지명을 이름으로 채움
+                    taken = {x["name"] for x in cfg["complexes"] if x is not c}
+                    c["name"] = name = best["name"] if best["name"] not in taken else f"{best['name']} ({c['complexNo']})"
+                    c.pop("auto_name", None)
             print(f"  → complexNo={c['complexNo']} ({best.get('name')})")
             time.sleep(0.5)
         no = str(c["complexNo"])
