@@ -24,3 +24,11 @@ fi
   echo "done"
 } >> "$LOG" 2>&1
 tail -n 40 "$LOG"
+
+# 3) 데몬이 구버전(또는 꺼짐)이면 새 daemon.sh 로 자동 재시작 (수집 끝난 뒤라 안전)
+want=$(grep -m1 '^export DAEMON_VER=' daemon.sh | sed 's/^export DAEMON_VER=\([0-9]*\).*/\1/')
+have=$(cat logs/daemon.version 2>/dev/null)
+if [ -n "$want" ] && { [ "$want" != "$have" ] || ! kill -0 "$(cat logs/daemon.pid 2>/dev/null)" 2>/dev/null; }; then
+  echo "$(date '+%F %T') 데몬 재시작 (v${have:-?} → v$want)" >> "$LOG"
+  ./daemon.sh restart >> "$LOG" 2>&1
+fi
