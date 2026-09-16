@@ -1,65 +1,68 @@
 [
  {
   "jeonse": {
-   "price": 95000,
+   "price": 35000,
    "article": {
-    "article_no": "2650107176",
-    "deposit": 95000,
+    "article_no": "2645272747",
+    "deposit": 35000,
     "rent": 0,
-    "area": 84.91,
-    "floor": "저/29",
-    "building": "514",
-    "direction": "SS",
-    "confirmed": "2026-09-16",
-    "price_text": "95000",
-    "url": "https://m.land.naver.com/article/info/2650107176"
+    "area": 84.79,
+    "floor": "고/26",
+    "building": "125",
+    "direction": "ES",
+    "confirmed": "2026-08-22",
+    "price_text": "35000",
+    "url": "https://m.land.naver.com/article/info/2645272747"
    }
   },
   "wolse_rent": {
-   "rent": 220,
-   "deposit": 50000,
+   "rent": 150,
+   "deposit": 2000,
    "article": {
-    "article_no": "2649828664",
-    "deposit": 50000,
-    "rent": 220,
-    "area": 84.97,
-    "floor": "7/29",
-    "building": "514",
-    "direction": "SS",
+    "article_no": "2649938250",
+    "deposit": 2000,
+    "rent": 150,
+    "area": 83.71,
+    "floor": "저/27",
+    "building": "107",
+    "direction": "WS",
     "confirmed": "2026-09-15",
-    "price_text": "50000/220",
-    "url": "https://m.land.naver.com/article/info/2649828664"
+    "price_text": "2000/150",
+    "url": "https://m.land.naver.com/article/info/2649938250"
    }
   },
   "wolse_conv": {
-   "conv": 116000,
-   "rent": 220,
-   "deposit": 50000,
+   "conv": 47000,
+   "rent": 150,
+   "deposit": 2000,
    "rate_pct": 4.0,
    "article": {
-    "article_no": "2649828664",
-    "deposit": 50000,
-    "rent": 220,
-    "area": 84.97,
-    "floor": "7/29",
-    "building": "514",
-    "direction": "SS",
+    "article_no": "2649938250",
+    "deposit": 2000,
+    "rent": 150,
+    "area": 83.71,
+    "floor": "저/27",
+    "building": "107",
+    "direction": "WS",
     "confirmed": "2026-09-15",
-    "price_text": "50000/220",
-    "url": "https://m.land.naver.com/article/info/2649828664"
+    "price_text": "2000/150",
+    "url": "https://m.land.naver.com/article/info/2649938250"
    }
   },
   "counts": {
-   "all": 326,
-   "in_area": 129,
-   "jeonse": 110,
-   "wolse": 19,
-   "wolse_ok": 14
+   "all": 29,
+   "in_area": 2,
+   "jeonse": 1,
+   "wolse": 1,
+   "wolse_ok": 1
   },
   "areas": {
-   "60": 197,
-   "84.9": 49,
-   "85": 80
+   "59.6": 5,
+   "59.8": 3,
+   "74.7": 1,
+   "75": 18,
+   "83.7": 1,
+   "84.8": 1
   },
   "date": "2026-09-16",
   "source": "fin",

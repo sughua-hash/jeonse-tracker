@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T11:50:12+09:00",
+ "generated_at": "2026-09-16T11:59:29+09:00",
  "date": "2026-09-16",
  "settings": {
   "area_min_m2": 83,
@@ -18,14 +18,14 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 103,
+     "all": 104,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
      "wolse_ok": 0
     },
     "areas": {
-     "98.9": 29,
+     "98.9": 30,
      "99": 74
     },
     "date": "2026-09-16",
@@ -995,16 +995,16 @@
      }
     },
     "counts": {
-     "all": 325,
-     "in_area": 128,
+     "all": 326,
+     "in_area": 129,
      "jeonse": 110,
-     "wolse": 18,
-     "wolse_ok": 13
+     "wolse": 19,
+     "wolse_ok": 14
     },
     "areas": {
      "60": 197,
      "84.9": 49,
-     "85": 79
+     "85": 80
     },
     "date": "2026-09-16",
     "source": "fin",
@@ -1121,16 +1121,16 @@
      }
     },
     "counts": {
-     "all": 171,
-     "in_area": 167,
-     "jeonse": 159,
+     "all": 173,
+     "in_area": 169,
+     "jeonse": 161,
      "wolse": 8,
      "wolse_ok": 2
     },
     "areas": {
      "60": 4,
-     "84.9": 76,
-     "85": 91
+     "84.9": 77,
+     "85": 92
     },
     "date": "2026-09-16",
     "source": "fin",
@@ -1215,16 +1215,16 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 27,
-     "in_area": 21,
-     "jeonse": 12,
+     "all": 28,
+     "in_area": 22,
+     "jeonse": 13,
      "wolse": 9,
      "wolse_ok": 0
     },
     "areas": {
      "84": 1,
      "84.2": 3,
-     "84.7": 17,
+     "84.7": 18,
      "101": 6
     },
     "date": "2026-09-16",
@@ -1971,7 +1971,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 12,
+     "all": 13,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -1979,7 +1979,7 @@
     },
     "areas": {
      "19.8": 1,
-     "27.1": 1,
+     "27.1": 2,
      "58.6": 2,
      "58.7": 5,
      "58.9": 1,
@@ -2045,10 +2045,133 @@
    "hidden": false
   },
   {
-   "complexNo": null,
+   "complexNo": "115018",
    "name": "더샵지제역센트럴파크(1BL)",
-   "error": "단지번호 미확인",
-   "region": "경기 평택시 동삭동 지제동삭"
+   "region": "경기 평택시 동삭동 지제동삭",
+   "address": "경기도 평택시 동삭동",
+   "today": {
+    "jeonse": {
+     "price": 35000,
+     "article": {
+      "article_no": "2645272747",
+      "deposit": 35000,
+      "rent": 0,
+      "area": 84.79,
+      "floor": "고/26",
+      "building": "125",
+      "direction": "ES",
+      "confirmed": "2026-08-22",
+      "price_text": "35000",
+      "url": "https://m.land.naver.com/article/info/2645272747"
+     }
+    },
+    "wolse_rent": {
+     "rent": 150,
+     "deposit": 2000,
+     "article": {
+      "article_no": "2649938250",
+      "deposit": 2000,
+      "rent": 150,
+      "area": 83.71,
+      "floor": "저/27",
+      "building": "107",
+      "direction": "WS",
+      "confirmed": "2026-09-15",
+      "price_text": "2000/150",
+      "url": "https://m.land.naver.com/article/info/2649938250"
+     }
+    },
+    "wolse_conv": {
+     "conv": 47000,
+     "rent": 150,
+     "deposit": 2000,
+     "rate_pct": 4.0,
+     "article": {
+      "article_no": "2649938250",
+      "deposit": 2000,
+      "rent": 150,
+      "area": 83.71,
+      "floor": "저/27",
+      "building": "107",
+      "direction": "WS",
+      "confirmed": "2026-09-15",
+      "price_text": "2000/150",
+      "url": "https://m.land.naver.com/article/info/2649938250"
+     }
+    },
+    "counts": {
+     "all": 29,
+     "in_area": 2,
+     "jeonse": 1,
+     "wolse": 1,
+     "wolse_ok": 1
+    },
+    "areas": {
+     "59.6": 5,
+     "59.8": 3,
+     "74.7": 1,
+     "75": 18,
+     "83.7": 1,
+     "84.8": 1
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1,
+   "hidden": false
   },
   {
    "complexNo": "120597",
@@ -2167,15 +2290,15 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 20,
-     "in_area": 13,
-     "jeonse": 7,
+     "all": 21,
+     "in_area": 14,
+     "jeonse": 8,
      "wolse": 6,
      "wolse_ok": 0
     },
     "areas": {
      "59.8": 7,
-     "84.9": 13
+     "84.9": 14
     },
     "date": "2026-09-16",
     "source": "fin",
@@ -2362,14 +2485,132 @@
    "hidden": false
   },
   {
-   "complexNo": null,
+   "complexNo": "121977",
    "name": "고덕자이",
-   "error": "단지번호 미확인",
-   "region": ""
+   "region": "",
+   "address": "서울시 강동구 상일동",
+   "today": {
+    "jeonse": {
+     "price": 100000,
+     "article": {
+      "article_no": "2648216084",
+      "deposit": 100000,
+      "rent": 0,
+      "area": 84.97,
+      "floor": "고/29",
+      "building": "109",
+      "direction": "SS",
+      "confirmed": "2026-09-07",
+      "price_text": "100000",
+      "url": "https://m.land.naver.com/article/info/2648216084"
+     }
+    },
+    "wolse_rent": {
+     "rent": 300,
+     "deposit": 30000,
+     "article": {
+      "article_no": "2650105147",
+      "deposit": 30000,
+      "rent": 300,
+      "area": 84.44,
+      "floor": "중/29",
+      "building": "110",
+      "direction": "WS",
+      "confirmed": "2026-09-16",
+      "price_text": "30000/300",
+      "url": "https://m.land.naver.com/article/info/2650105147"
+     }
+    },
+    "wolse_conv": {
+     "conv": 120000,
+     "rent": 300,
+     "deposit": 30000,
+     "rate_pct": 4.0,
+     "article": {
+      "article_no": "2650105147",
+      "deposit": 30000,
+      "rent": 300,
+      "area": 84.44,
+      "floor": "중/29",
+      "building": "110",
+      "direction": "WS",
+      "confirmed": "2026-09-16",
+      "price_text": "30000/300",
+      "url": "https://m.land.naver.com/article/info/2650105147"
+     }
+    },
+    "counts": {
+     "all": 20,
+     "in_area": 12,
+     "jeonse": 1,
+     "wolse": 11,
+     "wolse_ok": 11
+    },
+    "areas": {
+     "59.9": 3,
+     "84.4": 11,
+     "85": 1,
+     "118.4": 5
+    },
+    "date": "2026-09-16",
+    "source": "fin",
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "history_len": 1,
+   "hidden": false
   }
  ],
- "errors": [
-  "더샵지제역센트럴파크(1BL): 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "고덕자이: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요."
- ]
+ "errors": []
 }

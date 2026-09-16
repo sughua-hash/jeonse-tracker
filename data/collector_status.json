@@ -1,0 +1,14 @@
+{
+ "at": "2026-09-16T11:59:31+09:00",
+ "collect_exit": 0,
+ "update": "확인 7개 · 실패 0개 · 변경: 없음",
+ "daemon_version": null,
+ "daemon_pid_alive": false,
+ "files": {
+  "collector/collect.py": "6583fbfe",
+  "collector/naver.py": "365b5fc4",
+  "collector/publish.py": "deda697b",
+  "run_termux.sh": "cf66e715",
+  "daemon.sh": "728a43bb"
+ }
+}

@@ -274,36 +274,6 @@
    "price_text": "100000"
   },
   {
-   "article_no": "2649977729",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 100,
-   "area_exclusive": 84.98,
-   "area_supply": 111.85,
-   "floor": "13/18",
-   "building": "5618",
-   "direction": "WS",
-   "confirmed": "2026-09-15",
-   "description": "햇살좋은 집 집상태 좋아요",
-   "realtor": "명품현대공인중개사사무소",
-   "price_text": "70000/100"
-  },
-  {
-   "article_no": "2649944248",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 100,
-   "area_exclusive": 84.98,
-   "area_supply": 111.85,
-   "floor": "13/18",
-   "building": "5618",
-   "direction": "WS",
-   "confirmed": "2026-09-15",
-   "description": "빠른입주 가능 밝은집입니다  초중고 인접한 대단지 아파트입니다",
-   "realtor": "명품래미안공인중개사사무소",
-   "price_text": "70000/100"
-  },
-  {
    "article_no": "2649899531",
    "trade": "B2",
    "deposit": 70000,
@@ -319,6 +289,21 @@
    "price_text": "70000/100"
   },
   {
+   "article_no": "2649977729",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 100,
+   "area_exclusive": 84.98,
+   "area_supply": 111.85,
+   "floor": "13/18",
+   "building": "5618",
+   "direction": "WS",
+   "confirmed": "2026-09-15",
+   "description": "햇살좋은 집 집상태 좋아요",
+   "realtor": "명품현대공인중개사사무소",
+   "price_text": "70000/100"
+  },
+  {
    "article_no": "2649914714",
    "trade": "B2",
    "deposit": 70000,
@@ -331,6 +316,21 @@
    "confirmed": "2026-09-15",
    "description": "입주 채광밝은 트인전망 초중고 남위례역 도보권 인기",
    "realtor": "금메달공인중개사사무소",
+   "price_text": "70000/100"
+  },
+  {
+   "article_no": "2649944248",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 100,
+   "area_exclusive": 84.98,
+   "area_supply": 111.85,
+   "floor": "13/18",
+   "building": "5618",
+   "direction": "WS",
+   "confirmed": "2026-09-15",
+   "description": "빠른입주 가능 밝은집입니다  초중고 인접한 대단지 아파트입니다",
+   "realtor": "명품래미안공인중개사사무소",
    "price_text": "70000/100"
   },
   {
@@ -544,21 +544,6 @@
    "price_text": "80000/100"
   },
   {
-   "article_no": "2646417478",
-   "trade": "B2",
-   "deposit": 80000,
-   "rent": 100,
-   "area_exclusive": 84.98,
-   "area_supply": 111.85,
-   "floor": "고/18",
-   "building": "5618",
-   "direction": "WS",
-   "confirmed": "2026-08-28",
-   "description": "방3, 남위례역 도보 근접동, 빠른입주가능.",
-   "realtor": "롯데캐슬공인중개사사무소024459600",
-   "price_text": "80000/100"
-  },
-  {
    "article_no": "2646411891",
    "trade": "B2",
    "deposit": 80000,
@@ -571,6 +556,21 @@
    "confirmed": "2026-08-28",
    "description": "주인거주, 역세권, 초중고인접.가스렌지",
    "realtor": "탑공인중개사사무소",
+   "price_text": "80000/100"
+  },
+  {
+   "article_no": "2646417478",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 100,
+   "area_exclusive": 84.98,
+   "area_supply": 111.85,
+   "floor": "고/18",
+   "building": "5618",
+   "direction": "WS",
+   "confirmed": "2026-08-28",
+   "description": "방3, 남위례역 도보 근접동, 빠른입주가능.",
+   "realtor": "롯데캐슬공인중개사사무소024459600",
    "price_text": "80000/100"
   },
   {
