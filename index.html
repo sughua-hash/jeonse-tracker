@@ -216,7 +216,9 @@ async function getJSON(path, fallback){
   catch(e){ return fallback; }
 }
 async function loadAll(){
-  const [cfg, latest] = await Promise.all([getJSON('config/complexes.json', null), getJSON('data/latest.json', null)]);
+  let [cfg, latest] = await Promise.all([getJSON('config/complexes.json', null), getJSON('data/latest.json', null)]);
+  // GitHub Pages 는 커밋 후 반영까지 수 분 걸릴 수 있어, 토큰이 있으면 설정은 GitHub 에서 직접(최신 커밋 기준) 읽음 → 숨김·순서 편집이 바로 유지됨
+  if (S.settings.token && repoInfo()) { try { cfg = (await readConfigFromGithub()).cfg; } catch(e){ /* 실패 시 Pages 사본 사용 */ } }
   S.cfg = cfg || { complexes: [] }; S.latest = latest;
   render();
 }
@@ -621,7 +623,7 @@ function openSettings(){
 }
 
 // ------------------------------------------------------------- 이벤트/시작
-const APP_VERSION = '1.8.2';
+const APP_VERSION = '1.8.3';
 document.getElementById('btn-back').addEventListener('click', goList);
 history.replaceState(null, '');  // 새로 열 때는 항상 목록부터
 document.querySelectorAll('#chips .chip').forEach(x => x.classList.toggle('on', x.dataset.f === S.filter));
