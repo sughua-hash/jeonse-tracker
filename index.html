@@ -395,14 +395,16 @@ function closeSheet(){ document.getElementById('sheet-root').innerHTML = ''; }
 function openAdd(){
   openSheet(`<h2>단지 추가</h2>
     <div class="field"><label>단지 이름 *</label><input id="a-name" placeholder="예: 위례센트럴자이"></div>
-    <div class="field"><label>네이버 부동산 단지 URL 또는 단지번호 (선택, 권장)</label><input id="a-url" placeholder="https://new.land.naver.com/complexes/123456 …">
-      <div class="help">네이버 부동산 앱/웹에서 단지 페이지를 열고 <b>공유 → 링크 복사</b>해 붙이면 정확합니다. 비우면 다음 수집 때 이름으로 자동 검색합니다.</div></div>
+    <div class="field"><label>네이버 부동산 단지 URL 또는 단지번호 (선택, 권장)</label><input id="a-url" placeholder="https://naver.me/… 또는 https://new.land.naver.com/complexes/123456">
+      <div class="help">네이버 부동산 앱/웹에서 단지 페이지를 열고 <b>공유 → 링크 복사</b>해 붙이면 정확합니다 (naver.me 짧은 링크도 OK). 비우면 다음 수집 때 이름으로 자동 검색합니다.</div></div>
     <div class="field"><label>지역 힌트 (선택, 이름 검색 정확도용)</label><input id="a-region" placeholder="예: 경기 성남시 수정구 창곡동"></div>
     <button class="btn" id="a-save">저장</button>`);
   document.getElementById('a-save').addEventListener('click', async () => {
     const name = document.getElementById('a-name').value.trim(); if (!name) return toast('단지 이름을 입력하세요');
     const url = document.getElementById('a-url').value.trim(); const m = url.match(/(?:complexes\/|complex\/info\/|hscpNo=|complexNo=)(\d+)/) || url.match(/^(\d{3,8})$/);
+    if (url && !m && !/^https?:\/\/\S+$/i.test(url)) return toast('URL 형식이 아닙니다. 네이버 부동산 공유 링크(https://naver.me/… 등)를 붙여 주세요', 4000);
     const entry = { name, complexNo: m ? m[1] : null, region: document.getElementById('a-region').value.trim() };
+    if (url && !m) entry.url = url;  // naver.me 등 짧은 공유 링크는 수집기 폰이 따라가서 단지번호를 알아냄
     const btn = document.getElementById('a-save'); btn.disabled = true; btn.innerHTML = '<span class="spin"></span>';
     try {
       const { cfg, sha } = await readConfigFromGithub();
@@ -410,7 +412,7 @@ function openAdd(){
       cfg.complexes.push(entry);
       await writeConfig(cfg, sha, `config: add ${name}`);
       S.cfg = cfg;
-      toast('저장 완료 · 다음 수집(매일 10시) 때 반영됩니다', 4000);
+      toast(entry.complexNo ? '저장 완료 · 다음 수집 때 반영됩니다 (상단 ⟳로 바로 수집 가능)' : '저장 완료 · 다음 수집 때 링크/이름으로 단지번호를 찾습니다 (상단 ⟳로 바로 수집 가능)', 4500);
       closeSheet(); render();
     } catch(e){ toast('실패: ' + e.message, 4000); btn.disabled = false; btn.textContent = '저장'; }
   });
@@ -554,7 +556,7 @@ function openSettings(){
 }
 
 // ------------------------------------------------------------- 이벤트/시작
-const APP_VERSION = '1.5.0';
+const APP_VERSION = '1.5.1';
 document.getElementById('btn-back').addEventListener('click', () => { S.view = 'list'; render(); });
 document.getElementById('btn-add').addEventListener('click', openAdd);
 document.getElementById('btn-order').addEventListener('click', openOrder);
