@@ -245,7 +245,8 @@ const DEFAULT_BANDS = [
 function bands(){ const set = S.latest?.settings || S.cfg || {}; return (set.area_bands || S.cfg?.area_bands || DEFAULT_BANDS).map(b => b.default ? { ...b, min: +set.area_min_m2 || b.min, max: +set.area_max_m2 || b.max, label: `${+set.area_min_m2 || b.min}~${+set.area_max_m2 || b.max}㎡ (84형)` } : b); }
 function curBand(){ const bs = bands(); return bs.find(b => b.key === S.band) || bs.find(b => b.default) || bs[0]; }
 function recFor(t){ if (!t) return null; const b = curBand(); return b.default ? t : (t.bands?.[b.key] || null); }
-function bandSelectHtml(){ const cur = curBand(); return `<select id="band" class="bandsel" title="평형 선택">${bands().map(b => `<option value="${esc(b.key)}" ${b.key===cur.key?'selected':''}>${esc(b.label)}</option>`).join('')}</select>`; }
+function bandCount(b){ return mergedComplexes().filter(it => !isHidden(it) && it.today).filter(it => { const r = b.default ? it.today : it.today.bands?.[b.key]; return r?.counts?.in_area > 0; }).length; }  // 이 평형대에 매물이 있는 단지 수
+function bandSelectHtml(){ const cur = curBand(); return `<select id="band" class="bandsel" title="평형 선택">${bands().map(b => `<option value="${esc(b.key)}" ${b.key===cur.key?'selected':''}>${esc(b.label)} · ${bandCount(b)}개 단지</option>`).join('')}</select>`; }
 function bindBand(){ document.getElementById('band')?.addEventListener('change', e => { S.band = e.target.value; safeSet('band', S.band); render(); }); }
 function inBand(a){ const b = curBand(); const x = +a.area_exclusive; return x >= b.min && x <= b.max; }
 function convWithRate(dep, rent){ const rate = +(S.cfg?.conversion_rate_pct || 5.5); return Math.round(dep + rent*12*100/rate); }
@@ -620,7 +621,7 @@ function openSettings(){
 }
 
 // ------------------------------------------------------------- 이벤트/시작
-const APP_VERSION = '1.8.1';
+const APP_VERSION = '1.8.2';
 document.getElementById('btn-back').addEventListener('click', goList);
 history.replaceState(null, '');  // 새로 열 때는 항상 목록부터
 document.querySelectorAll('#chips .chip').forEach(x => x.classList.toggle('on', x.dataset.f === S.filter));
