@@ -5,6 +5,7 @@
 cd "$(dirname "$0")"
 mkdir -p logs
 PIDF=logs/daemon.pid
+export DAEMON_VER=2   # run_termux.sh 가 logs/daemon.version 과 비교해 구버전 데몬이면 자동 재시작
 stop_daemon(){
   if [ -f "$PIDF" ] && kill -0 "$(cat "$PIDF")" 2>/dev/null; then kill "$(cat "$PIDF")" 2>/dev/null; sleep 1; echo "이전 데몬 종료 (pid $(cat "$PIDF"))"; fi
   rm -f "$PIDF"
@@ -19,6 +20,7 @@ export RUN_AT="${RUN_AT:-10:00}"
 nohup bash -c '
   cd "'"$(pwd)"'"
   echo $$ > logs/daemon.pid
+  echo "$DAEMON_VER" > logs/daemon.version
   topic=$(python -c "import json;print(json.load(open(\"local_config.json\")).get(\"ntfy_topic\",\"\"))" 2>/dev/null)
   cmd_topic=""; [ -n "$topic" ] && cmd_topic="${topic}-cmd"
   next=$(date -d "today $RUN_AT" +%s); [ "$next" -le "$(date +%s)" ] && next=$(date -d "tomorrow $RUN_AT" +%s)
