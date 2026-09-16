@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-16T10:44:22+09:00",
+ "generated_at": "2026-09-16T11:18:48+09:00",
  "date": "2026-09-16",
  "settings": {
   "area_min_m2": 83,
   "area_max_m2": 85,
   "wolse_deposit_max_manwon": 50000,
-  "conversion_rate_pct": 5.5
+  "conversion_rate_pct": 4
  },
  "complexes": [
   {
@@ -18,15 +18,15 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 101,
+     "all": 103,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
      "wolse_ok": 0
     },
     "areas": {
-     "98.9": 29,
-     "99": 72
+     "98.9": 30,
+     "99": 73
     },
     "date": "2026-09-16",
     "source": "fin",
@@ -204,10 +204,10 @@
      }
     },
     "wolse_conv": {
-     "conv": 78364,
+     "conv": 89000,
      "rent": 130,
      "deposit": 50000,
-     "rate_pct": 5.5,
+     "rate_pct": 4.0,
      "article": {
       "article_no": "2649954985",
       "deposit": 50000,
@@ -408,14 +408,14 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 88,
+     "all": 90,
      "in_area": 19,
      "jeonse": 18,
      "wolse": 1,
      "wolse_ok": 0
     },
     "areas": {
-     "51.9": 9,
+     "51.9": 11,
      "59.8": 51,
      "60": 6,
      "75": 3,
@@ -847,25 +847,25 @@
      }
     },
     "wolse_conv": {
-     "conv": 116000,
-     "rent": 440,
-     "deposit": 20000,
-     "rate_pct": 5.5,
+     "conv": 150000,
+     "rent": 400,
+     "deposit": 30000,
+     "rate_pct": 4.0,
      "article": {
-      "article_no": "2649353318",
-      "deposit": 20000,
-      "rent": 440,
+      "article_no": "2648808831",
+      "deposit": 30000,
+      "rent": 400,
       "area": 84.04,
       "floor": "중/30",
       "building": "118",
-      "direction": "SS",
-      "confirmed": "2026-09-12",
-      "price_text": "20000/440",
-      "url": "https://m.land.naver.com/article/info/2649353318"
+      "direction": "WS",
+      "confirmed": "2026-09-09",
+      "price_text": "30000/400",
+      "url": "https://m.land.naver.com/article/info/2648808831"
      }
     },
     "counts": {
-     "all": 107,
+     "all": 91,
      "in_area": 7,
      "jeonse": 2,
      "wolse": 5,
@@ -874,8 +874,8 @@
     "areas": {
      "59": 8,
      "59.8": 19,
-     "73.6": 46,
-     "73.9": 22,
+     "73.6": 47,
+     "73.9": 5,
      "84": 2,
      "84.2": 5,
      "113.4": 5
@@ -948,7 +948,7 @@
     "jeonse": {
      "price": 95000,
      "article": {
-      "article_no": "2650082845",
+      "article_no": "2650086080",
       "deposit": 95000,
       "rent": 0,
       "area": 84.91,
@@ -957,7 +957,7 @@
       "direction": "SS",
       "confirmed": "2026-09-16",
       "price_text": "95000",
-      "url": "https://m.land.naver.com/article/info/2650082845"
+      "url": "https://m.land.naver.com/article/info/2650086080"
      }
     },
     "wolse_rent": {
@@ -977,34 +977,34 @@
      }
     },
     "wolse_conv": {
-     "conv": 96727,
-     "rent": 260,
-     "deposit": 40000,
-     "rate_pct": 5.5,
+     "conv": 116000,
+     "rent": 220,
+     "deposit": 50000,
+     "rate_pct": 4.0,
      "article": {
-      "article_no": "2650076299",
-      "deposit": 40000,
-      "rent": 260,
+      "article_no": "2649828664",
+      "deposit": 50000,
+      "rent": 220,
       "area": 84.97,
       "floor": "7/29",
       "building": "514",
       "direction": "SS",
-      "confirmed": "2026-09-16",
-      "price_text": "40000/260",
-      "url": "https://m.land.naver.com/article/info/2650076299"
+      "confirmed": "2026-09-15",
+      "price_text": "50000/220",
+      "url": "https://m.land.naver.com/article/info/2649828664"
      }
     },
     "counts": {
-     "all": 313,
-     "in_area": 124,
-     "jeonse": 107,
+     "all": 322,
+     "in_area": 127,
+     "jeonse": 110,
      "wolse": 17,
      "wolse_ok": 13
     },
     "areas": {
-     "60": 189,
-     "84.9": 48,
-     "85": 76
+     "60": 195,
+     "84.9": 49,
+     "85": 78
     },
     "date": "2026-09-16",
     "source": "fin",
@@ -1103,34 +1103,34 @@
      }
     },
     "wolse_conv": {
-     "conv": 96364,
-     "rent": 350,
-     "deposit": 20000,
-     "rate_pct": 5.5,
+     "conv": 116000,
+     "rent": 220,
+     "deposit": 50000,
+     "rate_pct": 4.0,
      "article": {
-      "article_no": "2648901584",
-      "deposit": 20000,
-      "rent": 350,
-      "area": 84.95,
-      "floor": "중/32",
-      "building": "326",
-      "direction": "WS",
-      "confirmed": "2026-09-10",
-      "price_text": "20000/350",
-      "url": "https://m.land.naver.com/article/info/2648901584"
+      "article_no": "2648291778",
+      "deposit": 50000,
+      "rent": 220,
+      "area": 84.97,
+      "floor": "저/32",
+      "building": "316",
+      "direction": "ES",
+      "confirmed": "2026-09-07",
+      "price_text": "50000/220",
+      "url": "https://m.land.naver.com/article/info/2648291778"
      }
     },
     "counts": {
-     "all": 166,
-     "in_area": 162,
-     "jeonse": 154,
-     "wolse": 8,
+     "all": 168,
+     "in_area": 164,
+     "jeonse": 157,
+     "wolse": 7,
      "wolse_ok": 2
     },
     "areas": {
      "60": 4,
-     "84.9": 73,
-     "85": 89
+     "84.9": 72,
+     "85": 92
     },
     "date": "2026-09-16",
     "source": "fin",
@@ -1192,12 +1192,6 @@
    "hidden": false
   },
   {
-   "complexNo": null,
-   "name": "고덕자이",
-   "error": "단지번호 미확인",
-   "region": "서울 강동구 상일동 상일로 55"
-  },
-  {
    "complexNo": "140148",
    "name": "고덕풍경채어바니티",
    "region": "서울 강동구 고덕동 아리수로",
@@ -1221,16 +1215,16 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 28,
-     "in_area": 22,
+     "all": 29,
+     "in_area": 23,
      "jeonse": 14,
-     "wolse": 8,
+     "wolse": 9,
      "wolse_ok": 0
     },
     "areas": {
      "84": 1,
      "84.2": 4,
-     "84.7": 17,
+     "84.7": 18,
      "101": 6
     },
     "date": "2026-09-16",
@@ -1597,27 +1591,27 @@
      }
     },
     "wolse_conv": {
-     "conv": 76727,
-     "rent": 260,
-     "deposit": 20000,
-     "rate_pct": 5.5,
+     "conv": 89000,
+     "rent": 130,
+     "deposit": 50000,
+     "rate_pct": 4.0,
      "article": {
-      "article_no": "2646117749",
-      "deposit": 20000,
-      "rent": 260,
-      "area": 84.96,
-      "floor": "고/23",
-      "building": "121",
-      "direction": "ES",
-      "confirmed": "2026-08-27",
-      "price_text": "20000/260",
-      "url": "https://m.land.naver.com/article/info/2646117749"
+      "article_no": "2647081940",
+      "deposit": 50000,
+      "rent": 130,
+      "area": 84.92,
+      "floor": "중/25",
+      "building": "125",
+      "direction": "WS",
+      "confirmed": "2026-09-01",
+      "price_text": "50000/130",
+      "url": "https://m.land.naver.com/article/info/2647081940"
      }
     },
     "counts": {
-     "all": 269,
-     "in_area": 72,
-     "jeonse": 56,
+     "all": 270,
+     "in_area": 73,
+     "jeonse": 57,
      "wolse": 16,
      "wolse_ok": 13
     },
@@ -1625,7 +1619,7 @@
      "59.8": 43,
      "67.9": 14,
      "75": 128,
-     "84.9": 57,
+     "84.9": 58,
      "85": 15,
      "98.7": 12
     },
@@ -1802,10 +1796,10 @@
      }
     },
     "wolse_conv": {
-     "conv": 38909,
+     "conv": 52000,
      "rent": 160,
      "deposit": 4000,
-     "rate_pct": 5.5,
+     "rate_pct": 4.0,
      "article": {
       "article_no": "2649896081",
       "deposit": 4000,
@@ -1985,9 +1979,9 @@
     },
     "areas": {
      "19.8": 1,
-     "27.1": 2,
+     "27.1": 1,
      "58.6": 2,
-     "58.7": 4,
+     "58.7": 5,
      "58.9": 1,
      "79.6": 2
     },
@@ -2280,33 +2274,33 @@
      }
     },
     "wolse_conv": {
-     "conv": 64273,
-     "rent": 180,
-     "deposit": 25000,
-     "rate_pct": 5.5,
+     "conv": 72000,
+     "rent": 90,
+     "deposit": 45000,
+     "rate_pct": 4.0,
      "article": {
-      "article_no": "2650056876",
-      "deposit": 25000,
-      "rent": 180,
+      "article_no": "2647354794",
+      "deposit": 45000,
+      "rent": 90,
       "area": 84.95,
-      "floor": "5/30",
+      "floor": "저/30",
       "building": "7511",
-      "direction": "WS",
-      "confirmed": "2026-09-16",
-      "price_text": "25000/180",
-      "url": "https://m.land.naver.com/article/info/2650056876"
+      "direction": "SS",
+      "confirmed": "2026-09-02",
+      "price_text": "45000/90",
+      "url": "https://m.land.naver.com/article/info/2647354794"
      }
     },
     "counts": {
-     "all": 93,
-     "in_area": 90,
-     "jeonse": 25,
+     "all": 94,
+     "in_area": 91,
+     "jeonse": 26,
      "wolse": 65,
      "wolse_ok": 65
     },
     "areas": {
      "79.8": 3,
-     "85": 90
+     "85": 91
     },
     "date": "2026-09-16",
     "source": "fin",
@@ -2366,10 +2360,16 @@
    },
    "history_len": 1,
    "hidden": false
+  },
+  {
+   "complexNo": null,
+   "name": "고덕자이",
+   "error": "단지번호 미확인",
+   "region": ""
   }
  ],
  "errors": [
-  "고덕자이: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
-  "더샵지제역센트럴파크(1BL): 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요."
+  "더샵지제역센트럴파크(1BL): 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.",
+  "고덕자이: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요."
  ]
 }

@@ -109,6 +109,36 @@
    "price_text": "88000"
   },
   {
+   "article_no": "2650101038",
+   "trade": "B1",
+   "deposit": 88000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 114.23,
+   "floor": "고/15",
+   "building": "6403",
+   "direction": "SS",
+   "confirmed": "2026-09-16",
+   "description": "로얄동,로얄층,융자무,초중고인접,상가학원이용편리,아이키우기 좋은 아파트",
+   "realtor": "02-431-5600롯데부동산공인중개사사무소",
+   "price_text": "88000"
+  },
+  {
+   "article_no": "2650084177",
+   "trade": "B1",
+   "deposit": 88000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 114.23,
+   "floor": "고/15",
+   "building": "6403",
+   "direction": "ES",
+   "confirmed": "2026-09-16",
+   "description": "입구 로얄동 융무 에어컨 상가 학교 가까운동",
+   "realtor": "더캐슬공인중개사사무소",
+   "price_text": "88000"
+  },
+  {
    "article_no": "2650042544",
    "trade": "B1",
    "deposit": 88000,
@@ -169,6 +199,21 @@
    "price_text": "88000"
   },
   {
+   "article_no": "2650093029",
+   "trade": "B1",
+   "deposit": 88000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 114.23,
+   "floor": "고/15",
+   "building": "6403",
+   "direction": "SS",
+   "confirmed": "2026-09-16",
+   "description": "귀한전세,시스템에어컨. 채광좋고 관리잘된집. 붙박이장. 위례초중고바로앞",
+   "realtor": "위례제일024033777공인중개사사무소",
+   "price_text": "88000"
+  },
+  {
    "article_no": "2650037544",
    "trade": "B1",
    "deposit": 88000,
@@ -211,36 +256,6 @@
    "confirmed": "2026-09-15",
    "description": "로얄동 로얄층, 시원한 전망, 학교 상가 가까운동, 인기판상형",
    "realtor": "일번지공인중개사사무소",
-   "price_text": "88000"
-  },
-  {
-   "article_no": "2649859264",
-   "trade": "B1",
-   "deposit": 88000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 114.23,
-   "floor": "고/15",
-   "building": "6403",
-   "direction": "SS",
-   "confirmed": "2026-09-15",
-   "description": "귀한전세,시스템에어컨. 채광좋고 관리잘된집. 붙박이장. 위례초중고바로앞",
-   "realtor": "위례제일024033777공인중개사사무소",
-   "price_text": "88000"
-  },
-  {
-   "article_no": "2649897468",
-   "trade": "B1",
-   "deposit": 88000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 114.23,
-   "floor": "고/15",
-   "building": "6403",
-   "direction": "SS",
-   "confirmed": "2026-09-15",
-   "description": "로얄동,로얄층,융자무,초중고인접,상가학원이용편리,아이키우기 좋은 아파트",
-   "realtor": "02-431-5600롯데부동산공인중개사사무소",
    "price_text": "88000"
   },
   {
@@ -289,21 +304,6 @@
    "price_text": "88000"
   },
   {
-   "article_no": "2649658695",
-   "trade": "B1",
-   "deposit": 88000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 114.23,
-   "floor": "고/15",
-   "building": "6403",
-   "direction": "SS",
-   "confirmed": "2026-09-14",
-   "description": "I 일등 I 에어컨,융자무,탁트인뷰,상가이용편리한동",
-   "realtor": "롯데일등공인중개사사무소",
-   "price_text": "88000"
-  },
-  {
    "article_no": "2649680717",
    "trade": "B1",
    "deposit": 88000,
@@ -319,7 +319,7 @@
    "price_text": "88000"
   },
   {
-   "article_no": "2649386188",
+   "article_no": "2649658695",
    "trade": "B1",
    "deposit": 88000,
    "rent": 0,
@@ -328,9 +328,9 @@
    "floor": "고/15",
    "building": "6403",
    "direction": "SS",
-   "confirmed": "2026-09-12",
-   "description": "융자없음. 상가 학원 이용편리. 에어컨있음. 판상형구조.",
-   "realtor": "오페라(02-431-8300)공인중개사사무소",
+   "confirmed": "2026-09-14",
+   "description": "I 일등 I 에어컨,융자무,탁트인뷰,상가이용편리한동",
+   "realtor": "롯데일등공인중개사사무소",
    "price_text": "88000"
   },
   {
@@ -349,7 +349,7 @@
    "price_text": "88000"
   },
   {
-   "article_no": "2649131697",
+   "article_no": "2649386188",
    "trade": "B1",
    "deposit": 88000,
    "rent": 0,
@@ -357,10 +357,10 @@
    "area_supply": 114.23,
    "floor": "고/15",
    "building": "6403",
-   "direction": "ES",
-   "confirmed": "2026-09-11",
-   "description": "입구 로얄동 융무 에어컨 상가 학교 가까운동",
-   "realtor": "더캐슬공인중개사사무소",
+   "direction": "SS",
+   "confirmed": "2026-09-12",
+   "description": "융자없음. 상가 학원 이용편리. 에어컨있음. 판상형구조.",
+   "realtor": "오페라(02-431-8300)공인중개사사무소",
    "price_text": "88000"
   },
   {

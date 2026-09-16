@@ -32,33 +32,33 @@
    }
   },
   "wolse_conv": {
-   "conv": 64273,
-   "rent": 180,
-   "deposit": 25000,
-   "rate_pct": 5.5,
+   "conv": 72000,
+   "rent": 90,
+   "deposit": 45000,
+   "rate_pct": 4.0,
    "article": {
-    "article_no": "2650056876",
-    "deposit": 25000,
-    "rent": 180,
+    "article_no": "2647354794",
+    "deposit": 45000,
+    "rent": 90,
     "area": 84.95,
-    "floor": "5/30",
+    "floor": "저/30",
     "building": "7511",
-    "direction": "WS",
-    "confirmed": "2026-09-16",
-    "price_text": "25000/180",
-    "url": "https://m.land.naver.com/article/info/2650056876"
+    "direction": "SS",
+    "confirmed": "2026-09-02",
+    "price_text": "45000/90",
+    "url": "https://m.land.naver.com/article/info/2647354794"
    }
   },
   "counts": {
-   "all": 93,
-   "in_area": 90,
-   "jeonse": 25,
+   "all": 94,
+   "in_area": 91,
+   "jeonse": 26,
    "wolse": 65,
    "wolse_ok": 65
   },
   "areas": {
    "79.8": 3,
-   "85": 90
+   "85": 91
   },
   "date": "2026-09-16",
   "source": "fin",

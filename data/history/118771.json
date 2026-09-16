@@ -32,27 +32,27 @@
    }
   },
   "wolse_conv": {
-   "conv": 76727,
-   "rent": 260,
-   "deposit": 20000,
-   "rate_pct": 5.5,
+   "conv": 89000,
+   "rent": 130,
+   "deposit": 50000,
+   "rate_pct": 4.0,
    "article": {
-    "article_no": "2646117749",
-    "deposit": 20000,
-    "rent": 260,
-    "area": 84.96,
-    "floor": "고/23",
-    "building": "121",
-    "direction": "ES",
-    "confirmed": "2026-08-27",
-    "price_text": "20000/260",
-    "url": "https://m.land.naver.com/article/info/2646117749"
+    "article_no": "2647081940",
+    "deposit": 50000,
+    "rent": 130,
+    "area": 84.92,
+    "floor": "중/25",
+    "building": "125",
+    "direction": "WS",
+    "confirmed": "2026-09-01",
+    "price_text": "50000/130",
+    "url": "https://m.land.naver.com/article/info/2647081940"
    }
   },
   "counts": {
-   "all": 269,
-   "in_area": 72,
-   "jeonse": 56,
+   "all": 270,
+   "in_area": 73,
+   "jeonse": 57,
    "wolse": 16,
    "wolse_ok": 13
   },
@@ -60,7 +60,7 @@
    "59.8": 43,
    "67.9": 14,
    "75": 128,
-   "84.9": 57,
+   "84.9": 58,
    "85": 15,
    "98.7": 12
   },
