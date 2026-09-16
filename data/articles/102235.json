@@ -4,6 +4,36 @@
  "name": "고덕리엔파크3단지",
  "articles": [
   {
+   "article_no": "2650012139",
+   "trade": "B1",
+   "deposit": 68000,
+   "rent": 0,
+   "area_exclusive": 59.72,
+   "area_supply": 79.24,
+   "floor": "중/12",
+   "building": "338",
+   "direction": "SS",
+   "confirmed": "2026-09-15",
+   "description": "무융자세대로 확장형 초품아단지 최고의동 남향 단지뷰",
+   "realtor": "뱅크(426-8400)공인중개사",
+   "price_text": "68000"
+  },
+  {
+   "article_no": "2647748542",
+   "trade": "B1",
+   "deposit": 68000,
+   "rent": 0,
+   "area_exclusive": 59.72,
+   "area_supply": 79.24,
+   "floor": "중/12",
+   "building": "338",
+   "direction": "SS",
+   "confirmed": "2026-09-04",
+   "description": "",
+   "realtor": "뱅크(426-8400)공인중개사사무소",
+   "price_text": "68000"
+  },
+  {
    "article_no": "2649619849",
    "trade": "B1",
    "deposit": 70000,
@@ -122,6 +152,66 @@
    "description": "단지 중앙,아이키우기 좋은 집,",
    "realtor": "태영공인중개사사무소",
    "price_text": "75000/10"
+  },
+  {
+   "article_no": "2650012514",
+   "trade": "B2",
+   "deposit": 55000,
+   "rent": 55,
+   "area_exclusive": 59.72,
+   "area_supply": 79.24,
+   "floor": "중/12",
+   "building": "338",
+   "direction": "SS",
+   "confirmed": "2026-09-15",
+   "description": "강일역세권 최고의동 남향 무융자 올확장 깨끗하며 입주일자 협의가능",
+   "realtor": "뱅크(426-8400)공인중개사",
+   "price_text": "55000/55"
+  },
+  {
+   "article_no": "2647755191",
+   "trade": "B2",
+   "deposit": 55000,
+   "rent": 55,
+   "area_exclusive": 59.72,
+   "area_supply": 79.24,
+   "floor": "중/12",
+   "building": "338",
+   "direction": "SS",
+   "confirmed": "2026-09-04",
+   "description": "귀한전세 강일역세권  초품아단지 확장형 무융자세대 단지뷰 오래살수 있어요",
+   "realtor": "뱅크(426-8400)공인중개사사무소",
+   "price_text": "55000/55"
+  },
+  {
+   "article_no": "2649796969",
+   "trade": "B2",
+   "deposit": 10000,
+   "rent": 260,
+   "area_exclusive": 59.83,
+   "area_supply": 79.26,
+   "floor": "중/12",
+   "building": "338",
+   "direction": "SS",
+   "confirmed": "2026-09-14",
+   "description": "확장됨, 정남향, 지하철가까운동, 초중인접, 대기업출퇴근용이",
+   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
+   "price_text": "10000/260"
+  },
+  {
+   "article_no": "2645973926",
+   "trade": "B2",
+   "deposit": 10000,
+   "rent": 260,
+   "area_exclusive": 59.83,
+   "area_supply": 79.26,
+   "floor": "중/12",
+   "building": "338",
+   "direction": "SS",
+   "confirmed": "2026-08-26",
+   "description": "채광좋은 남향.강명초,중인접. 27.1.7.이후 입주협의.강일역 도보8분",
+   "realtor": "고덕삼성공인중개사사무소(02-442-2000)",
+   "price_text": "10000/260"
   }
  ]
 }
