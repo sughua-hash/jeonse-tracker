@@ -271,7 +271,7 @@ function renderList(){
   for (const it of items){
     const t = it.today; const d = t?.deltas || {};
     const j = t?.jeonse, w = t?.wolse_rent, c = t?.wolse_conv;
-    const badge = !it.complexNo ? `<span class="badge">단지번호 확인 중</span>` : it.error ? `<span class="badge">수집 오류</span>` : it.stale ? `<span class="badge">이전 데이터</span>` : it.cfg.type==='OPST' ? `<span class="badge">오피스텔</span>` : '';
+    const badge = !it.complexNo ? `<span class="badge">${it.error ? '링크 등록 필요 · 탭' : '단지번호 확인 중'}</span>` : it.error ? `<span class="badge">수집 오류</span>` : it.stale ? `<span class="badge">이전 데이터</span>` : it.cfg.type==='OPST' ? `<span class="badge">오피스텔</span>` : '';
     html += `<button class="card" data-no="${esc(it.complexNo||'')}" data-name="${esc(it.name)}">
       <div class="name">${esc(it.name)} ${badge}</div>
       <div class="region">${esc(it.region)}${t?.date && t.date !== L?.date ? ' · ' + fmt.md(t.date) + ' 기준' : ''}</div>
@@ -301,6 +301,10 @@ async function renderDetail(){
 
   let html = `<div class="detail">`;
   if (no) html += `<div class="region">단지번호 ${esc(no)} · <a href="https://m.land.naver.com/complex/info/${esc(no)}" target="_blank" rel="noopener">네이버 부동산에서 보기 ↗</a></div>`;
+  if (it && !no) html += `<div class="panel"><h3>단지번호 미확인 — 링크 등록</h3>
+      <div class="help" style="margin-bottom:10px">${it.error && it.error !== '단지번호 미확인' ? esc(it.error) + '<br>' : ''}이름 검색으로 단지를 특정하지 못했습니다. 네이버 부동산 앱/웹에서 이 단지 페이지를 열고 <b>공유 → 링크 복사</b>한 주소를 붙여 저장하세요 (naver.me 짧은 링크도 OK). 저장 후 상단 ⟳를 누르면 바로 수집됩니다.</div>
+      <div class="field"><input id="d-url" placeholder="https://naver.me/… 또는 https://new.land.naver.com/complexes/123456" value="${esc(it.cfg.url || '')}"></div>
+      <button class="btn" id="d-url-save">링크 저장</button></div>`;
   if (today){
     const d = today.deltas || {};
     html += `<div class="panel"><h3>오늘 최저가 <span class="sp"></span><span style="font-weight:400;color:var(--muted)">${fmt.md(today.date)} · 전세 ${today.counts.jeonse}건 · 월세 ${today.counts.wolse_ok}/${today.counts.wolse}건</span></h3>
@@ -342,6 +346,7 @@ async function renderDetail(){
   document.querySelectorAll('#tabs button').forEach(b => b.addEventListener('click', () => { document.querySelectorAll('#tabs button').forEach(x=>x.classList.toggle('on', x===b)); document.getElementById('tab-je').hidden = b.dataset.t!=='je'; document.getElementById('tab-wo').hidden = b.dataset.t!=='wo'; }));
   document.getElementById('btn-remove').addEventListener('click', () => removeComplex(it));
   document.getElementById('btn-hide').addEventListener('click', () => toggleHide(it));
+  document.getElementById('d-url-save')?.addEventListener('click', e => { e.target.disabled = true; saveComplexUrl(it, document.getElementById('d-url').value).finally(() => { e.target.disabled = false; }); });
   drawCharts(h);
 }
 
@@ -380,8 +385,27 @@ async function gh(path, opts={}){
   return j;
 }
 async function readConfigFromGithub(){
-  const j = await gh('/contents/config/complexes.json?ref=main');
+  // contents API 를 ref=main 으로 읽으면 방금 커밋한 내용이 잠시(수십 초) 옛 버전으로 올 수 있음 → 최신 커밋 sha 를 먼저 받아 그 sha 로 고정해 읽음
+  const ref = await gh(`/git/ref/heads/main?t=${Date.now()}`, { cache: 'no-store' });
+  const j = await gh(`/contents/config/complexes.json?ref=${ref.object.sha}&t=${Date.now()}`, { cache: 'no-store' });
   return { cfg: JSON.parse(b64decodeUtf8(j.content)), sha: j.sha };
+}
+function parseComplexNo(url){ const m = url.match(/(?:complexes\/|complex\/info\/|hscpNo=|complexNo=|complexNumber=)(\d+)/) || url.match(/^(\d{3,8})$/); return m ? m[1] : null; }
+async function saveComplexUrl(it, url){
+  url = (url || '').trim();
+  if (!url) return toast('링크를 붙여 넣으세요');
+  const no = parseComplexNo(url);
+  if (!no && !/^https?:\/\/\S+$/i.test(url)) return toast('URL 형식이 아닙니다. 네이버 부동산 공유 링크(https://naver.me/… 등)를 붙여 주세요', 4000);
+  try {
+    const { cfg, sha } = await readConfigFromGithub();
+    const c = cfg.complexes.find(x => x.name === it.name);
+    if (!c) throw new Error('설정에서 단지를 찾지 못했습니다');
+    if (no) { c.complexNo = no; delete c.url; } else { c.url = url; delete c.complexNo; }
+    await writeConfig(cfg, sha, `config: url ${it.name}`);
+    S.cfg = cfg; S.detailNo = no || null; S.detailName = it.name;
+    toast(no ? '단지번호 저장 완료 · 상단 ⟳로 바로 수집해 보세요' : '링크 저장 완료 · 다음 수집(⟳) 때 단지번호를 알아냅니다', 4500);
+    S.view = 'list'; render();
+  } catch(e){ toast('실패: ' + e.message, 4000); }
 }
 async function writeConfig(cfg, sha, message){
   await gh('/contents/config/complexes.json', { method: 'PUT', body: JSON.stringify({ message, sha, branch: 'main', content: b64encodeUtf8(JSON.stringify(cfg, null, 2) + '\n') }) });
@@ -408,9 +432,11 @@ function openAdd(){
     const btn = document.getElementById('a-save'); btn.disabled = true; btn.innerHTML = '<span class="spin"></span>';
     try {
       const { cfg, sha } = await readConfigFromGithub();
-      if (cfg.complexes.some(c => c.name === name || (entry.complexNo && String(c.complexNo) === entry.complexNo))) throw new Error('이미 등록된 단지입니다');
-      cfg.complexes.push(entry);
-      await writeConfig(cfg, sha, `config: add ${name}`);
+      const dup = cfg.complexes.find(c => c.name === name || (entry.complexNo && String(c.complexNo) === entry.complexNo));
+      if (dup && !url) throw new Error('이미 등록된 단지입니다');
+      if (dup) { if (entry.complexNo) { dup.complexNo = entry.complexNo; delete dup.url; } else { dup.url = url; } if (entry.region) dup.region = entry.region; }
+      else cfg.complexes.push(entry);
+      await writeConfig(cfg, sha, dup ? `config: url ${name}` : `config: add ${name}`);
       S.cfg = cfg;
       toast(entry.complexNo ? '저장 완료 · 다음 수집 때 반영됩니다 (상단 ⟳로 바로 수집 가능)' : '저장 완료 · 다음 수집 때 링크/이름으로 단지번호를 찾습니다 (상단 ⟳로 바로 수집 가능)', 4500);
       closeSheet(); render();
@@ -556,7 +582,7 @@ function openSettings(){
 }
 
 // ------------------------------------------------------------- 이벤트/시작
-const APP_VERSION = '1.5.1';
+const APP_VERSION = '1.6.0';
 document.getElementById('btn-back').addEventListener('click', () => { S.view = 'list'; render(); });
 document.getElementById('btn-add').addEventListener('click', openAdd);
 document.getElementById('btn-order').addEventListener('click', openOrder);
