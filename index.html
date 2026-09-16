@@ -44,6 +44,7 @@ a{color:var(--blue)}
 .top .sub{font-size:12px;color:var(--muted);margin-top:2px}
 .icon-btn{width:38px;height:38px;border-radius:12px;display:grid;place-items:center;background:var(--surface);border:1px solid var(--border);font-size:18px;box-shadow:var(--shadow)}
 .icon-btn:active{transform:scale(.96)}
+.bandsel{font:inherit;font-size:12px;font-weight:600;color:var(--blue);background:transparent;border:0;border-bottom:1px dashed var(--blue);border-radius:0;padding:0 2px;width:auto;display:inline;appearance:auto;-webkit-appearance:menulist-button}
 .icon-btn.busy{animation:sp 1.2s linear infinite;color:var(--blue)}
 @media (max-width:400px){.top h1{font-size:17px}.icon-btn{width:34px;height:34px;font-size:16px}.top-row{gap:6px}}
 
@@ -166,6 +167,7 @@ const S = {
   settings: JSON.parse(safeGet('settings') || '{}'),
   localHidden: new Set(JSON.parse(safeGet('hidden') || '[]')),
   localOrder: JSON.parse(safeGet('order') || 'null'),
+  band: safeGet('band') || '84',
 };
 function saveOrder(){ if (S.localOrder) safeSet('order', JSON.stringify(S.localOrder)); else { try{ localStorage.removeItem('order'); }catch(e){} } }
 function orderComplexes(list){ if (!S.localOrder) return list; const idx = new Map(S.localOrder.map((n,i)=>[n,i])); return list.map((c,i)=>[idx.has(c.name)?idx.get(c.name):1e6+i, c]).sort((a,b)=>a[0]-b[0]).map(x=>x[1]); }
@@ -228,6 +230,20 @@ function dong(b){ b = String(b || ''); return /^\d+$/.test(b) ? b + '동' : b; }
 function areaLine(t){ const a = t?.areas; if (!a || !Object.keys(a).length) return '';
   const parts = Object.entries(a).map(([k,v]) => `${k}㎡ ${v}건`); return `<div class="areas">전용면적 분포 · ${parts.join(' · ')}</div>`; }
 function metric(rec, key){ if (!rec || !rec[key]) return null; return key==='jeonse' ? rec.jeonse.price : key==='wolse_rent' ? rec.wolse_rent.rent : rec.wolse_conv.conv; }
+// ---- 평형대(전용면적 구간): 기본 구간은 설정의 area_min/max, 나머지는 수집기가 rec.bands[key]에 저장
+const DEFAULT_BANDS = [
+  { key:'84', label:'84㎡ (전용 83~85)', min:83, max:85, default:true },
+  { key:'100', label:'86~105㎡', min:85.01, max:105 },
+  { key:'115', label:'106~120㎡', min:105.01, max:120 },
+  { key:'130', label:'121~140㎡', min:120.01, max:140 },
+  { key:'150', label:'141㎡ 이상', min:140.01, max:9999 },
+];
+function bands(){ const set = S.latest?.settings || S.cfg || {}; return (set.area_bands || S.cfg?.area_bands || DEFAULT_BANDS).map(b => b.default ? { ...b, min: +set.area_min_m2 || b.min, max: +set.area_max_m2 || b.max, label: `${+set.area_min_m2 || b.min}~${+set.area_max_m2 || b.max}㎡ (84형)` } : b); }
+function curBand(){ const bs = bands(); return bs.find(b => b.key === S.band) || bs.find(b => b.default) || bs[0]; }
+function recFor(t){ if (!t) return null; const b = curBand(); return b.default ? t : (t.bands?.[b.key] || null); }
+function bandSelectHtml(){ const cur = curBand(); return `<select id="band" class="bandsel" title="평형 선택">${bands().map(b => `<option value="${esc(b.key)}" ${b.key===cur.key?'selected':''}>${esc(b.label)}</option>`).join('')}</select>`; }
+function bindBand(){ document.getElementById('band')?.addEventListener('change', e => { S.band = e.target.value; safeSet('band', S.band); render(); }); }
+function inBand(a){ const b = curBand(); const x = +a.area_exclusive; return x >= b.min && x <= b.max; }
 function convWithRate(dep, rent){ const rate = +(S.cfg?.conversion_rate_pct || 5.5); return Math.round(dep + rent*12*100/rate); }
 
 // ------------------------------------------------------------- 렌더
@@ -254,35 +270,36 @@ function renderList(){
   const L = S.latest;
   document.getElementById('title').textContent = '전월세 최저가';
   const set = L?.settings || S.cfg;
-  document.getElementById('subtitle').textContent = L
-    ? `마지막 수집 ${fmt.date(L.generated_at)} · 전용 ${set.area_min_m2}~${set.area_max_m2}㎡ · 월세 보증금 ≤${fmt.money(set.wolse_deposit_max_manwon)}`
+  document.getElementById('subtitle').innerHTML = L
+    ? `마지막 수집 ${fmt.date(L.generated_at)} · 전용 ${bandSelectHtml()} · 월세 보증금 ≤${fmt.money(set.wolse_deposit_max_manwon)}`
     : '아직 수집된 데이터가 없습니다';
+  bindBand();
   let items = mergedComplexes();
   const hiddenCount = items.filter(isHidden).length;
   const chipH = document.getElementById('chip-hidden'); chipH.hidden = hiddenCount === 0 && S.filter !== 'hidden'; chipH.textContent = `숨김 ${hiddenCount}`;
   items = items.filter(it => S.filter === 'hidden' ? isHidden(it) : !isHidden(it));
-  if (S.filter === 'changed') items = items.filter(it => it.today && ['jeonse','wolse_rent','wolse_conv'].some(k => (it.today.deltas?.[k]?.d1?.delta || 0) !== 0));
+  if (S.filter === 'changed') items = items.filter(it => { const t = recFor(it.today); return t && ['jeonse','wolse_rent','wolse_conv'].some(k => (t.deltas?.[k]?.d1?.delta || 0) !== 0); });
   const keyMap = { jeonse:'jeonse', jeonse_desc:'jeonse', conv:'wolse_conv', rent:'wolse_rent' };
   if (keyMap[S.filter]) items.sort((a,b) => S.filter === 'jeonse_desc'
-    ? (metric(b.today,'jeonse') ?? -1) - (metric(a.today,'jeonse') ?? -1)   // 높은순, 매물 없음은 맨 아래
-    : (metric(a.today,keyMap[S.filter]) ?? 1e15) - (metric(b.today,keyMap[S.filter]) ?? 1e15));
+    ? (metric(recFor(b.today),'jeonse') ?? -1) - (metric(recFor(a.today),'jeonse') ?? -1)   // 높은순, 매물 없음은 맨 아래
+    : (metric(recFor(a.today),keyMap[S.filter]) ?? 1e15) - (metric(recFor(b.today),keyMap[S.filter]) ?? 1e15));
 
   let html = '';
   if (!repoInfo() || !S.settings.token) html += `<div class="note">⚙ 설정에서 GitHub 토큰을 등록하면 앱에서 단지를 추가·제거할 수 있습니다.</div>`;
   if (L?.errors?.length) html += `<details class="alert"><summary>수집 오류 ${L.errors.length}건</summary><pre>${esc(L.errors.join('\n'))}</pre></details>`;
   if (!items.length) html += `<div class="empty">${S.filter === 'hidden' ? '숨긴 단지가 없습니다.' : '등록된 단지가 없습니다. ＋ 버튼으로 추가하세요.'}</div>`;
   for (const it of items){
-    const t = it.today; const d = t?.deltas || {};
+    const t0 = it.today; const t = recFor(t0); const d = t?.deltas || {};
     const j = t?.jeonse, w = t?.wolse_rent, c = t?.wolse_conv;
     const badge = !it.complexNo ? `<span class="badge">${it.error ? '링크 등록 필요 · 탭' : '단지번호 확인 중'}</span>` : it.error ? `<span class="badge">수집 오류</span>` : it.stale ? `<span class="badge">이전 데이터</span>` : it.cfg.type==='OPST' ? `<span class="badge">오피스텔</span>` : '';
     html += `<button class="card" data-no="${esc(it.complexNo||'')}" data-name="${esc(it.name)}">
       <div class="name">${esc(it.name)} ${badge}</div>
-      <div class="region">${esc(it.region)}${t?.date && t.date !== L?.date ? ' · ' + fmt.md(t.date) + ' 기준' : ''}</div>
+      <div class="region">${esc(it.region)}${t0?.date && t0.date !== L?.date ? ' · ' + fmt.md(t0.date) + ' 기준' : ''}</div>
       ${t ? `<div class="rows">
         <div class="row"><span class="k">전세</span><span class="v">${j ? fmt.money(j.price) + `<small>${esc(dong(j.article.building))} ${esc(j.article.floor)}층</small>` : '<span class="none">매물 없음</span>'}</span>${j ? deltaChips(d.jeonse) : ''}</div>
         <div class="row"><span class="k">월세</span><span class="v">${w ? `${fmt.money(w.deposit)}/${w.rent}<small>${esc(dong(w.article.building))} ${esc(w.article.floor)}층</small>` : '<span class="none">조건 내 매물 없음</span>'}</span>${w ? deltaChips(d.wolse_rent,'rent') : ''}</div>
         ${c ? `<div class="row"><span class="k">환산</span><span class="v">${fmt.money(c.conv)}<small>${fmt.money(c.deposit)}/${c.rent}</small></span>${deltaChips(d.wolse_conv)}</div>` : ''}
-      </div>${(!j && !w) ? areaLine(t) : ''}` : `<div class="rows"><div class="row"><span class="k">상태</span><span class="v none">${it.error ? esc(it.error) : '다음 수집 때 데이터가 생성됩니다'}</span></div></div>`}
+      </div>${(!j && !w) ? areaLine(t0) : ''}` : t0 && !curBand().default ? `<div class="rows"><div class="row"><span class="k">상태</span><span class="v none">이 평형대 데이터는 다음 수집부터 쌓입니다</span></div></div>${areaLine(t0)}` : `<div class="rows"><div class="row"><span class="k">상태</span><span class="v none">${it.error ? esc(it.error) : '다음 수집 때 데이터가 생성됩니다'}</span></div></div>`}
     </button>`;
   }
   document.getElementById('main').innerHTML = html;
@@ -293,16 +310,20 @@ function renderList(){
 async function renderDetail(){
   const it = mergedComplexes().find(x => (S.detailNo && String(x.complexNo) === S.detailNo) || x.name === S.detailName);
   document.getElementById('title').textContent = it?.name || '단지';
-  document.getElementById('subtitle').textContent = it?.region || '';
+  document.getElementById('subtitle').innerHTML = `${esc(it?.region || '')} · 전용 ${bandSelectHtml()}`; bindBand();
   const main = document.getElementById('main');
   main.innerHTML = `<div class="detail"><div class="empty"><span class="spin"></span></div></div>`;
   const no = it?.complexNo;
-  const [hist, arts] = no ? await Promise.all([getJSON(`data/history/${no}.json`, []), getJSON(`data/articles/${no}.json`, null)]) : [[], null];
+  const [hist0, arts] = no ? await Promise.all([getJSON(`data/history/${no}.json`, []), getJSON(`data/articles/${no}.json`, null)]) : [[], null];
+  if (S.view !== 'detail') return;  // 로딩 중 뒤로가기 등으로 화면이 바뀐 경우
+  // 선택한 평형대의 기록만 추려서 사용 (기본 평형대는 기록 그대로, 그 외는 r.bands[key])
+  const hist = hist0.map(r => { const x = recFor(r); return x ? { ...x, date: r.date, areas: r.areas } : null; }).filter(Boolean);
   const cut = S.range ? new Date(Date.now() - S.range*864e5).toISOString().slice(0,10) : '';
   const h = hist.filter(r => r.date >= cut);
   const today = hist[hist.length-1];
+  const bandNote = !curBand().default && hist0.length && !hist.length ? `<div class="note">이 평형대(${esc(curBand().label)}) 기록은 다음 수집부터 쌓입니다.</div>` : '';
 
-  let html = `<div class="detail">`;
+  let html = `<div class="detail">${bandNote}`;
   if (no) html += `<div class="region">단지번호 ${esc(no)} · <a href="https://m.land.naver.com/complex/info/${esc(no)}" target="_blank" rel="noopener">네이버 부동산에서 보기 ↗</a></div>`;
   if (it && !no) html += `<div class="panel"><h3>단지번호 미확인 — 링크 등록</h3>
       <div class="help" style="margin-bottom:10px">${it.error && it.error !== '단지번호 미확인' ? esc(it.error) + '<br>' : ''}이름 검색으로 단지를 특정하지 못했습니다. 네이버 부동산 앱/웹에서 이 단지 페이지를 열고 <b>공유 → 링크 복사</b>한 주소를 붙여 저장하세요 (naver.me 짧은 링크도 OK). 저장 후 상단 ⟳를 누르면 바로 수집됩니다.</div>
@@ -332,12 +353,13 @@ async function renderDetail(){
   // 오늘 매물
   if (arts?.articles?.length){
     const set = S.latest?.settings || S.cfg; const depMax = +set.wolse_deposit_max_manwon;
-    const je = arts.articles.filter(a => a.trade==='B1').slice(0,15);
-    const wo = arts.articles.filter(a => a.trade==='B2').sort((a,b)=> a.rent-b.rent || a.deposit-b.deposit).slice(0,15);
+    const inb = arts.articles.filter(inBand);
+    const je = inb.filter(a => a.trade==='B1').sort((a,b)=> a.deposit-b.deposit).slice(0,15);
+    const wo = inb.filter(a => a.trade==='B2').sort((a,b)=> a.rent-b.rent || a.deposit-b.deposit).slice(0,15);
     const li = (a, isW) => `<a class="it" href="${esc(a.url || 'https://m.land.naver.com/article/info/'+a.article_no)}" target="_blank" rel="noopener">
       <span><div class="p">${isW ? `${fmt.money(a.deposit)}/${a.rent}` : fmt.money(a.deposit)}${isW && a.deposit > depMax ? ' <span class="badge">보증금 초과</span>' : ''}</div><div class="m">${esc(dong(a.building))} ${esc(a.floor)}층 · ${a.area_exclusive}㎡ · ${esc(a.direction)}</div></span>
       <span class="m" style="text-align:right">${isW ? '환산 ' + fmt.money(convWithRate(a.deposit,a.rent)) + '<br>' : ''}${esc(a.confirmed)}</span></a>`;
-    html += `<div class="panel"><h3>오늘 매물 (${fmt.md(arts.date)}) <span class="sp"></span><span class="seg" id="tabs"><button data-t="je" class="on">전세 ${je.length}</button><button data-t="wo">월세 ${wo.length}</button></span></h3>
+    html += `<div class="panel"><h3>오늘 매물 (${fmt.md(arts.date)} · ${esc(curBand().label)}) <span class="sp"></span><span class="seg" id="tabs"><button data-t="je" class="on">전세 ${je.length}</button><button data-t="wo">월세 ${wo.length}</button></span></h3>
       <div class="list" id="tab-je">${je.map(a=>li(a,false)).join('') || '<div class="empty">없음</div>'}</div>
       <div class="list" id="tab-wo" hidden>${wo.map(a=>li(a,true)).join('') || '<div class="empty">없음</div>'}</div></div>`;
   }
@@ -361,17 +383,17 @@ function drawCharts(h){
   Chart.defaults.font.family = getComputedStyle(document.body).fontFamily;
   Chart.defaults.color = ink2;
   const base = (color, data, lbl) => ({ label: lbl, data, borderColor: color, backgroundColor: color, borderWidth: 2, pointRadius: h.length > 60 ? 0 : 3, pointHoverRadius: 5, tension: .15, spanGaps: false });
-  const opts = (yfmt) => ({ responsive: true, maintainAspectRatio: false, interaction: { mode: 'index', intersect: false },
-    plugins: { legend: { display: false }, tooltip: { callbacks: { label: c => ` ${c.dataset.label}: ${yfmt(c.parsed.y)}` } } },
+  const opts = (yfmt, extra) => ({ responsive: true, maintainAspectRatio: false, interaction: { mode: 'index', intersect: false },
+    plugins: { legend: { display: false }, tooltip: { callbacks: { label: c => ` ${c.dataset.label}: ${yfmt(c.parsed.y)}${extra ? extra(c) : ''}` } } },
     scales: { x: { grid: { display: false }, ticks: { maxTicksLimit: 6, color: muted } },
               y: { grid: { color: line }, border: { display: false }, ticks: { maxTicksLimit: 5, color: muted, callback: v => yfmt(v) } } } });
   const c1 = document.getElementById('c1'), c2 = document.getElementById('c2');
   if (c1) S.charts.push(new Chart(c1, { type: 'line', data: { labels, datasets: [
       base(cssVar('--blue'), h.map(r => r.jeonse ? r.jeonse.price/10000 : null), '전세 최저'),
       base(cssVar('--orange'), h.map(r => r.wolse_conv ? r.wolse_conv.conv/10000 : null), '환산가 최저') ] },
-    options: opts(v => (+v).toFixed(2).replace(/\.?0+$/,'') + '억') }));
+    options: opts(v => (+v).toFixed(2).replace(/\.?0+$/,'') + '억', c => { const r = h[c.dataIndex]; if (c.datasetIndex === 1 && r?.wolse_conv) return ` (보증금 ${fmt.money(r.wolse_conv.deposit)} / 월 ${r.wolse_conv.rent}만)`; if (c.datasetIndex === 0 && r?.jeonse?.article) return ` (${dong(r.jeonse.article.building)} ${r.jeonse.article.floor}층)`; return ''; }) }));
   if (c2) S.charts.push(new Chart(c2, { type: 'line', data: { labels, datasets: [ base(cssVar('--aqua'), h.map(r => r.wolse_rent ? r.wolse_rent.rent : null), '월세액 최저') ] },
-    options: opts(v => Math.round(v).toLocaleString('ko-KR') + '만') }));
+    options: opts(v => Math.round(v).toLocaleString('ko-KR') + '만', c => { const w = h[c.dataIndex]?.wolse_rent; return w ? ` / 보증금 ${fmt.money(w.deposit)}` : ''; }) }));
 }
 
 // ------------------------------------------------------------- GitHub API
@@ -588,7 +610,7 @@ function openSettings(){
 }
 
 // ------------------------------------------------------------- 이벤트/시작
-const APP_VERSION = '1.7.0';
+const APP_VERSION = '1.8.0';
 document.getElementById('btn-back').addEventListener('click', goList);
 history.replaceState(null, '');  // 새로 열 때는 항상 목록부터
 document.querySelectorAll('#chips .chip').forEach(x => x.classList.toggle('on', x.dataset.f === S.filter));
