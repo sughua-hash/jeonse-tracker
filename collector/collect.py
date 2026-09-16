@@ -203,7 +203,8 @@ def build_lines(name: str, rec: dict, deltas: dict) -> list[str]:
     return lines
 
 
-def chunk_messages(blocks: list[list[str]], limit_bytes: int = 3600) -> list[str]:
+def chunk_messages(blocks: list[list[str]], limit_bytes: int = 2500) -> list[str]:
+    """ntfy 안드로이드(FCM) 는 알림 JSON 전체가 4000바이트를 넘으면 바이트 단위로 잘라 한글이 깨짐 → 여유 있게 2500바이트 단위로 나눔."""
     msgs, cur, size = [], [], 0
     for b in blocks:
         text = "\n".join(b)
@@ -275,14 +276,36 @@ def run(args) -> int:
         name = c["name"]
         # 1) 단지번호 해석
         if not c.get("complexNo"):
-            kw = c.get("search") or name
-            print(f"[search] {name} ← '{kw}'")
-            try:
-                cands = naver.search_complex(session, kw)
-                best = naver.pick_complex(cands, name, c.get("region", ""))
-            except Exception as e:  # noqa: BLE001
-                best, cands = None, []
-                errors.append(f"{name}: 검색 실패 {e}")
+            best, cands = None, []
+            # 1-a) 앱에서 붙인 공유 링크(naver.me 등)가 있으면 먼저 따라가서 번호 추출
+            if c.get("url"):
+                print(f"[url] {name} ← {c['url']}")
+                try:
+                    no_from_url = naver.resolve_complex_url(session, c["url"])
+                except Exception as e:  # noqa: BLE001
+                    no_from_url = None
+                    errors.append(f"{name}: 링크 해석 실패 {e}")
+                if no_from_url:
+                    best = {"complexNo": no_from_url}
+                    try:
+                        info = naver.fetch_complex_info(session, no_from_url)
+                        a = info.get("address") or {}
+                        best["name"] = info.get("name") or ""
+                        best["address"] = " ".join(x for x in (a.get("city"), a.get("division"), a.get("sector")) if x)
+                    except Exception:  # noqa: BLE001
+                        pass
+                else:
+                    errors.append(f"{name}: 링크에서 단지번호를 찾지 못해 이름으로 검색합니다 ({c['url']})")
+            # 1-b) 이름 검색
+            if not best:
+                kw = c.get("search") or name
+                print(f"[search] {name} ← '{kw}'")
+                try:
+                    cands = naver.search_complex(session, kw)
+                    best = naver.pick_complex(cands, name, c.get("region", ""))
+                except Exception as e:  # noqa: BLE001
+                    best, cands = None, []
+                    errors.append(f"{name}: 검색 실패 {e}")
             if not best:
                 errors.append(f"{name}: 단지번호를 찾지 못했습니다. 앱에서 네이버 부동산 단지 URL로 등록해 주세요.")
                 latest_entries.append({"complexNo": None, "name": name, "error": "단지번호 미확인",
