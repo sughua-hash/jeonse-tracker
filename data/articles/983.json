@@ -1,5 +1,5 @@
 {
- "date": "2026-09-16",
+ "date": "2026-09-17",
  "complexNo": "983",
  "name": "푸른마을",
  "articles": [
@@ -106,6 +106,21 @@
    "confirmed": "2026-09-15",
    "description": "채광과 통풍 좋은 내부 관리된 집",
    "realtor": "오름공인중개사사무소",
+   "price_text": "110000"
+  },
+  {
+   "article_no": "2650189715",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "6/13",
+   "building": "110",
+   "direction": "EE",
+   "confirmed": "2026-09-16",
+   "description": "31.중산고학군,초역세권단지,귀한매물,입주협의가능",
+   "realtor": "일원뱅크공인중개사사무소",
    "price_text": "110000"
   },
   {
