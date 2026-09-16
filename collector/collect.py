@@ -203,6 +203,20 @@ def build_lines(name: str, rec: dict, deltas: dict) -> list[str]:
     return lines
 
 
+def is_changed(rec: dict, deltas: dict) -> bool:
+    """전일 대비 변동 여부: 최저가가 바뀌었거나, 매물이 새로 생겼거나 사라진 경우."""
+    for key in ("jeonse", "wolse_rent", "wolse_conv"):
+        d = deltas.get(key, {}).get("d1", {})
+        if d.get("date") is None:  # 비교할 전일 기록 없음
+            continue
+        cur, prev = metric_value(rec, key), d.get("prev")
+        if (cur is None) != (prev is None):
+            return True
+        if cur is not None and prev is not None and cur != prev:
+            return True
+    return False
+
+
 def chunk_messages(blocks: list[list[str]], limit_bytes: int = 2500) -> list[str]:
     """ntfy 안드로이드(FCM) 는 알림 JSON 전체가 4000바이트를 넘으면 바이트 단위로 잘라 한글이 깨짐 → 여유 있게 2500바이트 단위로 나눔."""
     msgs, cur, size = [], [], 0
@@ -270,7 +284,7 @@ def run(args) -> int:
         complexes = [c for c in complexes if args.only in c["name"]]
 
     latest_entries, errors, blocks, config_changed = [], [], [], False
-    changed_count = 0
+    changed_count = new_count = collected_count = 0
 
     for c in complexes:
         name = c["name"]
@@ -340,6 +354,7 @@ def run(args) -> int:
         hist = load_json(HISTORY_DIR / f"{no}.json", [])
         deltas = compute_deltas(hist, rec, today)
         rec["deltas"] = deltas
+        is_new = not any(h["date"] < today for h in hist)  # 오늘 처음 기록되는(신규 등록) 단지
 
         # 3) 저장 (같은 날짜는 교체)
         hist = [h for h in hist if h["date"] != today] + [rec]
@@ -357,9 +372,13 @@ def run(args) -> int:
                  "hidden": bool(c.get("hidden"))}
         latest_entries.append(entry)
         if not c.get("hidden"):  # 숨긴 단지는 수집·기록은 하되 알림에서 제외
-            if any((deltas[k]["d1"]["delta"] or 0) != 0 for k in deltas):
+            collected_count += 1
+            if is_new:
+                new_count += 1
+                blocks.append([f"■ {name} (신규)"] + build_lines(name, rec, deltas)[1:])
+            elif is_changed(rec, deltas):
                 changed_count += 1
-            blocks.append(build_lines(name, rec, deltas))
+                blocks.append(build_lines(name, rec, deltas))
         w = rec["wolse_rent"]
         wtxt = f"{fmt_money(w['deposit'])}/{w['rent']}" if w else "—"
         print(f"[ok] {name} ({source}) 전용필터 {rec['counts']['in_area']}건 "
@@ -384,13 +403,16 @@ def run(args) -> int:
     if not args.no_notify and not args.dry_run:
         d = now_kst()
         title_base = f"전월세 최저가 {d.month}/{d.day}"
+        # 요약 한 줄 + 변동·신규 단지만 상세. 변동이 없으면 요약만 보냄.
+        head = f"전일 대비 변동 {changed_count}개 · 신규 {new_count}개 · 수집 {collected_count}개 단지"
+        if errors:
+            head += f" · 오류 {len(errors)}건"
+        if not blocks:
+            blocks = [["변동된 단지가 없습니다. 자세한 시세는 앱에서 확인하세요."]]
         msgs = chunk_messages(blocks)
         for i, m in enumerate(msgs, 1):
             title = title_base if len(msgs) == 1 else f"{title_base} ({i}/{len(msgs)})"
             if i == 1:
-                head = f"전일 대비 변동 {changed_count}개 단지 · 수집 {len(blocks)}개"
-                if errors:
-                    head += f" · 오류 {len(errors)}건"
                 m = head + "\n\n" + m
             send_ntfy(title, m, click=dashboard or None, tags=["house"])
         if errors:
