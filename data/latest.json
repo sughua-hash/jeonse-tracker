@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T11:18:48+09:00",
+ "generated_at": "2026-09-16T11:22:21+09:00",
  "date": "2026-09-16",
  "settings": {
   "area_min_m2": 83,
@@ -18,7 +18,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 103,
+     "all": 104,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -26,7 +26,7 @@
     },
     "areas": {
      "98.9": 30,
-     "99": 73
+     "99": 74
     },
     "date": "2026-09-16",
     "source": "fin",
@@ -222,14 +222,14 @@
      }
     },
     "counts": {
-     "all": 77,
+     "all": 75,
      "in_area": 37,
      "jeonse": 36,
      "wolse": 1,
      "wolse_ok": 1
     },
     "areas": {
-     "75.5": 40,
+     "75.5": 38,
      "85": 37
     },
     "date": "2026-09-16",
@@ -408,14 +408,14 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 90,
+     "all": 91,
      "in_area": 19,
      "jeonse": 18,
      "wolse": 1,
      "wolse_ok": 0
     },
     "areas": {
-     "51.9": 11,
+     "51.9": 12,
      "59.8": 51,
      "60": 6,
      "75": 3,
@@ -1121,15 +1121,15 @@
      }
     },
     "counts": {
-     "all": 168,
-     "in_area": 164,
-     "jeonse": 157,
-     "wolse": 7,
+     "all": 170,
+     "in_area": 166,
+     "jeonse": 158,
+     "wolse": 8,
      "wolse_ok": 2
     },
     "areas": {
      "60": 4,
-     "84.9": 72,
+     "84.9": 74,
      "85": 92
     },
     "date": "2026-09-16",
