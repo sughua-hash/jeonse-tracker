@@ -4,21 +4,6 @@
  "name": "e편한세상시티인하대역",
  "articles": [
   {
-   "article_no": "2648791599",
-   "trade": "B1",
-   "deposit": 20500,
-   "rent": 0,
-   "area_exclusive": 58.65,
-   "area_supply": 88.67,
-   "floor": "고/37",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-09-09",
-   "description": "초역세권 몇년안된 신축 오피스텔 이사 협의 상태 깨끗",
-   "realtor": "sk스카이뷰단지내공인중개사사무소",
-   "price_text": "20500"
-  },
-  {
    "article_no": "2650019173",
    "trade": "B1",
    "deposit": 21000,
@@ -61,6 +46,21 @@
    "confirmed": "2026-09-16",
    "description": "58 A타입 월세15만원있음 에어컨3대,냉장고,세탁기 즉시입주 협의가능 ",
    "realtor": "뉴월드공인중개사사무소",
+   "price_text": "21000"
+  },
+  {
+   "article_no": "2648791599",
+   "trade": "B1",
+   "deposit": 21000,
+   "rent": 0,
+   "area_exclusive": 58.65,
+   "area_supply": 88.67,
+   "floor": "고/37",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-09-09",
+   "description": "초역세권 몇년안된 신축 오피스텔 이사 협의 상태 깨끗",
+   "realtor": "sk스카이뷰단지내공인중개사사무소",
    "price_text": "21000"
   },
   {
