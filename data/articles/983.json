@@ -19,21 +19,6 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2649952990",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "중/15",
-   "building": "107",
-   "direction": "EE",
-   "confirmed": "2026-09-15",
-   "description": "방3 깨끗한남향집 입주일협의  주인직매물",
-   "realtor": "일원샘터공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2649845041",
    "trade": "B1",
    "deposit": 80000,
@@ -46,6 +31,21 @@
    "confirmed": "2026-09-15",
    "description": "25 남향 뷰좋은집 수리상태깨끗 잔금일협의",
    "realtor": "엘리트공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2649952990",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "중/15",
+   "building": "107",
+   "direction": "EE",
+   "confirmed": "2026-09-15",
+   "description": "방3 깨끗한남향집 입주일협의  주인직매물",
+   "realtor": "일원샘터공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -94,22 +94,7 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2650018795",
-   "trade": "B1",
-   "deposit": 110000,
-   "rent": 0,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "고/13",
-   "building": "105",
-   "direction": "ES",
-   "confirmed": "2026-09-15",
-   "description": "채광과 통풍 좋은 내부 관리된 집",
-   "realtor": "오름공인중개사사무소",
-   "price_text": "110000"
-  },
-  {
-   "article_no": "2650263679",
+   "article_no": "2650303586",
    "trade": "B1",
    "deposit": 110000,
    "rent": 0,
@@ -117,10 +102,10 @@
    "area_supply": 103.49,
    "floor": "6/13",
    "building": "110",
-   "direction": "ES",
+   "direction": "EE",
    "confirmed": "2026-09-17",
-   "description": "31귀한전세 주인직매물  공동환영  방3욕실2  거실확장수리  강력추천",
-   "realtor": "가이드(단지내)공인중개사사무소",
+   "description": "귀한매물 . 빠른입주가능 . 반전세 가능 . 잘 맞줘드림",
+   "realtor": "양지공인중개사사무소",
    "price_text": "110000"
   },
   {
@@ -139,7 +124,7 @@
    "price_text": "110000"
   },
   {
-   "article_no": "2650189715",
+   "article_no": "2650276786",
    "trade": "B1",
    "deposit": 110000,
    "rent": 0,
@@ -148,13 +133,13 @@
    "floor": "6/13",
    "building": "110",
    "direction": "EE",
-   "confirmed": "2026-09-16",
-   "description": "31.중산고학군,초역세권단지,귀한매물,입주협의가능",
-   "realtor": "일원뱅크공인중개사사무소",
+   "confirmed": "2026-09-17",
+   "description": "31.귀한전세 입주일협의 거실확장수리",
+   "realtor": "모아공인중개사 사무소",
    "price_text": "110000"
   },
   {
-   "article_no": "2650120527",
+   "article_no": "2650263679",
    "trade": "B1",
    "deposit": 110000,
    "rent": 0,
@@ -162,10 +147,10 @@
    "area_supply": 103.49,
    "floor": "6/13",
    "building": "110",
-   "direction": "EE",
-   "confirmed": "2026-09-16",
-   "description": "귀한전세 . 반전세 가능 . 학군우수한 역세권",
-   "realtor": "양지공인중개사사무소",
+   "direction": "ES",
+   "confirmed": "2026-09-17",
+   "description": "31귀한전세 주인직매물  공동환영  방3욕실2  거실확장수리  강력추천",
+   "realtor": "가이드(단지내)공인중개사사무소",
    "price_text": "110000"
   },
   {
@@ -184,6 +169,21 @@
    "price_text": "110000"
   },
   {
+   "article_no": "2650189715",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "6/13",
+   "building": "110",
+   "direction": "EE",
+   "confirmed": "2026-09-16",
+   "description": "31.중산고학군,초역세권단지,귀한매물,입주협의가능",
+   "realtor": "일원뱅크공인중개사사무소",
+   "price_text": "110000"
+  },
+  {
    "article_no": "2650179017",
    "trade": "B1",
    "deposit": 110000,
@@ -196,6 +196,21 @@
    "confirmed": "2026-09-16",
    "description": "31귀한전세 주인직매물 공동환영 중산고학군 일원역5분",
    "realtor": "가이드(단지내)공인중개사사무소",
+   "price_text": "110000"
+  },
+  {
+   "article_no": "2650120527",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "6/13",
+   "building": "110",
+   "direction": "EE",
+   "confirmed": "2026-09-16",
+   "description": "귀한전세 . 반전세 가능 . 학군우수한 역세권",
+   "realtor": "양지공인중개사사무소",
    "price_text": "110000"
   },
   {
@@ -274,6 +289,21 @@
    "price_text": "80000/100"
   },
   {
+   "article_no": "2650021442",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 120,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "6/13",
+   "building": "110",
+   "direction": "EE",
+   "confirmed": "2026-09-16",
+   "description": "거실확장 전망좋고 시원한동 깨끗한집 전세로가능",
+   "realtor": "일원샘터공인중개사사무소",
+   "price_text": "80000/120"
+  },
+  {
    "article_no": "2650119403",
    "trade": "B2",
    "deposit": 80000,
@@ -289,19 +319,19 @@
    "price_text": "80000/120"
   },
   {
-   "article_no": "2650021442",
+   "article_no": "2650304882",
    "trade": "B2",
-   "deposit": 80000,
-   "rent": 120,
+   "deposit": 70000,
+   "rent": 150,
    "area_exclusive": 84.93,
    "area_supply": 103.49,
    "floor": "6/13",
    "building": "110",
    "direction": "EE",
-   "confirmed": "2026-09-16",
-   "description": "거실확장 전망좋고 시원한동 깨끗한집 전세로가능",
-   "realtor": "일원샘터공인중개사사무소",
-   "price_text": "80000/120"
+   "confirmed": "2026-09-17",
+   "description": "귀한매물 . 전세11억가능.보증금조정가능 . 학군우수한 역세권",
+   "realtor": "양지공인중개사사무소",
+   "price_text": "70000/150"
   },
   {
    "article_no": "2649910529",
@@ -347,21 +377,6 @@
    "description": "31 주인직매물 공동환영  확장올수리  입주협의가능",
    "realtor": "가이드(단지내)공인중개사사무소",
    "price_text": "60000/200"
-  },
-  {
-   "article_no": "2649787538",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 220,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "중/15",
-   "building": "107",
-   "direction": "SS",
-   "confirmed": "2026-09-14",
-   "description": "25 남향 주인직매물  오래거주환영",
-   "realtor": "가이드(단지내)공인중개사사무소",
-   "price_text": "20000/220"
   }
  ]
 }

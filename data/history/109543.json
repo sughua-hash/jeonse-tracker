@@ -334,13 +334,15 @@
   "wolse_rent": null,
   "wolse_conv": null,
   "counts": {
-   "all": 0,
+   "all": 1,
    "in_area": 0,
    "jeonse": 0,
    "wolse": 0,
    "wolse_ok": 0
   },
-  "areas": {},
+  "areas": {
+   "59.9": 1
+  },
   "date": "2026-09-17",
   "source": "fin",
   "deltas": {
@@ -402,7 +404,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 0,
+     "all": 1,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -467,7 +469,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 0,
+     "all": 1,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -532,7 +534,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 0,
+     "all": 1,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -597,7 +599,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 0,
+     "all": 1,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,

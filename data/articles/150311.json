@@ -319,6 +319,21 @@
    "price_text": "45000"
   },
   {
+   "article_no": "2650328446",
+   "trade": "B1",
+   "deposit": 45000,
+   "rent": 0,
+   "area_exclusive": 84.97,
+   "area_supply": 112.41,
+   "floor": "중/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-09-17",
+   "description": "귀한전세, 역세권, 주상복합아파트, 신축, 마석심상초중고옆에 있음",
+   "realtor": "e편한 행복 공인중개사사무소",
+   "price_text": "45000"
+  },
+  {
    "article_no": "2649952731",
    "trade": "B1",
    "deposit": 48000,
@@ -409,21 +424,6 @@
    "price_text": "50000"
   },
   {
-   "article_no": "2646050588",
-   "trade": "B1",
-   "deposit": 50000,
-   "rent": 0,
-   "area_exclusive": 84.85,
-   "area_supply": 112.59,
-   "floor": "19/29",
-   "building": "103",
-   "direction": "ES",
-   "confirmed": "2026-08-27",
-   "description": "THE TOP｜전용 84｜방3화2｜역세권 신축아파트｜시스템 AC｜대출가능",
-   "realtor": "신안 THE 탑 부동산 공인중개사사무소",
-   "price_text": "50000"
-  },
-  {
    "article_no": "2646170366",
    "trade": "B1",
    "deposit": 50000,
@@ -436,6 +436,21 @@
    "confirmed": "2026-08-27",
    "description": "역세권 시스템에어컨4대 확장형 전세대출가능",
    "realtor": "대교공인중개사사무소",
+   "price_text": "50000"
+  },
+  {
+   "article_no": "2646050588",
+   "trade": "B1",
+   "deposit": 50000,
+   "rent": 0,
+   "area_exclusive": 84.85,
+   "area_supply": 112.59,
+   "floor": "19/29",
+   "building": "103",
+   "direction": "ES",
+   "confirmed": "2026-08-27",
+   "description": "THE TOP｜전용 84｜방3화2｜역세권 신축아파트｜시스템 AC｜대출가능",
+   "realtor": "신안 THE 탑 부동산 공인중개사사무소",
    "price_text": "50000"
   },
   {
@@ -617,6 +632,36 @@
    "description": "39A 선호 에어컨4 전세대출불가 뻥뷰조망굿 중문 인덕션 ",
    "realtor": "두산온누리공인중개사",
    "price_text": "50000"
+  },
+  {
+   "article_no": "2650321962",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 180,
+   "area_exclusive": 84.97,
+   "area_supply": 112.41,
+   "floor": "12/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-09-17",
+   "description": "조먕트임 주인거주 마석역광역버스 생활편리",
+   "realtor": "대주파크빌공인중개사사무소",
+   "price_text": "20000/180"
+  },
+  {
+   "article_no": "2650329031",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 180,
+   "area_exclusive": 84.97,
+   "area_supply": 112.41,
+   "floor": "중/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-09-17",
+   "description": "귀한전세, 역세권, 주상복합아파트, 신축, 마석심상초중고옆에 있음",
+   "realtor": "e편한 행복 공인중개사사무소",
+   "price_text": "20000/180"
   },
   {
    "article_no": "2648109436",
