@@ -4,6 +4,21 @@
  "name": "e편한세상시티인하대역",
  "articles": [
   {
+   "article_no": "2650355772",
+   "trade": "B1",
+   "deposit": 21000,
+   "rent": 0,
+   "area_exclusive": 58.67,
+   "area_supply": 88.24,
+   "floor": "3/37",
+   "building": "105",
+   "direction": "SS",
+   "confirmed": "2026-09-17",
+   "description": "이사일협의가능 월세5만원있음 에어컨3 붙박이장 인하대역3분 홈플러스5분",
+   "realtor": "e편한씨티공인중개사사무소",
+   "price_text": "21000"
+  },
+  {
    "article_no": "2650336762",
    "trade": "B1",
    "deposit": 21000,
@@ -29,7 +44,7 @@
    "building": "105",
    "direction": "SS",
    "confirmed": "2026-09-17",
-   "description": "강추 월임대료5만원있습니다 LH 도시공사 가능 에어컨3 투룸",
+   "description": "강추 월임대료5만원있습니다 버팀목 대출 LH 도시공사 가능 에어컨3 투룸",
    "realtor": "아이원하나로공인중개사사무소",
    "price_text": "21000"
   },
@@ -122,6 +137,21 @@
    "description": "입주일협의가능 월세10만원있음 에어컨2 인하대역3분 홈플러스5분",
    "realtor": "e편한씨티공인중개사사무소",
    "price_text": "28000"
+  },
+  {
+   "article_no": "2650355099",
+   "trade": "B2",
+   "deposit": 21000,
+   "rent": 5,
+   "area_exclusive": 58.67,
+   "area_supply": 88.24,
+   "floor": "3/37",
+   "building": "105",
+   "direction": "SS",
+   "confirmed": "2026-09-17",
+   "description": "강추 버팀목 대출 LH 도시공사 가능 에어컨3 투룸",
+   "realtor": "아이원하나로공인중개사사무소",
+   "price_text": "21000/5"
   },
   {
    "article_no": "2649694161",
