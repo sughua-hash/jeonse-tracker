@@ -237,9 +237,8 @@ function areaLine(t){ const a = t?.areas; if (!a || !Object.keys(a).length) retu
   const parts = Object.entries(a).map(([k,v]) => `${k}㎡ ${v}건`); return `<div class="areas">전용면적 분포 · ${parts.join(' · ')}</div>`; }
 function countLine(t){ const c = t?.counts; if (!c || !c.in_area) return '';
   const over = c.wolse - c.wolse_ok; return `<div class="areas">이 평형대 매물 ${c.in_area}건 · 전세 ${c.jeonse}건 · 월세 ${c.wolse}건${over > 0 ? ` (보증금 조건 초과 ${over}건)` : ''}</div>`; }
-// 전일 대비 변동 여부 (수집기의 is_changed 와 같은 기준): 최저가 변경, 또는 매물이 생김/사라짐
-function isChangedRec(t){ if (!t) return false; return ['jeonse','wolse_rent','wolse_conv'].some(k => { const d = t.deltas?.[k]?.d1; if (!d || !d.date) return false; const cur = metric(t, k), prev = d.prev ?? null; if ((cur == null) !== (prev == null)) return true; return cur != null && prev != null && cur !== prev; }); }
-function goneNote(d, unit){ const p = d?.d1?.prev; if (p == null) return ''; return `<small>어제 ${unit === 'rent' ? p + '만' : fmt.money(p)} → 오늘 없음</small>`; }
+// 전일 대비 변동 여부 (수집기의 is_changed 와 같은 기준): 최저가가 오르거나 내린 경우만
+function isChangedRec(t){ if (!t) return false; return ['jeonse','wolse_rent','wolse_conv'].some(k => { const cur = metric(t, k), prev = t.deltas?.[k]?.d1?.prev ?? null; return cur != null && prev != null && cur !== prev; }); }
 function metric(rec, key){ if (!rec || !rec[key]) return null; return key==='jeonse' ? rec.jeonse.price : key==='wolse_rent' ? rec.wolse_rent.rent : rec.wolse_conv.conv; }
 // ---- 평형대(전용면적 구간): 기본 구간은 설정의 area_min/max, 나머지는 수집기가 rec.bands[key]에 저장
 const DEFAULT_BANDS = [
@@ -328,8 +327,8 @@ function renderList(){
       <div class="name">${esc(it.name)} ${badge}</div>
       <div class="region">${esc(it.region)}${t0?.date && t0.date !== L?.date ? ' · ' + fmt.md(t0.date) + ' 기준' : ''}</div>
       ${t ? `<div class="rows">
-        <div class="row"><span class="k">전세</span><span class="v">${j ? fmt.money(j.price) + `<small>${esc(dong(j.article.building))} ${esc(j.article.floor)}층</small>` : `<span class="none">매물 없음</span>${goneNote(d.jeonse)}`}</span>${j ? deltaChips(d.jeonse) : ''}</div>
-        <div class="row"><span class="k">월세</span><span class="v">${w ? `${fmt.money(w.deposit)}/${w.rent}<small>${esc(dong(w.article.building))} ${esc(w.article.floor)}층</small>` : `<span class="none">조건 내 매물 없음</span>${goneNote(d.wolse_rent,'rent')}`}</span>${w ? deltaChips(d.wolse_rent,'rent') : ''}</div>
+        <div class="row"><span class="k">전세</span><span class="v">${j ? fmt.money(j.price) + `<small>${esc(dong(j.article.building))} ${esc(j.article.floor)}층</small>` : '<span class="none">매물 없음</span>'}</span>${j ? deltaChips(d.jeonse) : ''}</div>
+        <div class="row"><span class="k">월세</span><span class="v">${w ? `${fmt.money(w.deposit)}/${w.rent}<small>${esc(dong(w.article.building))} ${esc(w.article.floor)}층</small>` : '<span class="none">조건 내 매물 없음</span>'}</span>${w ? deltaChips(d.wolse_rent,'rent') : ''}</div>
         ${c ? `<div class="row"><span class="k">환산</span><span class="v">${fmt.money(c.conv)}<small>${fmt.money(c.deposit)}/${c.rent}</small></span>${deltaChips(d.wolse_conv)}</div>` : ''}
       </div>${(!j && !w) ? countLine(t) + areaLine(t0) : ''}` : t0 && !curBand().default ? `<div class="rows"><div class="row"><span class="k">상태</span><span class="v none">이 평형대 데이터는 다음 수집부터 쌓입니다</span></div></div>${areaLine(t0)}` : `<div class="rows"><div class="row"><span class="k">상태</span><span class="v none">${it.error ? esc(it.error) : '다음 수집 때 데이터가 생성됩니다'}</span></div></div>`}
     </button>`;
@@ -648,7 +647,7 @@ function openSettings(){
 }
 
 // ------------------------------------------------------------- 이벤트/시작
-const APP_VERSION = '1.9.1';
+const APP_VERSION = '1.9.2';
 document.getElementById('btn-back').addEventListener('click', goList);
 history.replaceState(null, '');  // 새로 열 때는 항상 목록부터
 document.querySelectorAll('#chips .chip').forEach(x => x.classList.toggle('on', x.dataset.f === S.filter));
