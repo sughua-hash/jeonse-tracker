@@ -19,21 +19,6 @@
    "price_text": "65000"
   },
   {
-   "article_no": "2649108777",
-   "trade": "B1",
-   "deposit": 65000,
-   "rent": 0,
-   "area_exclusive": 59.84,
-   "area_supply": 77.18,
-   "floor": "고/24",
-   "building": "118",
-   "direction": "WS",
-   "confirmed": "2026-09-11",
-   "description": "59  뻥뷰 입주가능 신혼부부 추천",
-   "realtor": "114공인중개사사무소",
-   "price_text": "65000"
-  },
-  {
    "article_no": "2649185664",
    "trade": "B1",
    "deposit": 65000,
@@ -46,6 +31,21 @@
    "confirmed": "2026-09-11",
    "description": "59타입. 전세. 산성역 인접. 에어컨. 입주일 협의.",
    "realtor": "일신부동산중개법인(주)",
+   "price_text": "65000"
+  },
+  {
+   "article_no": "2649108777",
+   "trade": "B1",
+   "deposit": 65000,
+   "rent": 0,
+   "area_exclusive": 59.84,
+   "area_supply": 77.18,
+   "floor": "고/24",
+   "building": "118",
+   "direction": "WS",
+   "confirmed": "2026-09-11",
+   "description": "59  뻥뷰 입주가능 신혼부부 추천",
+   "realtor": "114공인중개사사무소",
    "price_text": "65000"
   },
   {
@@ -214,36 +214,6 @@
    "price_text": "70000"
   },
   {
-   "article_no": "2650161547",
-   "trade": "B1",
-   "deposit": 70000,
-   "rent": 0,
-   "area_exclusive": 59.84,
-   "area_supply": 77.18,
-   "floor": "11/27",
-   "building": "133",
-   "direction": "WN",
-   "confirmed": "2026-09-16",
-   "description": "59A I 최고로얄동 I 빠른입주협의 I 시원하게트인뷰 I 관리잘된집",
-   "realtor": "산성역중앙공인중개사사무소",
-   "price_text": "70000"
-  },
-  {
-   "article_no": "2650172040",
-   "trade": "B1",
-   "deposit": 70000,
-   "rent": 0,
-   "area_exclusive": 59.84,
-   "area_supply": 77.18,
-   "floor": "11/27",
-   "building": "133",
-   "direction": "ES",
-   "confirmed": "2026-09-16",
-   "description": "59 즉시입주가능 선호 에어컨풀 집보기 언제든 가능",
-   "realtor": "114공인중개사사무소",
-   "price_text": "70000"
-  },
-  {
    "article_no": "2650044266",
    "trade": "B1",
    "deposit": 70000,
@@ -274,7 +244,7 @@
    "price_text": "70000"
   },
   {
-   "article_no": "2650208300",
+   "article_no": "2650172040",
    "trade": "B1",
    "deposit": 70000,
    "rent": 0,
@@ -284,8 +254,23 @@
    "building": "133",
    "direction": "ES",
    "confirmed": "2026-09-16",
-   "description": "59 로얄동로얄층 풀옵션 트인조망 신혼부부추천",
-   "realtor": "송파114공인중개사사무소",
+   "description": "59 즉시입주가능 선호 에어컨풀 집보기 언제든 가능",
+   "realtor": "114공인중개사사무소",
+   "price_text": "70000"
+  },
+  {
+   "article_no": "2650161547",
+   "trade": "B1",
+   "deposit": 70000,
+   "rent": 0,
+   "area_exclusive": 59.84,
+   "area_supply": 77.18,
+   "floor": "11/27",
+   "building": "133",
+   "direction": "WN",
+   "confirmed": "2026-09-16",
+   "description": "59A I 최고로얄동 I 빠른입주협의 I 시원하게트인뷰 I 관리잘된집",
+   "realtor": "산성역중앙공인중개사사무소",
    "price_text": "70000"
   },
   {
@@ -301,6 +286,21 @@
    "confirmed": "2026-09-16",
    "description": "25 공동환영. 막힘없이 탁트인뷰. 빠른입주. 산성역초역세권. 커뮤니티",
    "realtor": "개포리더스공인중개사사무소",
+   "price_text": "70000"
+  },
+  {
+   "article_no": "2650208300",
+   "trade": "B1",
+   "deposit": 70000,
+   "rent": 0,
+   "area_exclusive": 59.84,
+   "area_supply": 77.18,
+   "floor": "11/27",
+   "building": "133",
+   "direction": "ES",
+   "confirmed": "2026-09-16",
+   "description": "59 로얄동로얄층 풀옵션 트인조망 신혼부부추천",
+   "realtor": "송파114공인중개사사무소",
    "price_text": "70000"
   },
   {
@@ -454,6 +454,21 @@
    "price_text": "70000"
   },
   {
+   "article_no": "2650367844",
+   "trade": "B1",
+   "deposit": 72000,
+   "rent": 0,
+   "area_exclusive": 74.98,
+   "area_supply": 95.99,
+   "floor": "중/26",
+   "building": "127",
+   "direction": "WS",
+   "confirmed": "2026-09-17",
+   "description": "74형. 넓은 거실. 맞통풍 구조. 주차여유. 지하철 이용편리",
+   "realtor": "일신부동산중개법인(주)",
+   "price_text": "72000"
+  },
+  {
    "article_no": "2650113151",
    "trade": "B1",
    "deposit": 72000,
@@ -514,7 +529,7 @@
    "price_text": "73000"
   },
   {
-   "article_no": "2650039829",
+   "article_no": "2650103191",
    "trade": "B1",
    "deposit": 73000,
    "rent": 0,
@@ -524,8 +539,8 @@
    "building": "133",
    "direction": "ES",
    "confirmed": "2026-09-16",
-   "description": "역세권동 중앙라인 선호동임  확트인뷰  빨리이사가능함",
-   "realtor": "포레스타1공인중개사사무소",
+   "description": "59 풀에어컨 채광굿 신혼부부 적극추천 컨디션굿 기운좋은집",
+   "realtor": "산성역중앙공인중개사사무소",
    "price_text": "73000"
   },
   {
@@ -544,7 +559,7 @@
    "price_text": "73000"
   },
   {
-   "article_no": "2650103191",
+   "article_no": "2650039829",
    "trade": "B1",
    "deposit": 73000,
    "rent": 0,
@@ -554,12 +569,12 @@
    "building": "133",
    "direction": "ES",
    "confirmed": "2026-09-16",
-   "description": "59 풀에어컨 채광굿 신혼부부 적극추천 컨디션굿 기운좋은집",
-   "realtor": "산성역중앙공인중개사사무소",
+   "description": "역세권동 중앙라인 선호동임  확트인뷰  빨리이사가능함",
+   "realtor": "포레스타1공인중개사사무소",
    "price_text": "73000"
   },
   {
-   "article_no": "2649390548",
+   "article_no": "2649349685",
    "trade": "B1",
    "deposit": 73000,
    "rent": 0,
@@ -569,8 +584,8 @@
    "building": "133",
    "direction": "ES",
    "confirmed": "2026-09-12",
-   "description": "빠른입주및10월협의 확트인시원뷰 가까운전철역 인기많은동",
-   "realtor": "마당발(031-747-4489)공인중개사사무소",
+   "description": "산성역이용편리. 주차편리. 커뮤니티,상가인접. 주차편리. 시스템에어컨풀.",
+   "realtor": "일신공인중개사사무소",
    "price_text": "73000"
   },
   {
@@ -589,7 +604,7 @@
    "price_text": "73000"
   },
   {
-   "article_no": "2649349685",
+   "article_no": "2649390548",
    "trade": "B1",
    "deposit": 73000,
    "rent": 0,
@@ -599,8 +614,8 @@
    "building": "133",
    "direction": "ES",
    "confirmed": "2026-09-12",
-   "description": "산성역이용편리. 주차편리. 커뮤니티,상가인접. 주차편리. 시스템에어컨풀.",
-   "realtor": "일신공인중개사사무소",
+   "description": "빠른입주및10월협의 확트인시원뷰 가까운전철역 인기많은동",
+   "realtor": "마당발(031-747-4489)공인중개사사무소",
    "price_text": "73000"
   },
   {
@@ -634,21 +649,6 @@
    "price_text": "73000"
   },
   {
-   "article_no": "2650113132",
-   "trade": "B1",
-   "deposit": 73000,
-   "rent": 0,
-   "area_exclusive": 67.86,
-   "area_supply": 86.99,
-   "floor": "저/26",
-   "building": "128",
-   "direction": "WS",
-   "confirmed": "2026-09-16",
-   "description": "채광좋음 판상형 생활편리 넓은구조",
-   "realtor": "산성코끼리공인중개사사무소",
-   "price_text": "73000"
-  },
-  {
    "article_no": "2650176677",
    "trade": "B1",
    "deposit": 73000,
@@ -661,6 +661,21 @@
    "confirmed": "2026-09-16",
    "description": "67 특급 커뮤니티편리 에0 집보기 가능",
    "realtor": "114공인중개사사무소",
+   "price_text": "73000"
+  },
+  {
+   "article_no": "2650113132",
+   "trade": "B1",
+   "deposit": 73000,
+   "rent": 0,
+   "area_exclusive": 67.86,
+   "area_supply": 86.99,
+   "floor": "저/26",
+   "building": "128",
+   "direction": "WS",
+   "confirmed": "2026-09-16",
+   "description": "채광좋음 판상형 생활편리 넓은구조",
+   "realtor": "산성코끼리공인중개사사무소",
    "price_text": "73000"
   },
   {
@@ -724,21 +739,6 @@
    "price_text": "73000"
   },
   {
-   "article_no": "2649285773",
-   "trade": "B1",
-   "deposit": 73000,
-   "rent": 0,
-   "area_exclusive": 67.86,
-   "area_supply": 86.99,
-   "floor": "저/26",
-   "building": "128",
-   "direction": "WS",
-   "confirmed": "2026-09-11",
-   "description": "67 전세 입주협의 시스템에어컨 넓은거실 예쁜조망 신혼추천",
-   "realtor": "포레스티아길부동산공인중개사사무소",
-   "price_text": "73000"
-  },
-  {
    "article_no": "2649187633",
    "trade": "B1",
    "deposit": 73000,
@@ -751,6 +751,21 @@
    "confirmed": "2026-09-11",
    "description": "중앙평지라인. 시스템에어컨. 커뮤니티이용편리. 주차편리. 광폭거실.",
    "realtor": "일신부동산중개법인(주)",
+   "price_text": "73000"
+  },
+  {
+   "article_no": "2649285773",
+   "trade": "B1",
+   "deposit": 73000,
+   "rent": 0,
+   "area_exclusive": 67.86,
+   "area_supply": 86.99,
+   "floor": "저/26",
+   "building": "128",
+   "direction": "WS",
+   "confirmed": "2026-09-11",
+   "description": "67 전세 입주협의 시스템에어컨 넓은거실 예쁜조망 신혼추천",
+   "realtor": "포레스티아길부동산공인중개사사무소",
    "price_text": "73000"
   },
   {
@@ -769,21 +784,6 @@
    "price_text": "73000"
   },
   {
-   "article_no": "2648574836",
-   "trade": "B1",
-   "deposit": 73000,
-   "rent": 0,
-   "area_exclusive": 67.86,
-   "area_supply": 86.99,
-   "floor": "중/26",
-   "building": "128",
-   "direction": "WS",
-   "confirmed": "2026-09-08",
-   "description": "채광좋음 입주협의 생활편리 넓은구조",
-   "realtor": "산성코끼리공인중개사사무소",
-   "price_text": "73000"
-  },
-  {
    "article_no": "2648465333",
    "trade": "B1",
    "deposit": 73000,
@@ -796,6 +796,21 @@
    "confirmed": "2026-09-08",
    "description": "67. 시스템에어컨.중앙평지라인. 광폭 거실.파우더룸. 입주일 협의.",
    "realtor": "단지내최고공인중개사사무소",
+   "price_text": "73000"
+  },
+  {
+   "article_no": "2648574836",
+   "trade": "B1",
+   "deposit": 73000,
+   "rent": 0,
+   "area_exclusive": 67.86,
+   "area_supply": 86.99,
+   "floor": "중/26",
+   "building": "128",
+   "direction": "WS",
+   "confirmed": "2026-09-08",
+   "description": "채광좋음 입주협의 생활편리 넓은구조",
+   "realtor": "산성코끼리공인중개사사무소",
    "price_text": "73000"
   },
   {
@@ -829,21 +844,6 @@
    "price_text": "73000"
   },
   {
-   "article_no": "2647290219",
-   "trade": "B1",
-   "deposit": 73000,
-   "rent": 0,
-   "area_exclusive": 59.84,
-   "area_supply": 77.18,
-   "floor": "중/24",
-   "building": "119",
-   "direction": "WS",
-   "confirmed": "2026-09-02",
-   "description": "59A.초역세권동. 시스템에어컨. 입주일 협의.",
-   "realtor": "단지내최고공인중개사사무소",
-   "price_text": "73000"
-  },
-  {
    "article_no": "2647283490",
    "trade": "B1",
    "deposit": 73000,
@@ -856,6 +856,21 @@
    "confirmed": "2026-09-02",
    "description": "초역세권동. 정남향. 넓은동간거리. 광폭거실. 시스템에어컨. 전자계약.",
    "realtor": "일신부동산중개법인(주)",
+   "price_text": "73000"
+  },
+  {
+   "article_no": "2647290219",
+   "trade": "B1",
+   "deposit": 73000,
+   "rent": 0,
+   "area_exclusive": 59.84,
+   "area_supply": 77.18,
+   "floor": "중/24",
+   "building": "119",
+   "direction": "WS",
+   "confirmed": "2026-09-02",
+   "description": "59A.초역세권동. 시스템에어컨. 입주일 협의.",
+   "realtor": "단지내최고공인중개사사무소",
    "price_text": "73000"
   },
   {
@@ -1039,21 +1054,6 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2650065966",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 74.98,
-   "area_supply": 95.99,
-   "floor": "고/25",
-   "building": "122",
-   "direction": "WS",
-   "confirmed": "2026-09-16",
-   "description": "초초역세권동.옵션 풀.상태 최상",
-   "realtor": "최고공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
    "article_no": "2650050701",
    "trade": "B1",
    "deposit": 75000,
@@ -1066,6 +1066,21 @@
    "confirmed": "2026-09-16",
    "description": "입주협의 초.초역세동 에어컨4대 중문 밝은집 넓은거실",
    "realtor": "웰컴공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
+   "article_no": "2650065966",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 74.98,
+   "area_supply": 95.99,
+   "floor": "고/25",
+   "building": "122",
+   "direction": "WS",
+   "confirmed": "2026-09-16",
+   "description": "초초역세권동.옵션 풀.상태 최상",
+   "realtor": "최고공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -1129,21 +1144,6 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2649403813",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 74.98,
-   "area_supply": 95.99,
-   "floor": "저/26",
-   "building": "127",
-   "direction": "WS",
-   "confirmed": "2026-09-12",
-   "description": "시스템에어컨. 이쁜 단지조망. 입주일협의",
-   "realtor": "산성코끼리공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
    "article_no": "2649410852",
    "trade": "B1",
    "deposit": 75000,
@@ -1159,17 +1159,17 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2650296601",
+   "article_no": "2649403813",
    "trade": "B1",
    "deposit": 75000,
    "rent": 0,
    "area_exclusive": 74.98,
    "area_supply": 95.99,
-   "floor": "저/28",
-   "building": "136",
+   "floor": "저/26",
+   "building": "127",
    "direction": "WS",
-   "confirmed": "2026-09-17",
-   "description": "초역세권 채광좋음 판상형",
+   "confirmed": "2026-09-12",
+   "description": "시스템에어컨. 이쁜 단지조망. 입주일협의",
    "realtor": "산성코끼리공인중개사사무소",
    "price_text": "75000"
   },
@@ -1204,6 +1204,21 @@
    "price_text": "75000"
   },
   {
+   "article_no": "2650350306",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 74.96,
+   "area_supply": 96.59,
+   "floor": "저/28",
+   "building": "111",
+   "direction": "SS",
+   "confirmed": "2026-09-17",
+   "description": "숲세권.컨디션최상.선호타입.이사협의",
+   "realtor": "포레스타1공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
    "article_no": "2650277344",
    "trade": "B1",
    "deposit": 75000,
@@ -1219,17 +1234,32 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2650350306",
+   "article_no": "2650296601",
    "trade": "B1",
    "deposit": 75000,
    "rent": 0,
-   "area_exclusive": 74.96,
-   "area_supply": 96.59,
+   "area_exclusive": 74.98,
+   "area_supply": 95.99,
    "floor": "저/28",
-   "building": "111",
-   "direction": "SS",
+   "building": "136",
+   "direction": "WS",
    "confirmed": "2026-09-17",
-   "description": "숲세권.컨디션최상.선호타입.이사협의",
+   "description": "초역세권 채광좋음 판상형",
+   "realtor": "산성코끼리공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
+   "article_no": "2650067080",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 74.98,
+   "area_supply": 95.99,
+   "floor": "중/27",
+   "building": "133",
+   "direction": "ES",
+   "confirmed": "2026-09-16",
+   "description": "초역세.내부깔끔.빠른이사가능",
    "realtor": "포레스타1공인중개사사무소",
    "price_text": "75000"
   },
@@ -1261,21 +1291,6 @@
    "confirmed": "2026-09-09",
    "description": "74 신속입주가능 융자없음 시스템에어컨 생활동선 편리한 로얄동 전자계약",
    "realtor": "단지내우리부동산공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
-   "article_no": "2650067080",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 74.98,
-   "area_supply": 95.99,
-   "floor": "중/27",
-   "building": "133",
-   "direction": "ES",
-   "confirmed": "2026-09-16",
-   "description": "초역세.내부깔끔.빠른이사가능",
-   "realtor": "포레스타1공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -1549,7 +1564,7 @@
    "price_text": "78000"
   },
   {
-   "article_no": "2650363376",
+   "article_no": "2650369691",
    "trade": "B1",
    "deposit": 80000,
    "rent": 0,
@@ -1559,8 +1574,8 @@
    "building": "134",
    "direction": "ES",
    "confirmed": "2026-09-17",
-   "description": "역세권,로얄동,중앙평지라인,풀에어컨,선호타입,채광굿,입주협의",
-   "realtor": "포레사랑공인중개사사무소",
+   "description": "초역세권동. 중앙평지. 주차편리. 시스템에에컨풀. 마트,상가인접.전자계약",
+   "realtor": "일신부동산중개법인(주)",
    "price_text": "80000"
   },
   {
@@ -1576,6 +1591,21 @@
    "confirmed": "2026-09-17",
    "description": "초역세권.트인단지뷰.인기라인동.내부깔끔.풀에어컨.입주협의",
    "realtor": "포레스타1공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2650363376",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 74.98,
+   "area_supply": 95.99,
+   "floor": "저/26",
+   "building": "134",
+   "direction": "ES",
+   "confirmed": "2026-09-17",
+   "description": "역세권,로얄동,중앙평지라인,풀에어컨,선호타입,채광굿,입주협의",
+   "realtor": "포레사랑공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -1609,21 +1639,6 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2650327966",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 74.96,
-   "area_supply": 96.59,
-   "floor": "고/24",
-   "building": "117",
-   "direction": "SS",
-   "confirmed": "2026-09-17",
-   "description": "",
-   "realtor": "포레사랑1공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2650320257",
    "trade": "B1",
    "deposit": 80000,
@@ -1636,6 +1651,21 @@
    "confirmed": "2026-09-17",
    "description": "초역세동 에어컨풀 입주협의 컨디션 좋은집",
    "realtor": "해든부동산중개법인(주)",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2650327966",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 74.96,
+   "area_supply": 96.59,
+   "floor": "고/24",
+   "building": "117",
+   "direction": "SS",
+   "confirmed": "2026-09-17",
+   "description": "",
+   "realtor": "포레사랑1공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -1669,21 +1699,6 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2648531096",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 74.96,
-   "area_supply": 96.59,
-   "floor": "저/28",
-   "building": "110",
-   "direction": "WS",
-   "confirmed": "2026-09-08",
-   "description": "학세숲세권  정남향  틔인뷰 관리잘된집 지하철7분",
-   "realtor": "산성연합공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2648554827",
    "trade": "B1",
    "deposit": 80000,
@@ -1696,6 +1711,21 @@
    "confirmed": "2026-09-08",
    "description": "넓은동간거리. 마트,상가이용편리. 밝은남동향. 초역세권동.",
    "realtor": "일신부동산중개법인(주)",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2648531096",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 74.96,
+   "area_supply": 96.59,
+   "floor": "저/28",
+   "building": "110",
+   "direction": "WS",
+   "confirmed": "2026-09-08",
+   "description": "학세숲세권  정남향  틔인뷰 관리잘된집 지하철7분",
+   "realtor": "산성연합공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -1849,21 +1879,6 @@
    "price_text": "83000"
   },
   {
-   "article_no": "2650275511",
-   "trade": "B1",
-   "deposit": 83000,
-   "rent": 0,
-   "area_exclusive": 74.98,
-   "area_supply": 95.99,
-   "floor": "저/28",
-   "building": "136",
-   "direction": "WS",
-   "confirmed": "2026-09-17",
-   "description": "역세권,로얄동,시스템에어컨,컨디션 굿,입주일 협의",
-   "realtor": "포레사랑공인중개사사무소",
-   "price_text": "83000"
-  },
-  {
    "article_no": "2650230223",
    "trade": "B1",
    "deposit": 83000,
@@ -1876,6 +1891,21 @@
    "confirmed": "2026-09-17",
    "description": "74 신속입주 초초역세권 로얄동 시스템에어컨 컨디션굿 전자계약가능",
    "realtor": "단지내우리부동산공인중개사사무소",
+   "price_text": "83000"
+  },
+  {
+   "article_no": "2650275511",
+   "trade": "B1",
+   "deposit": 83000,
+   "rent": 0,
+   "area_exclusive": 74.98,
+   "area_supply": 95.99,
+   "floor": "저/28",
+   "building": "136",
+   "direction": "WS",
+   "confirmed": "2026-09-17",
+   "description": "역세권,로얄동,시스템에어컨,컨디션 굿,입주일 협의",
+   "realtor": "포레사랑공인중개사사무소",
    "price_text": "83000"
   },
   {
@@ -1894,7 +1924,7 @@
    "price_text": "83000"
   },
   {
-   "article_no": "2650121542",
+   "article_no": "2650084438",
    "trade": "B1",
    "deposit": 83000,
    "rent": 0,
@@ -1904,8 +1934,8 @@
    "building": "136",
    "direction": "WS",
    "confirmed": "2026-09-16",
-   "description": "74 전세 로얄동 트인조망 넓은거실 에어컨 지하철 3분",
-   "realtor": "포레스티아길공인중개사",
+   "description": "빠른입주 가능. 초역세권동. 주차편리. 시스템에어컨. 전자계약가능.",
+   "realtor": "일신부동산중개법인(주)",
    "price_text": "83000"
   },
   {
@@ -1924,7 +1954,7 @@
    "price_text": "83000"
   },
   {
-   "article_no": "2650084438",
+   "article_no": "2650121542",
    "trade": "B1",
    "deposit": 83000,
    "rent": 0,
@@ -1934,8 +1964,8 @@
    "building": "136",
    "direction": "WS",
    "confirmed": "2026-09-16",
-   "description": "빠른입주 가능. 초역세권동. 주차편리. 시스템에어컨. 전자계약가능.",
-   "realtor": "일신부동산중개법인(주)",
+   "description": "74 전세 로얄동 트인조망 넓은거실 에어컨 지하철 3분",
+   "realtor": "포레스티아길공인중개사",
    "price_text": "83000"
   },
   {
@@ -2164,7 +2194,7 @@
    "price_text": "85000"
   },
   {
-   "article_no": "2650283461",
+   "article_no": "2650233025",
    "trade": "B1",
    "deposit": 85000,
    "rent": 0,
@@ -2174,23 +2204,8 @@
    "building": "112",
    "direction": "ES",
    "confirmed": "2026-09-17",
-   "description": "융자무 에어컨5대 중문 펜트리 롯데타워뷰 드레스룸",
-   "realtor": "웰컴공인중개사사무소",
-   "price_text": "85000"
-  },
-  {
-   "article_no": "2650274163",
-   "trade": "B1",
-   "deposit": 85000,
-   "rent": 0,
-   "area_exclusive": 84.92,
-   "area_supply": 108.52,
-   "floor": "22/28",
-   "building": "112",
-   "direction": "ES",
-   "confirmed": "2026-09-17",
-   "description": "시스템에어컨. 숲세권. 일조풍부",
-   "realtor": "산성코끼리공인중개사사무소",
+   "description": "숲세권,알파룸,시스템에어컨풀,방4,전자계약",
+   "realtor": "수목금공인중개사사무소",
    "price_text": "85000"
   },
   {
@@ -2224,7 +2239,7 @@
    "price_text": "85000"
   },
   {
-   "article_no": "2650233025",
+   "article_no": "2650283461",
    "trade": "B1",
    "deposit": 85000,
    "rent": 0,
@@ -2234,12 +2249,12 @@
    "building": "112",
    "direction": "ES",
    "confirmed": "2026-09-17",
-   "description": "숲세권,알파룸,시스템에어컨풀,방4,전자계약",
-   "realtor": "수목금공인중개사사무소",
+   "description": "융자무 에어컨5대 중문 펜트리 롯데타워뷰 드레스룸",
+   "realtor": "웰컴공인중개사사무소",
    "price_text": "85000"
   },
   {
-   "article_no": "2650121232",
+   "article_no": "2650274163",
    "trade": "B1",
    "deposit": 85000,
    "rent": 0,
@@ -2248,9 +2263,9 @@
    "floor": "22/28",
    "building": "112",
    "direction": "ES",
-   "confirmed": "2026-09-16",
-   "description": "84 전세 에어컨풀 넓은 드레스룸 지하철 7분 입주협의",
-   "realtor": "포레스티아길공인중개사",
+   "confirmed": "2026-09-17",
+   "description": "시스템에어컨. 숲세권. 일조풍부",
+   "realtor": "산성코끼리공인중개사사무소",
    "price_text": "85000"
   },
   {
@@ -2269,21 +2284,6 @@
    "price_text": "85000"
   },
   {
-   "article_no": "2650039835",
-   "trade": "B1",
-   "deposit": 85000,
-   "rent": 0,
-   "area_exclusive": 84.92,
-   "area_supply": 108.52,
-   "floor": "22/28",
-   "building": "112",
-   "direction": "ES",
-   "confirmed": "2026-09-16",
-   "description": "숲세권.조용한동으로추천.시스템에어컨.넓은드레스룸",
-   "realtor": "포레스타1공인중개사사무소",
-   "price_text": "85000"
-  },
-  {
    "article_no": "2650067065",
    "trade": "B1",
    "deposit": 85000,
@@ -2296,6 +2296,36 @@
    "confirmed": "2026-09-16",
    "description": "영장산 근린공원 산책.산성역 이용 편리.넓은 거실.융자무",
    "realtor": "최고공인중개사사무소",
+   "price_text": "85000"
+  },
+  {
+   "article_no": "2650121232",
+   "trade": "B1",
+   "deposit": 85000,
+   "rent": 0,
+   "area_exclusive": 84.92,
+   "area_supply": 108.52,
+   "floor": "22/28",
+   "building": "112",
+   "direction": "ES",
+   "confirmed": "2026-09-16",
+   "description": "84 전세 에어컨풀 넓은 드레스룸 지하철 7분 입주협의",
+   "realtor": "포레스티아길공인중개사",
+   "price_text": "85000"
+  },
+  {
+   "article_no": "2650039835",
+   "trade": "B1",
+   "deposit": 85000,
+   "rent": 0,
+   "area_exclusive": 84.92,
+   "area_supply": 108.52,
+   "floor": "22/28",
+   "building": "112",
+   "direction": "ES",
+   "confirmed": "2026-09-16",
+   "description": "숲세권.조용한동으로추천.시스템에어컨.넓은드레스룸",
+   "realtor": "포레스타1공인중개사사무소",
    "price_text": "85000"
   },
   {
@@ -2539,21 +2569,6 @@
    "price_text": "85000"
   },
   {
-   "article_no": "2649367738",
-   "trade": "B1",
-   "deposit": 85000,
-   "rent": 0,
-   "area_exclusive": 84.92,
-   "area_supply": 108.52,
-   "floor": "저/26",
-   "building": "124",
-   "direction": "WS",
-   "confirmed": "2026-09-12",
-   "description": "전철이용편리 시스템에어컨옵션 입주협의 전자계약가능",
-   "realtor": "산성코끼리공인중개사사무소",
-   "price_text": "85000"
-  },
-  {
    "article_no": "2649374014",
    "trade": "B1",
    "deposit": 85000,
@@ -2566,6 +2581,21 @@
    "confirmed": "2026-09-12",
    "description": "84A.시스템에어컨. 초역세권 .대단지.입주일협의.",
    "realtor": "단지내최고공인중개사사무소",
+   "price_text": "85000"
+  },
+  {
+   "article_no": "2649367738",
+   "trade": "B1",
+   "deposit": 85000,
+   "rent": 0,
+   "area_exclusive": 84.92,
+   "area_supply": 108.52,
+   "floor": "저/26",
+   "building": "124",
+   "direction": "WS",
+   "confirmed": "2026-09-12",
+   "description": "전철이용편리 시스템에어컨옵션 입주협의 전자계약가능",
+   "realtor": "산성코끼리공인중개사사무소",
    "price_text": "85000"
   },
   {
@@ -2614,21 +2644,6 @@
    "price_text": "85000"
   },
   {
-   "article_no": "2650068400",
-   "trade": "B1",
-   "deposit": 88000,
-   "rent": 0,
-   "area_exclusive": 84.92,
-   "area_supply": 108.52,
-   "floor": "중/24",
-   "building": "115",
-   "direction": "ES",
-   "confirmed": "2026-09-16",
-   "description": "넓은 드레스룸.시스템에어컨 풀.산성역 접근성 굿.융자무",
-   "realtor": "최고공인중개사사무소",
-   "price_text": "88000"
-  },
-  {
    "article_no": "2650022920",
    "trade": "B1",
    "deposit": 88000,
@@ -2641,6 +2656,21 @@
    "confirmed": "2026-09-16",
    "description": "귀한84전세.컨디션최상.에어컨유.이사협의",
    "realtor": "포레스타1공인중개사사무소",
+   "price_text": "88000"
+  },
+  {
+   "article_no": "2650068400",
+   "trade": "B1",
+   "deposit": 88000,
+   "rent": 0,
+   "area_exclusive": 84.92,
+   "area_supply": 108.52,
+   "floor": "중/24",
+   "building": "115",
+   "direction": "ES",
+   "confirmed": "2026-09-16",
+   "description": "넓은 드레스룸.시스템에어컨 풀.산성역 접근성 굿.융자무",
+   "realtor": "최고공인중개사사무소",
    "price_text": "88000"
   },
   {
@@ -2764,21 +2794,6 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2646137217",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 98.68,
-   "area_supply": 125.26,
-   "floor": "중/26",
-   "building": "124",
-   "direction": "ES",
-   "confirmed": "2026-08-27",
-   "description": "역세권 상가이용편리 시스템에어컨",
-   "realtor": "산성코끼리공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
    "article_no": "2646103226",
    "trade": "B1",
    "deposit": 90000,
@@ -2791,6 +2806,21 @@
    "confirmed": "2026-08-27",
    "description": "앞동 막힘 없는 시원한 뷰.산성역 도보.옵션 굿",
    "realtor": "최고공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2646137217",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 98.68,
+   "area_supply": 125.26,
+   "floor": "중/26",
+   "building": "124",
+   "direction": "ES",
+   "confirmed": "2026-08-27",
+   "description": "역세권 상가이용편리 시스템에어컨",
+   "realtor": "산성코끼리공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -3154,21 +3184,6 @@
    "price_text": "60000/80"
   },
   {
-   "article_no": "2650274224",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 80,
-   "area_exclusive": 74.98,
-   "area_supply": 95.99,
-   "floor": "중/26",
-   "building": "108",
-   "direction": "WS",
-   "confirmed": "2026-09-17",
-   "description": "입주협의 넓은구조 고층뷰 생활편리",
-   "realtor": "산성코끼리공인중개사사무소",
-   "price_text": "60000/80"
-  },
-  {
    "article_no": "2650327006",
    "trade": "B2",
    "deposit": 60000,
@@ -3181,6 +3196,21 @@
    "confirmed": "2026-09-17",
    "description": "전망최고이며 넓은 거실과 개방감이 큰 내부 구조 수납공간이 많은 타입",
    "realtor": "대우공인중개사사무소",
+   "price_text": "60000/80"
+  },
+  {
+   "article_no": "2650274224",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 80,
+   "area_exclusive": 74.98,
+   "area_supply": 95.99,
+   "floor": "중/26",
+   "building": "108",
+   "direction": "WS",
+   "confirmed": "2026-09-17",
+   "description": "입주협의 넓은구조 고층뷰 생활편리",
+   "realtor": "산성코끼리공인중개사사무소",
    "price_text": "60000/80"
   },
   {
@@ -3199,51 +3229,6 @@
    "price_text": "60000/80"
   },
   {
-   "article_no": "2650104869",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 80,
-   "area_exclusive": 74.98,
-   "area_supply": 95.99,
-   "floor": "중/26",
-   "building": "108",
-   "direction": "WS",
-   "confirmed": "2026-09-16",
-   "description": "환상의뷰 컨디션굿  채광굿  입주협의   로얄동 로얄층",
-   "realtor": "산성역중앙공인중개사사무소",
-   "price_text": "60000/80"
-  },
-  {
-   "article_no": "2650121866",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 80,
-   "area_exclusive": 74.98,
-   "area_supply": 95.99,
-   "floor": "중/26",
-   "building": "108",
-   "direction": "WS",
-   "confirmed": "2026-09-16",
-   "description": "74 월세 트인조망 에어컨 넓은거실 밝은집 지하철 7분",
-   "realtor": "포레스티아길공인중개사",
-   "price_text": "60000/80"
-  },
-  {
-   "article_no": "2650039832",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 80,
-   "area_exclusive": 74.98,
-   "area_supply": 95.99,
-   "floor": "중/26",
-   "building": "108",
-   "direction": "WS",
-   "confirmed": "2026-09-16",
-   "description": "숲뷰동  에어컨있음  입주일협의",
-   "realtor": "포레스타1공인중개사사무소",
-   "price_text": "60000/80"
-  },
-  {
    "article_no": "2650044723",
    "trade": "B2",
    "deposit": 60000,
@@ -3256,21 +3241,6 @@
    "confirmed": "2026-09-16",
    "description": "트인전망 숲세권 공기좋고 컨디션 좋은 집",
    "realtor": "해든부동산중개법인(주)",
-   "price_text": "60000/80"
-  },
-  {
-   "article_no": "2650086531",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 80,
-   "area_exclusive": 74.98,
-   "area_supply": 95.99,
-   "floor": "중/26",
-   "building": "108",
-   "direction": "SS",
-   "confirmed": "2026-09-16",
-   "description": "시스템에어컨유. 넓은거실. 밝고 햇살좋은집.",
-   "realtor": "일신부동산중개법인(주)",
    "price_text": "60000/80"
   },
   {
@@ -3289,6 +3259,36 @@
    "price_text": "60000/80"
   },
   {
+   "article_no": "2650039832",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 80,
+   "area_exclusive": 74.98,
+   "area_supply": 95.99,
+   "floor": "중/26",
+   "building": "108",
+   "direction": "WS",
+   "confirmed": "2026-09-16",
+   "description": "숲뷰동  에어컨있음  입주일협의",
+   "realtor": "포레스타1공인중개사사무소",
+   "price_text": "60000/80"
+  },
+  {
+   "article_no": "2650121866",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 80,
+   "area_exclusive": 74.98,
+   "area_supply": 95.99,
+   "floor": "중/26",
+   "building": "108",
+   "direction": "WS",
+   "confirmed": "2026-09-16",
+   "description": "74 월세 트인조망 에어컨 넓은거실 밝은집 지하철 7분",
+   "realtor": "포레스티아길공인중개사",
+   "price_text": "60000/80"
+  },
+  {
    "article_no": "2650173193",
    "trade": "B2",
    "deposit": 60000,
@@ -3301,6 +3301,36 @@
    "confirmed": "2026-09-16",
    "description": "74B 추천 숲세권  에유 스카이뷰 상태아주깔끔  협의",
    "realtor": "산성연합공인중개사사무소",
+   "price_text": "60000/80"
+  },
+  {
+   "article_no": "2650086531",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 80,
+   "area_exclusive": 74.98,
+   "area_supply": 95.99,
+   "floor": "중/26",
+   "building": "108",
+   "direction": "SS",
+   "confirmed": "2026-09-16",
+   "description": "시스템에어컨유. 넓은거실. 밝고 햇살좋은집.",
+   "realtor": "일신부동산중개법인(주)",
+   "price_text": "60000/80"
+  },
+  {
+   "article_no": "2650104869",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 80,
+   "area_exclusive": 74.98,
+   "area_supply": 95.99,
+   "floor": "중/26",
+   "building": "108",
+   "direction": "WS",
+   "confirmed": "2026-09-16",
+   "description": "환상의뷰 컨디션굿  채광굿  입주협의   로얄동 로얄층",
+   "realtor": "산성역중앙공인중개사사무소",
    "price_text": "60000/80"
   },
   {
@@ -3499,21 +3529,6 @@
    "price_text": "50000/120"
   },
   {
-   "article_no": "2650164774",
-   "trade": "B2",
-   "deposit": 50000,
-   "rent": 120,
-   "area_exclusive": 74.98,
-   "area_supply": 95.99,
-   "floor": "중/26",
-   "building": "134",
-   "direction": "ES",
-   "confirmed": "2026-09-16",
-   "description": "역세권동.추천매물.인기타입.이사협의",
-   "realtor": "포레스타1공인중개사사무소",
-   "price_text": "50000/120"
-  },
-  {
    "article_no": "2650039901",
    "trade": "B2",
    "deposit": 50000,
@@ -3525,6 +3540,21 @@
    "direction": "SS",
    "confirmed": "2026-09-16",
    "description": "초역세권동으로추천.내부깔끔.이사협의",
+   "realtor": "포레스타1공인중개사사무소",
+   "price_text": "50000/120"
+  },
+  {
+   "article_no": "2650164774",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 120,
+   "area_exclusive": 74.98,
+   "area_supply": 95.99,
+   "floor": "중/26",
+   "building": "134",
+   "direction": "ES",
+   "confirmed": "2026-09-16",
+   "description": "역세권동.추천매물.인기타입.이사협의",
    "realtor": "포레스타1공인중개사사무소",
    "price_text": "50000/120"
   },
@@ -3739,21 +3769,6 @@
    "price_text": "10000/230"
   },
   {
-   "article_no": "2647067412",
-   "trade": "B2",
-   "deposit": 10000,
-   "rent": 240,
-   "area_exclusive": 59.84,
-   "area_supply": 77.18,
-   "floor": "저/24",
-   "building": "118",
-   "direction": "WS",
-   "confirmed": "2026-09-01",
-   "description": "초초역세권동. 출퇴근편리. 시스템에어컨. 영장산맑은공기.",
-   "realtor": "일신부동산중개법인(주)",
-   "price_text": "10000/240"
-  },
-  {
    "article_no": "2647067712",
    "trade": "B2",
    "deposit": 10000,
@@ -3765,6 +3780,21 @@
    "direction": "WS",
    "confirmed": "2026-09-01",
    "description": "광폭거실. 에어컨유. 주차편리. 햇살좋은집. 상가이용편리.",
+   "realtor": "일신부동산중개법인(주)",
+   "price_text": "10000/240"
+  },
+  {
+   "article_no": "2647067412",
+   "trade": "B2",
+   "deposit": 10000,
+   "rent": 240,
+   "area_exclusive": 59.84,
+   "area_supply": 77.18,
+   "floor": "저/24",
+   "building": "118",
+   "direction": "WS",
+   "confirmed": "2026-09-01",
+   "description": "초초역세권동. 출퇴근편리. 시스템에어컨. 영장산맑은공기.",
    "realtor": "일신부동산중개법인(주)",
    "price_text": "10000/240"
   },
@@ -3799,21 +3829,6 @@
    "price_text": "15000/250"
   },
   {
-   "article_no": "2646803622",
-   "trade": "B2",
-   "deposit": 15000,
-   "rent": 250,
-   "area_exclusive": 74.98,
-   "area_supply": 95.99,
-   "floor": "저/23",
-   "building": "121",
-   "direction": "WS",
-   "confirmed": "2026-08-31",
-   "description": "초역세권,로얄동,선호타입,에어컨,컨디션굿,입주협의",
-   "realtor": "포레사랑공인중개사사무소",
-   "price_text": "15000/250"
-  },
-  {
    "article_no": "2646778137",
    "trade": "B2",
    "deposit": 15000,
@@ -3826,6 +3841,21 @@
    "confirmed": "2026-08-31",
    "description": "74B. 에어컨.로얄동.깔끔한집.입주협의",
    "realtor": "단지내최고공인중개사사무소",
+   "price_text": "15000/250"
+  },
+  {
+   "article_no": "2646803622",
+   "trade": "B2",
+   "deposit": 15000,
+   "rent": 250,
+   "area_exclusive": 74.98,
+   "area_supply": 95.99,
+   "floor": "저/23",
+   "building": "121",
+   "direction": "WS",
+   "confirmed": "2026-08-31",
+   "description": "초역세권,로얄동,선호타입,에어컨,컨디션굿,입주협의",
+   "realtor": "포레사랑공인중개사사무소",
    "price_text": "15000/250"
   },
   {
@@ -4159,21 +4189,6 @@
    "price_text": "20000/450"
   },
   {
-   "article_no": "2649392751",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 450,
-   "area_exclusive": 84.98,
-   "area_supply": 113.27,
-   "floor": "26/28",
-   "building": "110",
-   "direction": "SS",
-   "confirmed": "2026-09-12",
-   "description": "귀한 팬트하우스 정원굿, 풀에어컨, 산성역역세권, 전자계약, 빠른입주가능",
-   "realtor": "마당발공인중개사사무소",
-   "price_text": "20000/450"
-  },
-  {
    "article_no": "2649402302",
    "trade": "B2",
    "deposit": 20000,
@@ -4201,6 +4216,21 @@
    "confirmed": "2026-09-12",
    "description": "도심속 멋지 펜트하우스.주인거주로 상태 굿.인테리어 잘 된 집",
    "realtor": "최고공인중개사사무소",
+   "price_text": "20000/450"
+  },
+  {
+   "article_no": "2649392751",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 450,
+   "area_exclusive": 84.98,
+   "area_supply": 113.27,
+   "floor": "26/28",
+   "building": "110",
+   "direction": "SS",
+   "confirmed": "2026-09-12",
+   "description": "귀한 팬트하우스 정원굿, 풀에어컨, 산성역역세권, 전자계약, 빠른입주가능",
+   "realtor": "마당발공인중개사사무소",
    "price_text": "20000/450"
   },
   {

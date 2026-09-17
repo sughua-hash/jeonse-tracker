@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T15:30:26+09:00",
+ "generated_at": "2026-09-17T15:53:10+09:00",
  "date": "2026-09-17",
  "settings": {
   "area_min_m2": 83,
@@ -51,14 +51,14 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 132,
+     "all": 133,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
      "wolse_ok": 0
     },
     "areas": {
-     "98.7": 26,
+     "98.7": 27,
      "98.9": 30,
      "99": 76
     },
@@ -122,16 +122,16 @@
       "jeonse": {
        "price": 105000,
        "article": {
-        "article_no": "2650354032",
+        "article_no": "2650360275",
         "deposit": 105000,
         "rent": 0,
-        "area": 98.95,
-        "floor": "고/18",
-        "building": "5301",
+        "area": 98.7,
+        "floor": "저/15",
+        "building": "5312",
         "direction": "SS",
         "confirmed": "2026-09-17",
         "price_text": "105000",
-        "url": "https://m.land.naver.com/article/info/2650354032"
+        "url": "https://m.land.naver.com/article/info/2650360275"
        }
       },
       "wolse_rent": {
@@ -169,10 +169,10 @@
        }
       },
       "counts": {
-       "all": 132,
-       "in_area": 132,
+       "all": 133,
+       "in_area": 133,
        "jeonse": 57,
-       "wolse": 75,
+       "wolse": 76,
        "wolse_ok": 1
       },
       "deltas": {
@@ -234,7 +234,7 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 132,
+       "all": 133,
        "in_area": 0,
        "jeonse": 0,
        "wolse": 0,
@@ -299,7 +299,7 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 132,
+       "all": 133,
        "in_area": 0,
        "jeonse": 0,
        "wolse": 0,
@@ -364,7 +364,7 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 132,
+       "all": 133,
        "in_area": 0,
        "jeonse": 0,
        "wolse": 0,
@@ -439,7 +439,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 24,
+     "all": 23,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -447,7 +447,7 @@
     },
     "areas": {
      "101.6": 2,
-     "102": 22
+     "102": 21
     },
     "date": "2026-09-17",
     "source": "fin",
@@ -524,10 +524,10 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 24,
-       "in_area": 24,
+       "all": 23,
+       "in_area": 23,
        "jeonse": 14,
-       "wolse": 10,
+       "wolse": 9,
        "wolse_ok": 0
       },
       "deltas": {
@@ -589,7 +589,7 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 24,
+       "all": 23,
        "in_area": 0,
        "jeonse": 0,
        "wolse": 0,
@@ -654,7 +654,7 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 24,
+       "all": 23,
        "in_area": 0,
        "jeonse": 0,
        "wolse": 0,
@@ -719,7 +719,7 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 24,
+       "all": 23,
        "in_area": 0,
        "jeonse": 0,
        "wolse": 0,
@@ -2970,14 +2970,14 @@
      }
     },
     "counts": {
-     "all": 56,
-     "in_area": 34,
-     "jeonse": 32,
+     "all": 57,
+     "in_area": 35,
+     "jeonse": 33,
      "wolse": 2,
      "wolse_ok": 2
     },
     "areas": {
-     "84.8": 10,
+     "84.8": 11,
      "85": 24,
      "98.8": 8,
      "99": 14
@@ -3089,7 +3089,7 @@
        }
       },
       "counts": {
-       "all": 56,
+       "all": 57,
        "in_area": 22,
        "jeonse": 10,
        "wolse": 12,
@@ -3154,7 +3154,7 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 56,
+       "all": 57,
        "in_area": 0,
        "jeonse": 0,
        "wolse": 0,
@@ -3219,7 +3219,7 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 56,
+       "all": 57,
        "in_area": 0,
        "jeonse": 0,
        "wolse": 0,
@@ -3284,7 +3284,7 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 56,
+       "all": 57,
        "in_area": 0,
        "jeonse": 0,
        "wolse": 0,
@@ -6074,7 +6074,7 @@
      }
     },
     "counts": {
-     "all": 284,
+     "all": 286,
      "in_area": 73,
      "jeonse": 58,
      "wolse": 15,
@@ -6083,7 +6083,7 @@
     "areas": {
      "59.8": 46,
      "67.9": 16,
-     "75": 138,
+     "75": 140,
      "84.9": 59,
      "85": 14,
      "98.7": 11
@@ -6163,7 +6163,7 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 284,
+       "all": 286,
        "in_area": 11,
        "jeonse": 11,
        "wolse": 0,
@@ -6228,7 +6228,7 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 284,
+       "all": 286,
        "in_area": 0,
        "jeonse": 0,
        "wolse": 0,
@@ -6293,7 +6293,7 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 284,
+       "all": 286,
        "in_area": 0,
        "jeonse": 0,
        "wolse": 0,
@@ -6358,7 +6358,7 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 284,
+       "all": 286,
        "in_area": 0,
        "jeonse": 0,
        "wolse": 0,
@@ -8557,7 +8557,7 @@
     "jeonse": {
      "price": 110000,
      "article": {
-      "article_no": "2650353070",
+      "article_no": "2650372374",
       "deposit": 110000,
       "rent": 0,
       "area": 84.93,
@@ -8566,21 +8566,21 @@
       "direction": "EE",
       "confirmed": "2026-09-17",
       "price_text": "110000",
-      "url": "https://m.land.naver.com/article/info/2650353070"
+      "url": "https://m.land.naver.com/article/info/2650372374"
      }
     },
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 26,
-     "in_area": 20,
+     "all": 25,
+     "in_area": 19,
      "jeonse": 13,
-     "wolse": 7,
+     "wolse": 6,
      "wolse_ok": 0
     },
     "areas": {
      "59.8": 6,
-     "84.9": 20
+     "84.9": 19
     },
     "date": "2026-09-17",
     "source": "fin",
@@ -8643,7 +8643,7 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 26,
+       "all": 25,
        "in_area": 0,
        "jeonse": 0,
        "wolse": 0,
@@ -8708,7 +8708,7 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 26,
+       "all": 25,
        "in_area": 0,
        "jeonse": 0,
        "wolse": 0,
@@ -8773,7 +8773,7 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 26,
+       "all": 25,
        "in_area": 0,
        "jeonse": 0,
        "wolse": 0,
@@ -8838,7 +8838,7 @@
       "wolse_rent": null,
       "wolse_conv": null,
       "counts": {
-       "all": 26,
+       "all": 25,
        "in_area": 0,
        "jeonse": 0,
        "wolse": 0,

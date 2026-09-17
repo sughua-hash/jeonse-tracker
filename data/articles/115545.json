@@ -34,6 +34,51 @@
    "price_text": "67000"
   },
   {
+   "article_no": "2650234011",
+   "trade": "B1",
+   "deposit": 67000,
+   "rent": 0,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "저/30",
+   "building": "7504",
+   "direction": "ES",
+   "confirmed": "2026-09-17",
+   "description": "금강탑 12월8일이사 방3.에어컨2대 광폭거실 초품아 융자소액",
+   "realtor": "금강탑공인중개사사무소",
+   "price_text": "67000"
+  },
+  {
+   "article_no": "2650287803",
+   "trade": "B1",
+   "deposit": 67000,
+   "rent": 0,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "저/30",
+   "building": "7504",
+   "direction": "ES",
+   "confirmed": "2026-09-17",
+   "description": "금강봄 에2 환하고따땃 안심등교 초품아 바람솔솔 초록정원 소중한 룸테라스",
+   "realtor": "금강봄부동산공인중개사사무소",
+   "price_text": "67000"
+  },
+  {
+   "article_no": "2650237381",
+   "trade": "B1",
+   "deposit": 67000,
+   "rent": 0,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "저/30",
+   "building": "7504",
+   "direction": "SS",
+   "confirmed": "2026-09-17",
+   "description": "우리집처럼, 12.8일 입주, 방3, 에2, 컨디션최고",
+   "realtor": "다산금강우리집부동산공인중개사사무소",
+   "price_text": "67000"
+  },
+  {
    "article_no": "2650305311",
    "trade": "B1",
    "deposit": 67000,
@@ -46,21 +91,6 @@
    "confirmed": "2026-09-17",
    "description": "12월8일 고정 방3 에어컨2 깔끔관리 융자소액",
    "realtor": "다산신안탑공인중개사사무소",
-   "price_text": "67000"
-  },
-  {
-   "article_no": "2650256056",
-   "trade": "B1",
-   "deposit": 67000,
-   "rent": 0,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "저/30",
-   "building": "7504",
-   "direction": "SS",
-   "confirmed": "2026-09-17",
-   "description": "젤조은, 12.8입주, 방3 광폭거실, 에2, 소액융자",
-   "realtor": "금강젤조은(031-558-7942)부동산 공인중개사사무소",
    "price_text": "67000"
   },
   {
@@ -79,7 +109,7 @@
    "price_text": "67000"
   },
   {
-   "article_no": "2650203519",
+   "article_no": "2650287224",
    "trade": "B1",
    "deposit": 67000,
    "rent": 0,
@@ -89,8 +119,8 @@
    "building": "7504",
    "direction": "ES",
    "confirmed": "2026-09-17",
-   "description": "광폭거실 방3 에어컨2대 초품아  컨디션최고 12월8일",
-   "realtor": "다산백두산공인중개사사무소",
+   "description": "금강봄 에2 환하고따땃 안심등교 초품아 바람솔솔 초록정원 소중한 룸테라스",
+   "realtor": "금강봄부동산공인중개사사무소",
    "price_text": "67000"
   },
   {
@@ -139,37 +169,7 @@
    "price_text": "67000"
   },
   {
-   "article_no": "2650234011",
-   "trade": "B1",
-   "deposit": 67000,
-   "rent": 0,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "저/30",
-   "building": "7504",
-   "direction": "ES",
-   "confirmed": "2026-09-17",
-   "description": "금강탑 12월8일이사 방3.에어컨2대 광폭거실 초품아 융자소액",
-   "realtor": "금강탑공인중개사사무소",
-   "price_text": "67000"
-  },
-  {
-   "article_no": "2650287803",
-   "trade": "B1",
-   "deposit": 67000,
-   "rent": 0,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "저/30",
-   "building": "7504",
-   "direction": "ES",
-   "confirmed": "2026-09-17",
-   "description": "금강봄 에2 환하고따땃 안심등교 초품아 바람솔솔 초록정원 소중한 룸테라스",
-   "realtor": "금강봄부동산공인중개사사무소",
-   "price_text": "67000"
-  },
-  {
-   "article_no": "2650237381",
+   "article_no": "2650256056",
    "trade": "B1",
    "deposit": 67000,
    "rent": 0,
@@ -179,8 +179,23 @@
    "building": "7504",
    "direction": "SS",
    "confirmed": "2026-09-17",
-   "description": "우리집처럼, 12.8일 입주, 방3, 에2, 컨디션최고",
-   "realtor": "다산금강우리집부동산공인중개사사무소",
+   "description": "젤조은, 12.8입주, 방3 광폭거실, 에2, 소액융자",
+   "realtor": "금강젤조은(031-558-7942)부동산 공인중개사사무소",
+   "price_text": "67000"
+  },
+  {
+   "article_no": "2650203519",
+   "trade": "B1",
+   "deposit": 67000,
+   "rent": 0,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "저/30",
+   "building": "7504",
+   "direction": "ES",
+   "confirmed": "2026-09-17",
+   "description": "광폭거실 방3 에어컨2대 초품아  컨디션최고 12월8일",
+   "realtor": "다산백두산공인중개사사무소",
    "price_text": "67000"
   },
   {
@@ -196,21 +211,6 @@
    "confirmed": "2026-09-17",
    "description": "12월 8일, 학교 가깝고 조용한 동, 넓은거실, 에어컨2대, 융자 조금",
    "realtor": "황금 공인중개사사무소",
-   "price_text": "67000"
-  },
-  {
-   "article_no": "2650287224",
-   "trade": "B1",
-   "deposit": 67000,
-   "rent": 0,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "저/30",
-   "building": "7504",
-   "direction": "ES",
-   "confirmed": "2026-09-17",
-   "description": "금강봄 에2 환하고따땃 안심등교 초품아 바람솔솔 초록정원 소중한 룸테라스",
-   "realtor": "금강봄부동산공인중개사사무소",
    "price_text": "67000"
   },
   {
@@ -274,21 +274,6 @@
    "price_text": "67000"
   },
   {
-   "article_no": "2649890407",
-   "trade": "B1",
-   "deposit": 67000,
-   "rent": 0,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "저/30",
-   "building": "7504",
-   "direction": "ES",
-   "confirmed": "2026-09-15",
-   "description": "12월8일픽스 방3 시에2 융자무 한강초가까운동",
-   "realtor": "토마토공인중개사사무소",
-   "price_text": "67000"
-  },
-  {
    "article_no": "2649898495",
    "trade": "B1",
    "deposit": 67000,
@@ -301,6 +286,21 @@
    "confirmed": "2026-09-15",
    "description": "H집은 신안골드H 강추,12월8일고정,방3,에어컨2대,컨디션최상,한강초",
    "realtor": "신안골드부동산중개사무소",
+   "price_text": "67000"
+  },
+  {
+   "article_no": "2649890407",
+   "trade": "B1",
+   "deposit": 67000,
+   "rent": 0,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "저/30",
+   "building": "7504",
+   "direction": "ES",
+   "confirmed": "2026-09-15",
+   "description": "12월8일픽스 방3 시에2 융자무 한강초가까운동",
+   "realtor": "토마토공인중개사사무소",
    "price_text": "67000"
   },
   {
@@ -319,21 +319,6 @@
    "price_text": "67000"
   },
   {
-   "article_no": "2650267158",
-   "trade": "B1",
-   "deposit": 67000,
-   "rent": 0,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "저/30",
-   "building": "7504",
-   "direction": "ES",
-   "confirmed": "2026-09-17",
-   "description": "YES추천.학교가까운로얄동.방3.에2.소액융자안전",
-   "realtor": "예스공인중개사사무소",
-   "price_text": "67000"
-  },
-  {
    "article_no": "2650293024",
    "trade": "B1",
    "deposit": 67000,
@@ -349,7 +334,7 @@
    "price_text": "67000"
   },
   {
-   "article_no": "2650134390",
+   "article_no": "2650267158",
    "trade": "B1",
    "deposit": 67000,
    "rent": 0,
@@ -357,10 +342,10 @@
    "area_supply": 112.04,
    "floor": "저/30",
    "building": "7504",
-   "direction": "SS",
-   "confirmed": "2026-09-16",
-   "description": "금강봄 에2 환하고따땃 안심등교 초품아 바람솔솔 초록정원 소중한 룸테라스",
-   "realtor": "금강봄부동산공인중개사사무소",
+   "direction": "ES",
+   "confirmed": "2026-09-17",
+   "description": "YES추천.학교가까운로얄동.방3.에2.소액융자안전",
+   "realtor": "예스공인중개사사무소",
    "price_text": "67000"
   },
   {
@@ -391,6 +376,21 @@
    "confirmed": "2026-09-16",
    "description": "12월8일, 학교,커뮤니티가까운동, 방3,에어컨2대",
    "realtor": "황금공인중개사사무소",
+   "price_text": "67000"
+  },
+  {
+   "article_no": "2650134390",
+   "trade": "B1",
+   "deposit": 67000,
+   "rent": 0,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "저/30",
+   "building": "7504",
+   "direction": "SS",
+   "confirmed": "2026-09-16",
+   "description": "금강봄 에2 환하고따땃 안심등교 초품아 바람솔솔 초록정원 소중한 룸테라스",
+   "realtor": "금강봄부동산공인중개사사무소",
    "price_text": "67000"
   },
   {
@@ -619,6 +619,21 @@
    "price_text": "70000"
   },
   {
+   "article_no": "2650133226",
+   "trade": "B1",
+   "deposit": 70000,
+   "rent": 0,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "고/15",
+   "building": "7515",
+   "direction": "SS",
+   "confirmed": "2026-09-16",
+   "description": "금강봄 융자없는 특급 한강뷰 에3 빠른입주 중문 식세기",
+   "realtor": "금강봄부동산공인중개사사무소",
+   "price_text": "70000"
+  },
+  {
    "article_no": "2650188293",
    "trade": "B1",
    "deposit": 70000,
@@ -649,21 +664,6 @@
    "price_text": "70000"
   },
   {
-   "article_no": "2650133226",
-   "trade": "B1",
-   "deposit": 70000,
-   "rent": 0,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "고/15",
-   "building": "7515",
-   "direction": "SS",
-   "confirmed": "2026-09-16",
-   "description": "금강봄 융자없는 특급 한강뷰 에3 빠른입주 중문 식세기",
-   "realtor": "금강봄부동산공인중개사사무소",
-   "price_text": "70000"
-  },
-  {
    "article_no": "2650129920",
    "trade": "B1",
    "deposit": 70000,
@@ -679,21 +679,6 @@
    "price_text": "70000"
   },
   {
-   "article_no": "2650167508",
-   "trade": "B1",
-   "deposit": 70000,
-   "rent": 0,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "고/15",
-   "building": "7515",
-   "direction": "ES",
-   "confirmed": "2026-09-16",
-   "description": "특한강뷰 올인테리어 방3 에어컨3 중문 식세기 ",
-   "realtor": "다산봄날부동산공인중개사사무소",
-   "price_text": "70000"
-  },
-  {
    "article_no": "2650130860",
    "trade": "B1",
    "deposit": 70000,
@@ -706,6 +691,21 @@
    "confirmed": "2026-09-16",
    "description": "빠른입주 가능 내부인테리어 최상 한강 멋진뷰 방3,에3 부자추천.",
    "realtor": "금강부자공인중개사사무소",
+   "price_text": "70000"
+  },
+  {
+   "article_no": "2650167508",
+   "trade": "B1",
+   "deposit": 70000,
+   "rent": 0,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "고/15",
+   "building": "7515",
+   "direction": "ES",
+   "confirmed": "2026-09-16",
+   "description": "특한강뷰 올인테리어 방3 에어컨3 중문 식세기 ",
+   "realtor": "다산봄날부동산공인중개사사무소",
    "price_text": "70000"
   },
   {
@@ -814,21 +814,6 @@
    "price_text": "50000/80"
   },
   {
-   "article_no": "2649841084",
-   "trade": "B2",
-   "deposit": 50000,
-   "rent": 80,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "저/15",
-   "building": "7514",
-   "direction": "SS",
-   "confirmed": "2026-09-15",
-   "description": "풀인테리어 에어컨5 중문 넓은거실방3 집예뻐요",
-   "realtor": "금강1등공인중개사사무소",
-   "price_text": "50000/80"
-  },
-  {
    "article_no": "2649875796",
    "trade": "B2",
    "deposit": 50000,
@@ -841,6 +826,21 @@
    "confirmed": "2026-09-15",
    "description": "확트인 예쁜조망, 에어컨5대, 인테리어 컨디션굿, 입주일정 협의가능",
    "realtor": "황금 공인중개사사무소",
+   "price_text": "50000/80"
+  },
+  {
+   "article_no": "2649841084",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 80,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "저/15",
+   "building": "7514",
+   "direction": "SS",
+   "confirmed": "2026-09-15",
+   "description": "풀인테리어 에어컨5 중문 넓은거실방3 집예뻐요",
+   "realtor": "금강1등공인중개사사무소",
    "price_text": "50000/80"
   },
   {
@@ -1009,6 +1009,21 @@
    "price_text": "30000/160"
   },
   {
+   "article_no": "2650238052",
+   "trade": "B2",
+   "deposit": 25000,
+   "rent": 180,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "5/30",
+   "building": "7511",
+   "direction": "SS",
+   "confirmed": "2026-09-17",
+   "description": "우리집처럼, 빠른입주, 에4, 방4, 컨디션최고",
+   "realtor": "다산금강우리집부동산공인중개사사무소",
+   "price_text": "25000/180"
+  },
+  {
    "article_no": "2650248387",
    "trade": "B2",
    "deposit": 25000,
@@ -1024,21 +1039,6 @@
    "price_text": "25000/180"
   },
   {
-   "article_no": "2650284710",
-   "trade": "B2",
-   "deposit": 25000,
-   "rent": 180,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "5/30",
-   "building": "7511",
-   "direction": "WS",
-   "confirmed": "2026-09-17",
-   "description": "빠른입주가능,1년단기,방4,에4,단지뷰,초품아단지,보증금조절가능",
-   "realtor": "한결부동산공인중개사사무소",
-   "price_text": "25000/180"
-  },
-  {
    "article_no": "2650234057",
    "trade": "B2",
    "deposit": 25000,
@@ -1051,6 +1051,21 @@
    "confirmed": "2026-09-17",
    "description": "1년단기계약 빠른입주가능 방4 에어컨4 초품아 보증금조정가능",
    "realtor": "금강탑공인중개사사무소",
+   "price_text": "25000/180"
+  },
+  {
+   "article_no": "2650335178",
+   "trade": "B2",
+   "deposit": 25000,
+   "rent": 180,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "5/30",
+   "building": "7511",
+   "direction": "SS",
+   "confirmed": "2026-09-17",
+   "description": "빠른입주 1년 단기임대 방4개,에어컨4대 특별한 테라스 초품아.",
+   "realtor": "금강부자공인중개사사무소",
    "price_text": "25000/180"
   },
   {
@@ -1084,52 +1099,7 @@
    "price_text": "25000/180"
   },
   {
-   "article_no": "2650238052",
-   "trade": "B2",
-   "deposit": 25000,
-   "rent": 180,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "5/30",
-   "building": "7511",
-   "direction": "SS",
-   "confirmed": "2026-09-17",
-   "description": "우리집처럼, 빠른입주, 에4, 방4, 컨디션최고",
-   "realtor": "다산금강우리집부동산공인중개사사무소",
-   "price_text": "25000/180"
-  },
-  {
-   "article_no": "2650335178",
-   "trade": "B2",
-   "deposit": 25000,
-   "rent": 180,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "5/30",
-   "building": "7511",
-   "direction": "SS",
-   "confirmed": "2026-09-17",
-   "description": "빠른입주 1년 단기임대 방4개,에어컨4대 특별한 테라스 초품아.",
-   "realtor": "금강부자공인중개사사무소",
-   "price_text": "25000/180"
-  },
-  {
-   "article_no": "2650096890",
-   "trade": "B2",
-   "deposit": 25000,
-   "rent": 180,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "5/30",
-   "building": "7511",
-   "direction": "SS",
-   "confirmed": "2026-09-16",
-   "description": "Ii추천iI 1년단기 단지조망 빠른입주 방4 에어컨4 초품아단지",
-   "realtor": "다산신안인스빌공인중개사사무소",
-   "price_text": "25000/180"
-  },
-  {
-   "article_no": "2650136457",
+   "article_no": "2650284710",
    "trade": "B2",
    "deposit": 25000,
    "rent": 180,
@@ -1138,9 +1108,9 @@
    "floor": "5/30",
    "building": "7511",
    "direction": "WS",
-   "confirmed": "2026-09-16",
-   "description": "KING추천 1년단기계약 보증금조정가능 방4 에어컨4 초품아단지",
-   "realtor": "킹공인중개사사무소",
+   "confirmed": "2026-09-17",
+   "description": "빠른입주가능,1년단기,방4,에4,단지뷰,초품아단지,보증금조절가능",
+   "realtor": "한결부동산공인중개사사무소",
    "price_text": "25000/180"
   },
   {
@@ -1159,6 +1129,36 @@
    "price_text": "25000/180"
   },
   {
+   "article_no": "2650136457",
+   "trade": "B2",
+   "deposit": 25000,
+   "rent": 180,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "5/30",
+   "building": "7511",
+   "direction": "WS",
+   "confirmed": "2026-09-16",
+   "description": "KING추천 1년단기계약 보증금조정가능 방4 에어컨4 초품아단지",
+   "realtor": "킹공인중개사사무소",
+   "price_text": "25000/180"
+  },
+  {
+   "article_no": "2650096890",
+   "trade": "B2",
+   "deposit": 25000,
+   "rent": 180,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "5/30",
+   "building": "7511",
+   "direction": "SS",
+   "confirmed": "2026-09-16",
+   "description": "Ii추천iI 1년단기 단지조망 빠른입주 방4 에어컨4 초품아단지",
+   "realtor": "다산신안인스빌공인중개사사무소",
+   "price_text": "25000/180"
+  },
+  {
    "article_no": "2649875570",
    "trade": "B2",
    "deposit": 25000,
@@ -1174,21 +1174,6 @@
    "price_text": "25000/180"
   },
   {
-   "article_no": "2649752861",
-   "trade": "B2",
-   "deposit": 25000,
-   "rent": 180,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "5/30",
-   "building": "7511",
-   "direction": "SS",
-   "confirmed": "2026-09-14",
-   "description": "1년단기렌트. 방4. FULL에어컨. 입주협의. 집상태 굿.",
-   "realtor": "한강(단지내 553-5007)공인중개사사무소",
-   "price_text": "25000/180"
-  },
-  {
    "article_no": "2649744608",
    "trade": "B2",
    "deposit": 25000,
@@ -1201,6 +1186,21 @@
    "confirmed": "2026-09-14",
    "description": "1년단기,초품아＇빠른입주가능＇방4,에어컨4대,중문,보증금3억160가능",
    "realtor": "금강좋은집공인중개사사무소",
+   "price_text": "25000/180"
+  },
+  {
+   "article_no": "2649752861",
+   "trade": "B2",
+   "deposit": 25000,
+   "rent": 180,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "5/30",
+   "building": "7511",
+   "direction": "SS",
+   "confirmed": "2026-09-14",
+   "description": "1년단기렌트. 방4. FULL에어컨. 입주협의. 집상태 굿.",
+   "realtor": "한강(단지내 553-5007)공인중개사사무소",
    "price_text": "25000/180"
   },
   {
@@ -1249,21 +1249,6 @@
    "price_text": "25000/180"
   },
   {
-   "article_no": "2647221907",
-   "trade": "B2",
-   "deposit": 25000,
-   "rent": 180,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "5/30",
-   "building": "7511",
-   "direction": "SS",
-   "confirmed": "2026-09-02",
-   "description": "1년계약 빠른입주 초품아 한강초 1분 시에4 방4",
-   "realtor": "골드부동산공인중개사사무소",
-   "price_text": "25000/180"
-  },
-  {
    "article_no": "2647291574",
    "trade": "B2",
    "deposit": 25000,
@@ -1276,6 +1261,21 @@
    "confirmed": "2026-09-02",
    "description": "빠른입주  1년 계약 방4 에어컨4  가능 보증금 협의가능",
    "realtor": "다산백두산공인중개사사무소",
+   "price_text": "25000/180"
+  },
+  {
+   "article_no": "2647221907",
+   "trade": "B2",
+   "deposit": 25000,
+   "rent": 180,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "5/30",
+   "building": "7511",
+   "direction": "SS",
+   "confirmed": "2026-09-02",
+   "description": "1년계약 빠른입주 초품아 한강초 1분 시에4 방4",
+   "realtor": "골드부동산공인중개사사무소",
    "price_text": "25000/180"
   },
   {
@@ -1309,21 +1309,6 @@
    "price_text": "25000/180"
   },
   {
-   "article_no": "2646580257",
-   "trade": "B2",
-   "deposit": 25000,
-   "rent": 180,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "5/30",
-   "building": "7511",
-   "direction": "WS",
-   "confirmed": "2026-08-29",
-   "description": "1년단기임대 빠른입주 방4 에어컨4 중문 컨디션최고",
-   "realtor": "토마토공인중개사사무소",
-   "price_text": "25000/180"
-  },
-  {
    "article_no": "2646535308",
    "trade": "B2",
    "deposit": 25000,
@@ -1336,6 +1321,21 @@
    "confirmed": "2026-08-29",
    "description": "H집은 신안골드H 1년 단기  빠른 입주,한강초1분,방4 에4,깔끔한집",
    "realtor": "신안골드부동산중개사무소",
+   "price_text": "25000/180"
+  },
+  {
+   "article_no": "2646580257",
+   "trade": "B2",
+   "deposit": 25000,
+   "rent": 180,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "5/30",
+   "building": "7511",
+   "direction": "WS",
+   "confirmed": "2026-08-29",
+   "description": "1년단기임대 빠른입주 방4 에어컨4 중문 컨디션최고",
+   "realtor": "토마토공인중개사사무소",
    "price_text": "25000/180"
   },
   {
@@ -1414,36 +1414,6 @@
    "price_text": "20000/210"
   },
   {
-   "article_no": "2650342132",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 210,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "28/30",
-   "building": "7509",
-   "direction": "SS",
-   "confirmed": "2026-09-17",
-   "description": "Ii추천iI 특한강뷰 방3광폭거실 에어컨 식세기 입주협의",
-   "realtor": "다산신안인스빌공인중개사사무소",
-   "price_text": "20000/210"
-  },
-  {
-   "article_no": "2650335385",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 210,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "28/30",
-   "building": "7509",
-   "direction": "SS",
-   "confirmed": "2026-09-17",
-   "description": "특급 한강 뷰 입주협의 광폭거실 방3,에2,식세기 실용적인 테라스 초품아",
-   "realtor": "금강부자공인중개사사무소",
-   "price_text": "20000/210"
-  },
-  {
    "article_no": "2650236796",
    "trade": "B2",
    "deposit": 20000,
@@ -1459,6 +1429,21 @@
    "price_text": "20000/210"
   },
   {
+   "article_no": "2650342132",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 210,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "28/30",
+   "building": "7509",
+   "direction": "SS",
+   "confirmed": "2026-09-17",
+   "description": "Ii추천iI 특한강뷰 방3광폭거실 에어컨 식세기 입주협의",
+   "realtor": "다산신안인스빌공인중개사사무소",
+   "price_text": "20000/210"
+  },
+  {
    "article_no": "2650230522",
    "trade": "B2",
    "deposit": 20000,
@@ -1471,6 +1456,21 @@
    "confirmed": "2026-09-17",
    "description": "1등추천 한강특급뷰 10월말이전 에어컨2중문식세기",
    "realtor": "금강1등공인중개사사무소",
+   "price_text": "20000/210"
+  },
+  {
+   "article_no": "2650335385",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 210,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "28/30",
+   "building": "7509",
+   "direction": "SS",
+   "confirmed": "2026-09-17",
+   "description": "특급 한강 뷰 입주협의 광폭거실 방3,에2,식세기 실용적인 테라스 초품아",
+   "realtor": "금강부자공인중개사사무소",
    "price_text": "20000/210"
   },
   {
@@ -1519,21 +1519,6 @@
    "price_text": "20000/210"
   },
   {
-   "article_no": "2650283527",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 210,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "고/30",
-   "building": "7509",
-   "direction": "ES",
-   "confirmed": "2026-09-17",
-   "description": "한결월세추천,고층한강뷰,에2,식세기,광폭거실,10월입주협의,컨디션굿",
-   "realtor": "한결부동산공인중개사사무소",
-   "price_text": "20000/210"
-  },
-  {
    "article_no": "2650240587",
    "trade": "B2",
    "deposit": 20000,
@@ -1546,6 +1531,21 @@
    "confirmed": "2026-09-17",
    "description": "특 한강뷰,방3,에2,빠른입주,집상태최상",
    "realtor": "금강행복한 공인중개사사무소",
+   "price_text": "20000/210"
+  },
+  {
+   "article_no": "2650283527",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 210,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "고/30",
+   "building": "7509",
+   "direction": "ES",
+   "confirmed": "2026-09-17",
+   "description": "한결월세추천,고층한강뷰,에2,식세기,광폭거실,10월입주협의,컨디션굿",
+   "realtor": "한결부동산공인중개사사무소",
    "price_text": "20000/210"
   },
   {
@@ -1594,21 +1594,6 @@
    "price_text": "20000/210"
   },
   {
-   "article_no": "2649744191",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 210,
-   "area_exclusive": 84.95,
-   "area_supply": 112.04,
-   "floor": "고/30",
-   "building": "7509",
-   "direction": "ES",
-   "confirmed": "2026-09-14",
-   "description": "＇특 한강뷰＇방3,에2,중문,김냉,광폭거실,룸테라스,초품아,컨디션최상",
-   "realtor": "금강좋은집공인중개사사무소",
-   "price_text": "20000/210"
-  },
-  {
    "article_no": "2649724200",
    "trade": "B2",
    "deposit": 20000,
@@ -1636,6 +1621,21 @@
    "confirmed": "2026-09-14",
    "description": "특급한강뷰.넓은거실.에2.집 너무 예뻐요.컨디션굿",
    "realtor": "행운부동산공인중개사사무소",
+   "price_text": "20000/210"
+  },
+  {
+   "article_no": "2649744191",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 210,
+   "area_exclusive": 84.95,
+   "area_supply": 112.04,
+   "floor": "고/30",
+   "building": "7509",
+   "direction": "ES",
+   "confirmed": "2026-09-14",
+   "description": "＇특 한강뷰＇방3,에2,중문,김냉,광폭거실,룸테라스,초품아,컨디션최상",
+   "realtor": "금강좋은집공인중개사사무소",
    "price_text": "20000/210"
   },
   {
