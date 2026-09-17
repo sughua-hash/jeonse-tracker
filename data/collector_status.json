@@ -1,11 +1,11 @@
 {
- "at": "2026-09-17T15:59:11+09:00",
+ "at": "2026-09-17T16:17:22+09:00",
  "collect_exit": 0,
- "update": "확인 7개 · 실패 0개 · 변경: 없음",
+ "update": "확인 7개 · 실패 0개 · 변경: collector/collect.py",
  "daemon_version": "2",
  "daemon_pid_alive": true,
  "files": {
-  "collector/collect.py": "7eb0c50f",
+  "collector/collect.py": "44e185ac",
   "collector/naver.py": "365b5fc4",
   "collector/publish.py": "bb7bb7cb",
   "run_termux.sh": "cf66e715",

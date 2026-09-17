@@ -19,21 +19,6 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2650219312",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.56,
-   "area_supply": 112.88,
-   "floor": "중/29",
-   "building": "5203",
-   "direction": "ES",
-   "confirmed": "2026-09-17",
-   "description": "입주협의,중앙공원뷰,에어컨4,알파룸",
-   "realtor": "나라공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
    "article_no": "2650271332",
    "trade": "B1",
    "deposit": 90000,
@@ -49,7 +34,7 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2650034866",
+   "article_no": "2650219312",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -58,9 +43,9 @@
    "floor": "중/29",
    "building": "5203",
    "direction": "ES",
-   "confirmed": "2026-09-16",
-   "description": "명품추천,시스템에어컨4대,알파룸,주인거주관리잘된집,채광좋음",
-   "realtor": "다산자이명품공인중개사사무소",
+   "confirmed": "2026-09-17",
+   "description": "입주협의,중앙공원뷰,에어컨4,알파룸",
+   "realtor": "나라공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -76,6 +61,21 @@
    "confirmed": "2026-09-16",
    "description": "코코추천, 시에4, 알파룸, 귀한전세, 집상태굿, 중앙공원, 다산역",
    "realtor": "다산코코이편한부동산중개사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2650034866",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "ES",
+   "confirmed": "2026-09-16",
+   "description": "명품추천,시스템에어컨4대,알파룸,주인거주관리잘된집,채광좋음",
+   "realtor": "다산자이명품공인중개사사무소",
    "price_text": "90000"
   },
   {

@@ -139,7 +139,7 @@
    "price_text": "110000"
   },
   {
-   "article_no": "2650353070",
+   "article_no": "2650261502",
    "trade": "B1",
    "deposit": 110000,
    "rent": 0,
@@ -147,10 +147,10 @@
    "area_supply": 103.49,
    "floor": "6/13",
    "building": "110",
-   "direction": "EE",
+   "direction": "ES",
    "confirmed": "2026-09-17",
-   "description": "31  방3  수리깨긋 확장 빠른입주",
-   "realtor": "목련공인중개사사무소",
+   "description": "",
+   "realtor": "가이드(단지내)공인중개사",
    "price_text": "110000"
   },
   {
@@ -169,37 +169,7 @@
    "price_text": "110000"
   },
   {
-   "article_no": "2650261502",
-   "trade": "B1",
-   "deposit": 110000,
-   "rent": 0,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "6/13",
-   "building": "110",
-   "direction": "ES",
-   "confirmed": "2026-09-17",
-   "description": "",
-   "realtor": "가이드(단지내)공인중개사",
-   "price_text": "110000"
-  },
-  {
-   "article_no": "2650179017",
-   "trade": "B1",
-   "deposit": 110000,
-   "rent": 0,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "6/13",
-   "building": "110",
-   "direction": "ES",
-   "confirmed": "2026-09-16",
-   "description": "31귀한전세 주인직매물 공동환영 중산고학군 일원역5분",
-   "realtor": "가이드(단지내)공인중개사사무소",
-   "price_text": "110000"
-  },
-  {
-   "article_no": "2650120527",
+   "article_no": "2650353070",
    "trade": "B1",
    "deposit": 110000,
    "rent": 0,
@@ -208,9 +178,9 @@
    "floor": "6/13",
    "building": "110",
    "direction": "EE",
-   "confirmed": "2026-09-16",
-   "description": "귀한전세 . 반전세 가능 . 학군우수한 역세권",
-   "realtor": "양지공인중개사사무소",
+   "confirmed": "2026-09-17",
+   "description": "31  방3  수리깨긋 확장 빠른입주",
+   "realtor": "목련공인중개사사무소",
    "price_text": "110000"
   },
   {
@@ -229,6 +199,21 @@
    "price_text": "110000"
   },
   {
+   "article_no": "2650120527",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "6/13",
+   "building": "110",
+   "direction": "EE",
+   "confirmed": "2026-09-16",
+   "description": "귀한전세 . 반전세 가능 . 학군우수한 역세권",
+   "realtor": "양지공인중개사사무소",
+   "price_text": "110000"
+  },
+  {
    "article_no": "2650189715",
    "trade": "B1",
    "deposit": 110000,
@@ -241,6 +226,21 @@
    "confirmed": "2026-09-16",
    "description": "31.중산고학군,초역세권단지,귀한매물,입주협의가능",
    "realtor": "일원뱅크공인중개사사무소",
+   "price_text": "110000"
+  },
+  {
+   "article_no": "2650179017",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "6/13",
+   "building": "110",
+   "direction": "ES",
+   "confirmed": "2026-09-16",
+   "description": "31귀한전세 주인직매물 공동환영 중산고학군 일원역5분",
+   "realtor": "가이드(단지내)공인중개사사무소",
    "price_text": "110000"
   },
   {
