@@ -222,14 +222,10 @@ def build_lines(name: str, rec: dict, deltas: dict) -> list[str]:
 
 
 def is_changed(rec: dict, deltas: dict) -> bool:
-    """전일 대비 변동 여부: 최저가가 바뀌었거나, 매물이 새로 생겼거나 사라진 경우."""
+    """전일 대비 변동 여부: 최저가가 오르거나 내린 경우만 (매물이 생기거나 사라진 것은 변동으로 치지 않음)."""
     for key in ("jeonse", "wolse_rent", "wolse_conv"):
         d = deltas.get(key, {}).get("d1", {})
-        if d.get("date") is None:  # 비교할 전일 기록 없음
-            continue
         cur, prev = metric_value(rec, key), d.get("prev")
-        if (cur is None) != (prev is None):
-            return True
         if cur is not None and prev is not None and cur != prev:
             return True
     return False
