@@ -1,10 +1,10 @@
 {
- "date": "2026-09-17",
+ "date": "2026-09-18",
  "complexNo": "109215",
  "name": "미사강변센트럴자이",
  "articles": [
   {
-   "article_no": "2650288793",
+   "article_no": "2650471642",
    "trade": "B1",
    "deposit": 95000,
    "rent": 0,
@@ -13,9 +13,39 @@
    "floor": "저/29",
    "building": "101",
    "direction": "ES",
-   "confirmed": "2026-09-17",
+   "confirmed": "2026-09-18",
+   "description": "아이키우기 좋은집, 앞트인뷰, 27년 2월입주",
+   "realtor": "미사은호(031-793-9006)공인중개사사무소",
+   "price_text": "95000"
+  },
+  {
+   "article_no": "2650447848",
+   "trade": "B1",
+   "deposit": 95000,
+   "rent": 0,
+   "area_exclusive": 96.75,
+   "area_supply": 123.64,
+   "floor": "저/29",
+   "building": "101",
+   "direction": "ES",
+   "confirmed": "2026-09-18",
    "description": "입주일협의중문미세방충인덕션집깨끗층간소음무한홀초품아학세역세권학원상권최고",
    "realtor": "센트럴자이(031-795-1149)미사금호공인중개사사무소",
+   "price_text": "95000"
+  },
+  {
+   "article_no": "2650403446",
+   "trade": "B1",
+   "deposit": 95000,
+   "rent": 0,
+   "area_exclusive": 96.75,
+   "area_supply": 123.64,
+   "floor": "저/29",
+   "building": "101",
+   "direction": "SS",
+   "confirmed": "2026-09-17",
+   "description": "조건 협의 가능 미사 중심 선호도 높은 프리미엄 초품아 단지",
+   "realtor": "미사풍경채명인(795-3220)공인중개사사무소",
    "price_text": "95000"
   },
   {
@@ -31,21 +61,6 @@
    "confirmed": "2026-09-16",
    "description": "귀한전세,예쁜내집정원뷰,한홀초,생활편리.27년2월입주협의",
    "realtor": "미사제일풍경채공인중개사사무소",
-   "price_text": "95000"
-  },
-  {
-   "article_no": "2649861915",
-   "trade": "B1",
-   "deposit": 95000,
-   "rent": 0,
-   "area_exclusive": 96.75,
-   "area_supply": 123.64,
-   "floor": "저/29",
-   "building": "101",
-   "direction": "ES",
-   "confirmed": "2026-09-15",
-   "description": "아이키우기 좋은집, 앞트인뷰, 27년 2월입주",
-   "realtor": "미사은호(031-793-9006)공인중개사사무소",
    "price_text": "95000"
   },
   {
@@ -109,21 +124,6 @@
    "price_text": "95000"
   },
   {
-   "article_no": "2647436394",
-   "trade": "B1",
-   "deposit": 95000,
-   "rent": 0,
-   "area_exclusive": 96.75,
-   "area_supply": 123.64,
-   "floor": "저/29",
-   "building": "101",
-   "direction": "ES",
-   "confirmed": "2026-09-03",
-   "description": "귀한전세,정원뷰,한홀초,27년 2월입주. 수납장, 보조주방 씽크볼 설치",
-   "realtor": "미사늘봄공인중개사사무소",
-   "price_text": "95000"
-  },
-  {
    "article_no": "2647628383",
    "trade": "B1",
    "deposit": 95000,
@@ -136,6 +136,21 @@
    "confirmed": "2026-09-03",
    "description": "귀한전세 27년2월협의 예쁜정원뷰 맘껏뛰며놀기좋아요",
    "realtor": "단지내하나부동산공인중개사사무소",
+   "price_text": "95000"
+  },
+  {
+   "article_no": "2647436394",
+   "trade": "B1",
+   "deposit": 95000,
+   "rent": 0,
+   "area_exclusive": 96.75,
+   "area_supply": 123.64,
+   "floor": "저/29",
+   "building": "101",
+   "direction": "ES",
+   "confirmed": "2026-09-03",
+   "description": "귀한전세,정원뷰,한홀초,27년 2월입주. 수납장, 보조주방 씽크볼 설치",
+   "realtor": "미사늘봄공인중개사사무소",
    "price_text": "95000"
   },
   {
@@ -197,6 +212,21 @@
    "description": "단지뷰이쁜집,한홀초초품아",
    "realtor": "센트럴미사공인중개사무소",
    "price_text": "95000"
+  },
+  {
+   "article_no": "2650658176",
+   "trade": "B1",
+   "deposit": 100000,
+   "rent": 0,
+   "area_exclusive": 96.38,
+   "area_supply": 123.37,
+   "floor": "저/29",
+   "building": "103",
+   "direction": "ES",
+   "confirmed": "2026-09-18",
+   "description": "즉시입주가협의 시에5 빌트인냉장김치 최근인테리어 한홀초품아 학세역세학원",
+   "realtor": "센트럴자이(031-795-1149)미사금호공인중개사사무소",
+   "price_text": "100000"
   },
   {
    "article_no": "2648406269",

@@ -1,23 +1,8 @@
 {
- "date": "2026-09-17",
+ "date": "2026-09-18",
  "complexNo": "112926",
  "name": "화도센트럴우방아이유쉘",
  "articles": [
-  {
-   "article_no": "2644413206",
-   "trade": "B1",
-   "deposit": 36000,
-   "rent": 0,
-   "area_exclusive": 84.95,
-   "area_supply": 114.72,
-   "floor": "6/20",
-   "building": "110",
-   "direction": "SS",
-   "confirmed": "2026-08-18",
-   "description": "입주협의가능 깨끗함 가장인기있는B타입 조망권좋음",
-   "realtor": "로얄리치공인중개사사무소",
-   "price_text": "36000"
-  },
   {
    "article_no": "2648151514",
    "trade": "B1",
@@ -34,21 +19,6 @@
    "price_text": "37000"
   },
   {
-   "article_no": "2647438913",
-   "trade": "B1",
-   "deposit": 37000,
-   "rent": 0,
-   "area_exclusive": 84.95,
-   "area_supply": 114.72,
-   "floor": "6/20",
-   "building": "110",
-   "direction": "ES",
-   "confirmed": "2026-09-03",
-   "description": "입주협의 B타입 산조망  중문 작은방2 시스템에어컨 거실과안방 에어컨",
-   "realtor": "우방대명공인중개사사무소",
-   "price_text": "37000"
-  },
-  {
    "article_no": "2647607718",
    "trade": "B1",
    "deposit": 37000,
@@ -61,6 +31,21 @@
    "confirmed": "2026-09-03",
    "description": "내부깨끗한 귀한 전세입니다",
    "realtor": "포스코부동산공인중개사사무소",
+   "price_text": "37000"
+  },
+  {
+   "article_no": "2647438913",
+   "trade": "B1",
+   "deposit": 37000,
+   "rent": 0,
+   "area_exclusive": 84.95,
+   "area_supply": 114.72,
+   "floor": "6/20",
+   "building": "110",
+   "direction": "ES",
+   "confirmed": "2026-09-03",
+   "description": "입주협의 B타입 산조망  중문 작은방2 시스템에어컨 거실과안방 에어컨",
+   "realtor": "우방대명공인중개사사무소",
    "price_text": "37000"
   }
  ]

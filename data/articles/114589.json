@@ -1,8 +1,23 @@
 {
- "date": "2026-09-17",
+ "date": "2026-09-18",
  "complexNo": "114589",
  "name": "남양주라온프라이빗5단지",
  "articles": [
+  {
+   "article_no": "2650417162",
+   "trade": "B1",
+   "deposit": 33000,
+   "rent": 0,
+   "area_exclusive": 72.71,
+   "area_supply": 97.33,
+   "floor": "14/22",
+   "building": "504",
+   "direction": "ES",
+   "confirmed": "2026-09-18",
+   "description": "97A타입, 빠른 이사 가능, 전세대출 가능, 보증보험 가능",
+   "realtor": "지금힐스부동산공인중개사사무소",
+   "price_text": "33000"
+  },
   {
    "article_no": "2650245245",
    "trade": "B1",
@@ -34,24 +49,9 @@
    "price_text": "33000"
   },
   {
-   "article_no": "2649334568",
-   "trade": "B1",
-   "deposit": 33000,
-   "rent": 0,
-   "area_exclusive": 72.71,
-   "area_supply": 97.33,
-   "floor": "14/22",
-   "building": "504",
-   "direction": "ES",
-   "confirmed": "2026-09-12",
-   "description": "97A타입, 빠른 이사 가능, 전세대출 가능, 보증보험 가능",
-   "realtor": "지금힐스부동산공인중개사사무소",
-   "price_text": "33000"
-  },
-  {
    "article_no": "2646891431",
    "trade": "B1",
-   "deposit": 33000,
+   "deposit": 36000,
    "rent": 0,
    "area_exclusive": 72.71,
    "area_supply": 97.33,
@@ -61,7 +61,7 @@
    "confirmed": "2026-08-31",
    "description": "빠른입주가능, 조망 묵현천 뷰, 극장 초등학교 근접, 입주협의",
    "realtor": "베스트라온공인중개사사무소",
-   "price_text": "33000"
+   "price_text": "36000"
   },
   {
    "article_no": "2646904288",

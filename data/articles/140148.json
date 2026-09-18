@@ -1,5 +1,5 @@
 {
- "date": "2026-09-17",
+ "date": "2026-09-18",
  "complexNo": "140148",
  "name": "고덕풍경채어바니티",
  "articles": [
@@ -79,7 +79,7 @@
    "price_text": "85000"
   },
   {
-   "article_no": "2650311104",
+   "article_no": "2650543008",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -88,9 +88,24 @@
    "floor": "저/25",
    "building": "102",
    "direction": "EE",
-   "confirmed": "2026-09-17",
+   "confirmed": "2026-09-18",
    "description": "에풀 풀옵션, 층간소음 걱정없는 복층, 비즈밸리상권이용",
    "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2650465039",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.67,
+   "area_supply": 118.24,
+   "floor": "저/25",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-09-18",
+   "description": "풀에어컨, 다락방, 안방 팬트리, 잘 관리된 세대",
+   "realtor": "OK그라시움(426-4933)공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -151,21 +166,6 @@
    "confirmed": "2026-08-21",
    "description": "주인거주세대로 컨디션최상 채광좋음 풀옵션 아이들키우기 좋아요",
    "realtor": "고덕대박(428-8600)공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2645137857",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.67,
-   "area_supply": 118.24,
-   "floor": "저/25",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-08-21",
-   "description": "풀에어컨, 다락방, 안방 팬트리, 잘 관리된 세대",
-   "realtor": "OK그라시움(426-4933)공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -244,6 +244,21 @@
    "price_text": "120000"
   },
   {
+   "article_no": "2650465229",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 100,
+   "area_exclusive": 84.67,
+   "area_supply": 118.24,
+   "floor": "저/25",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-09-18",
+   "description": "풀에어컨, 다락방, 안방 팬트리, 잘 관리된 세대",
+   "realtor": "OK그라시움(426-4933)공인중개사사무소",
+   "price_text": "70000/100"
+  },
+  {
    "article_no": "2650102658",
    "trade": "B2",
    "deposit": 70000,
@@ -304,21 +319,6 @@
    "price_text": "70000/100"
   },
   {
-   "article_no": "2645138497",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 100,
-   "area_exclusive": 84.67,
-   "area_supply": 118.24,
-   "floor": "저/25",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-08-21",
-   "description": "풀에어컨, 다락방, 안방 팬트리, 잘 관리된 세대",
-   "realtor": "OK그라시움(426-4933)공인중개사사무소",
-   "price_text": "70000/100"
-  },
-  {
    "article_no": "2644658363",
    "trade": "B2",
    "deposit": 70000,
@@ -346,21 +346,6 @@
    "confirmed": "2026-08-19",
    "description": "주인거주로 관리 잘된 예쁜집. 수납공간이 좋은 풀옵션.",
    "realtor": "김앤김그라시움공인",
-   "price_text": "70000/100"
-  },
-  {
-   "article_no": "2643910301",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 100,
-   "area_exclusive": 84.67,
-   "area_supply": 118.24,
-   "floor": "저/25",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-08-18",
-   "description": "층간소음 걱정X 넓은 다락방  팬트리 수납특화  풀에어컨",
-   "realtor": "미사중앙공인중개사사무소",
    "price_text": "70000/100"
   },
   {
