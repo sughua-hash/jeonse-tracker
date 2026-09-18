@@ -169,7 +169,7 @@
    "price_text": "95000"
   },
   {
-   "article_no": "2650419848",
+   "article_no": "2650435314",
    "trade": "B1",
    "deposit": 95000,
    "rent": 0,
@@ -179,8 +179,8 @@
    "building": "104",
    "direction": "ES",
    "confirmed": "2026-09-18",
-   "description": "Lucky. 귀한 판상형, 에3대, 중문, 장기거주 가능",
-   "realtor": "푸르지오럭키(031-795-0091)공인중개사사무소",
+   "description": "시스템에어컨3대 판상형   채광 좋은집 넓은 방구조 초중고 인접",
+   "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
    "price_text": "95000"
   },
   {
@@ -199,7 +199,7 @@
    "price_text": "95000"
   },
   {
-   "article_no": "2650435314",
+   "article_no": "2650419848",
    "trade": "B1",
    "deposit": 95000,
    "rent": 0,
@@ -209,21 +209,6 @@
    "building": "104",
    "direction": "ES",
    "confirmed": "2026-09-18",
-   "description": "시스템에어컨3대 판상형   채광 좋은집 넓은 방구조 초중고 인접",
-   "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
-   "price_text": "95000"
-  },
-  {
-   "article_no": "2650223506",
-   "trade": "B1",
-   "deposit": 95000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 111.83,
-   "floor": "저/22",
-   "building": "104",
-   "direction": "ES",
-   "confirmed": "2026-09-17",
    "description": "Lucky. 귀한 판상형, 에3대, 중문, 장기거주 가능",
    "realtor": "푸르지오럭키(031-795-0091)공인중개사사무소",
    "price_text": "95000"
@@ -244,7 +229,7 @@
    "price_text": "95000"
   },
   {
-   "article_no": "2650156667",
+   "article_no": "2650223506",
    "trade": "B1",
    "deposit": 95000,
    "rent": 0,
@@ -253,9 +238,9 @@
    "floor": "저/22",
    "building": "104",
    "direction": "ES",
-   "confirmed": "2026-09-16",
-   "description": "삶이푸르지오. 에어컨3, 중문, 판상형, 집상태 최상, 윤슬초중인접",
-   "realtor": "푸르지오(031-794-4950)공인중개사사무소",
+   "confirmed": "2026-09-17",
+   "description": "Lucky. 귀한 판상형, 에3대, 중문, 장기거주 가능",
+   "realtor": "푸르지오럭키(031-795-0091)공인중개사사무소",
    "price_text": "95000"
   },
   {
@@ -270,6 +255,21 @@
    "direction": "ES",
    "confirmed": "2026-09-16",
    "description": "삶이 푸르지오.빠른입주,집상태좋음,윤슬초중,단지뷰,",
+   "realtor": "푸르지오(031-794-4950)공인중개사사무소",
+   "price_text": "95000"
+  },
+  {
+   "article_no": "2650156667",
+   "trade": "B1",
+   "deposit": 95000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 111.83,
+   "floor": "저/22",
+   "building": "104",
+   "direction": "ES",
+   "confirmed": "2026-09-16",
+   "description": "삶이푸르지오. 에어컨3, 중문, 판상형, 집상태 최상, 윤슬초중인접",
    "realtor": "푸르지오(031-794-4950)공인중개사사무소",
    "price_text": "95000"
   },

@@ -1,14 +1,16 @@
 {
- "at": "2026-09-18T22:40:21+09:00",
+ "at": "2026-09-18T23:06:03+09:00",
  "collect_exit": 0,
- "update": "확인 7개 · 실패 0개 · 변경: 없음",
+ "update": "확인 7개 · 실패 0개 · 변경: run_termux.sh daemon.sh",
  "daemon_version": "2",
  "daemon_pid_alive": true,
+ "prev_success": null,
  "files": {
   "collector/collect.py": "44e185ac",
   "collector/naver.py": "365b5fc4",
   "collector/publish.py": "bb7bb7cb",
-  "run_termux.sh": "cf66e715",
-  "daemon.sh": "728a43bb"
+  "run_termux.sh": "4c6e799d",
+  "daemon.sh": "79f54504",
+  "jobcheck.sh": null
  }
 }
