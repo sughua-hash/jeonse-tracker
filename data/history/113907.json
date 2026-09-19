@@ -1267,16 +1267,16 @@
    "rent": 380,
    "deposit": 30000,
    "article": {
-    "article_no": "2650404640",
+    "article_no": "2650786517",
     "deposit": 30000,
     "rent": 380,
     "area": 84.24,
-    "floor": "중/30",
-    "building": "118",
+    "floor": "중/27",
+    "building": "110",
     "direction": "SS",
-    "confirmed": "2026-09-18",
+    "confirmed": "2026-09-19",
     "price_text": "30000/380",
-    "url": "https://m.land.naver.com/article/info/2650404640"
+    "url": "https://m.land.naver.com/article/info/2650786517"
    }
   },
   "wolse_conv": {
@@ -1285,32 +1285,32 @@
    "deposit": 30000,
    "rate_pct": 4.8,
    "article": {
-    "article_no": "2650404640",
+    "article_no": "2650786517",
     "deposit": 30000,
     "rent": 380,
     "area": 84.24,
-    "floor": "중/30",
-    "building": "118",
+    "floor": "중/27",
+    "building": "110",
     "direction": "SS",
-    "confirmed": "2026-09-18",
+    "confirmed": "2026-09-19",
     "price_text": "30000/380",
-    "url": "https://m.land.naver.com/article/info/2650404640"
+    "url": "https://m.land.naver.com/article/info/2650786517"
    }
   },
   "counts": {
-   "all": 85,
-   "in_area": 10,
+   "all": 98,
+   "in_area": 12,
    "jeonse": 4,
-   "wolse": 6,
-   "wolse_ok": 3
+   "wolse": 8,
+   "wolse_ok": 4
   },
   "areas": {
    "59": 7,
-   "59.8": 13,
-   "73.6": 49,
+   "59.8": 23,
+   "73.6": 50,
    "73.9": 2,
    "84": 2,
-   "84.2": 8,
+   "84.2": 10,
    "113.4": 4
   },
   "date": "2026-09-19",
@@ -1374,7 +1374,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 85,
+     "all": 98,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -1471,7 +1471,7 @@
      }
     },
     "counts": {
-     "all": 85,
+     "all": 98,
      "in_area": 4,
      "jeonse": 0,
      "wolse": 4,
@@ -1536,7 +1536,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 85,
+     "all": 98,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -1601,7 +1601,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 85,
+     "all": 98,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
