@@ -1288,34 +1288,34 @@
    "rent": 300,
    "deposit": 30000,
    "article": {
-    "article_no": "2650605625",
+    "article_no": "2650726658",
     "deposit": 30000,
     "rent": 300,
     "area": 84.44,
     "floor": "중/29",
     "building": "110",
     "direction": "SS",
-    "confirmed": "2026-09-18",
+    "confirmed": "2026-09-19",
     "price_text": "30000/300",
-    "url": "https://m.land.naver.com/article/info/2650605625"
+    "url": "https://m.land.naver.com/article/info/2650726658"
    }
   },
   "wolse_conv": {
    "conv": 105000,
-   "rent": 300,
-   "deposit": 30000,
+   "rent": 340,
+   "deposit": 20000,
    "rate_pct": 4.8,
    "article": {
-    "article_no": "2650605625",
-    "deposit": 30000,
-    "rent": 300,
+    "article_no": "2650739950",
+    "deposit": 20000,
+    "rent": 340,
     "area": 84.44,
     "floor": "중/29",
     "building": "110",
-    "direction": "SS",
-    "confirmed": "2026-09-18",
-    "price_text": "30000/300",
-    "url": "https://m.land.naver.com/article/info/2650605625"
+    "direction": "ES",
+    "confirmed": "2026-09-19",
+    "price_text": "20000/340",
+    "url": "https://m.land.naver.com/article/info/2650739950"
    }
   },
   "counts": {
