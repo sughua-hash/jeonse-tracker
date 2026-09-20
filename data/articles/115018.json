@@ -79,6 +79,21 @@
    "price_text": "20500"
   },
   {
+   "article_no": "2650853759",
+   "trade": "B1",
+   "deposit": 27000,
+   "rent": 0,
+   "area_exclusive": 74.97,
+   "area_supply": 99.14,
+   "floor": "2/27",
+   "building": "104",
+   "direction": "WS",
+   "confirmed": "2026-09-20",
+   "description": "11월4일입주 투인원 이마트,지제역 가까운동",
+   "realtor": "더샵일등공인중개사사무소",
+   "price_text": "27000"
+  },
+  {
    "article_no": "2650403436",
    "trade": "B1",
    "deposit": 27000,
@@ -106,21 +121,6 @@
    "confirmed": "2026-09-12",
    "description": "필로티 에어컨2 이마트가까운동 환하고밝은집",
    "realtor": "더샵미소공인중개사사무소",
-   "price_text": "27000"
-  },
-  {
-   "article_no": "2648681361",
-   "trade": "B1",
-   "deposit": 27000,
-   "rent": 0,
-   "area_exclusive": 74.97,
-   "area_supply": 99.14,
-   "floor": "2/27",
-   "building": "104",
-   "direction": "WS",
-   "confirmed": "2026-09-09",
-   "description": "11월4일입주 투인원 이마트,지제역 가까운동",
-   "realtor": "더샵일등공인중개사사무소",
    "price_text": "27000"
   },
   {
@@ -169,21 +169,6 @@
    "price_text": "27000"
   },
   {
-   "article_no": "2648728487",
-   "trade": "B1",
-   "deposit": 27000,
-   "rent": 0,
-   "area_exclusive": 74.97,
-   "area_supply": 99.14,
-   "floor": "저/27",
-   "building": "104",
-   "direction": "WS",
-   "confirmed": "2026-09-09",
-   "description": "강추.투인원에어컨.아아이키우기 좋은 귀한필로티. 26년11월입주협의",
-   "realtor": "지제포스코타운공인중개사사무소",
-   "price_text": "27000"
-  },
-  {
    "article_no": "2648674382",
    "trade": "B1",
    "deposit": 27000,
@@ -199,6 +184,21 @@
    "price_text": "27000"
   },
   {
+   "article_no": "2648728487",
+   "trade": "B1",
+   "deposit": 27000,
+   "rent": 0,
+   "area_exclusive": 74.97,
+   "area_supply": 99.14,
+   "floor": "저/27",
+   "building": "104",
+   "direction": "WS",
+   "confirmed": "2026-09-09",
+   "description": "강추.투인원에어컨.아아이키우기 좋은 귀한필로티. 26년11월입주협의",
+   "realtor": "지제포스코타운공인중개사사무소",
+   "price_text": "27000"
+  },
+  {
    "article_no": "2648484518",
    "trade": "B1",
    "deposit": 27000,
@@ -209,7 +209,7 @@
    "building": "110",
    "direction": "SS",
    "confirmed": "2026-09-08",
-   "description": "K.무융자.수납좋은타입.주차편리.엘베2대.27년2월협의입주",
+   "description": "K.무융자.수납좋은타입.주차편리.엘베2대.27년3월중순부터협의입주",
    "realtor": "더샵금메달공인중개사사무소",
    "price_text": "27000"
   },
