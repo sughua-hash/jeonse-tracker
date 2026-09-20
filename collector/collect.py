@@ -436,25 +436,29 @@ def run(args) -> int:
     else:
         print(json.dumps(latest, ensure_ascii=False, indent=1)[:4000])
 
-    # 4) 알림
+    # 4) 알림 — 데이터는 이미 저장됐으므로 알림 실패가 수집 실패가 되지 않게 한다
+    #    (알림만 실패해도 exit 1 이 되면 데몬이 하루 종일 재수집을 반복하게 됨)
     if not args.no_notify and not args.dry_run:
-        d = now_kst()
-        title_base = f"전월세 최저가 {d.month}/{d.day}"
-        # 요약 한 줄 + 변동·신규 단지만 상세. 변동이 없으면 요약만 보냄.
-        head = f"전일 대비 변동 {changed_count}개 · 신규 {new_count}개 · 수집 {collected_count}개 단지"
-        if errors:
-            head += f" · 오류 {len(errors)}건"
-        if not blocks:
-            blocks = [["변동된 단지가 없습니다. 자세한 시세는 앱에서 확인하세요."]]
-        msgs = chunk_messages(blocks)
-        for i, m in enumerate(msgs, 1):
-            title = title_base if len(msgs) == 1 else f"{title_base} ({i}/{len(msgs)})"
-            if i == 1:
-                m = head + "\n\n" + m
-            send_ntfy(title, m, click=dashboard or None, tags=["house"])
-        if errors:
-            send_ntfy("수집 오류 안내", "\n".join(errors)[:3500], click=dashboard or None,
-                      priority=2, tags=["warning"])
+        try:
+            d = now_kst()
+            title_base = f"전월세 최저가 {d.month}/{d.day}"
+            # 요약 한 줄 + 변동·신규 단지만 상세. 변동이 없으면 요약만 보냄.
+            head = f"전일 대비 변동 {changed_count}개 · 신규 {new_count}개 · 수집 {collected_count}개 단지"
+            if errors:
+                head += f" · 오류 {len(errors)}건"
+            if not blocks:
+                blocks = [["변동된 단지가 없습니다. 자세한 시세는 앱에서 확인하세요."]]
+            msgs = chunk_messages(blocks)
+            for i, m in enumerate(msgs, 1):
+                title = title_base if len(msgs) == 1 else f"{title_base} ({i}/{len(msgs)})"
+                if i == 1:
+                    m = head + "\n\n" + m
+                send_ntfy(title, m, click=dashboard or None, tags=["house"])
+            if errors:
+                send_ntfy("수집 오류 안내", "\n".join(errors)[:3500], click=dashboard or None,
+                          priority=2, tags=["warning"])
+        except Exception as e:  # noqa: BLE001
+            print(f"[warn] 알림 전송 실패 (수집·저장은 정상 완료): {e}")
     return 0
 
 
