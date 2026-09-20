@@ -70,6 +70,7 @@ json.dump({
 PY
   python collector/publish.py push; PRC=$?
   if [ "$RC" = 0 ] && [ "$PRC" = 0 ]; then
+    date +%s > logs/last_success.ts
     date +%F > logs/last_success.date
     echo "done (수집 성공 · 업로드 성공)"
   else
