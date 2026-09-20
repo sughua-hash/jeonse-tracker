@@ -23,16 +23,18 @@ fi
 # 2) 오늘 수집이 아직 성공하지 않았고 예정 시각이 지났으면 수집 실행
 now=$(date +%s)
 run_ts=$(date -d "today $RUN_AT" +%s 2>/dev/null)
-ok=$(cat logs/last_success.date 2>/dev/null)
-if [ -n "$run_ts" ] && [ "$now" -ge "$run_ts" ] && [ "$ok" != "$(date +%F)" ]; then
+ok_ts=$(cat logs/last_success.ts 2>/dev/null); ok_ts=${ok_ts:-0}
+if [ -n "$run_ts" ] && [ "$now" -ge "$run_ts" ] && [ "$ok_ts" -lt "$run_ts" ]; then
   echo "$(date '+%F %T') [작업] 오늘 수집이 아직 안 됐습니다 — 실행" >> "$LOG"
+  before=$ok_ts
   ./run_termux.sh >/dev/null 2>&1
-  if [ "$(cat logs/last_success.date 2>/dev/null)" = "$(date +%F)" ]; then
+  after=$(cat logs/last_success.ts 2>/dev/null); after=${after:-0}
+  if [ "$after" -gt "$before" ]; then
     echo "$(date '+%F %T') [작업] 수집 성공" >> "$LOG"
   else
     echo "$(date '+%F %T') [작업] 수집 실패 — 다음 점검 때 재시도" >> "$LOG"
   fi
 else
-  echo "$(date '+%F %T') [작업] 할 일 없음 (오늘 수집 완료: ${ok:-없음})" >> "$LOG"
+  echo "$(date '+%F %T') [작업] 할 일 없음 (마지막 성공: $(date -d @${ok_ts:-0} '+%F %T' 2>/dev/null))" >> "$LOG"
 fi
 exit 0
