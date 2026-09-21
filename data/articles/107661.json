@@ -19,6 +19,36 @@
    "price_text": "105000"
   },
   {
+   "article_no": "2650759166",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 101.96,
+   "area_supply": 131.02,
+   "floor": "22/25",
+   "building": "5406",
+   "direction": "SS",
+   "confirmed": "2026-09-19",
+   "description": "가격조정가 탁트인뷰  방4 상가이용편리 넓은드레스룸 초품아 세대창고",
+   "realtor": "위례진주공인중개사사무소",
+   "price_text": "110000"
+  },
+  {
+   "article_no": "2650557371",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 101.96,
+   "area_supply": 131.02,
+   "floor": "22/25",
+   "building": "5406",
+   "direction": "SS",
+   "confirmed": "2026-09-18",
+   "description": "가격조정가 탁트인뷰  방4 상가이용편리 넓은드레스룸 초품아 세대창고에어컨",
+   "realtor": "위례진주공인중개사사무소",
+   "price_text": "110000"
+  },
+  {
    "article_no": "2650190915",
    "trade": "B1",
    "deposit": 110000,
@@ -34,7 +64,7 @@
    "price_text": "110000"
   },
   {
-   "article_no": "2650741376",
+   "article_no": "2651019621",
    "trade": "B1",
    "deposit": 110000,
    "rent": 0,
@@ -43,39 +73,9 @@
    "floor": "고/25",
    "building": "5406",
    "direction": "SS",
-   "confirmed": "2026-09-19",
+   "confirmed": "2026-09-21",
    "description": "방4개,에유,날짜협의가능,초등학교인접,학원상가이용편리,복지관수영장인접",
    "realtor": "02-431-5600롯데부동산공인중개사사무소",
-   "price_text": "110000"
-  },
-  {
-   "article_no": "2650759166",
-   "trade": "B1",
-   "deposit": 110000,
-   "rent": 0,
-   "area_exclusive": 101.96,
-   "area_supply": 131.02,
-   "floor": "고/25",
-   "building": "5406",
-   "direction": "SS",
-   "confirmed": "2026-09-19",
-   "description": "가격조정가 탁트인뷰  방4 상가이용편리 넓은드레스룸 초품아 세대창고",
-   "realtor": "위례진주공인중개사사무소",
-   "price_text": "110000"
-  },
-  {
-   "article_no": "2650557371",
-   "trade": "B1",
-   "deposit": 110000,
-   "rent": 0,
-   "area_exclusive": 101.96,
-   "area_supply": 131.02,
-   "floor": "고/25",
-   "building": "5406",
-   "direction": "SS",
-   "confirmed": "2026-09-18",
-   "description": "가격조정가 탁트인뷰  방4 상가이용편리 넓은드레스룸 초품아 세대창고에어컨",
-   "realtor": "위례진주공인중개사사무소",
    "price_text": "110000"
   },
   {
@@ -94,7 +94,7 @@
    "price_text": "110000"
   },
   {
-   "article_no": "2649629364",
+   "article_no": "2650956877",
    "trade": "B1",
    "deposit": 110000,
    "rent": 0,
@@ -103,7 +103,7 @@
    "floor": "고/25",
    "building": "5407",
    "direction": "ES",
-   "confirmed": "2026-09-14",
+   "confirmed": "2026-09-21",
    "description": "단지상가,전담,빠른입주가능,융자없음,에어컨풀,확트인전망뷰,초품아",
    "realtor": "위례다경024072255공인중개사사무소",
    "price_text": "110000"
@@ -124,7 +124,7 @@
    "price_text": "110000"
   },
   {
-   "article_no": "2650741387",
+   "article_no": "2651019740",
    "trade": "B2",
    "deposit": 60000,
    "rent": 200,
@@ -133,24 +133,9 @@
    "floor": "고/25",
    "building": "5406",
    "direction": "SS",
-   "confirmed": "2026-09-19",
+   "confirmed": "2026-09-21",
    "description": "방4개,에유,날짜협의가능,초등학교인접,학원상가이용편리,복지관수영장인접",
    "realtor": "02-431-5600롯데부동산공인중개사사무소",
-   "price_text": "60000/200"
-  },
-  {
-   "article_no": "2647707991",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 200,
-   "area_exclusive": 101.96,
-   "area_supply": 131.02,
-   "floor": "고/25",
-   "building": "5406",
-   "direction": "SS",
-   "confirmed": "2026-09-04",
-   "description": "단지상가,트인뷰,방4개,에어컨유,상가이용편리,세대별지하창고",
-   "realtor": "위례다경024072255공인중개사사무소",
    "price_text": "60000/200"
   },
   {
@@ -166,6 +151,21 @@
    "confirmed": "2026-09-04",
    "description": "탁트인뷰  방4 상가이용편리 넓은드레스룸 초품아 세대창고 에어컨",
    "realtor": "위례진주공인중개사사무소",
+   "price_text": "60000/200"
+  },
+  {
+   "article_no": "2647707991",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 200,
+   "area_exclusive": 101.96,
+   "area_supply": 131.02,
+   "floor": "고/25",
+   "building": "5406",
+   "direction": "SS",
+   "confirmed": "2026-09-04",
+   "description": "단지상가,트인뷰,방4개,에어컨유,상가이용편리,세대별지하창고",
+   "realtor": "위례다경024072255공인중개사사무소",
    "price_text": "60000/200"
   }
  ]

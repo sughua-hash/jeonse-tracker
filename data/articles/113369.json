@@ -19,6 +19,21 @@
    "price_text": "65000"
   },
   {
+   "article_no": "2650935677",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "ES",
+   "confirmed": "2026-09-21",
+   "description": "12월입주협의,시.에4대,중앙공원뷰,초중고인접",
+   "realtor": "현대미소공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
    "article_no": "2650871884",
    "trade": "B1",
    "deposit": 90000,
@@ -46,21 +61,6 @@
    "confirmed": "2026-09-19",
    "description": "입주협의,중앙공원뷰,에어컨4,알파룸",
    "realtor": "나라공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2650704411",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.56,
-   "area_supply": 112.88,
-   "floor": "중/29",
-   "building": "5203",
-   "direction": "ES",
-   "confirmed": "2026-09-19",
-   "description": "12월입주협의,시.에4대,중앙공원뷰,초중고인접",
-   "realtor": "현대미소공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -94,21 +94,6 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2650034866",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.56,
-   "area_supply": 112.88,
-   "floor": "중/29",
-   "building": "5203",
-   "direction": "ES",
-   "confirmed": "2026-09-16",
-   "description": "명품추천,시스템에어컨4대,알파룸,주인거주관리잘된집,채광좋음",
-   "realtor": "다산자이명품공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
    "article_no": "2650196275",
    "trade": "B1",
    "deposit": 90000,
@@ -124,7 +109,7 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2649991842",
+   "article_no": "2650034866",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -133,9 +118,9 @@
    "floor": "중/29",
    "building": "5203",
    "direction": "ES",
-   "confirmed": "2026-09-15",
-   "description": "e조은추천.12월 입주협의.시에4대.중앙공원뷰.학세권.다산역",
-   "realtor": "다산e조은공인중개사사무소",
+   "confirmed": "2026-09-16",
+   "description": "명품추천,시스템에어컨4대,알파룸,주인거주관리잘된집,채광좋음",
+   "realtor": "다산자이명품공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -151,6 +136,21 @@
    "confirmed": "2026-09-15",
    "description": "추천1.12월입주협의.시에4.탁트인중앙공원뷰.알파룸있는 B타입.",
    "realtor": "다산로얄자이공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2649991842",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "ES",
+   "confirmed": "2026-09-15",
+   "description": "e조은추천.12월 입주협의.시에4대.중앙공원뷰.학세권.다산역",
+   "realtor": "다산e조은공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -229,21 +229,6 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2648981406",
-   "trade": "B2",
-   "deposit": 14000,
-   "rent": 155,
-   "area_exclusive": 66.77,
-   "area_supply": 89.14,
-   "floor": "중/26",
-   "building": "5201",
-   "direction": "SS",
-   "confirmed": "2026-09-10",
-   "description": "나라추천,단독위임,1년단기임대,정남향.12월협의",
-   "realtor": "나라공인중개사",
-   "price_text": "14000/155"
-  },
-  {
    "article_no": "2650254151",
    "trade": "B2",
    "deposit": 10000,
@@ -274,6 +259,21 @@
    "price_text": "10000/250"
   },
   {
+   "article_no": "2650958304",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 300,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "저/29",
+   "building": "5207",
+   "direction": "WS",
+   "confirmed": "2026-09-21",
+   "description": "빠른 입주가,상태좋음,중심상가,다산역 이용 편리,초중고인접,중앙공원옆",
+   "realtor": "현대미소공인중개사사무소",
+   "price_text": "20000/300"
+  },
+  {
    "article_no": "2650752839",
    "trade": "B2",
    "deposit": 20000,
@@ -286,21 +286,6 @@
    "confirmed": "2026-09-19",
    "description": "입주협의,단지정원뷰,시원한 전망,알파룸,후문동",
    "realtor": "나라공인중개사사무소",
-   "price_text": "20000/300"
-  },
-  {
-   "article_no": "2650487163",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 300,
-   "area_exclusive": 84.56,
-   "area_supply": 112.88,
-   "floor": "저/29",
-   "building": "5207",
-   "direction": "WS",
-   "confirmed": "2026-09-18",
-   "description": "빠른 입주가,상태좋음,중심상가,다산역 이용 편리,초중고인접,중앙공원옆",
-   "realtor": "현대미소공인중개사사무소",
    "price_text": "20000/300"
   }
  ]
