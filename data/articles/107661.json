@@ -1,12 +1,12 @@
 {
- "date": "2026-09-20",
+ "date": "2026-09-21",
  "complexNo": "107661",
  "name": "위례센트럴푸르지오",
  "articles": [
   {
    "article_no": "2650341183",
    "trade": "B1",
-   "deposit": 110000,
+   "deposit": 105000,
    "rent": 0,
    "area_exclusive": 101.96,
    "area_supply": 131.02,
@@ -16,7 +16,7 @@
    "confirmed": "2026-09-18",
    "description": "놀이터 동네 뒷산 뷰. 즉시입주. 수영장,근린상가 슬세권",
    "realtor": "-",
-   "price_text": "110000"
+   "price_text": "105000"
   },
   {
    "article_no": "2650190915",
@@ -64,21 +64,6 @@
    "price_text": "110000"
   },
   {
-   "article_no": "2650498374",
-   "trade": "B1",
-   "deposit": 110000,
-   "rent": 0,
-   "area_exclusive": 101.96,
-   "area_supply": 131.02,
-   "floor": "고/25",
-   "building": "5406",
-   "direction": "SS",
-   "confirmed": "2026-09-18",
-   "description": "단지상가,트인전망,귀한방4개,에유,로얄동층,상가이용편리,푸른초",
-   "realtor": "위례다경024072255공인중개사사무소",
-   "price_text": "110000"
-  },
-  {
    "article_no": "2650557371",
    "trade": "B1",
    "deposit": 110000,
@@ -91,6 +76,21 @@
    "confirmed": "2026-09-18",
    "description": "가격조정가 탁트인뷰  방4 상가이용편리 넓은드레스룸 초품아 세대창고에어컨",
    "realtor": "위례진주공인중개사사무소",
+   "price_text": "110000"
+  },
+  {
+   "article_no": "2650498374",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 101.96,
+   "area_supply": 131.02,
+   "floor": "고/25",
+   "building": "5406",
+   "direction": "SS",
+   "confirmed": "2026-09-18",
+   "description": "단지상가,트인전망,귀한방4개,에유,로얄동층,상가이용편리,푸른초",
+   "realtor": "위례다경024072255공인중개사사무소",
    "price_text": "110000"
   },
   {
@@ -139,21 +139,6 @@
    "price_text": "60000/200"
   },
   {
-   "article_no": "2647834725",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 200,
-   "area_exclusive": 101.96,
-   "area_supply": 131.02,
-   "floor": "고/25",
-   "building": "5406",
-   "direction": "SS",
-   "confirmed": "2026-09-04",
-   "description": "탁트인뷰  방4 상가이용편리 넓은드레스룸 초품아 세대창고 에어컨",
-   "realtor": "위례진주공인중개사사무소",
-   "price_text": "60000/200"
-  },
-  {
    "article_no": "2647707991",
    "trade": "B2",
    "deposit": 60000,
@@ -166,6 +151,21 @@
    "confirmed": "2026-09-04",
    "description": "단지상가,트인뷰,방4개,에어컨유,상가이용편리,세대별지하창고",
    "realtor": "위례다경024072255공인중개사사무소",
+   "price_text": "60000/200"
+  },
+  {
+   "article_no": "2647834725",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 200,
+   "area_exclusive": 101.96,
+   "area_supply": 131.02,
+   "floor": "고/25",
+   "building": "5406",
+   "direction": "SS",
+   "confirmed": "2026-09-04",
+   "description": "탁트인뷰  방4 상가이용편리 넓은드레스룸 초품아 세대창고 에어컨",
+   "realtor": "위례진주공인중개사사무소",
    "price_text": "60000/200"
   }
  ]

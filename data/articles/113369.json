@@ -1,5 +1,5 @@
 {
- "date": "2026-09-20",
+ "date": "2026-09-21",
  "complexNo": "113369",
  "name": "힐스테이트다산",
  "articles": [
@@ -19,7 +19,7 @@
    "price_text": "65000"
   },
   {
-   "article_no": "2650704411",
+   "article_no": "2650871884",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -28,9 +28,9 @@
    "floor": "중/29",
    "building": "5203",
    "direction": "ES",
-   "confirmed": "2026-09-19",
-   "description": "12월입주협의,시.에4대,중앙공원뷰,초중고인접",
-   "realtor": "현대미소공인중개사사무소",
+   "confirmed": "2026-09-20",
+   "description": "12월 중순입주협의 시스템에어컨 4대 중앙공원뷰로 트여있음",
+   "realtor": "지킴 공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -46,6 +46,21 @@
    "confirmed": "2026-09-19",
    "description": "입주협의,중앙공원뷰,에어컨4,알파룸",
    "realtor": "나라공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2650704411",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "ES",
+   "confirmed": "2026-09-19",
+   "description": "12월입주협의,시.에4대,중앙공원뷰,초중고인접",
+   "realtor": "현대미소공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -79,21 +94,6 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2650196275",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.56,
-   "area_supply": 112.88,
-   "floor": "중/29",
-   "building": "5203",
-   "direction": "ES",
-   "confirmed": "2026-09-16",
-   "description": "코코추천, 시에4, 알파룸, 귀한전세, 집상태굿, 중앙공원, 다산역",
-   "realtor": "다산코코이편한부동산중개사무소",
-   "price_text": "90000"
-  },
-  {
    "article_no": "2650034866",
    "trade": "B1",
    "deposit": 90000,
@@ -106,6 +106,21 @@
    "confirmed": "2026-09-16",
    "description": "명품추천,시스템에어컨4대,알파룸,주인거주관리잘된집,채광좋음",
    "realtor": "다산자이명품공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2650196275",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "ES",
+   "confirmed": "2026-09-16",
+   "description": "코코추천, 시에4, 알파룸, 귀한전세, 집상태굿, 중앙공원, 다산역",
+   "realtor": "다산코코이편한부동산중개사무소",
    "price_text": "90000"
   },
   {
@@ -169,21 +184,6 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2649474884",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.56,
-   "area_supply": 112.88,
-   "floor": "중/29",
-   "building": "5203",
-   "direction": "ES",
-   "confirmed": "2026-09-12",
-   "description": "THE힐전세, 12월중순협의, 시에컨4대, 그린파크뷰",
-   "realtor": "다산더힐공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
    "article_no": "2649483805",
    "trade": "B1",
    "deposit": 90000,
@@ -196,6 +196,21 @@
    "confirmed": "2026-09-12",
    "description": "월드추천.12월협의.중앙공원폭포뷰.시에4대.알파룸.관리잘된집",
    "realtor": "다산월드공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2649474884",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "ES",
+   "confirmed": "2026-09-12",
+   "description": "THE힐전세, 12월중순협의, 시에컨4대, 그린파크뷰",
+   "realtor": "다산더힐공인중개사사무소",
    "price_text": "90000"
   },
   {
