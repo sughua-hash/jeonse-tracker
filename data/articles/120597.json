@@ -1,8 +1,38 @@
 {
- "date": "2026-09-21",
+ "date": "2026-09-22",
  "complexNo": "120597",
  "name": "남양주두산위브트레지움",
  "articles": [
+  {
+   "article_no": "2651204777",
+   "trade": "B1",
+   "deposit": 27000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 83.57,
+   "floor": "26/27",
+   "building": "107",
+   "direction": "ES",
+   "confirmed": "2026-09-22",
+   "description": "12월7일부터입주 깨끗",
+   "realtor": "삼신푸른솔중개사사무소",
+   "price_text": "27000"
+  },
+  {
+   "article_no": "2651197149",
+   "trade": "B1",
+   "deposit": 27000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 83.57,
+   "floor": "26/27",
+   "building": "107",
+   "direction": "ES",
+   "confirmed": "2026-09-22",
+   "description": "",
+   "realtor": "최강공인중개사무소",
+   "price_text": "27000"
+  },
   {
    "article_no": "2650088264",
    "trade": "B1",
@@ -17,36 +47,6 @@
    "description": "전망좋은1층이며 사생활침해없음",
    "realtor": "두산공인중개사사무소",
    "price_text": "32000"
-  },
-  {
-   "article_no": "2649875466",
-   "trade": "B1",
-   "deposit": 34000,
-   "rent": 0,
-   "area_exclusive": 84.95,
-   "area_supply": 114.7,
-   "floor": "2/33",
-   "building": "111",
-   "direction": "ES",
-   "confirmed": "2026-09-15",
-   "description": "융무,중문,빠른날짜협의가능",
-   "realtor": "두산위브트레지움공인중개사사무소",
-   "price_text": "34000"
-  },
-  {
-   "article_no": "2645919542",
-   "trade": "B1",
-   "deposit": 35000,
-   "rent": 0,
-   "area_exclusive": 84.95,
-   "area_supply": 114.7,
-   "floor": "2/33",
-   "building": "111",
-   "direction": "ES",
-   "confirmed": "2026-08-26",
-   "description": "4층높이,방3,빠른입주가,집깨끗,중문",
-   "realtor": "비전공인중개사사무소",
-   "price_text": "35000"
   },
   {
    "article_no": "2650087616",
@@ -74,9 +74,39 @@
    "building": "104",
    "direction": "WS",
    "confirmed": "2026-09-14",
-   "description": "11월말협의",
+   "description": "11월30일",
    "realtor": "두산위브트레지움공인중개사사무소",
    "price_text": "35000"
+  },
+  {
+   "article_no": "2651129194",
+   "trade": "B2",
+   "deposit": 4000,
+   "rent": 170,
+   "area_exclusive": 84.95,
+   "area_supply": 114.7,
+   "floor": "15/33",
+   "building": "104",
+   "direction": "ES",
+   "confirmed": "2026-09-21",
+   "description": "융자무 조망굿 에5 대리석주방 중문 방3 반려동물 안됨 이사 한달이상 협",
+   "realtor": "봄날트레지움 공인중개사사무소",
+   "price_text": "4000/170"
+  },
+  {
+   "article_no": "2651122155",
+   "trade": "B2",
+   "deposit": 4000,
+   "rent": 170,
+   "area_exclusive": 84.95,
+   "area_supply": 114.7,
+   "floor": "15/33",
+   "building": "104",
+   "direction": "ES",
+   "confirmed": "2026-09-21",
+   "description": "시스템에어컨 5대 중문 빠른이사 융무 조망굿",
+   "realtor": "두산온누리공인중개사사무소",
+   "price_text": "4000/170"
   }
  ]
 }

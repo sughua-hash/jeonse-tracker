@@ -1,22 +1,37 @@
 {
- "date": "2026-09-21",
+ "date": "2026-09-22",
  "complexNo": "110520",
  "name": "남양주월산사랑으로부영1단지",
  "articles": [
   {
-   "article_no": "2646902487",
+   "article_no": "2651134770",
    "trade": "B1",
-   "deposit": 33000,
+   "deposit": 19608,
    "rent": 0,
+   "area_exclusive": 84.99,
+   "area_supply": 114.52,
+   "floor": "고/30",
+   "building": "114",
+   "direction": "ES",
+   "confirmed": "2026-09-21",
+   "description": "초품아 대단지 잠실자차 30분대",
+   "realtor": "공간과 사람들 공인중개사사무소",
+   "price_text": "19608"
+  },
+  {
+   "article_no": "2651153120",
+   "trade": "B2",
+   "deposit": 5000,
+   "rent": 160,
    "area_exclusive": 146.72,
    "area_supply": 176.36,
    "floor": "8/33",
    "building": "111",
    "direction": "ES",
-   "confirmed": "2026-08-31",
-   "description": "4룸 산조망 공원조망 깨끗함",
+   "confirmed": "2026-09-21",
+   "description": "4룸 산조망 공원조망 깨끗함 입주협의",
    "realtor": "월산부영공인중개사사무소",
-   "price_text": "33000"
+   "price_text": "5000/160"
   }
  ]
 }
