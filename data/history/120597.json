@@ -2088,16 +2088,16 @@
    "rent": 170,
    "deposit": 4000,
    "article": {
-    "article_no": "2651129194",
+    "article_no": "2651307743",
     "deposit": 4000,
     "rent": 170,
     "area": 84.95,
     "floor": "15/33",
     "building": "104",
     "direction": "ES",
-    "confirmed": "2026-09-21",
+    "confirmed": "2026-09-22",
     "price_text": "4000/170",
-    "url": "https://m.land.naver.com/article/info/2651129194"
+    "url": "https://m.land.naver.com/article/info/2651307743"
    }
   },
   "wolse_conv": {
@@ -2106,29 +2106,29 @@
    "deposit": 4000,
    "rate_pct": 4.8,
    "article": {
-    "article_no": "2651129194",
+    "article_no": "2651307743",
     "deposit": 4000,
     "rent": 170,
     "area": 84.95,
     "floor": "15/33",
     "building": "104",
     "direction": "ES",
-    "confirmed": "2026-09-21",
+    "confirmed": "2026-09-22",
     "price_text": "4000/170",
-    "url": "https://m.land.naver.com/article/info/2651129194"
+    "url": "https://m.land.naver.com/article/info/2651307743"
    }
   },
   "counts": {
-   "all": 7,
-   "in_area": 2,
+   "all": 10,
+   "in_area": 3,
    "jeonse": 0,
-   "wolse": 2,
-   "wolse_ok": 2
+   "wolse": 3,
+   "wolse_ok": 3
   },
   "areas": {
-   "60": 2,
+   "60": 4,
    "75": 3,
-   "85": 2
+   "85": 3
   },
   "date": "2026-09-22",
   "source": "fin",
@@ -2191,7 +2191,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 7,
+     "all": 10,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -2256,7 +2256,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 7,
+     "all": 10,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -2321,7 +2321,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 7,
+     "all": 10,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -2386,7 +2386,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 7,
+     "all": 10,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,

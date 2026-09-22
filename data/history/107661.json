@@ -2086,15 +2086,15 @@
   "wolse_rent": null,
   "wolse_conv": null,
   "counts": {
-   "all": 12,
+   "all": 28,
    "in_area": 0,
    "jeonse": 0,
    "wolse": 0,
    "wolse_ok": 0
   },
   "areas": {
-   "95": 1,
-   "101.6": 2,
+   "95": 7,
+   "101.6": 12,
    "102": 9
   },
   "date": "2026-09-22",
@@ -2169,14 +2169,46 @@
       "url": "https://m.land.naver.com/article/info/2650341183"
      }
     },
-    "wolse_rent": null,
-    "wolse_conv": null,
+    "wolse_rent": {
+     "rent": 300,
+     "deposit": 35000,
+     "article": {
+      "article_no": "2651303662",
+      "deposit": 35000,
+      "rent": 300,
+      "area": 101.59,
+      "floor": "중/25",
+      "building": "5407",
+      "direction": "SS",
+      "confirmed": "2026-09-22",
+      "price_text": "35000/300",
+      "url": "https://m.land.naver.com/article/info/2651303662"
+     }
+    },
+    "wolse_conv": {
+     "conv": 110000,
+     "rent": 300,
+     "deposit": 35000,
+     "rate_pct": 4.8,
+     "article": {
+      "article_no": "2651303662",
+      "deposit": 35000,
+      "rent": 300,
+      "area": 101.59,
+      "floor": "중/25",
+      "building": "5407",
+      "direction": "SS",
+      "confirmed": "2026-09-22",
+      "price_text": "35000/300",
+      "url": "https://m.land.naver.com/article/info/2651303662"
+     }
+    },
     "counts": {
-     "all": 12,
-     "in_area": 12,
+     "all": 28,
+     "in_area": 28,
      "jeonse": 8,
-     "wolse": 4,
-     "wolse_ok": 0
+     "wolse": 20,
+     "wolse_ok": 10
     },
     "deltas": {
      "jeonse": {
@@ -2237,7 +2269,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 12,
+     "all": 28,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -2302,7 +2334,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 12,
+     "all": 28,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -2367,7 +2399,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 12,
+     "all": 28,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,

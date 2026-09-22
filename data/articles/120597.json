@@ -34,6 +34,36 @@
    "price_text": "27000"
   },
   {
+   "article_no": "2651253602",
+   "trade": "B1",
+   "deposit": 27000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 83.57,
+   "floor": "26/27",
+   "building": "107",
+   "direction": "WS",
+   "confirmed": "2026-09-22",
+   "description": "이사협의 상태깨끗 귀한전세",
+   "realtor": "신명스카이뷰그린공인중개사사무소",
+   "price_text": "27000"
+  },
+  {
+   "article_no": "2651365507",
+   "trade": "B1",
+   "deposit": 27000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 83.57,
+   "floor": "26/27",
+   "building": "107",
+   "direction": "ES",
+   "confirmed": "2026-09-22",
+   "description": "입주협의 상태깨끗해요",
+   "realtor": "오렌지공인중개사무소",
+   "price_text": "27000"
+  },
+  {
    "article_no": "2650088264",
    "trade": "B1",
    "deposit": 32000,
@@ -79,6 +109,21 @@
    "price_text": "35000"
   },
   {
+   "article_no": "2651307743",
+   "trade": "B2",
+   "deposit": 4000,
+   "rent": 170,
+   "area_exclusive": 84.95,
+   "area_supply": 114.7,
+   "floor": "15/33",
+   "building": "104",
+   "direction": "ES",
+   "confirmed": "2026-09-22",
+   "description": "시스템에어컨5대 중문 주방대리석 빠른이사 반려동물X 융무 조망굿",
+   "realtor": "두산온누리공인중개사사무소",
+   "price_text": "4000/170"
+  },
+  {
    "article_no": "2651129194",
    "trade": "B2",
    "deposit": 4000,
@@ -94,7 +139,7 @@
    "price_text": "4000/170"
   },
   {
-   "article_no": "2651122155",
+   "article_no": "2651269841",
    "trade": "B2",
    "deposit": 4000,
    "rent": 170,
@@ -103,9 +148,9 @@
    "floor": "15/33",
    "building": "104",
    "direction": "ES",
-   "confirmed": "2026-09-21",
-   "description": "시스템에어컨 5대 중문 빠른이사 융무 조망굿",
-   "realtor": "두산온누리공인중개사사무소",
+   "confirmed": "2026-09-22",
+   "description": "에5 전망굿",
+   "realtor": "두산위트공인중개사",
    "price_text": "4000/170"
   }
  ]
