@@ -1,10 +1,10 @@
 {
- "date": "2026-09-22",
+ "date": "2026-09-23",
  "complexNo": "110299",
  "name": "e편한세상다산",
  "articles": [
   {
-   "article_no": "2651356585",
+   "article_no": "2651418338",
    "trade": "B1",
    "deposit": 75000,
    "rent": 0,
@@ -13,24 +13,9 @@
    "floor": "고/28",
    "building": "5102",
    "direction": "ES",
-   "confirmed": "2026-09-22",
-   "description": "코코추천, 입주협의, 트인뷰, 집상태굿, 새봄초, 다산역, 중심상권",
-   "realtor": "다산코코이편한부동산중개사무소",
-   "price_text": "75000"
-  },
-  {
-   "article_no": "2651245265",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 84.96,
-   "area_supply": 112.74,
-   "floor": "고/28",
-   "building": "5102",
-   "direction": "SS",
-   "confirmed": "2026-09-22",
-   "description": "A급추천,무융자,트인뷰,집상태 굿,다산역,상가,새봄초,아울렛 이용편리",
-   "realtor": "1등이편한공인중개사사무소",
+   "confirmed": "2026-09-23",
+   "description": "G골드추천,입주협의,융자무,새봄초중,확트인뷰,중심상가인접",
+   "realtor": "다산자이골드부동산공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -49,7 +34,7 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2651300908",
+   "article_no": "2651245265",
    "trade": "B1",
    "deposit": 75000,
    "rent": 0,
@@ -57,10 +42,10 @@
    "area_supply": 112.74,
    "floor": "고/28",
    "building": "5102",
-   "direction": "ES",
+   "direction": "SS",
    "confirmed": "2026-09-22",
-   "description": "귀한전세 집상태굿 다산역 가까운동",
-   "realtor": "다산이편한세상단지0315552200부동산중개사무소",
+   "description": "A급추천,무융자,트인뷰,집상태 굿,다산역,상가,새봄초,아울렛 이용편리",
+   "realtor": "1등이편한공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -91,6 +76,36 @@
    "confirmed": "2026-09-22",
    "description": "무융자, 입주 협의, 고층 트인 조망, 학교, 상권 접근 좋은동",
    "realtor": "다산부동산파트너 공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
+   "article_no": "2651300908",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 84.96,
+   "area_supply": 112.74,
+   "floor": "고/28",
+   "building": "5102",
+   "direction": "ES",
+   "confirmed": "2026-09-22",
+   "description": "귀한전세 집상태굿 다산역 가까운동",
+   "realtor": "다산이편한세상단지0315552200부동산중개사무소",
+   "price_text": "75000"
+  },
+  {
+   "article_no": "2651356585",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 84.96,
+   "area_supply": 112.74,
+   "floor": "고/28",
+   "building": "5102",
+   "direction": "ES",
+   "confirmed": "2026-09-22",
+   "description": "코코추천, 입주협의, 트인뷰, 집상태굿, 새봄초, 다산역, 중심상권",
+   "realtor": "다산코코이편한부동산중개사무소",
    "price_text": "75000"
   },
   {

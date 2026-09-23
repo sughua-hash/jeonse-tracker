@@ -1,5 +1,5 @@
 {
- "date": "2026-09-22",
+ "date": "2026-09-23",
  "complexNo": "109266",
  "name": "위례센트럴자이",
  "articles": [
@@ -49,6 +49,21 @@
    "price_text": "65000"
   },
   {
+   "article_no": "2651003232",
+   "trade": "B1",
+   "deposit": 65000,
+   "rent": 0,
+   "area_exclusive": 51.89,
+   "area_supply": 75.22,
+   "floor": "3/15",
+   "building": "3219",
+   "direction": "SS",
+   "confirmed": "2026-09-21",
+   "description": "남향 방2 펜트리 융자무 진출입편리동 11월초협의가능",
+   "realtor": "위례스마일공인중개사사무소",
+   "price_text": "65000"
+  },
+  {
    "article_no": "2651166908",
    "trade": "B1",
    "deposit": 65000,
@@ -76,21 +91,6 @@
    "confirmed": "2026-09-21",
    "description": "22 융무 방2 화1 깨끗 남향 입주협의",
    "realtor": "센트럴현대 공인중개사사무소",
-   "price_text": "65000"
-  },
-  {
-   "article_no": "2651003232",
-   "trade": "B1",
-   "deposit": 65000,
-   "rent": 0,
-   "area_exclusive": 51.89,
-   "area_supply": 75.22,
-   "floor": "3/15",
-   "building": "3219",
-   "direction": "SS",
-   "confirmed": "2026-09-21",
-   "description": "남향 방2 펜트리 융자무 진출입편리동 11월초협의가능",
-   "realtor": "위례스마일공인중개사사무소",
    "price_text": "65000"
   },
   {
@@ -139,21 +139,6 @@
    "price_text": "65000"
   },
   {
-   "article_no": "2651130942",
-   "trade": "B1",
-   "deposit": 65000,
-   "rent": 0,
-   "area_exclusive": 51.89,
-   "area_supply": 75.22,
-   "floor": "3/15",
-   "building": "3219",
-   "direction": "SS",
-   "confirmed": "2026-09-21",
-   "description": "리치PICK 융자무 넓은펜트리 컨디션좋은집 반전세가능",
-   "realtor": "위례리치(02-400-0770)공인중개사사무소",
-   "price_text": "65000"
-  },
-  {
    "article_no": "2650912867",
    "trade": "B1",
    "deposit": 65000,
@@ -166,6 +151,21 @@
    "confirmed": "2026-09-21",
    "description": "ALPHA 22p 융 無 중앙광장 이용편리 컨디션 최상",
    "realtor": "위례알파공인중개사사무소",
+   "price_text": "65000"
+  },
+  {
+   "article_no": "2651130942",
+   "trade": "B1",
+   "deposit": 65000,
+   "rent": 0,
+   "area_exclusive": 51.89,
+   "area_supply": 75.22,
+   "floor": "3/15",
+   "building": "3219",
+   "direction": "SS",
+   "confirmed": "2026-09-21",
+   "description": "리치PICK 융자무 넓은펜트리 컨디션좋은집 반전세가능",
+   "realtor": "위례리치(02-400-0770)공인중개사사무소",
    "price_text": "65000"
   },
   {
@@ -214,7 +214,7 @@
    "price_text": "70000"
   },
   {
-   "article_no": "2651299667",
+   "article_no": "2651431793",
    "trade": "B1",
    "deposit": 75000,
    "rent": 0,
@@ -223,13 +223,13 @@
    "floor": "저/15",
    "building": "3207",
    "direction": "ES",
-   "confirmed": "2026-09-22",
-   "description": "25P 입주협의,조용한동,막힘없는 밝고환한전망",
-   "realtor": "위례(02-470-9500)공인중개사사무소",
+   "confirmed": "2026-09-23",
+   "description": "ALPHA 25p 융 無 에어컨 유 방 3개 컨디션 최상",
+   "realtor": "위례알파공인중개사사무소",
    "price_text": "75000"
   },
   {
-   "article_no": "2651181445",
+   "article_no": "2651413552",
    "trade": "B1",
    "deposit": 75000,
    "rent": 0,
@@ -238,7 +238,7 @@
    "floor": "저/15",
    "building": "3207",
    "direction": "ES",
-   "confirmed": "2026-09-22",
+   "confirmed": "2026-09-23",
    "description": "愛25 방3 즉시입주 에어컨유 채광좋은 정원뷰 상권교통편리",
    "realtor": "위례황금부동산공인중개사사무소",
    "price_text": "75000"
@@ -259,7 +259,7 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2651200651",
+   "article_no": "2651299667",
    "trade": "B1",
    "deposit": 75000,
    "rent": 0,
@@ -269,8 +269,8 @@
    "building": "3207",
    "direction": "ES",
    "confirmed": "2026-09-22",
-   "description": "예쁜 정원힐링뷰  빠른입주  전자계약  방3  에어컨",
-   "realtor": "시나브로(02-408-8200)공인중개사사무소",
+   "description": "25P 입주협의,조용한동,막힘없는 밝고환한전망",
+   "realtor": "위례(02-470-9500)공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -289,6 +289,21 @@
    "price_text": "75000"
   },
   {
+   "article_no": "2651200651",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 59.83,
+   "area_supply": 83.92,
+   "floor": "저/15",
+   "building": "3207",
+   "direction": "ES",
+   "confirmed": "2026-09-22",
+   "description": "예쁜 정원힐링뷰  빠른입주  전자계약  방3  에어컨",
+   "realtor": "시나브로(02-408-8200)공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
    "article_no": "2651002567",
    "trade": "B1",
    "deposit": 75000,
@@ -301,21 +316,6 @@
    "confirmed": "2026-09-21",
    "description": "단지내전망 방3 화2 에어컨유 입주협의",
    "realtor": "위례스마일공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
-   "article_no": "2650910315",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 59.83,
-   "area_supply": 83.92,
-   "floor": "저/15",
-   "building": "3207",
-   "direction": "ES",
-   "confirmed": "2026-09-21",
-   "description": "ALPHA 25p 융 無 에어컨 유 방 3개 컨디션 최상",
-   "realtor": "위례알파공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -634,6 +634,21 @@
    "price_text": "77000"
   },
   {
+   "article_no": "2651413551",
+   "trade": "B1",
+   "deposit": 78000,
+   "rent": 0,
+   "area_exclusive": 59.83,
+   "area_supply": 83.92,
+   "floor": "13/15",
+   "building": "3210",
+   "direction": "ES",
+   "confirmed": "2026-09-23",
+   "description": "愛25 방3 빠른입주 풀에어컨 내부깨끗 로얄층  조망채광굿 위례중근접동",
+   "realtor": "위례황금부동산공인중개사사무소",
+   "price_text": "78000"
+  },
+  {
    "article_no": "2651364571",
    "trade": "B1",
    "deposit": 78000,
@@ -661,21 +676,6 @@
    "confirmed": "2026-09-22",
    "description": "I위례추천I 25P 융무 방3 화장실2 선호타입 트인뷰 트램역옆 광장상권",
    "realtor": "센트럴자이단지내 위례공인중개사사무소",
-   "price_text": "78000"
-  },
-  {
-   "article_no": "2651181446",
-   "trade": "B1",
-   "deposit": 78000,
-   "rent": 0,
-   "area_exclusive": 59.83,
-   "area_supply": 83.92,
-   "floor": "13/15",
-   "building": "3210",
-   "direction": "ES",
-   "confirmed": "2026-09-22",
-   "description": "愛25 방3 빠른입주 풀에어컨 내부깨끗 로얄층  조망채광굿 위례중근접동",
-   "realtor": "위례황금부동산공인중개사사무소",
    "price_text": "78000"
   },
   {
@@ -781,6 +781,51 @@
    "confirmed": "2026-09-11",
    "description": "25,방3 욕실2,전망 좋은집, 시스템에어컨 풀",
    "realtor": "위례센트럴자이(02.407.7788)공인중개사사무소",
+   "price_text": "78000"
+  },
+  {
+   "article_no": "2651413345",
+   "trade": "B1",
+   "deposit": 78000,
+   "rent": 0,
+   "area_exclusive": 59.83,
+   "area_supply": 83.92,
+   "floor": "고/15",
+   "building": "3206",
+   "direction": "WS",
+   "confirmed": "2026-09-23",
+   "description": "KB 25p 방3 신속입주 환한트인뷰 중앙광장이용 행복가득한집 추천동",
+   "realtor": "국민공인중개사사무소",
+   "price_text": "78000"
+  },
+  {
+   "article_no": "2651184903",
+   "trade": "B1",
+   "deposit": 78000,
+   "rent": 0,
+   "area_exclusive": 59.83,
+   "area_supply": 83.92,
+   "floor": "고/15",
+   "building": "3206",
+   "direction": "WS",
+   "confirmed": "2026-09-22",
+   "description": "KB 25p 방3 신속입주 환한트인뷰 중앙광장이용 행복가득한집 추천동",
+   "realtor": "국민공인중개사사무소",
+   "price_text": "78000"
+  },
+  {
+   "article_no": "2650839141",
+   "trade": "B1",
+   "deposit": 78000,
+   "rent": 0,
+   "area_exclusive": 59.83,
+   "area_supply": 83.92,
+   "floor": "고/15",
+   "building": "3206",
+   "direction": "WS",
+   "confirmed": "2026-09-21",
+   "description": "KB 25 단독 트인뷰 풀에어컨 상태최상 트램라인 상권이용 조정가능",
+   "realtor": "국민공인중개사사무소",
    "price_text": "78000"
   },
   {
@@ -934,52 +979,7 @@
    "price_text": "79000"
   },
   {
-   "article_no": "2651184903",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.83,
-   "area_supply": 83.92,
-   "floor": "고/15",
-   "building": "3206",
-   "direction": "WS",
-   "confirmed": "2026-09-22",
-   "description": "KB 25p 방3 신속입주 환한트인뷰 중앙광장이용 행복가득한집 추천동",
-   "realtor": "국민공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
-   "article_no": "2650839141",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.83,
-   "area_supply": 83.92,
-   "floor": "고/15",
-   "building": "3206",
-   "direction": "WS",
-   "confirmed": "2026-09-21",
-   "description": "KB 25 단독 트인뷰 풀에어컨 상태최상 트램라인 상권이용 조정가능",
-   "realtor": "국민공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
-   "article_no": "2650875211",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.83,
-   "area_supply": 83.92,
-   "floor": "고/15",
-   "building": "3206",
-   "direction": "WS",
-   "confirmed": "2026-09-21",
-   "description": "KB 25p 방3 신속입주 환한트인뷰 중앙광장이용 행복가득한집 추천동",
-   "realtor": "국민공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
-   "article_no": "2651181520",
+   "article_no": "2651413573",
    "trade": "B1",
    "deposit": 80000,
    "rent": 0,
@@ -988,7 +988,7 @@
    "floor": "고/15",
    "building": "3202",
    "direction": "ES",
-   "confirmed": "2026-09-22",
+   "confirmed": "2026-09-23",
    "description": "愛25 방3 입주협의  융자없음 내부깨끗  조망굿  상권교통편리",
    "realtor": "위례황금부동산공인중개사사무소",
    "price_text": "80000"
@@ -1144,37 +1144,52 @@
    "price_text": "83000"
   },
   {
-   "article_no": "2651365503",
+   "article_no": "2651431433",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
-   "area_exclusive": 84.94,
-   "area_supply": 112.17,
-   "floor": "저/15",
-   "building": "3201",
+   "area_exclusive": 74.99,
+   "area_supply": 98.79,
+   "floor": "중/14",
+   "building": "3211",
    "direction": "SS",
-   "confirmed": "2026-09-22",
-   "description": "34 에유 융무 방4 화2 입주협의",
-   "realtor": "센트럴현대 공인중개사사무소",
+   "confirmed": "2026-09-23",
+   "description": "ALPHA 30p  에어컨 유 컨디션 최상",
+   "realtor": "위례알파공인중개사사무소",
    "price_text": "90000"
   },
   {
-   "article_no": "2651295365",
+   "article_no": "2651350869",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
-   "area_exclusive": 84.94,
-   "area_supply": 112.17,
-   "floor": "저/15",
-   "building": "3201",
+   "area_exclusive": 74.99,
+   "area_supply": 98.79,
+   "floor": "중/14",
+   "building": "3211",
    "direction": "SS",
    "confirmed": "2026-09-22",
-   "description": "34P 정남향 시에 방4 화장실2 선호동 선호구조 광장트램인접",
-   "realtor": "센트럴자이단지내 위례공인중개사사무소",
+   "description": "전담매물 언제든지 집보는 약속잡기가  쉽습니다  입주협의가능  ",
+   "realtor": "자이해조공인중개사사무소",
    "price_text": "90000"
   },
   {
-   "article_no": "2651184780",
+   "article_no": "2649787861",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 74.99,
+   "area_supply": 98.79,
+   "floor": "중/14",
+   "building": "3211",
+   "direction": "SS",
+   "confirmed": "2026-09-14",
+   "description": "단지내 정말 귀한 전세. 내부관리 잘 되어있어요. 입주협의.",
+   "realtor": "위례자이해조공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2651432401",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -1183,9 +1198,9 @@
    "floor": "저/15",
    "building": "3201",
    "direction": "SS",
-   "confirmed": "2026-09-22",
-   "description": "愛34 방4 11월입주협의 융자없음 시스템에어컨 내부깨끗 광장상권교통편함",
-   "realtor": "위례황금부동산공인중개사사무소",
+   "confirmed": "2026-09-23",
+   "description": "ALPHA 34p 융 無 에어컨 유 방 4개 컨디션 최상",
+   "realtor": "위례알파공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -1204,7 +1219,7 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2651346597",
+   "article_no": "2651184780",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -1214,8 +1229,8 @@
    "building": "3201",
    "direction": "SS",
    "confirmed": "2026-09-22",
-   "description": "중앙상권 이용 융자무 날짜협의 에어컨유",
-   "realtor": "위례우리공인중개사사무소",
+   "description": "愛34 방4 11월입주협의 융자없음 시스템에어컨 내부깨끗 광장상권교통편함",
+   "realtor": "위례황금부동산공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -1234,7 +1249,7 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2651097471",
+   "article_no": "2651295365",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -1243,13 +1258,13 @@
    "floor": "저/15",
    "building": "3201",
    "direction": "SS",
-   "confirmed": "2026-09-21",
-   "description": "34 융자없음 시스템에어컨 방4 화2 입주협의",
-   "realtor": "센자 단지내공인중개사사무소",
+   "confirmed": "2026-09-22",
+   "description": "34P 정남향 시에 방4 화장실2 선호동 선호구조 광장트램인접",
+   "realtor": "센트럴자이단지내 위례공인중개사사무소",
    "price_text": "90000"
   },
   {
-   "article_no": "2650910713",
+   "article_no": "2651346597",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -1258,9 +1273,24 @@
    "floor": "저/15",
    "building": "3201",
    "direction": "SS",
-   "confirmed": "2026-09-21",
-   "description": "ALPHA 34p 융 無 에어컨 유 방 4개 컨디션 최상",
-   "realtor": "위례알파공인중개사사무소",
+   "confirmed": "2026-09-22",
+   "description": "중앙상권 이용 융자무 날짜협의 에어컨유",
+   "realtor": "위례우리공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2651365503",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.94,
+   "area_supply": 112.17,
+   "floor": "저/15",
+   "building": "3201",
+   "direction": "SS",
+   "confirmed": "2026-09-22",
+   "description": "34 에유 융무 방4 화2 입주협의",
+   "realtor": "센트럴현대 공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -1276,6 +1306,21 @@
    "confirmed": "2026-09-21",
    "description": "JB. 융자無, 에어컨有, 방4, 깔끔한 컨디션, 광장 가까운동",
    "realtor": "중앙베스트(02-6428-3000)공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2651097471",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.94,
+   "area_supply": 112.17,
+   "floor": "저/15",
+   "building": "3201",
+   "direction": "SS",
+   "confirmed": "2026-09-21",
+   "description": "34 융자없음 시스템에어컨 방4 화2 입주협의",
+   "realtor": "센자 단지내공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -1309,21 +1354,6 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2650163053",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.94,
-   "area_supply": 112.17,
-   "floor": "저/15",
-   "building": "3201",
-   "direction": "SS",
-   "confirmed": "2026-09-16",
-   "description": "방4 구조굿, 정남향, 진출입편리, 에어컨, 상권이용편리, 트램역개통임박",
-   "realtor": "위례갤러리공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
    "article_no": "2650167378",
    "trade": "B1",
    "deposit": 90000,
@@ -1339,7 +1369,7 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2649992765",
+   "article_no": "2650163053",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -1348,9 +1378,9 @@
    "floor": "저/15",
    "building": "3201",
    "direction": "SS",
-   "confirmed": "2026-09-15",
-   "description": "융무 방4 정남향 햇살좋은집 에어컨 상권교통편리",
-   "realtor": "위례일등(02-404-0071)공인중개사사무소",
+   "confirmed": "2026-09-16",
+   "description": "방4 구조굿, 정남향, 진출입편리, 에어컨, 상권이용편리, 트램역개통임박",
+   "realtor": "위례갤러리공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -1366,6 +1396,21 @@
    "confirmed": "2026-09-15",
    "description": "융자무, 에어컨유, 남향, 방4개, 입주협의, 귀한매물,",
    "realtor": "두리공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2649992765",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.94,
+   "area_supply": 112.17,
+   "floor": "저/15",
+   "building": "3201",
+   "direction": "SS",
+   "confirmed": "2026-09-15",
+   "description": "융무 방4 정남향 햇살좋은집 에어컨 상권교통편리",
+   "realtor": "위례일등(02-404-0071)공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -1411,51 +1456,6 @@
    "confirmed": "2026-09-05",
    "description": "34,방4 욕실2,정남향,귀한매물,융자없음,시스템에어컨 있음",
    "realtor": "위례센트럴자이(02.407.7788)공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2651350869",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 74.99,
-   "area_supply": 98.79,
-   "floor": "중/14",
-   "building": "3211",
-   "direction": "SS",
-   "confirmed": "2026-09-22",
-   "description": "전담매물 언제든지 집보는 약속잡기가  쉽습니다  입주협의가능  ",
-   "realtor": "자이해조공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2649839569",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 74.99,
-   "area_supply": 98.79,
-   "floor": "중/14",
-   "building": "3211",
-   "direction": "SS",
-   "confirmed": "2026-09-15",
-   "description": "ALPHA 30p  에어컨 유 컨디션 최상",
-   "realtor": "위례알파공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2649787861",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 74.99,
-   "area_supply": 98.79,
-   "floor": "중/14",
-   "building": "3211",
-   "direction": "SS",
-   "confirmed": "2026-09-14",
-   "description": "단지내 정말 귀한 전세. 내부관리 잘 되어있어요. 입주협의.",
-   "realtor": "위례자이해조공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -1519,21 +1519,6 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2650768314",
-   "trade": "B2",
-   "deposit": 50000,
-   "rent": 70,
-   "area_exclusive": 51.89,
-   "area_supply": 75.22,
-   "floor": "3/15",
-   "building": "3219",
-   "direction": "SS",
-   "confirmed": "2026-09-19",
-   "description": "22,방2 욕실1,선호동,남향,상태좋음,중앙상가 생활권",
-   "realtor": "위례센트럴자이(02.407.7788)공인중개사사무소",
-   "price_text": "50000/70"
-  },
-  {
    "article_no": "2650757552",
    "trade": "B2",
    "deposit": 50000,
@@ -1546,6 +1531,21 @@
    "confirmed": "2026-09-19",
    "description": "22 남향 방2 화1 깨끗 입주협의 상가이용 편리한 동",
    "realtor": "센자 단지내공인중개사사무소",
+   "price_text": "50000/70"
+  },
+  {
+   "article_no": "2650768314",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 70,
+   "area_exclusive": 51.89,
+   "area_supply": 75.22,
+   "floor": "3/15",
+   "building": "3219",
+   "direction": "SS",
+   "confirmed": "2026-09-19",
+   "description": "22,방2 욕실1,선호동,남향,상태좋음,중앙상가 생활권",
+   "realtor": "위례센트럴자이(02.407.7788)공인중개사사무소",
    "price_text": "50000/70"
   },
   {
@@ -1609,6 +1609,21 @@
    "price_text": "50000/80"
   },
   {
+   "article_no": "2651413344",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 80,
+   "area_exclusive": 59.83,
+   "area_supply": 83.92,
+   "floor": "고/15",
+   "building": "3206",
+   "direction": "WS",
+   "confirmed": "2026-09-23",
+   "description": "KB 25p 방3 신속입주 환한트인뷰 중앙광장이용 편리한 실거주 추천동",
+   "realtor": "국민공인중개사사무소",
+   "price_text": "60000/80"
+  },
+  {
    "article_no": "2651184906",
    "trade": "B2",
    "deposit": 60000,
@@ -1624,7 +1639,7 @@
    "price_text": "60000/80"
   },
   {
-   "article_no": "2650875210",
+   "article_no": "2650839202",
    "trade": "B2",
    "deposit": 60000,
    "rent": 80,
@@ -1634,7 +1649,7 @@
    "building": "3206",
    "direction": "WS",
    "confirmed": "2026-09-21",
-   "description": "KB 25p 방3 신속입주 환한트인뷰 중앙광장이용 편리한 실거주 추천동",
+   "description": "KB 25 단독 트인뷰 풀에어컨 상태최상 로얄동 로얄층 조정가능",
    "realtor": "국민공인중개사사무소",
    "price_text": "60000/80"
   },
@@ -1682,21 +1697,6 @@
    "description": "22 방2 화2 팬트리2 깨끗 보증금협의 가능",
    "realtor": "센자 단지내공인중개사사무소",
    "price_text": "45000/100"
-  },
-  {
-   "article_no": "2650839202",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 100,
-   "area_exclusive": 59.83,
-   "area_supply": 83.92,
-   "floor": "고/15",
-   "building": "3206",
-   "direction": "WS",
-   "confirmed": "2026-09-21",
-   "description": "KB 25 단독 트인뷰 풀에어컨 상태최상 로얄동 로얄층 조정가능",
-   "realtor": "국민공인중개사사무소",
-   "price_text": "60000/100"
   },
   {
    "article_no": "2651338350",
