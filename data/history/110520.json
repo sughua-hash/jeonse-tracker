@@ -2832,5 +2832,384 @@
     }
    }
   }
+ },
+ {
+  "jeonse": {
+   "price": 19608,
+   "article": {
+    "article_no": "2651134770",
+    "deposit": 19608,
+    "rent": 0,
+    "area": 84.99,
+    "floor": "고/30",
+    "building": "114",
+    "direction": "ES",
+    "confirmed": "2026-09-21",
+    "price_text": "19608",
+    "url": "https://m.land.naver.com/article/info/2651134770"
+   }
+  },
+  "wolse_rent": null,
+  "wolse_conv": null,
+  "counts": {
+   "all": 2,
+   "in_area": 1,
+   "jeonse": 1,
+   "wolse": 0,
+   "wolse_ok": 0
+  },
+  "areas": {
+   "85": 1,
+   "146.7": 1
+  },
+  "date": "2026-09-24",
+  "source": "fin",
+  "deltas": {
+   "jeonse": {
+    "d1": {
+     "date": "2026-09-23",
+     "prev": 19608,
+     "delta": 0
+    },
+    "d7": {
+     "date": "2026-09-17",
+     "prev": null,
+     "delta": null
+    },
+    "d30": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    }
+   },
+   "wolse_rent": {
+    "d1": {
+     "date": "2026-09-23",
+     "prev": null,
+     "delta": null
+    },
+    "d7": {
+     "date": "2026-09-17",
+     "prev": null,
+     "delta": null
+    },
+    "d30": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    }
+   },
+   "wolse_conv": {
+    "d1": {
+     "date": "2026-09-23",
+     "prev": null,
+     "delta": null
+    },
+    "d7": {
+     "date": "2026-09-17",
+     "prev": null,
+     "delta": null
+    },
+    "d30": {
+     "date": null,
+     "prev": null,
+     "delta": null
+    }
+   }
+  },
+  "bands": {
+   "100": {
+    "jeonse": null,
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 2,
+     "in_area": 0,
+     "jeonse": 0,
+     "wolse": 0,
+     "wolse_ok": 0
+    },
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": "2026-09-23",
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": "2026-09-17",
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": "2026-09-23",
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": "2026-09-17",
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": "2026-09-23",
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": "2026-09-17",
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "115": {
+    "jeonse": null,
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 2,
+     "in_area": 0,
+     "jeonse": 0,
+     "wolse": 0,
+     "wolse_ok": 0
+    },
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": "2026-09-23",
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": "2026-09-17",
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": "2026-09-23",
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": "2026-09-17",
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": "2026-09-23",
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": "2026-09-17",
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "130": {
+    "jeonse": null,
+    "wolse_rent": null,
+    "wolse_conv": null,
+    "counts": {
+     "all": 2,
+     "in_area": 0,
+     "jeonse": 0,
+     "wolse": 0,
+     "wolse_ok": 0
+    },
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": "2026-09-23",
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": "2026-09-17",
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": "2026-09-23",
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": "2026-09-17",
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": "2026-09-23",
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": "2026-09-17",
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   },
+   "150": {
+    "jeonse": null,
+    "wolse_rent": {
+     "rent": 160,
+     "deposit": 5000,
+     "article": {
+      "article_no": "2651153120",
+      "deposit": 5000,
+      "rent": 160,
+      "area": 146.72,
+      "floor": "8/33",
+      "building": "111",
+      "direction": "ES",
+      "confirmed": "2026-09-21",
+      "price_text": "5000/160",
+      "url": "https://m.land.naver.com/article/info/2651153120"
+     }
+    },
+    "wolse_conv": {
+     "conv": 45000,
+     "rent": 160,
+     "deposit": 5000,
+     "rate_pct": 4.8,
+     "article": {
+      "article_no": "2651153120",
+      "deposit": 5000,
+      "rent": 160,
+      "area": 146.72,
+      "floor": "8/33",
+      "building": "111",
+      "direction": "ES",
+      "confirmed": "2026-09-21",
+      "price_text": "5000/160",
+      "url": "https://m.land.naver.com/article/info/2651153120"
+     }
+    },
+    "counts": {
+     "all": 2,
+     "in_area": 1,
+     "jeonse": 0,
+     "wolse": 1,
+     "wolse_ok": 1
+    },
+    "deltas": {
+     "jeonse": {
+      "d1": {
+       "date": "2026-09-23",
+       "prev": null,
+       "delta": null
+      },
+      "d7": {
+       "date": "2026-09-17",
+       "prev": 33000,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_rent": {
+      "d1": {
+       "date": "2026-09-23",
+       "prev": 160,
+       "delta": 0
+      },
+      "d7": {
+       "date": "2026-09-17",
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     },
+     "wolse_conv": {
+      "d1": {
+       "date": "2026-09-23",
+       "prev": 45000,
+       "delta": 0
+      },
+      "d7": {
+       "date": "2026-09-17",
+       "prev": null,
+       "delta": null
+      },
+      "d30": {
+       "date": null,
+       "prev": null,
+       "delta": null
+      }
+     }
+    }
+   }
+  }
  }
 ]

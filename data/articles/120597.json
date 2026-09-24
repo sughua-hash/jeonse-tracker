@@ -1,5 +1,5 @@
 {
- "date": "2026-09-23",
+ "date": "2026-09-24",
  "complexNo": "120597",
  "name": "남양주두산위브트레지움",
  "articles": [
@@ -64,6 +64,21 @@
    "price_text": "27000"
   },
   {
+   "article_no": "2651617695",
+   "trade": "B1",
+   "deposit": 27000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 83.57,
+   "floor": "26/27",
+   "building": "107",
+   "direction": "WS",
+   "confirmed": "2026-09-23",
+   "description": "기본형,방3,12월입주협의",
+   "realtor": "리치공인중개사사무소",
+   "price_text": "27000"
+  },
+  {
    "article_no": "2651365507",
    "trade": "B1",
    "deposit": 27000,
@@ -124,7 +139,22 @@
    "price_text": "35000"
   },
   {
-   "article_no": "2651307743",
+   "article_no": "2651565635",
+   "trade": "B2",
+   "deposit": 5000,
+   "rent": 150,
+   "area_exclusive": 84.95,
+   "area_supply": 114.7,
+   "floor": "13/31",
+   "building": "109",
+   "direction": "ES",
+   "confirmed": "2026-09-23",
+   "description": "즉시입주 가능한 내부깨끗한 월세입니다",
+   "realtor": "포스코부동산공인중개사사무소",
+   "price_text": "5000/150"
+  },
+  {
+   "article_no": "2651478221",
    "trade": "B2",
    "deposit": 4000,
    "rent": 170,
@@ -133,7 +163,7 @@
    "floor": "15/33",
    "building": "104",
    "direction": "ES",
-   "confirmed": "2026-09-22",
+   "confirmed": "2026-09-23",
    "description": "시스템에어컨5대 중문 주방대리석 빠른이사 반려동물X 융무 조망굿",
    "realtor": "두산온누리공인중개사사무소",
    "price_text": "4000/170"

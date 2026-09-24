@@ -1,5 +1,5 @@
 {
- "date": "2026-09-23",
+ "date": "2026-09-24",
  "complexNo": "110298",
  "name": "다산롯데캐슬",
  "articles": [
@@ -17,6 +17,21 @@
    "description": "추천 27년초 협의 방3 융자소액 역세권 상권이용편리 깨끗하게 관리잘된집",
    "realtor": "다산퍼스트공인중개사사무소",
    "price_text": "63000"
+  },
+  {
+   "article_no": "2651452556",
+   "trade": "B1",
+   "deposit": 73000,
+   "rent": 0,
+   "area_exclusive": 84.97,
+   "area_supply": 113.2,
+   "floor": "고/27",
+   "building": "2205",
+   "direction": "WS",
+   "confirmed": "2026-09-23",
+   "description": "융자무. 귀한전세. 학세권. 상가접근성 굿. 8호선역세권 워라벨가능.",
+   "realtor": "다산롯데클터공인중개사사무소",
+   "price_text": "73000"
   },
   {
    "article_no": "2648965695",
@@ -77,21 +92,6 @@
    "description": "단독위임,입주 협의가 ,옵션무,8호선 전철 도보7분 거리,조정가",
    "realtor": "비젼부동산공인중개사사무소",
    "price_text": "10000/250"
-  },
-  {
-   "article_no": "2648746740",
-   "trade": "B2",
-   "deposit": 7000,
-   "rent": 270,
-   "area_exclusive": 74.97,
-   "area_supply": 99.81,
-   "floor": "중/23",
-   "building": "2202",
-   "direction": "ES",
-   "confirmed": "2026-09-09",
-   "description": "추천 시스템에어컨4대 10월말 11월초 입주협의 탁트인중앙공원뷰",
-   "realtor": "다산롯데캐슬 공인중개사사무소",
-   "price_text": "7000/270"
   }
  ]
 }

@@ -1,8 +1,23 @@
 {
- "date": "2026-09-23",
+ "date": "2026-09-24",
  "complexNo": "107024",
  "name": "미사강변센텀팰리스",
  "articles": [
+  {
+   "article_no": "2651671797",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 74.93,
+   "area_supply": 98.4,
+   "floor": "고/20",
+   "building": "1801",
+   "direction": "WS",
+   "confirmed": "2026-09-24",
+   "description": "귀한전세, 강일역, 채광굿, 관리잘된집, 초중고5분,11월중순",
+   "realtor": "자이사랑골든벨(031-795-1555)공인중개사사무소",
+   "price_text": "80000"
+  },
   {
    "article_no": "2651431040",
    "trade": "B1",
@@ -19,7 +34,7 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2651415471",
+   "article_no": "2651445257",
    "trade": "B1",
    "deposit": 80000,
    "rent": 0,
@@ -29,27 +44,12 @@
    "building": "1801",
    "direction": "WS",
    "confirmed": "2026-09-23",
-   "description": "귀한전세, 강일역, 채광굿, 관리잘된집, 초중고5분,11월중순",
-   "realtor": "자이사랑골든벨(031-795-1555)공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
-   "article_no": "2651233439",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 74.93,
-   "area_supply": 98.4,
-   "floor": "고/20",
-   "building": "1801",
-   "direction": "WS",
-   "confirmed": "2026-09-22",
    "description": "11월입주, 조용한 단지뷰, 초중고인접, 강일역도보",
    "realtor": "미사은호(031-793-9006)공인중개사사무소",
    "price_text": "80000"
   },
   {
-   "article_no": "2651161400",
+   "article_no": "2651503833",
    "trade": "B1",
    "deposit": 80000,
    "rent": 0,
@@ -58,24 +58,9 @@
    "floor": "고/20",
    "building": "1801",
    "direction": "WS",
-   "confirmed": "2026-09-22",
+   "confirmed": "2026-09-23",
    "description": "귀한전세,로얄동호수,탁트인뷰,관리잘된집,윤슬초중,하남고,강일역도보",
    "realtor": "미사제일풍경채공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
-   "article_no": "2651180320",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 74.93,
-   "area_supply": 98.4,
-   "floor": "고/20",
-   "building": "1801",
-   "direction": "WS",
-   "confirmed": "2026-09-22",
-   "description": "강일역역세권, 윤슬초중,  일조량좋은집  11월입주가능",
-   "realtor": "푸르지오비비(031-793-3000)공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -94,6 +79,21 @@
    "price_text": "80000"
   },
   {
+   "article_no": "2651180320",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 74.93,
+   "area_supply": 98.4,
+   "floor": "고/20",
+   "building": "1801",
+   "direction": "WS",
+   "confirmed": "2026-09-22",
+   "description": "강일역역세권, 윤슬초중,  일조량좋은집  11월입주가능",
+   "realtor": "푸르지오비비(031-793-3000)공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
    "article_no": "2651270539",
    "trade": "B1",
    "deposit": 80000,
@@ -106,21 +106,6 @@
    "confirmed": "2026-09-22",
    "description": "11월 중순 협의, 탁 트인뷰, 상태굿, 채광굿, 윤슬초중, 하남고",
    "realtor": "대한민국정직한사람들공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
-   "article_no": "2650993917",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 74.93,
-   "area_supply": 98.4,
-   "floor": "고/20",
-   "building": "1801",
-   "direction": "WS",
-   "confirmed": "2026-09-21",
-   "description": "11월중순  안쪽조용한라인   윤슬초중품아 하남고바로 5호선이용",
-   "realtor": "미사센텀팰리스공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -139,6 +124,21 @@
    "price_text": "80000"
   },
   {
+   "article_no": "2650993917",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 74.93,
+   "area_supply": 98.4,
+   "floor": "고/20",
+   "building": "1801",
+   "direction": "WS",
+   "confirmed": "2026-09-21",
+   "description": "11월중순  안쪽조용한라인   윤슬초중품아 하남고바로 5호선이용",
+   "realtor": "미사센텀팰리스공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
    "article_no": "2650968031",
    "trade": "B1",
    "deposit": 80000,
@@ -154,21 +154,6 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2650873795",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 74.93,
-   "area_supply": 98.4,
-   "floor": "고/20",
-   "building": "1801",
-   "direction": "ES",
-   "confirmed": "2026-09-21",
-   "description": "대단지   채광 개방감  우수   관리상태 굿  강일역  집깨긋함",
-   "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2650909025",
    "trade": "B1",
    "deposit": 80000,
@@ -181,6 +166,21 @@
    "confirmed": "2026-09-21",
    "description": "센텀30,전세,11월중순,단지뷰,집상태굿, 윤슬초중품아,하남고,강일역도보",
    "realtor": "미사강변(031-796-0033)공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2650873795",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 74.93,
+   "area_supply": 98.4,
+   "floor": "고/20",
+   "building": "1801",
+   "direction": "ES",
+   "confirmed": "2026-09-21",
+   "description": "대단지   채광 개방감  우수   관리상태 굿  강일역  집깨긋함",
+   "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -274,21 +274,6 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2649739553",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 74.93,
-   "area_supply": 98.4,
-   "floor": "고/20",
-   "building": "1801",
-   "direction": "WS",
-   "confirmed": "2026-09-14",
-   "description": "11월입주  초중고 옆,  강일역 도보, 트인개방감",
-   "realtor": "미사자이(031-795-3600)미래공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2649671455",
    "trade": "B1",
    "deposit": 80000,
@@ -301,6 +286,21 @@
    "confirmed": "2026-09-14",
    "description": "11월입주 햇살 가득한집 윤슬초중5분",
    "realtor": "미사강변동일하이빌공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2649739553",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 74.93,
+   "area_supply": 98.4,
+   "floor": "고/20",
+   "building": "1801",
+   "direction": "WS",
+   "confirmed": "2026-09-14",
+   "description": "11월입주  초중고 옆,  강일역 도보, 트인개방감",
+   "realtor": "미사자이(031-795-3600)미래공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -409,7 +409,7 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2646040691",
+   "article_no": "2651645408",
    "trade": "B1",
    "deposit": 80000,
    "rent": 0,
@@ -418,7 +418,7 @@
    "floor": "중/25",
    "building": "1812",
    "direction": "WS",
-   "confirmed": "2026-08-27",
+   "confirmed": "2026-09-23",
    "description": "풀에어컨4대, 인테리어 최상, 윤슬초중학교 학군 우수, 막힘 없는뷰",
    "realtor": "2층부동산공인중개사사무소",
    "price_text": "80000"
@@ -469,7 +469,7 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2650319573",
+   "article_no": "2651631470",
    "trade": "B2",
    "deposit": 35000,
    "rent": 140,
@@ -478,10 +478,25 @@
    "floor": "중/26",
    "building": "1813",
    "direction": "WS",
-   "confirmed": "2026-09-17",
+   "confirmed": "2026-09-23",
    "description": "2월입주협의,트인뷰,초중고인접,강일역세권,부분수리,공동X",
    "realtor": "미사센트럴풍경채공인중개사사무소",
    "price_text": "35000/140"
+  },
+  {
+   "article_no": "2651670252",
+   "trade": "B2",
+   "deposit": 30000,
+   "rent": 200,
+   "area_exclusive": 84.67,
+   "area_supply": 111.19,
+   "floor": "고/20",
+   "building": "1817",
+   "direction": "ES",
+   "confirmed": "2026-09-24",
+   "description": "귀한 매물   채광 통풍 굿  내부 컨디션 좋음  생활권 편리",
+   "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
+   "price_text": "30000/200"
   },
   {
    "article_no": "2651413301",
@@ -494,21 +509,6 @@
    "building": "1817",
    "direction": "ES",
    "confirmed": "2026-09-23",
-   "description": "귀한 매물   채광 통풍 굿  내부 컨디션 좋음  생활권 편리",
-   "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
-   "price_text": "30000/200"
-  },
-  {
-   "article_no": "2651184881",
-   "trade": "B2",
-   "deposit": 30000,
-   "rent": 200,
-   "area_exclusive": 84.67,
-   "area_supply": 111.19,
-   "floor": "고/20",
-   "building": "1817",
-   "direction": "ES",
-   "confirmed": "2026-09-22",
    "description": "귀한 매물   채광 통풍 굿  내부 컨디션 좋음  생활권 편리",
    "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
    "price_text": "30000/200"
