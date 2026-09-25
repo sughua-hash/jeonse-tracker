@@ -1,5 +1,5 @@
 {
- "date": "2026-09-24",
+ "date": "2026-09-25",
  "complexNo": "107024",
  "name": "미사강변센텀팰리스",
  "articles": [
@@ -109,7 +109,7 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2651094071",
+   "article_no": "2650968031",
    "trade": "B1",
    "deposit": 80000,
    "rent": 0,
@@ -117,10 +117,25 @@
    "area_supply": 98.4,
    "floor": "고/20",
    "building": "1801",
-   "direction": "SS",
+   "direction": "WS",
    "confirmed": "2026-09-21",
-   "description": "미사중심 초중고 인접한 친환경단지 로얄층 조망",
-   "realtor": "미사풍경채명인(795-3220)공인중개사사무소",
+   "description": "센텀30,11월중순이후 협의가능, 초중인접동,강일역 도보권",
+   "realtor": "THE오름공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2650873795",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 74.93,
+   "area_supply": 98.4,
+   "floor": "고/20",
+   "building": "1801",
+   "direction": "ES",
+   "confirmed": "2026-09-21",
+   "description": "대단지   채광 개방감  우수   관리상태 굿  강일역  집깨긋함",
+   "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -139,21 +154,6 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2650968031",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 74.93,
-   "area_supply": 98.4,
-   "floor": "고/20",
-   "building": "1801",
-   "direction": "WS",
-   "confirmed": "2026-09-21",
-   "description": "센텀30,11월중순이후 협의가능, 초중인접동,강일역 도보권",
-   "realtor": "THE오름공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2650909025",
    "trade": "B1",
    "deposit": 80000,
@@ -169,7 +169,7 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2650873795",
+   "article_no": "2651094071",
    "trade": "B1",
    "deposit": 80000,
    "rent": 0,
@@ -177,10 +177,10 @@
    "area_supply": 98.4,
    "floor": "고/20",
    "building": "1801",
-   "direction": "ES",
+   "direction": "SS",
    "confirmed": "2026-09-21",
-   "description": "대단지   채광 개방감  우수   관리상태 굿  강일역  집깨긋함",
-   "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
+   "description": "미사중심 초중고 인접한 친환경단지 로얄층 조망",
+   "realtor": "미사풍경채명인(795-3220)공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -274,21 +274,6 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2649671455",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 74.93,
-   "area_supply": 98.4,
-   "floor": "고/20",
-   "building": "1801",
-   "direction": "WS",
-   "confirmed": "2026-09-14",
-   "description": "11월입주 햇살 가득한집 윤슬초중5분",
-   "realtor": "미사강변동일하이빌공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2649739553",
    "trade": "B1",
    "deposit": 80000,
@@ -301,6 +286,21 @@
    "confirmed": "2026-09-14",
    "description": "11월입주  초중고 옆,  강일역 도보, 트인개방감",
    "realtor": "미사자이(031-795-3600)미래공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2649671455",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 74.93,
+   "area_supply": 98.4,
+   "floor": "고/20",
+   "building": "1801",
+   "direction": "WS",
+   "confirmed": "2026-09-14",
+   "description": "11월입주 햇살 가득한집 윤슬초중5분",
+   "realtor": "미사강변동일하이빌공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -394,21 +394,6 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2645755698",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 74.93,
-   "area_supply": 98.4,
-   "floor": "고/20",
-   "building": "1801",
-   "direction": "WS",
-   "confirmed": "2026-08-25",
-   "description": "11월 중순이후 입주협의 컨디션 채광굿 윤슬초중 하남고 가까운단지",
-   "realtor": "모드니공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2651645408",
    "trade": "B1",
    "deposit": 80000,
@@ -484,6 +469,21 @@
    "price_text": "35000/140"
   },
   {
+   "article_no": "2651688540",
+   "trade": "B2",
+   "deposit": 30000,
+   "rent": 200,
+   "area_exclusive": 84.67,
+   "area_supply": 111.19,
+   "floor": "고/20",
+   "building": "1817",
+   "direction": "ES",
+   "confirmed": "2026-09-25",
+   "description": "귀한 매물   채광 통풍 굿  내부 컨디션 좋음  생활권 편리",
+   "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
+   "price_text": "30000/200"
+  },
+  {
    "article_no": "2651670252",
    "trade": "B2",
    "deposit": 30000,
@@ -494,21 +494,6 @@
    "building": "1817",
    "direction": "ES",
    "confirmed": "2026-09-24",
-   "description": "귀한 매물   채광 통풍 굿  내부 컨디션 좋음  생활권 편리",
-   "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
-   "price_text": "30000/200"
-  },
-  {
-   "article_no": "2651413301",
-   "trade": "B2",
-   "deposit": 30000,
-   "rent": 200,
-   "area_exclusive": 84.67,
-   "area_supply": 111.19,
-   "floor": "고/20",
-   "building": "1817",
-   "direction": "ES",
-   "confirmed": "2026-09-23",
    "description": "귀한 매물   채광 통풍 굿  내부 컨디션 좋음  생활권 편리",
    "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
    "price_text": "30000/200"

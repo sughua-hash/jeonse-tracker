@@ -1,5 +1,5 @@
 {
- "date": "2026-09-24",
+ "date": "2026-09-25",
  "complexNo": "113369",
  "name": "힐스테이트다산",
  "articles": [
@@ -34,21 +34,6 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2651411670",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.56,
-   "area_supply": 112.88,
-   "floor": "중/29",
-   "building": "5203",
-   "direction": "ES",
-   "confirmed": "2026-09-23",
-   "description": "명품추천,시스템에어컨4대,알파룸,주인거주관리잘된집,채광좋음",
-   "realtor": "다산자이명품공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
    "article_no": "2651488604",
    "trade": "B1",
    "deposit": 90000,
@@ -61,6 +46,21 @@
    "confirmed": "2026-09-23",
    "description": "12월입주협의,시.에4대,중앙공원뷰,초중고인접",
    "realtor": "현대미소공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2651411670",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "ES",
+   "confirmed": "2026-09-23",
+   "description": "명품추천,시스템에어컨4대,알파룸,주인거주관리잘된집,채광좋음",
+   "realtor": "다산자이명품공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -169,21 +169,6 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2649784287",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.56,
-   "area_supply": 112.88,
-   "floor": "중/29",
-   "building": "5203",
-   "direction": "ES",
-   "confirmed": "2026-09-14",
-   "description": "땡큐추천, 중앙공원뷰, 주인거주로관리상태굿, 시에4대, 알파룸, 초중인접",
-   "realtor": "땡큐부동산공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
    "article_no": "2649760469",
    "trade": "B1",
    "deposit": 90000,
@@ -196,6 +181,21 @@
    "confirmed": "2026-09-14",
    "description": "확트인 중앙공원 뷰 l 시에4 l 12월 입주 협의 l 주인 거주 상태굿",
    "realtor": "다산힐스드림공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2649784287",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "ES",
+   "confirmed": "2026-09-14",
+   "description": "땡큐추천, 중앙공원뷰, 주인거주로관리상태굿, 시에4대, 알파룸, 초중인접",
+   "realtor": "땡큐부동산공인중개사사무소",
    "price_text": "90000"
   },
   {
