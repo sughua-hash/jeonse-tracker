@@ -1,5 +1,5 @@
 {
- "date": "2026-09-25",
+ "date": "2026-09-26",
  "complexNo": "113369",
  "name": "힐스테이트다산",
  "articles": [
@@ -139,21 +139,6 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2650018203",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.56,
-   "area_supply": 112.88,
-   "floor": "중/29",
-   "building": "5203",
-   "direction": "ES",
-   "confirmed": "2026-09-15",
-   "description": "추천1.12월입주협의.시에4.탁트인중앙공원뷰.알파룸있는 B타입.",
-   "realtor": "다산로얄자이공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
    "article_no": "2649991842",
    "trade": "B1",
    "deposit": 90000,
@@ -169,7 +154,7 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2649760469",
+   "article_no": "2650018203",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -178,9 +163,9 @@
    "floor": "중/29",
    "building": "5203",
    "direction": "ES",
-   "confirmed": "2026-09-14",
-   "description": "확트인 중앙공원 뷰 l 시에4 l 12월 입주 협의 l 주인 거주 상태굿",
-   "realtor": "다산힐스드림공인중개사사무소",
+   "confirmed": "2026-09-15",
+   "description": "추천1.12월입주협의.시에4.탁트인중앙공원뷰.알파룸있는 B타입.",
+   "realtor": "다산로얄자이공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -196,6 +181,21 @@
    "confirmed": "2026-09-14",
    "description": "땡큐추천, 중앙공원뷰, 주인거주로관리상태굿, 시에4대, 알파룸, 초중인접",
    "realtor": "땡큐부동산공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2649760469",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "ES",
+   "confirmed": "2026-09-14",
+   "description": "확트인 중앙공원 뷰 l 시에4 l 12월 입주 협의 l 주인 거주 상태굿",
+   "realtor": "다산힐스드림공인중개사사무소",
    "price_text": "90000"
   },
   {

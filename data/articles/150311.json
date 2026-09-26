@@ -1,5 +1,5 @@
 {
- "date": "2026-09-25",
+ "date": "2026-09-26",
  "complexNo": "150311",
  "name": "빌리브센트하이",
  "articles": [
@@ -304,21 +304,6 @@
    "price_text": "45000"
   },
   {
-   "article_no": "2650395893",
-   "trade": "B1",
-   "deposit": 45000,
-   "rent": 0,
-   "area_exclusive": 84.97,
-   "area_supply": 112.41,
-   "floor": "12/29",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-09-17",
-   "description": "귀한전세 초중학교 인접 생활편리 신축아파트 입주협의",
-   "realtor": "명진공인중개사",
-   "price_text": "45000"
-  },
-  {
    "article_no": "2650376773",
    "trade": "B1",
    "deposit": 45000,
@@ -331,6 +316,21 @@
    "confirmed": "2026-09-17",
    "description": "",
    "realtor": "인터넷공인중개사사무소",
+   "price_text": "45000"
+  },
+  {
+   "article_no": "2650395893",
+   "trade": "B1",
+   "deposit": 45000,
+   "rent": 0,
+   "area_exclusive": 84.97,
+   "area_supply": 112.41,
+   "floor": "12/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-09-17",
+   "description": "귀한전세 초중학교 인접 생활편리 신축아파트 입주협의",
+   "realtor": "명진공인중개사",
    "price_text": "45000"
   },
   {
@@ -811,21 +811,6 @@
    "confirmed": "2026-09-10",
    "description": "역세권 시스템에어컨4대 확장형",
    "realtor": "대교공인중개사사무소",
-   "price_text": "10000/230"
-  },
-  {
-   "article_no": "2645910357",
-   "trade": "B2",
-   "deposit": 10000,
-   "rent": 230,
-   "area_exclusive": 98.98,
-   "area_supply": 129.91,
-   "floor": "5/29",
-   "building": "101",
-   "direction": "ES",
-   "confirmed": "2026-08-26",
-   "description": "즉시 입주가 에어컨4대 아래층으로 아이들 있는집 추천 상가 입주청소해줌",
-   "realtor": "봄날트레지움 공인중개사사무소",
    "price_text": "10000/230"
   },
   {

@@ -1,5 +1,5 @@
 {
- "date": "2026-09-25",
+ "date": "2026-09-26",
  "complexNo": "121977",
  "name": "고덕자이",
  "articles": [
@@ -19,21 +19,6 @@
    "price_text": "84000"
   },
   {
-   "article_no": "2651014806",
-   "trade": "B1",
-   "deposit": 85000,
-   "rent": 0,
-   "area_exclusive": 59.93,
-   "area_supply": 83.3,
-   "floor": "고/25",
-   "building": "111",
-   "direction": "ES",
-   "confirmed": "2026-09-21",
-   "description": "참좋은단독. 초품아. 고덕천 트인뷰. 시스템에어컨. 우수커뮤니티",
-   "realtor": "참좋은공인중개사사무소",
-   "price_text": "85000"
-  },
-  {
    "article_no": "2651348481",
    "trade": "B1",
    "deposit": 85000,
@@ -46,6 +31,21 @@
    "confirmed": "2026-09-22",
    "description": "강추 귀한전세  탁트인조망 정남향 밝고환한집 시스템에어컨 손님만",
    "realtor": "고덕선경(428-3939)공인중개사사무소",
+   "price_text": "85000"
+  },
+  {
+   "article_no": "2651014806",
+   "trade": "B1",
+   "deposit": 85000,
+   "rent": 0,
+   "area_exclusive": 59.93,
+   "area_supply": 83.3,
+   "floor": "고/25",
+   "building": "111",
+   "direction": "ES",
+   "confirmed": "2026-09-21",
+   "description": "참좋은단독. 초품아. 고덕천 트인뷰. 시스템에어컨. 우수커뮤니티",
+   "realtor": "참좋은공인중개사사무소",
    "price_text": "85000"
   },
   {
@@ -139,6 +139,36 @@
    "price_text": "50000/140"
   },
   {
+   "article_no": "2651583456",
+   "trade": "B2",
+   "deposit": 30000,
+   "rent": 300,
+   "area_exclusive": 84.44,
+   "area_supply": 110.43,
+   "floor": "중/29",
+   "building": "110",
+   "direction": "SS",
+   "confirmed": "2026-09-23",
+   "description": "추천, 귀한 월세, 풀에어컨, 밝고 환한 뷰, 수납 좋은 구조, 초품아",
+   "realtor": "자이햇살공인중개사사무소",
+   "price_text": "30000/300"
+  },
+  {
+   "article_no": "2651661028",
+   "trade": "B2",
+   "deposit": 30000,
+   "rent": 300,
+   "area_exclusive": 84.44,
+   "area_supply": 110.43,
+   "floor": "중/29",
+   "building": "110",
+   "direction": "WS",
+   "confirmed": "2026-09-23",
+   "description": "귀한 반전세 풀에어컨  밝고채광좋은집",
+   "realtor": "고덕자이(441-0109)공인중개사사무소",
+   "price_text": "30000/300"
+  },
+  {
    "article_no": "2651489518",
    "trade": "B2",
    "deposit": 30000,
@@ -169,21 +199,6 @@
    "price_text": "30000/300"
   },
   {
-   "article_no": "2651661028",
-   "trade": "B2",
-   "deposit": 30000,
-   "rent": 300,
-   "area_exclusive": 84.44,
-   "area_supply": 110.43,
-   "floor": "중/29",
-   "building": "110",
-   "direction": "WS",
-   "confirmed": "2026-09-23",
-   "description": "귀한 반전세 풀에어컨  밝고채광좋은집",
-   "realtor": "고덕자이(441-0109)공인중개사사무소",
-   "price_text": "30000/300"
-  },
-  {
    "article_no": "2651461534",
    "trade": "B2",
    "deposit": 30000,
@@ -196,21 +211,6 @@
    "confirmed": "2026-09-23",
    "description": "융자없음, 풀시스템에어컨,보증금 조정가능,입주협의,초품아,세대지하창고",
    "realtor": "단지내이레(443-6606)공인중개사사무소",
-   "price_text": "30000/300"
-  },
-  {
-   "article_no": "2651583456",
-   "trade": "B2",
-   "deposit": 30000,
-   "rent": 300,
-   "area_exclusive": 84.44,
-   "area_supply": 110.43,
-   "floor": "중/29",
-   "building": "110",
-   "direction": "SS",
-   "confirmed": "2026-09-23",
-   "description": "추천, 귀한 월세, 풀에어컨, 밝고 환한 뷰, 수납 좋은 구조, 초품아",
-   "realtor": "자이햇살공인중개사사무소",
    "price_text": "30000/300"
   },
   {
