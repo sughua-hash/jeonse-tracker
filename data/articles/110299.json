@@ -1,5 +1,5 @@
 {
- "date": "2026-09-26",
+ "date": "2026-09-27",
  "complexNo": "110299",
  "name": "e편한세상다산",
  "articles": [
@@ -64,21 +64,6 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2651342469",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 84.96,
-   "area_supply": 112.74,
-   "floor": "고/28",
-   "building": "5102",
-   "direction": "ES",
-   "confirmed": "2026-09-22",
-   "description": "무융자, 입주 협의, 고층 트인 조망, 학교, 상권 접근 좋은동",
-   "realtor": "다산부동산파트너 공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
    "article_no": "2651245265",
    "trade": "B1",
    "deposit": 75000,
@@ -94,7 +79,7 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2651248408",
+   "article_no": "2651342469",
    "trade": "B1",
    "deposit": 75000,
    "rent": 0,
@@ -102,10 +87,10 @@
    "area_supply": 112.74,
    "floor": "고/28",
    "building": "5102",
-   "direction": "SS",
+   "direction": "ES",
    "confirmed": "2026-09-22",
-   "description": "e편한공인. 입주협의. 판상형. 고층트인거실뷰. 채광굿",
-   "realtor": "다산e편한공인중개사사무소",
+   "description": "무융자, 입주 협의, 고층 트인 조망, 학교, 상권 접근 좋은동",
+   "realtor": "다산부동산파트너 공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -151,6 +136,21 @@
    "confirmed": "2026-09-22",
    "description": "귀한전세 집상태굿 다산역 가까운동",
    "realtor": "다산이편한세상단지0315552200부동산중개사무소",
+   "price_text": "75000"
+  },
+  {
+   "article_no": "2651248408",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 84.96,
+   "area_supply": 112.74,
+   "floor": "고/28",
+   "building": "5102",
+   "direction": "SS",
+   "confirmed": "2026-09-22",
+   "description": "e편한공인. 입주협의. 판상형. 고층트인거실뷰. 채광굿",
+   "realtor": "다산e편한공인중개사사무소",
    "price_text": "75000"
   },
   {
