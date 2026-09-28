@@ -169,21 +169,6 @@
    "price_text": "70000/100"
   },
   {
-   "article_no": "2651659595",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 100,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "저/15",
-   "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-09-23",
-   "description": "입주 채광좋은 정남향 알파룸별도 학원상가복지관 이용편리 초품아 세대창고",
-   "realtor": "위례대교(02-400-9595)공인중개사사무소",
-   "price_text": "70000/100"
-  },
-  {
    "article_no": "2651545964",
    "trade": "B2",
    "deposit": 70000,
@@ -196,6 +181,21 @@
    "confirmed": "2026-09-23",
    "description": "house. 36A 4베이 판상형, 트인 뷰, 시에4, 세대별창고 有",
    "realtor": "하우스이음공인중개사사무소",
+   "price_text": "70000/100"
+  },
+  {
+   "article_no": "2651659595",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 100,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "저/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-09-23",
+   "description": "입주 채광좋은 정남향 알파룸별도 학원상가복지관 이용편리 초품아 세대창고",
+   "realtor": "위례대교(02-400-9595)공인중개사사무소",
    "price_text": "70000/100"
   },
   {
@@ -379,21 +379,6 @@
    "price_text": "35000/300"
   },
   {
-   "article_no": "2651458195",
-   "trade": "B2",
-   "deposit": 35000,
-   "rent": 300,
-   "area_exclusive": 101.59,
-   "area_supply": 131.98,
-   "floor": "중/25",
-   "building": "5407",
-   "direction": "SS",
-   "confirmed": "2026-09-23",
-   "description": "Happy.로얄동.로얄층. 방3. 에어컨풀. 식세기 .채광좋음. 상가이용",
-   "realtor": "위례해피공인중개사",
-   "price_text": "35000/300"
-  },
-  {
    "article_no": "2651657425",
    "trade": "B2",
    "deposit": 35000,
@@ -409,7 +394,7 @@
    "price_text": "35000/300"
   },
   {
-   "article_no": "2651253307",
+   "article_no": "2651458195",
    "trade": "B2",
    "deposit": 35000,
    "rent": 300,
@@ -418,24 +403,9 @@
    "floor": "중/25",
    "building": "5407",
    "direction": "SS",
-   "confirmed": "2026-09-22",
-   "description": "방3 풀시스템에어컨 식기세척기 로얄동층 학원상가이용편리",
-   "realtor": "해든공인중개사사무소",
-   "price_text": "35000/300"
-  },
-  {
-   "article_no": "2651283597",
-   "trade": "B2",
-   "deposit": 35000,
-   "rent": 300,
-   "area_exclusive": 101.59,
-   "area_supply": 131.98,
-   "floor": "중/25",
-   "building": "5407",
-   "direction": "SS",
-   "confirmed": "2026-09-22",
-   "description": "39 방3, 시스템에어컨, 협의입주, 상가 이용 편리함",
-   "realtor": "위례센트럴자이(02.407.7788)공인중개사사무소",
+   "confirmed": "2026-09-23",
+   "description": "Happy.로얄동.로얄층. 방3. 에어컨풀. 식세기 .채광좋음. 상가이용",
+   "realtor": "위례해피공인중개사",
    "price_text": "35000/300"
   },
   {
@@ -451,6 +421,21 @@
    "confirmed": "2026-09-22",
    "description": "39P I 방3 I 화2 I 알파룸 I 시스템에어컨 I 초품아",
    "realtor": "북위례킹부동산공인중개사사무소",
+   "price_text": "35000/300"
+  },
+  {
+   "article_no": "2651283597",
+   "trade": "B2",
+   "deposit": 35000,
+   "rent": 300,
+   "area_exclusive": 101.59,
+   "area_supply": 131.98,
+   "floor": "중/25",
+   "building": "5407",
+   "direction": "SS",
+   "confirmed": "2026-09-22",
+   "description": "39 방3, 시스템에어컨, 협의입주, 상가 이용 편리함",
+   "realtor": "위례센트럴자이(02.407.7788)공인중개사사무소",
    "price_text": "35000/300"
   },
   {
