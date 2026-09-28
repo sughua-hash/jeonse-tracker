@@ -1,23 +1,8 @@
 {
- "date": "2026-09-27",
+ "date": "2026-09-28",
  "complexNo": "150311",
  "name": "빌리브센트하이",
  "articles": [
-  {
-   "article_no": "2651514704",
-   "trade": "B1",
-   "deposit": 41000,
-   "rent": 0,
-   "area_exclusive": 84.97,
-   "area_supply": 112.41,
-   "floor": "6/29",
-   "building": "101",
-   "direction": "WS",
-   "confirmed": "2026-09-23",
-   "description": "저렴함 강추 신축 시에4대 중문 전세대출가능 초중고인접 역세권 ",
-   "realtor": "두산온누리공인중개사사무소",
-   "price_text": "41000"
-  },
   {
    "article_no": "2651469997",
    "trade": "B1",
@@ -289,21 +274,6 @@
    "price_text": "45000"
   },
   {
-   "article_no": "2650376773",
-   "trade": "B1",
-   "deposit": 45000,
-   "rent": 0,
-   "area_exclusive": 84.97,
-   "area_supply": 112.41,
-   "floor": "12/29",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-09-17",
-   "description": "",
-   "realtor": "인터넷공인중개사사무소",
-   "price_text": "45000"
-  },
-  {
    "article_no": "2650395893",
    "trade": "B1",
    "deposit": 45000,
@@ -316,6 +286,21 @@
    "confirmed": "2026-09-17",
    "description": "귀한전세 초중학교 인접 생활편리 신축아파트 입주협의",
    "realtor": "명진공인중개사",
+   "price_text": "45000"
+  },
+  {
+   "article_no": "2650376773",
+   "trade": "B1",
+   "deposit": 45000,
+   "rent": 0,
+   "area_exclusive": 84.97,
+   "area_supply": 112.41,
+   "floor": "12/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-09-17",
+   "description": "",
+   "realtor": "인터넷공인중개사사무소",
    "price_text": "45000"
   },
   {
@@ -589,6 +574,21 @@
    "price_text": "50000"
   },
   {
+   "article_no": "2651725429",
+   "trade": "B1",
+   "deposit": 50000,
+   "rent": 0,
+   "area_exclusive": 98.84,
+   "area_supply": 129.73,
+   "floor": "27/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-09-27",
+   "description": "39A 선호 에어컨4 전세대출불가 뻥뷰굿 중문 인덕션 ",
+   "realtor": "두산온누리공인중개사",
+   "price_text": "50000"
+  },
+  {
    "article_no": "2651530325",
    "trade": "B2",
    "deposit": 20000,
@@ -662,6 +662,21 @@
    "description": "귀한전세, 역세권, 주상복합아파트, 신축, 마석심상초중고옆에 있음",
    "realtor": "e편한 행복 공인중개사사무소",
    "price_text": "20000/180"
+  },
+  {
+   "article_no": "2651787246",
+   "trade": "B2",
+   "deposit": 10000,
+   "rent": 230,
+   "area_exclusive": 98.98,
+   "area_supply": 129.91,
+   "floor": "5/29",
+   "building": "101",
+   "direction": "ES",
+   "confirmed": "2026-09-28",
+   "description": "즉시 입주가 에어컨4대 아래층으로 아이들 있는집 추천 상가 입주청소해줌",
+   "realtor": "봄날트레지움 공인중개사사무소",
+   "price_text": "10000/230"
   },
   {
    "article_no": "2651535961",

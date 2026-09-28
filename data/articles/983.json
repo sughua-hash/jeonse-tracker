@@ -1,5 +1,5 @@
 {
- "date": "2026-09-27",
+ "date": "2026-09-28",
  "complexNo": "983",
  "name": "푸른마을",
  "articles": [
@@ -109,21 +109,6 @@
    "price_text": "110000"
   },
   {
-   "article_no": "2651557951",
-   "trade": "B1",
-   "deposit": 110000,
-   "rent": 0,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "6/13",
-   "building": "110",
-   "direction": "EE",
-   "confirmed": "2026-09-23",
-   "description": "31.중산고학군,초역세권단지,귀한매물,입주협의가능",
-   "realtor": "일원뱅크공인중개사사무소",
-   "price_text": "110000"
-  },
-  {
    "article_no": "2651224745",
    "trade": "B1",
    "deposit": 110000,
@@ -152,21 +137,6 @@
    "description": "거실확장 전망좋고 시원한동 깨끗한집 전세로가능",
    "realtor": "일원샘터공인중개사사무소",
    "price_text": "80000/120"
-  },
-  {
-   "article_no": "2651557995",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 150,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "6/13",
-   "building": "110",
-   "direction": "EE",
-   "confirmed": "2026-09-23",
-   "description": "31.중산고학군,초역세권단지,귀한매물,입주협의가능",
-   "realtor": "일원뱅크공인중개사사무소",
-   "price_text": "70000/150"
   }
  ]
 }

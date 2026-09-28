@@ -1,10 +1,10 @@
 {
- "date": "2026-09-27",
+ "date": "2026-09-28",
  "complexNo": "120597",
  "name": "남양주두산위브트레지움",
  "articles": [
   {
-   "article_no": "2651399145",
+   "article_no": "2651800250",
    "trade": "B1",
    "deposit": 27000,
    "rent": 0,
@@ -13,7 +13,7 @@
    "floor": "26/27",
    "building": "107",
    "direction": "ES",
-   "confirmed": "2026-09-22",
+   "confirmed": "2026-09-28",
    "description": "산조망좋음,후문출입좋음,방3,12월이사",
    "realtor": "두산위브장원공인중개사사무소",
    "price_text": "27000"
@@ -34,21 +34,6 @@
    "price_text": "27000"
   },
   {
-   "article_no": "2651253602",
-   "trade": "B1",
-   "deposit": 27000,
-   "rent": 0,
-   "area_exclusive": 59.97,
-   "area_supply": 83.57,
-   "floor": "26/27",
-   "building": "107",
-   "direction": "WS",
-   "confirmed": "2026-09-22",
-   "description": "이사협의 상태깨끗 귀한전세",
-   "realtor": "신명스카이뷰그린공인중개사사무소",
-   "price_text": "27000"
-  },
-  {
    "article_no": "2651197149",
    "trade": "B1",
    "deposit": 27000,
@@ -61,6 +46,21 @@
    "confirmed": "2026-09-22",
    "description": "",
    "realtor": "최강공인중개사무소",
+   "price_text": "27000"
+  },
+  {
+   "article_no": "2651253602",
+   "trade": "B1",
+   "deposit": 27000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 83.57,
+   "floor": "26/27",
+   "building": "107",
+   "direction": "WS",
+   "confirmed": "2026-09-22",
+   "description": "이사협의 상태깨끗 귀한전세",
+   "realtor": "신명스카이뷰그린공인중개사사무소",
    "price_text": "27000"
   },
   {
@@ -152,21 +152,6 @@
    "description": "즉시입주 가능한 내부깨끗한 월세입니다",
    "realtor": "포스코부동산공인중개사사무소",
    "price_text": "5000/150"
-  },
-  {
-   "article_no": "2651478221",
-   "trade": "B2",
-   "deposit": 4000,
-   "rent": 170,
-   "area_exclusive": 84.95,
-   "area_supply": 114.7,
-   "floor": "15/33",
-   "building": "104",
-   "direction": "ES",
-   "confirmed": "2026-09-23",
-   "description": "시스템에어컨5대 중문 주방대리석 빠른이사 반려동물X 융무 조망굿",
-   "realtor": "두산온누리공인중개사사무소",
-   "price_text": "4000/170"
   },
   {
    "article_no": "2651129194",
