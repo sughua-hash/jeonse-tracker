@@ -42,16 +42,20 @@ a{color:var(--blue)}
 .top-row{display:flex;align-items:center;gap:8px}
 .top h1{font-size:19px;margin:0;flex:1;letter-spacing:-.01em}
 .top .sub{font-size:12px;color:var(--muted);margin-top:2px}
-.icon-btn{width:38px;height:38px;border-radius:12px;display:grid;place-items:center;background:var(--surface);border:1px solid var(--border);font-size:18px;box-shadow:var(--shadow)}
+.icon-btn{flex:none;width:38px;height:38px;border-radius:12px;display:grid;place-items:center;background:var(--surface);border:1px solid var(--border);font-size:18px;box-shadow:var(--shadow)}
 .icon-btn:active{transform:scale(.96)}
 .bandsel{font:inherit;font-size:12px;font-weight:600;color:var(--blue);background:transparent;border:0;border-bottom:1px dashed var(--blue);border-radius:0;padding:0 2px;width:auto;display:inline;appearance:auto;-webkit-appearance:menulist-button}
 .icon-btn.busy{animation:sp 1.2s linear infinite;color:var(--blue)}
-@media (max-width:400px){.top h1{font-size:17px}.icon-btn{width:34px;height:34px;font-size:16px}.top-row{gap:6px}}
+@media (max-width:400px){.top h1{font-size:17px}.icon-btn{width:34px;height:34px;font-size:16px}.top-row{gap:5px}}
+@media (max-width:370px){.icon-btn{width:32px;height:32px;font-size:15px}.top h1{font-size:16px}}
 
 .chips{display:flex;gap:6px;overflow-x:auto;padding:10px 16px 4px;scrollbar-width:none}
 .chips::-webkit-scrollbar{display:none}
 .chip{white-space:nowrap;padding:6px 12px;border-radius:999px;border:1px solid var(--line);background:var(--surface);font-size:13px;color:var(--ink-2)}
 .chip.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chips-region{padding-top:2px}
+.chip .n{opacity:.55;font-size:11px;margin-left:4px}
+.chip.on .n{opacity:.85}
 
 main{padding:8px 16px calc(var(--sab) + 32px);max-width:720px;margin:0 auto}
 .card{background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:14px 14px 12px;margin-bottom:10px;box-shadow:var(--shadow);text-align:left;width:100%;display:block}
@@ -137,7 +141,7 @@ code{background:var(--surface-2);padding:1px 5px;border-radius:5px;font-size:12p
 <body>
 <header class="top">
   <div class="top-row">
-    <div style="flex:1">
+    <div style="flex:1;min-width:0">
       <h1 id="title">전월세 최저가</h1>
       <div class="sub" id="subtitle">불러오는 중…</div>
     </div>
@@ -157,6 +161,7 @@ code{background:var(--surface-2);padding:1px 5px;border-radius:5px;font-size:12p
   <button class="chip" data-f="rent">월세 낮은순</button>
   <button class="chip" data-f="hidden" id="chip-hidden" hidden>숨김</button>
 </div>
+<div class="chips chips-region" id="chips-region" hidden></div>
 <main id="main"></main>
 <div id="sheet-root"></div>
 <div id="toast" class="toast" hidden></div>
@@ -172,6 +177,7 @@ const S = {
   localHidden: new Set(JSON.parse(safeGet('hidden') || '[]')),
   localOrder: JSON.parse(safeGet('order') || 'null'),
   band: safeGet('band') || '84',
+  region: safeGet('region') || 'all',
 };
 function saveOrder(){ if (S.localOrder) safeSet('order', JSON.stringify(S.localOrder)); else { try{ localStorage.removeItem('order'); }catch(e){} } }
 function orderComplexes(list){ if (!S.localOrder) return list; const idx = new Map(S.localOrder.map((n,i)=>[n,i])); return list.map((c,i)=>[idx.has(c.name)?idx.get(c.name):1e6+i, c]).sort((a,b)=>a[0]-b[0]).map(x=>x[1]); }
@@ -271,6 +277,20 @@ function allRec(t){
 function recFor(t){ if (!t) return null; const b = curBand(); return b.all ? allRec(t) : b.default ? t : (t.bands?.[b.key] || null); }
 function bandCount(b){ return mergedComplexes().filter(it => !isHidden(it) && it.today).filter(it => { const r = b.all ? allRec(it.today) : b.default ? it.today : it.today.bands?.[b.key]; return r?.counts?.in_area > 0; }).length; }  // 이 평형대에 매물이 있는 단지 수
 function bandSelectHtml(){ const cur = curBand(); return `<select id="band" class="bandsel" title="평형 선택">${bands().map(b => `<option value="${esc(b.key)}" ${b.key===cur.key?'selected':''}>${esc(b.label)} · ${bandCount(b)}개 단지</option>`).join('')}</select>`; }
+// ---- 지역(시·구) 필터: 네이버 주소(address)의 두 번째 토큰(성남시·강동구 …)으로 묶음
+function regionKey(it){ const t = String(it.region || '').trim().split(/\s+/).filter(Boolean); return t[1] || t[0] || '기타'; }
+function renderRegionChips(base, items){
+  // base: 칩 목록·순서 기준(현재 숨김 모드의 전체 단지), items: 현재 정렬·변동 필터 결과(개수 기준)
+  const baseCnt = new Map(); for (const it of base){ const k = regionKey(it); baseCnt.set(k, (baseCnt.get(k)||0)+1); }
+  const cnt = new Map(); for (const it of items){ const k = regionKey(it); cnt.set(k, (cnt.get(k)||0)+1); }
+  const keys = [...baseCnt.keys()].sort((a,b) => baseCnt.get(b)-baseCnt.get(a) || a.localeCompare(b,'ko'));
+  if (S.region !== 'all' && !baseCnt.has(S.region)) S.region = 'all';
+  const el = document.getElementById('chips-region');
+  el.innerHTML = [['all','모든 지역',items.length], ...keys.map(k => [k, k, cnt.get(k)||0])]
+    .map(([k,lab,n]) => `<button class="chip ${S.region===k?'on':''}" data-r="${esc(k)}">${esc(lab)}<span class="n">${n}</span></button>`).join('');
+  el.querySelectorAll('.chip').forEach(b => b.addEventListener('click', () => { S.region = b.dataset.r; safeSet('region', S.region); render(); }));
+  return S.region === 'all' ? items : items.filter(it => regionKey(it) === S.region);
+}
 function bindBand(){ document.getElementById('band')?.addEventListener('change', e => { S.band = e.target.value; safeSet('band', S.band); render(); }); }
 function inBand(a){ const b = curBand(); if (b.all) return true; const x = +a.area_exclusive; return x >= b.min && x <= b.max; }
 function convWithRate(dep, rent){ const rate = +(S.cfg?.conversion_rate_pct || 5.5); return Math.round(dep + rent*12*100/rate); }
@@ -283,6 +303,7 @@ function render(){
   document.getElementById('btn-order').hidden = S.view !== 'list';
   document.getElementById('btn-collect').hidden = S.view !== 'list';
   document.getElementById('chips').hidden = S.view !== 'list';
+  document.getElementById('chips-region').hidden = S.view !== 'list';
   if (S.view === 'list') renderList(); else renderDetail();
 }
 function destroyCharts(){ S.charts.forEach(c => c.destroy()); S.charts = []; }
@@ -308,7 +329,9 @@ function renderList(){
   const hiddenCount = items.filter(isHidden).length;
   const chipH = document.getElementById('chip-hidden'); chipH.hidden = hiddenCount === 0 && S.filter !== 'hidden'; chipH.textContent = `숨김 ${hiddenCount}`;
   items = items.filter(it => S.filter === 'hidden' ? isHidden(it) : !isHidden(it));
+  const base = items;
   if (S.filter === 'changed') items = items.filter(it => isChangedRec(recFor(it.today)));
+  items = renderRegionChips(base, items);
   const keyMap = { jeonse:'jeonse', jeonse_desc:'jeonse', conv:'wolse_conv', rent:'wolse_rent' };
   const hasAny = it => (recFor(it.today)?.counts?.in_area || 0) > 0 ? 1 : 0;  // 이 평형대에 매물이 하나라도 있는 단지를 위로
   if (keyMap[S.filter]) items.sort((a,b) => (hasAny(b) - hasAny(a)) || (S.filter === 'jeonse_desc'
@@ -318,7 +341,7 @@ function renderList(){
   let html = '';
   if (!repoInfo() || !S.settings.token) html += `<div class="note">⚙ 설정에서 GitHub 토큰을 등록하면 앱에서 단지를 추가·제거할 수 있습니다.</div>`;
   if (L?.errors?.length) html += `<details class="alert"><summary>수집 오류 ${L.errors.length}건</summary><pre>${esc(L.errors.join('\n'))}</pre></details>`;
-  if (!items.length) html += `<div class="empty">${S.filter === 'hidden' ? '숨긴 단지가 없습니다.' : '등록된 단지가 없습니다. ＋ 버튼으로 추가하세요.'}</div>`;
+  if (!items.length) html += `<div class="empty">${S.filter === 'hidden' ? '숨긴 단지가 없습니다.' : S.region !== 'all' ? esc(S.region) + '에 표시할 단지가 없습니다.' : S.filter === 'changed' ? '오늘 변동된 단지가 없습니다.' : '등록된 단지가 없습니다. ＋ 버튼으로 추가하세요.'}</div>`;
   for (const it of items){
     const t0 = it.today; const t = recFor(t0); const d = t?.deltas || {};
     const j = t?.jeonse, w = t?.wolse_rent, c = t?.wolse_conv;
@@ -647,7 +670,7 @@ function openSettings(){
 }
 
 // ------------------------------------------------------------- 이벤트/시작
-const APP_VERSION = '1.9.2';
+const APP_VERSION = '1.10.0';
 document.getElementById('btn-back').addEventListener('click', goList);
 history.replaceState(null, '');  // 새로 열 때는 항상 목록부터
 document.querySelectorAll('#chips .chip').forEach(x => x.classList.toggle('on', x.dataset.f === S.filter));
