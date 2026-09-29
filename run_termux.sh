@@ -27,7 +27,7 @@ fi
 # 2) 수집기 코드 자동 업데이트 — git 없이 GitHub raw 에서 파일을 직접 받음 (인증·터미널 불필요, 오프라인이면 기존 코드로 진행)
 REPO=$(python -c "import json;print(json.load(open('local_config.json')).get('repo','sughua-hash/jeonse-tracker'))" 2>/dev/null)
 RAW="https://raw.githubusercontent.com/${REPO:-sughua-hash/jeonse-tracker}/main"
-FILES="collector/collect.py collector/naver.py collector/publish.py run_termux.sh update.sh daemon.sh termux_setup.sh jobcheck.sh setup_job.sh"
+FILES="collector/collect.py collector/naver.py collector/publish.py run_termux.sh update.sh daemon.sh termux_setup.sh jobcheck.sh setup_job.sh sms_report.py"
 if [ -z "$JT_UPDATED" ]; then
   ok=0; fail=0; changed=""
   for f in $FILES; do
@@ -43,6 +43,10 @@ if [ -z "$JT_UPDATED" ]; then
   chmod +x *.sh 2>/dev/null
   UPDATE_MSG="확인 ${ok}개 · 실패 ${fail}개 · 변경:${changed:- 없음}"
   echo "$(date '+%F %T') 코드 업데이트: $UPDATE_MSG" >> "$LOG"
+  # run_termux.sh 자신이 바뀌었으면 새 파일 목록으로 갱신을 한 번 더 돈다 (신규 파일 누락 방지, 1회만)
+  if [ -z "$JT_REEXEC" ] && [[ " $changed " == *" run_termux.sh "* ]]; then
+    JT_REEXEC=1 exec bash "$0" "$@"
+  fi
   JT_UPDATED=1 JT_UPDATE_MSG="$UPDATE_MSG" exec bash "$0" "$@"
 fi
 

@@ -8,7 +8,7 @@
   export PATH="/data/data/com.termux/files/usr/bin:$PATH"
   REPO=$(python -c "import json;print(json.load(open('local_config.json')).get('repo','sughua-hash/jeonse-tracker'))" 2>/dev/null)
   RAW="https://raw.githubusercontent.com/${REPO:-sughua-hash/jeonse-tracker}/main"
-  FILES="collector/collect.py collector/naver.py collector/publish.py run_termux.sh update.sh daemon.sh termux_setup.sh jobcheck.sh setup_job.sh"
+  FILES="collector/collect.py collector/naver.py collector/publish.py run_termux.sh update.sh daemon.sh termux_setup.sh jobcheck.sh setup_job.sh sms_report.py"
   ok=0; fail=0; changed=""
   for f in $FILES; do
     tmp="$f.new"

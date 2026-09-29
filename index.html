@@ -147,6 +147,7 @@ code{background:var(--surface-2);padding:1px 5px;border-radius:5px;font-size:12p
     </div>
     <button class="icon-btn" id="btn-back" hidden title="뒤로">←</button>
     <button class="icon-btn" id="btn-collect" title="지금 수집">⟳</button>
+    <button class="icon-btn" id="btn-sms" title="집 폰 문자 보기">✉</button>
     <button class="icon-btn" id="btn-order" title="순서 편집">↕</button>
     <button class="icon-btn" id="btn-add" title="단지 추가">＋</button>
     <button class="icon-btn" id="btn-settings" title="설정">⚙</button>
@@ -302,6 +303,7 @@ function render(){
   document.getElementById('btn-add').hidden = S.view !== 'list';
   document.getElementById('btn-order').hidden = S.view !== 'list';
   document.getElementById('btn-collect').hidden = S.view !== 'list';
+  document.getElementById('btn-sms').hidden = S.view !== 'list';
   document.getElementById('chips').hidden = S.view !== 'list';
   document.getElementById('chips-region').hidden = S.view !== 'list';
   if (S.view === 'list') renderList(); else renderDetail();
@@ -527,6 +529,16 @@ function openAdd(){
     } catch(e){ toast('실패: ' + e.message, 4000); btn.disabled = false; btn.textContent = '저장'; }
   });
 }
+// 집 폰(수집기)에 최근 문자를 ntfy 로 보내달라고 요청 — 데몬이 "sms N" 메시지를 받으면 sms_report.py 실행
+async function requestSms(){
+  const topic = (S.settings.topic || '').trim();
+  if (!topic) { toast('⚙ 설정에서 ntfy 채널 이름을 먼저 입력하세요', 3500); return openSettings(); }
+  try {
+    const r = await fetch('https://ntfy.sh', { method: 'POST', body: JSON.stringify({ topic: topic + '-cmd', title: 'sms', message: 'sms 10', tags: ['envelope'] }) });
+    if (!r.ok) throw new Error('ntfy ' + r.status);
+  } catch(e){ return toast('요청 실패: ' + e.message, 4000); }
+  toast('집 폰에 문자 요청을 보냈습니다 · 30초쯤 뒤 알림으로 옵니다', 4500);
+}
 async function requestCollect(){
   const topic = (S.settings.topic || '').trim();
   if (!topic) { toast('⚙ 설정에서 ntfy 채널 이름을 먼저 입력하세요', 3500); return openSettings(); }
@@ -670,13 +682,14 @@ function openSettings(){
 }
 
 // ------------------------------------------------------------- 이벤트/시작
-const APP_VERSION = '1.10.0';
+const APP_VERSION = '1.11.0';
 document.getElementById('btn-back').addEventListener('click', goList);
 history.replaceState(null, '');  // 새로 열 때는 항상 목록부터
 document.querySelectorAll('#chips .chip').forEach(x => x.classList.toggle('on', x.dataset.f === S.filter));
 document.getElementById('btn-add').addEventListener('click', openAdd);
 document.getElementById('btn-order').addEventListener('click', openOrder);
 document.getElementById('btn-collect').addEventListener('click', requestCollect);
+document.getElementById('btn-sms').addEventListener('click', requestSms);
 document.getElementById('btn-settings').addEventListener('click', openSettings);
 document.querySelectorAll('#chips .chip').forEach(b => b.addEventListener('click', () => { document.querySelectorAll('#chips .chip').forEach(x => x.classList.toggle('on', x===b)); S.filter = b.dataset.f; if (S.filter !== 'hidden' && S.filter !== 'changed') safeSet('filter', S.filter); render(); }));
 window.addEventListener('popstate', () => {
