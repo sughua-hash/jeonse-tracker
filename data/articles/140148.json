@@ -1,5 +1,5 @@
 {
- "date": "2026-09-28",
+ "date": "2026-09-29",
  "complexNo": "140148",
  "name": "고덕풍경채어바니티",
  "articles": [
@@ -64,6 +64,51 @@
    "price_text": "85000"
   },
   {
+   "article_no": "2652172206",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.67,
+   "area_supply": 118.24,
+   "floor": "저/25",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-09-29",
+   "description": "34p 큰문 다락형 넓은펜트리 수납공간 풀옵션",
+   "realtor": "큰문공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2651985815",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.67,
+   "area_supply": 118.24,
+   "floor": "저/25",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-09-28",
+   "description": "넉넉한 수납공간. 다락방.풀에어컨. 실링팬.주인거주 관리 잘된집",
+   "realtor": "고덕햇살426-3336공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2651873179",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.67,
+   "area_supply": 118.24,
+   "floor": "저/25",
+   "building": "102",
+   "direction": "EE",
+   "confirmed": "2026-09-28",
+   "description": "에풀 풀옵션, 층간소음 걱정없는 복층, 비즈밸리상권이용",
+   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
    "article_no": "2651547289",
    "trade": "B1",
    "deposit": 90000,
@@ -76,51 +121,6 @@
    "confirmed": "2026-09-23",
    "description": "방3화2 ,에5,펜트리와 작은방에붙박이,중문, 마당,다락,",
    "realtor": "풍경채어바니티(단지내)부동산중개",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2651486003",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.67,
-   "area_supply": 118.24,
-   "floor": "저/25",
-   "building": "102",
-   "direction": "EE",
-   "confirmed": "2026-09-23",
-   "description": "에풀 풀옵션, 층간소음 걱정없는 복층, 비즈밸리상권이용",
-   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2651553237",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.67,
-   "area_supply": 118.24,
-   "floor": "저/25",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-09-23",
-   "description": "34p 큰문 다락형 넓은펜트리 수납공간 풀옵션",
-   "realtor": "큰문공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2650974229",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.67,
-   "area_supply": 118.24,
-   "floor": "저/25",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-09-21",
-   "description": "넉넉한 수납공간. 다락방.풀에어컨. 실링팬.주인거주 관리 잘된집",
-   "realtor": "고덕햇살426-3336공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -184,7 +184,7 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2651553313",
+   "article_no": "2652172201",
    "trade": "B2",
    "deposit": 70000,
    "rent": 100,
@@ -193,13 +193,13 @@
    "floor": "저/25",
    "building": "102",
    "direction": "SS",
-   "confirmed": "2026-09-23",
+   "confirmed": "2026-09-29",
    "description": "34p 큰문 다락형 넓은펜트리 수납공간 풀옵션",
    "realtor": "큰문공인중개사사무소",
    "price_text": "70000/100"
   },
   {
-   "article_no": "2650975060",
+   "article_no": "2651985870",
    "trade": "B2",
    "deposit": 70000,
    "rent": 100,
@@ -208,7 +208,7 @@
    "floor": "저/25",
    "building": "102",
    "direction": "SS",
-   "confirmed": "2026-09-21",
+   "confirmed": "2026-09-28",
    "description": "넓은 다락방. 팬트리등 수납공간 좋은집. 풀에어컨.아이들 키우기 좋은집",
    "realtor": "고덕햇살426-3336공인중개사사무소",
    "price_text": "70000/100"

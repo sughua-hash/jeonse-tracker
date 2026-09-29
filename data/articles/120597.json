@@ -1,5 +1,5 @@
 {
- "date": "2026-09-28",
+ "date": "2026-09-29",
  "complexNo": "120597",
  "name": "남양주두산위브트레지움",
  "articles": [
@@ -19,6 +19,21 @@
    "price_text": "27000"
   },
   {
+   "article_no": "2651876819",
+   "trade": "B1",
+   "deposit": 27000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 83.57,
+   "floor": "26/27",
+   "building": "107",
+   "direction": "WS",
+   "confirmed": "2026-09-28",
+   "description": "이사협의 상태깨끗 귀한전세",
+   "realtor": "신명스카이뷰그린공인중개사사무소",
+   "price_text": "27000"
+  },
+  {
    "article_no": "2651204777",
    "trade": "B1",
    "deposit": 27000,
@@ -34,21 +49,6 @@
    "price_text": "27000"
   },
   {
-   "article_no": "2651253602",
-   "trade": "B1",
-   "deposit": 27000,
-   "rent": 0,
-   "area_exclusive": 59.97,
-   "area_supply": 83.57,
-   "floor": "26/27",
-   "building": "107",
-   "direction": "WS",
-   "confirmed": "2026-09-22",
-   "description": "이사협의 상태깨끗 귀한전세",
-   "realtor": "신명스카이뷰그린공인중개사사무소",
-   "price_text": "27000"
-  },
-  {
    "article_no": "2651197149",
    "trade": "B1",
    "deposit": 27000,
@@ -61,6 +61,21 @@
    "confirmed": "2026-09-22",
    "description": "",
    "realtor": "최강공인중개사무소",
+   "price_text": "27000"
+  },
+  {
+   "article_no": "2652041118",
+   "trade": "B1",
+   "deposit": 27000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 83.57,
+   "floor": "고/27",
+   "building": "107",
+   "direction": "ES",
+   "confirmed": "2026-09-28",
+   "description": "전자계약 공동환영 귀한전세 입주협의",
+   "realtor": "가온누리부동산중개법인주식회사",
    "price_text": "27000"
   },
   {
@@ -109,6 +124,36 @@
    "price_text": "32000"
   },
   {
+   "article_no": "2652066041",
+   "trade": "B1",
+   "deposit": 33000,
+   "rent": 0,
+   "area_exclusive": 74.86,
+   "area_supply": 102.48,
+   "floor": "25/32",
+   "building": "102",
+   "direction": "ES",
+   "confirmed": "2026-09-28",
+   "description": "빠른입주 조망굿 식세기 중문 줄눈 탄성 융자상환조건 주인거주",
+   "realtor": "두산온누리공인중개사사무소",
+   "price_text": "33000"
+  },
+  {
+   "article_no": "2652098784",
+   "trade": "B1",
+   "deposit": 35000,
+   "rent": 0,
+   "area_exclusive": 74.99,
+   "area_supply": 101.47,
+   "floor": "4/33",
+   "building": "104",
+   "direction": "WS",
+   "confirmed": "2026-09-28",
+   "description": "11월30일",
+   "realtor": "두산위브트레지움공인중개사사무소",
+   "price_text": "35000"
+  },
+  {
    "article_no": "2650087616",
    "trade": "B1",
    "deposit": 35000,
@@ -121,21 +166,6 @@
    "confirmed": "2026-09-16",
    "description": "트인뷰 산조망 집 내부상태깨끗",
    "realtor": "두산공인중개사사무소",
-   "price_text": "35000"
-  },
-  {
-   "article_no": "2649690234",
-   "trade": "B1",
-   "deposit": 35000,
-   "rent": 0,
-   "area_exclusive": 74.99,
-   "area_supply": 101.47,
-   "floor": "4/33",
-   "building": "104",
-   "direction": "WS",
-   "confirmed": "2026-09-14",
-   "description": "11월30일",
-   "realtor": "두산위브트레지움공인중개사사무소",
    "price_text": "35000"
   },
   {
@@ -152,6 +182,21 @@
    "description": "즉시입주 가능한 내부깨끗한 월세입니다",
    "realtor": "포스코부동산공인중개사사무소",
    "price_text": "5000/150"
+  },
+  {
+   "article_no": "2651801018",
+   "trade": "B2",
+   "deposit": 4000,
+   "rent": 170,
+   "area_exclusive": 84.95,
+   "area_supply": 114.7,
+   "floor": "15/33",
+   "building": "104",
+   "direction": "ES",
+   "confirmed": "2026-09-28",
+   "description": "시스템에어컨5대 중문 주방대리석 빠른이사 반려동물X 융무 조망굿",
+   "realtor": "두산온누리공인중개사사무소",
+   "price_text": "4000/170"
   },
   {
    "article_no": "2651129194",

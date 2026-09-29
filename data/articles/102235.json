@@ -1,5 +1,5 @@
 {
- "date": "2026-09-28",
+ "date": "2026-09-29",
  "complexNo": "102235",
  "name": "고덕리엔파크3단지",
  "articles": [
@@ -44,7 +44,7 @@
    "building": "336",
    "direction": "SS",
    "confirmed": "2026-09-28",
-   "description": "로얄동 올확장 상태굿 주인거주",
+   "description": "귀한전세 로얄동  올인테리어 아름다운 정원뷰  환한집",
    "realtor": "백억공인중개사사무소",
    "price_text": "80000"
   },
@@ -109,6 +109,21 @@
    "price_text": "20000/240"
   },
   {
+   "article_no": "2651876061",
+   "trade": "B2",
+   "deposit": 10000,
+   "rent": 260,
+   "area_exclusive": 59.83,
+   "area_supply": 79.26,
+   "floor": "중/12",
+   "building": "338",
+   "direction": "SS",
+   "confirmed": "2026-09-28",
+   "description": "보증금조정가, 확장됨 정남향, 지하철가까운동, 초중인접, 대기업출퇴근용이",
+   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
+   "price_text": "10000/260"
+  },
+  {
    "article_no": "2651660285",
    "trade": "B2",
    "deposit": 10000,
@@ -121,21 +136,6 @@
    "confirmed": "2026-09-23",
    "description": "채광좋은 남향.강명초,중인접. 27.1.7.이후 입주협의.강일역 도보8분",
    "realtor": "고덕삼성공인중개사사무소(02-442-2000)",
-   "price_text": "10000/260"
-  },
-  {
-   "article_no": "2651489833",
-   "trade": "B2",
-   "deposit": 10000,
-   "rent": 260,
-   "area_exclusive": 59.83,
-   "area_supply": 79.26,
-   "floor": "중/12",
-   "building": "338",
-   "direction": "SS",
-   "confirmed": "2026-09-23",
-   "description": "보증금조정가, 확장됨 정남향, 지하철가까운동, 초중인접, 대기업출퇴근용이",
-   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
    "price_text": "10000/260"
   }
  ]

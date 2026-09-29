@@ -1,8 +1,53 @@
 {
- "date": "2026-09-28",
+ "date": "2026-09-29",
  "complexNo": "110765",
  "name": "고덕숲아이파크",
  "articles": [
+  {
+   "article_no": "2652133443",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 84.78,
+   "floor": "고/10",
+   "building": "113",
+   "direction": "SS",
+   "confirmed": "2026-09-28",
+   "description": "주인거주로관리잘된집,탁트인숲뷰",
+   "realtor": "단지내길공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2652145830",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 84.78,
+   "floor": "고/10",
+   "building": "113",
+   "direction": "SS",
+   "confirmed": "2026-09-28",
+   "description": "정남향 전망굿 공기좋은동 학군좋아요.",
+   "realtor": "제일공인중개사사무소481-6600",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2652119077",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 84.78,
+   "floor": "고/10",
+   "building": "113",
+   "direction": "SS",
+   "confirmed": "2026-09-28",
+   "description": "영구숲조망 9호선 수혜단지 학군 좋음 고덕숲도서관 바로 근처",
+   "realtor": "대상공인중개사사무소(427-0001)",
+   "price_text": "80000"
+  },
   {
    "article_no": "2651224534",
    "trade": "B1",
@@ -32,6 +77,21 @@
    "description": "올확장 풀에어컨  특인테리어  입주일협의가능",
    "realtor": "강동공인중개사사무소",
    "price_text": "80000"
+  },
+  {
+   "article_no": "2651937109",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.85,
+   "area_supply": 112.83,
+   "floor": "저/21",
+   "building": "107",
+   "direction": "SS",
+   "confirmed": "2026-09-28",
+   "description": "숲세권 명문학군  아이들 키우기 좋은 아파트 로얄동 2월5일입주",
+   "realtor": "고덕거성공인중개사사무소",
+   "price_text": "90000"
   },
   {
    "article_no": "2651560082",
@@ -64,19 +124,19 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2649814937",
+   "article_no": "2652133816",
    "trade": "B1",
-   "deposit": 90000,
+   "deposit": 100000,
    "rent": 0,
    "area_exclusive": 84.85,
    "area_supply": 112.83,
-   "floor": "저/21",
-   "building": "107",
-   "direction": "SS",
-   "confirmed": "2026-09-14",
-   "description": "숲세권 명문학군  아이들 키우기 좋은 아파트 로얄동 2월5일입주",
-   "realtor": "고덕거성공인중개사사무소",
-   "price_text": "90000"
+   "floor": "중/25",
+   "building": "108",
+   "direction": "ES",
+   "confirmed": "2026-09-28",
+   "description": "27년1월말입주 영구숲뷰 풀옵션 채광좋음 명문중고교학군구립숲속도서관",
+   "realtor": "대일공인중개사",
+   "price_text": "100000"
   }
  ]
 }

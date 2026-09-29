@@ -1,10 +1,10 @@
 {
- "date": "2026-09-28",
+ "date": "2026-09-29",
  "complexNo": "983",
  "name": "푸른마을",
  "articles": [
   {
-   "article_no": "2650585523",
+   "article_no": "2651937134",
    "trade": "B1",
    "deposit": 80000,
    "rent": 0,
@@ -13,8 +13,23 @@
    "floor": "7/15",
    "building": "107",
    "direction": "SS",
-   "confirmed": "2026-09-18",
+   "confirmed": "2026-09-28",
    "description": "25집주인전세 남향 깨끗한상태 입주일12중순이후 조정",
+   "realtor": "샘터공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2651341635",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "중/15",
+   "building": "107",
+   "direction": "SS",
+   "confirmed": "2026-09-22",
+   "description": "25집주인매물 남향 12월 조정가능 로얄동 층",
    "realtor": "샘터공인중개사사무소",
    "price_text": "80000"
   },
@@ -77,66 +92,6 @@
    "description": "25 남향 뷰좋은집 수리상태깨끗 잔금일협의",
    "realtor": "엘리트공인중개사사무소",
    "price_text": "80000"
-  },
-  {
-   "article_no": "2651341635",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "중/15",
-   "building": "107",
-   "direction": "SS",
-   "confirmed": "2026-09-22",
-   "description": "25집주인매물 남향 12월 조정가능 로얄동 층",
-   "realtor": "샘터공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
-   "article_no": "2651587666",
-   "trade": "B1",
-   "deposit": 110000,
-   "rent": 0,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "6/13",
-   "building": "110",
-   "direction": "EE",
-   "confirmed": "2026-09-23",
-   "description": "31.귀한전세 확장수리깨끗 주차편리 입주협의 반전세가능",
-   "realtor": "동원공인중개사사무소",
-   "price_text": "110000"
-  },
-  {
-   "article_no": "2651224745",
-   "trade": "B1",
-   "deposit": 110000,
-   "rent": 0,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "6/13",
-   "building": "110",
-   "direction": "EE",
-   "confirmed": "2026-09-22",
-   "description": "31  방3  수리깨긋 확장 빠른입주",
-   "realtor": "목련공인중개사사무소",
-   "price_text": "110000"
-  },
-  {
-   "article_no": "2651247832",
-   "trade": "B2",
-   "deposit": 80000,
-   "rent": 120,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "6/13",
-   "building": "110",
-   "direction": "EE",
-   "confirmed": "2026-09-22",
-   "description": "거실확장 전망좋고 시원한동 깨끗한집 전세로가능",
-   "realtor": "일원샘터공인중개사사무소",
-   "price_text": "80000/120"
   }
  ]
 }

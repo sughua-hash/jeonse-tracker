@@ -1,5 +1,5 @@
 {
- "date": "2026-09-28",
+ "date": "2026-09-29",
  "complexNo": "112926",
  "name": "화도센트럴우방아이유쉘",
  "articles": [
@@ -47,6 +47,21 @@
    "description": "입주협의 B타입 산조망  중문 작은방2 시스템에어컨 거실과안방 에어컨",
    "realtor": "우방대명공인중개사사무소",
    "price_text": "37000"
+  },
+  {
+   "article_no": "2652040292",
+   "trade": "B1",
+   "deposit": 38000,
+   "rent": 0,
+   "area_exclusive": 84.91,
+   "area_supply": 115.0,
+   "floor": "9/18",
+   "building": "111",
+   "direction": "ES",
+   "confirmed": "2026-09-28",
+   "description": "입주협의,C타입,산조망",
+   "realtor": "센트럴우방공인중개사사무소",
+   "price_text": "38000"
   }
  ]
 }

@@ -1,8 +1,38 @@
 {
- "date": "2026-09-28",
+ "date": "2026-09-29",
  "complexNo": "27297",
  "name": "이안남양주",
  "articles": [
+  {
+   "article_no": "2651939441",
+   "trade": "B1",
+   "deposit": 45000,
+   "rent": 0,
+   "area_exclusive": 134.06,
+   "area_supply": 164.02,
+   "floor": "5/16",
+   "building": "103",
+   "direction": "WS",
+   "confirmed": "2026-09-28",
+   "description": "확장형 깨끗 입주협의",
+   "realtor": "도뮤토에이스공인중개사사무소",
+   "price_text": "45000"
+  },
+  {
+   "article_no": "2652014443",
+   "trade": "B1",
+   "deposit": 45000,
+   "rent": 0,
+   "area_exclusive": 134.06,
+   "area_supply": 164.02,
+   "floor": "5/16",
+   "building": "103",
+   "direction": "ES",
+   "confirmed": "2026-09-28",
+   "description": "넓은평수전세.입주협의가.IC인접위치",
+   "realtor": "대림공인중개사사무소",
+   "price_text": "45000"
+  },
   {
    "article_no": "2651446451",
    "trade": "B1",
