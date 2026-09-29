@@ -4504,18 +4504,18 @@
  },
  {
   "jeonse": {
-   "price": 85000,
+   "price": 83000,
    "article": {
-    "article_no": "2652167778",
-    "deposit": 85000,
+    "article_no": "2652226989",
+    "deposit": 83000,
     "rent": 0,
     "area": 84.97,
     "floor": "저/29",
     "building": "112",
     "direction": "ES",
     "confirmed": "2026-09-29",
-    "price_text": "85000",
-    "url": "https://m.land.naver.com/article/info/2652167778"
+    "price_text": "83000",
+    "url": "https://m.land.naver.com/article/info/2652226989"
    }
   },
   "wolse_rent": null,
@@ -4538,12 +4538,12 @@
     "d1": {
      "date": "2026-09-28",
      "prev": 85000,
-     "delta": 0
+     "delta": -2000
     },
     "d7": {
      "date": "2026-09-22",
      "prev": 85000,
-     "delta": 0
+     "delta": -2000
     },
     "d30": {
      "date": null,
