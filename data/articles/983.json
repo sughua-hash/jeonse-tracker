@@ -1,5 +1,5 @@
 {
- "date": "2026-09-29",
+ "date": "2026-09-30",
  "complexNo": "983",
  "name": "푸른마을",
  "articles": [
@@ -15,21 +15,6 @@
    "direction": "SS",
    "confirmed": "2026-09-28",
    "description": "25집주인전세 남향 깨끗한상태 입주일12중순이후 조정",
-   "realtor": "샘터공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
-   "article_no": "2651341635",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "중/15",
-   "building": "107",
-   "direction": "SS",
-   "confirmed": "2026-09-22",
-   "description": "25집주인매물 남향 12월 조정가능 로얄동 층",
    "realtor": "샘터공인중개사사무소",
    "price_text": "80000"
   },
@@ -92,6 +77,51 @@
    "description": "25 남향 뷰좋은집 수리상태깨끗 잔금일협의",
    "realtor": "엘리트공인중개사사무소",
    "price_text": "80000"
+  },
+  {
+   "article_no": "2651341635",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "중/15",
+   "building": "107",
+   "direction": "SS",
+   "confirmed": "2026-09-22",
+   "description": "25집주인매물 남향 12월 조정가능 로얄동 층",
+   "realtor": "샘터공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2652357251",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "고/15",
+   "building": "104",
+   "direction": "SS",
+   "confirmed": "2026-09-29",
+   "description": "샷시교체올수리,입주2월협의,주인직매물입니다.",
+   "realtor": "푸른닷컴공인중개사사무소",
+   "price_text": "110000"
+  },
+  {
+   "article_no": "2652355910",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "고/15",
+   "building": "104",
+   "direction": "SS",
+   "confirmed": "2026-09-29",
+   "description": "주인직매물,샷시교체올수리,2월입주협의",
+   "realtor": "푸른닷컴공인중개사",
+   "price_text": "110000"
   }
  ]
 }
