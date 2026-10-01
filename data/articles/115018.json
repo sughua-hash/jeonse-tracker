@@ -1,5 +1,5 @@
 {
- "date": "2026-09-30",
+ "date": "2026-10-01",
  "complexNo": "115018",
  "name": "더샵지제역센트럴파크(1BL)",
  "articles": [
@@ -77,6 +77,21 @@
    "description": "융자있어요, 초품아, 투윈원, 상가이용편리",
    "realtor": "더샵OK공인중개사사무소",
    "price_text": "20500"
+  },
+  {
+   "article_no": "2652542251",
+   "trade": "B1",
+   "deposit": 25000,
+   "rent": 0,
+   "area_exclusive": 59.62,
+   "area_supply": 79.7,
+   "floor": "중/27",
+   "building": "121",
+   "direction": "SS",
+   "confirmed": "2026-09-30",
+   "description": "월세10만원 별도 또는 전세2.7억도 가능 시스템에어컨2대",
+   "realtor": "동경공인중개사사무소",
+   "price_text": "25000"
   },
   {
    "article_no": "2652332617",
@@ -199,21 +214,6 @@
    "price_text": "27000"
   },
   {
-   "article_no": "2651692477",
-   "trade": "B1",
-   "deposit": 27000,
-   "rent": 0,
-   "area_exclusive": 59.62,
-   "area_supply": 79.7,
-   "floor": "저/27",
-   "building": "119",
-   "direction": "ES",
-   "confirmed": "2026-09-28",
-   "description": "11월20입주 초품아 대단지아파트  어린이집3개  아이키우기좋아요",
-   "realtor": "더샵에이스부동산공인중개사사무소",
-   "price_text": "27000"
-  },
-  {
    "article_no": "2651849350",
    "trade": "B1",
    "deposit": 27000,
@@ -226,6 +226,21 @@
    "confirmed": "2026-09-28",
    "description": "추천 융자무 시에2대 집깔끔 1월초협의입주 언제든볼수있어요",
    "realtor": "지제더샵단지내공인중개사사무소",
+   "price_text": "27000"
+  },
+  {
+   "article_no": "2651692477",
+   "trade": "B1",
+   "deposit": 27000,
+   "rent": 0,
+   "area_exclusive": 59.62,
+   "area_supply": 79.7,
+   "floor": "저/27",
+   "building": "119",
+   "direction": "ES",
+   "confirmed": "2026-09-28",
+   "description": "11월20입주 초품아 대단지아파트  어린이집3개  아이키우기좋아요",
+   "realtor": "더샵에이스부동산공인중개사사무소",
    "price_text": "27000"
   },
   {
@@ -319,6 +334,21 @@
    "price_text": "28000"
   },
   {
+   "article_no": "2652541012",
+   "trade": "B1",
+   "deposit": 30000,
+   "rent": 0,
+   "area_exclusive": 84.79,
+   "area_supply": 110.69,
+   "floor": "중/27",
+   "building": "107",
+   "direction": "WS",
+   "confirmed": "2026-09-30",
+   "description": "OK.11월협의입주.융자상환조건.에어컨4.중문.실거주로 관리잘된집.",
+   "realtor": "더샵OK공인중개사사무소",
+   "price_text": "30000"
+  },
+  {
    "article_no": "2652359819",
    "trade": "B1",
    "deposit": 30000,
@@ -364,7 +394,7 @@
    "price_text": "25000/10"
   },
   {
-   "article_no": "2648325502",
+   "article_no": "2652465942",
    "trade": "B2",
    "deposit": 3000,
    "rent": 110,
@@ -373,7 +403,7 @@
    "floor": "고/25",
    "building": "112",
    "direction": "ES",
-   "confirmed": "2026-09-07",
+   "confirmed": "2026-09-30",
    "description": "K.상태깨끗.투인원에어컨.모산초인접.27년1월8일 이후 협의",
    "realtor": "더샵금메달공인중개사사무소",
    "price_text": "3000/110"
@@ -392,6 +422,21 @@
    "description": "11월20입주 초품아 대단지아파트  어린이집3개  아이키우기좋아요",
    "realtor": "더샵에이스부동산공인중개사사무소",
    "price_text": "5000/110"
+  },
+  {
+   "article_no": "2652612419",
+   "trade": "B2",
+   "deposit": 1000,
+   "rent": 120,
+   "area_exclusive": 59.76,
+   "area_supply": 79.49,
+   "floor": "저/27",
+   "building": "104",
+   "direction": "ES",
+   "confirmed": "2026-09-30",
+   "description": "10월25일이후, 시스템에어컨, 집상태아주좋아요",
+   "realtor": "더샵하나공인중개사사무소",
+   "price_text": "1000/120"
   },
   {
    "article_no": "2652146872",
@@ -422,21 +467,6 @@
    "description": "10월말11월초 입주협의.6개월또는1년 단기임대.입",
    "realtor": "지제포스코타운공인중개사사무소",
    "price_text": "1500/130"
-  },
-  {
-   "article_no": "2652351447",
-   "trade": "B2",
-   "deposit": 2000,
-   "rent": 130,
-   "area_exclusive": 74.73,
-   "area_supply": 98.29,
-   "floor": "고/27",
-   "building": "122",
-   "direction": "SS",
-   "confirmed": "2026-09-29",
-   "description": "시에3 빌트인냉장고 확트인전망 집상태최상",
-   "realtor": "더샵미소공인중개사사무소",
-   "price_text": "2000/130"
   },
   {
    "article_no": "2648392309",
