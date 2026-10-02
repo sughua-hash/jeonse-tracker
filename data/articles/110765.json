@@ -1,8 +1,23 @@
 {
- "date": "2026-10-01",
+ "date": "2026-10-02",
  "complexNo": "110765",
  "name": "고덕숲아이파크",
  "articles": [
+  {
+   "article_no": "2652717164",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 84.78,
+   "floor": "고/10",
+   "building": "113",
+   "direction": "SS",
+   "confirmed": "2026-10-01",
+   "description": "영구숲조망 9호선 수혜단지 학군 좋음 고덕숲도서관 바로 근처",
+   "realtor": "대상공인중개사사무소(427-0001)",
+   "price_text": "80000"
+  },
   {
    "article_no": "2652133443",
    "trade": "B1",
@@ -34,7 +49,7 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2652119077",
+   "article_no": "2652727142",
    "trade": "B1",
    "deposit": 80000,
    "rent": 0,
@@ -42,10 +57,10 @@
    "area_supply": 84.78,
    "floor": "고/10",
    "building": "113",
-   "direction": "SS",
-   "confirmed": "2026-09-28",
-   "description": "영구숲조망 9호선 수혜단지 학군 좋음 고덕숲도서관 바로 근처",
-   "realtor": "대상공인중개사사무소(427-0001)",
+   "direction": "WS",
+   "confirmed": "2026-10-01",
+   "description": "숲세권,고덕역15분.학군좋음",
+   "realtor": "오렌지공인중개사사무소",
    "price_text": "80000"
   },
   {

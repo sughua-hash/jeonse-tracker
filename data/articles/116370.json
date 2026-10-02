@@ -1,5 +1,5 @@
 {
- "date": "2026-10-01",
+ "date": "2026-10-02",
  "complexNo": "116370",
  "name": "e편한세상시티인하대역",
  "articles": [
@@ -94,6 +94,21 @@
    "price_text": "28000"
   },
   {
+   "article_no": "2652823051",
+   "trade": "B2",
+   "deposit": 21000,
+   "rent": 15,
+   "area_exclusive": 58.67,
+   "area_supply": 88.24,
+   "floor": "고/36",
+   "building": "101",
+   "direction": "SS",
+   "confirmed": "2026-10-01",
+   "description": "58A 고층 오피스텔 . 12월중순 . 에어컨2 . 남향",
+   "realtor": "SK윤부동산공인중개사사무소",
+   "price_text": "21000/15"
+  },
+  {
    "article_no": "2649694161",
    "trade": "B2",
    "deposit": 21000,
@@ -124,6 +139,21 @@
    "price_text": "1000/60"
   },
   {
+   "article_no": "2652773021",
+   "trade": "B2",
+   "deposit": 5000,
+   "rent": 90,
+   "area_exclusive": 58.67,
+   "area_supply": 88.24,
+   "floor": "저/37",
+   "building": "105",
+   "direction": "SS",
+   "confirmed": "2026-10-01",
+   "description": "투인원에어컨 인하대역3분 홈플러스5분 편의시설굿",
+   "realtor": "e편한씨티공인중개사사무소",
+   "price_text": "5000/90"
+  },
+  {
    "article_no": "2650999794",
    "trade": "B2",
    "deposit": 1000,
@@ -137,6 +167,21 @@
    "description": "에어컨2 붙박이장 냉장고 세탁기 인하대역3분 홈플러스5분 전입신고안됨",
    "realtor": "e편한씨티공인중개사사무소",
    "price_text": "1000/110"
+  },
+  {
+   "article_no": "2652807724",
+   "trade": "B2",
+   "deposit": 2000,
+   "rent": 120,
+   "area_exclusive": 58.67,
+   "area_supply": 88.24,
+   "floor": "고/36",
+   "building": "101",
+   "direction": "SS",
+   "confirmed": "2026-10-01",
+   "description": "인하대역 세권 방2화2 남향 27년1월1일 입주가능",
+   "realtor": "더헤리움인하공인중개사사무소",
+   "price_text": "2000/120"
   },
   {
    "article_no": "2648379785",

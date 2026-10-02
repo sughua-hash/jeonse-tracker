@@ -1,5 +1,5 @@
 {
- "date": "2026-10-01",
+ "date": "2026-10-02",
  "complexNo": "110298",
  "name": "다산롯데캐슬",
  "articles": [
@@ -19,6 +19,36 @@
    "price_text": "63000"
   },
   {
+   "article_no": "2652960365",
+   "trade": "B1",
+   "deposit": 73000,
+   "rent": 0,
+   "area_exclusive": 84.97,
+   "area_supply": 113.2,
+   "floor": "고/27",
+   "building": "2205",
+   "direction": "WS",
+   "confirmed": "2026-10-02",
+   "description": "융자무. 귀한전세. 학세권. 상가접근성 굿. 8호선역세권 워라벨가능.",
+   "realtor": "다산롯데클터공인중개사사무소",
+   "price_text": "73000"
+  },
+  {
+   "article_no": "2652907833",
+   "trade": "B1",
+   "deposit": 73000,
+   "rent": 0,
+   "area_exclusive": 84.97,
+   "area_supply": 113.2,
+   "floor": "고/27",
+   "building": "2205",
+   "direction": "WS",
+   "confirmed": "2026-10-01",
+   "description": "12월초입주협의,융자무,초역세권,학세권,귀한전세",
+   "realtor": "다산자이삼성공인중개사사무소",
+   "price_text": "73000"
+  },
+  {
    "article_no": "2652478215",
    "trade": "B1",
    "deposit": 73000,
@@ -31,21 +61,6 @@
    "confirmed": "2026-09-30",
    "description": "해잘들고 트인뷰, 융자없음 입주협의, 귀한전세",
    "realtor": "다산역롯데 단지넷 부동산 공인중개사사무소",
-   "price_text": "73000"
-  },
-  {
-   "article_no": "2652226163",
-   "trade": "B1",
-   "deposit": 73000,
-   "rent": 0,
-   "area_exclusive": 84.97,
-   "area_supply": 113.2,
-   "floor": "고/27",
-   "building": "2205",
-   "direction": "WS",
-   "confirmed": "2026-09-29",
-   "description": "융자무. 귀한전세. 학세권. 상가접근성 굿. 8호선역세권 워라벨가능.",
-   "realtor": "다산롯데클터공인중개사사무소",
    "price_text": "73000"
   },
   {
