@@ -1,5 +1,5 @@
 {
- "date": "2026-10-02",
+ "date": "2026-10-03",
  "complexNo": "120597",
  "name": "남양주두산위브트레지움",
  "articles": [
@@ -109,34 +109,19 @@
    "price_text": "27000"
   },
   {
-   "article_no": "2650088264",
+   "article_no": "2653153931",
    "trade": "B1",
-   "deposit": 30000,
+   "deposit": 31500,
    "rent": 0,
-   "area_exclusive": 74.99,
-   "area_supply": 101.47,
-   "floor": "1/33",
-   "building": "104",
+   "area_exclusive": 59.98,
+   "area_supply": 82.01,
+   "floor": "23/33",
+   "building": "108",
    "direction": "ES",
-   "confirmed": "2026-09-16",
-   "description": "전망좋은1층이며 사생활침해없음",
-   "realtor": "두산공인중개사사무소",
-   "price_text": "30000"
-  },
-  {
-   "article_no": "2652066041",
-   "trade": "B1",
-   "deposit": 33000,
-   "rent": 0,
-   "area_exclusive": 74.86,
-   "area_supply": 102.48,
-   "floor": "25/32",
-   "building": "102",
-   "direction": "ES",
-   "confirmed": "2026-09-28",
-   "description": "빠른입주 조망굿 식세기 중문 줄눈 탄성 융자상환조건 주인거주",
-   "realtor": "두산온누리공인중개사사무소",
-   "price_text": "33000"
+   "confirmed": "2026-10-02",
+   "description": "세끼고 매매,확장,에어컨2대거실,안방,깨끗",
+   "realtor": "리치공인중개사사무소",
+   "price_text": "31500"
   },
   {
    "article_no": "2652098784",
@@ -169,19 +154,19 @@
    "price_text": "35000"
   },
   {
-   "article_no": "2652605689",
+   "article_no": "2653051454",
    "trade": "B2",
-   "deposit": 5000,
-   "rent": 150,
-   "area_exclusive": 84.95,
-   "area_supply": 114.7,
-   "floor": "21/32",
-   "building": "106",
+   "deposit": 10000,
+   "rent": 100,
+   "area_exclusive": 59.98,
+   "area_supply": 82.01,
+   "floor": "27/35",
+   "building": "112",
    "direction": "WS",
-   "confirmed": "2026-09-30",
+   "confirmed": "2026-10-02",
    "description": "",
-   "realtor": "두산위브트레지움공인중개사사무소",
-   "price_text": "5000/150"
+   "realtor": "두산위트공인중개사",
+   "price_text": "10000/100"
   },
   {
    "article_no": "2652862472",
@@ -196,6 +181,21 @@
    "confirmed": "2026-10-01",
    "description": "즉시입주 가능한 내부깨끗한 월세입니다",
    "realtor": "포스코부동산공인중개사사무소",
+   "price_text": "5000/150"
+  },
+  {
+   "article_no": "2652605689",
+   "trade": "B2",
+   "deposit": 5000,
+   "rent": 150,
+   "area_exclusive": 84.95,
+   "area_supply": 114.7,
+   "floor": "21/32",
+   "building": "106",
+   "direction": "WS",
+   "confirmed": "2026-09-30",
+   "description": "",
+   "realtor": "두산위브트레지움공인중개사사무소",
    "price_text": "5000/150"
   },
   {

@@ -1,5 +1,5 @@
 {
- "date": "2026-10-02",
+ "date": "2026-10-03",
  "complexNo": "983",
  "name": "푸른마을",
  "articles": [
@@ -34,21 +34,6 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2652848555",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "7/15",
-   "building": "107",
-   "direction": "EE",
-   "confirmed": "2026-10-01",
-   "description": "방3 깨끗한남향집 입주일협의  주인직매물",
-   "realtor": "일원샘터공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2652827978",
    "trade": "B1",
    "deposit": 80000,
@@ -61,6 +46,21 @@
    "confirmed": "2026-10-01",
    "description": "25.남향. 오래거주가능. 조건맞춰드려요",
    "realtor": "일원뱅크공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2652848555",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "7/15",
+   "building": "107",
+   "direction": "EE",
+   "confirmed": "2026-10-01",
+   "description": "방3 깨끗한남향집 입주일협의  주인직매물",
+   "realtor": "일원샘터공인중개사사무소",
    "price_text": "80000"
   },
   {
