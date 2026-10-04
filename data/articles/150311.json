@@ -1,5 +1,5 @@
 {
- "date": "2026-10-03",
+ "date": "2026-10-04",
  "complexNo": "150311",
  "name": "빌리브센트하이",
  "articles": [
@@ -124,21 +124,6 @@
    "price_text": "45000"
   },
   {
-   "article_no": "2650376773",
-   "trade": "B1",
-   "deposit": 45000,
-   "rent": 0,
-   "area_exclusive": 84.97,
-   "area_supply": 112.41,
-   "floor": "12/29",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-09-17",
-   "description": "",
-   "realtor": "인터넷공인중개사사무소",
-   "price_text": "45000"
-  },
-  {
    "article_no": "2650395893",
    "trade": "B1",
    "deposit": 45000,
@@ -151,6 +136,21 @@
    "confirmed": "2026-09-17",
    "description": "귀한전세 초중학교 인접 생활편리 신축아파트 입주협의",
    "realtor": "명진공인중개사",
+   "price_text": "45000"
+  },
+  {
+   "article_no": "2650376773",
+   "trade": "B1",
+   "deposit": 45000,
+   "rent": 0,
+   "area_exclusive": 84.97,
+   "area_supply": 112.41,
+   "floor": "12/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-09-17",
+   "description": "",
+   "realtor": "인터넷공인중개사사무소",
    "price_text": "45000"
   },
   {
@@ -406,21 +406,6 @@
    "confirmed": "2026-09-04",
    "description": "첫입주. 시스템에어컨4대. 빠른입주가능. 전세대츨불가",
    "realtor": "평내호평진 공인중개사사무소",
-   "price_text": "50000"
-  },
-  {
-   "article_no": "2647491274",
-   "trade": "B1",
-   "deposit": 50000,
-   "rent": 0,
-   "area_exclusive": 98.98,
-   "area_supply": 129.91,
-   "floor": "22/29",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-09-03",
-   "description": "전망좋음,시스템에어컨4대,역세권,신축으로 편의시설최고,전세대출가능",
-   "realtor": "신도브래뉴공인중개사사무소",
    "price_text": "50000"
   },
   {

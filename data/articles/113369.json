@@ -1,5 +1,5 @@
 {
- "date": "2026-10-03",
+ "date": "2026-10-04",
  "complexNo": "113369",
  "name": "힐스테이트다산",
  "articles": [
@@ -17,6 +17,21 @@
    "description": "추천.귀한 전세. 입주일27.01월중순. 완전 뻥뷰. 컨디션 좋음.",
    "realtor": "이편한자이부동산중개사무소",
    "price_text": "65000"
+  },
+  {
+   "article_no": "2653232330",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "ES",
+   "confirmed": "2026-10-03",
+   "description": "12월입주협의,시.에4대,중앙공원뷰,초중고인접",
+   "realtor": "현대미소공인중개사사무소",
+   "price_text": "90000"
   },
   {
    "article_no": "2653201904",
@@ -46,21 +61,6 @@
    "confirmed": "2026-10-02",
    "description": "입주협의,중앙공원뷰,에어컨4,알파룸",
    "realtor": "나라공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2652986110",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.56,
-   "area_supply": 112.88,
-   "floor": "중/29",
-   "building": "5203",
-   "direction": "ES",
-   "confirmed": "2026-10-02",
-   "description": "12월입주협의,시.에4대,중앙공원뷰,초중고인접",
-   "realtor": "현대미소공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -244,6 +244,36 @@
    "price_text": "90000"
   },
   {
+   "article_no": "2653254701",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "ES",
+   "confirmed": "2026-10-03",
+   "description": "ss김여사추천,시스템4,중앙공원뷰,초중고학교도보거리,알파룸있는4베이판상형",
+   "realtor": "김여사공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2653237256",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 300,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "저/29",
+   "building": "5207",
+   "direction": "WS",
+   "confirmed": "2026-10-03",
+   "description": "빠른 입주가,상태좋음,중심상가,다산역 이용 편리,초중고인접,중앙공원옆",
+   "realtor": "현대미소공인중개사사무소",
+   "price_text": "20000/300"
+  },
+  {
    "article_no": "2651597395",
    "trade": "B2",
    "deposit": 20000,
@@ -256,21 +286,6 @@
    "confirmed": "2026-09-23",
    "description": "입주협의,단지정원뷰,시원한 전망,알파룸,후문동",
    "realtor": "나라공인중개사사무소",
-   "price_text": "20000/300"
-  },
-  {
-   "article_no": "2651525664",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 300,
-   "area_exclusive": 84.56,
-   "area_supply": 112.88,
-   "floor": "저/29",
-   "building": "5207",
-   "direction": "WS",
-   "confirmed": "2026-09-23",
-   "description": "빠른 입주가,상태좋음,중심상가,다산역 이용 편리,초중고인접,중앙공원옆",
-   "realtor": "현대미소공인중개사사무소",
    "price_text": "20000/300"
   }
  ]

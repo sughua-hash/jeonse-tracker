@@ -1,8 +1,23 @@
 {
- "date": "2026-10-03",
+ "date": "2026-10-04",
  "complexNo": "120597",
  "name": "남양주두산위브트레지움",
  "articles": [
+  {
+   "article_no": "2653226654",
+   "trade": "B1",
+   "deposit": 27000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 83.57,
+   "floor": "26/27",
+   "building": "107",
+   "direction": "ES",
+   "confirmed": "2026-10-03",
+   "description": "산조망좋음,후문출입좋음,방3,12월이사",
+   "realtor": "두산위브장원공인중개사사무소",
+   "price_text": "27000"
+  },
   {
    "article_no": "2652553409",
    "trade": "B1",
@@ -16,36 +31,6 @@
    "confirmed": "2026-09-30",
    "description": "입주협의 깨끗하고 조망좋아요 애완동물안됨",
    "realtor": "오렌지공인중개사무소",
-   "price_text": "27000"
-  },
-  {
-   "article_no": "2651800250",
-   "trade": "B1",
-   "deposit": 27000,
-   "rent": 0,
-   "area_exclusive": 59.97,
-   "area_supply": 83.57,
-   "floor": "26/27",
-   "building": "107",
-   "direction": "ES",
-   "confirmed": "2026-09-28",
-   "description": "산조망좋음,후문출입좋음,방3,12월이사",
-   "realtor": "두산위브장원공인중개사사무소",
-   "price_text": "27000"
-  },
-  {
-   "article_no": "2651876819",
-   "trade": "B1",
-   "deposit": 27000,
-   "rent": 0,
-   "area_exclusive": 59.97,
-   "area_supply": 83.57,
-   "floor": "26/27",
-   "building": "107",
-   "direction": "WS",
-   "confirmed": "2026-09-28",
-   "description": "이사협의 상태깨끗 귀한전세",
-   "realtor": "신명스카이뷰그린공인중개사사무소",
    "price_text": "27000"
   },
   {
@@ -107,21 +92,6 @@
    "description": "기본형,방3,12월입주협의",
    "realtor": "리치공인중개사사무소",
    "price_text": "27000"
-  },
-  {
-   "article_no": "2653153931",
-   "trade": "B1",
-   "deposit": 31500,
-   "rent": 0,
-   "area_exclusive": 59.98,
-   "area_supply": 82.01,
-   "floor": "23/33",
-   "building": "108",
-   "direction": "ES",
-   "confirmed": "2026-10-02",
-   "description": "세끼고 매매,확장,에어컨2대거실,안방,깨끗",
-   "realtor": "리치공인중개사사무소",
-   "price_text": "31500"
   },
   {
    "article_no": "2652098784",

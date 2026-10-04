@@ -1,10 +1,10 @@
 {
- "date": "2026-10-03",
+ "date": "2026-10-04",
  "complexNo": "110765",
  "name": "고덕숲아이파크",
  "articles": [
   {
-   "article_no": "2652717164",
+   "article_no": "2653327903",
    "trade": "B1",
    "deposit": 80000,
    "rent": 0,
@@ -13,7 +13,22 @@
    "floor": "고/10",
    "building": "113",
    "direction": "SS",
-   "confirmed": "2026-10-01",
+   "confirmed": "2026-10-03",
+   "description": "한영학군.초록초록 생태숲.채광좋은 조용한 집.장기거주가.넓은공간구성.",
+   "realtor": "골드공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2653240997",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 84.78,
+   "floor": "고/10",
+   "building": "113",
+   "direction": "SS",
+   "confirmed": "2026-10-03",
    "description": "영구숲조망 9호선 수혜단지 학군 좋음 고덕숲도서관 바로 근처",
    "realtor": "대상공인중개사사무소(427-0001)",
    "price_text": "80000"
@@ -76,36 +91,6 @@
    "confirmed": "2026-09-29",
    "description": "주인거주로 입주일 협의. 내부 깨끗하게 관리 잘 되어 있어요.",
    "realtor": "하남초이스부동산공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
-   "article_no": "2651224534",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.97,
-   "area_supply": 84.78,
-   "floor": "중/10",
-   "building": "113",
-   "direction": "SS",
-   "confirmed": "2026-09-22",
-   "description": "25. 주인. 직접. 확장. 풀에어컨. 특수리. 이쁜 공원조망",
-   "realtor": "진원래미안공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
-   "article_no": "2651276065",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.97,
-   "area_supply": 84.78,
-   "floor": "중/10",
-   "building": "113",
-   "direction": "SS",
-   "confirmed": "2026-09-22",
-   "description": "올확장 풀에어컨  특인테리어  입주일협의가능",
-   "realtor": "강동공인중개사사무소",
    "price_text": "80000"
   },
   {

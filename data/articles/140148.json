@@ -1,5 +1,5 @@
 {
- "date": "2026-10-03",
+ "date": "2026-10-04",
  "complexNo": "140148",
  "name": "고덕풍경채어바니티",
  "articles": [
@@ -64,22 +64,7 @@
    "price_text": "85000"
   },
   {
-   "article_no": "2652905070",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.64,
-   "area_supply": 117.37,
-   "floor": "저/25",
-   "building": "103",
-   "direction": "WW",
-   "confirmed": "2026-10-01",
-   "description": "",
-   "realtor": "풍경채어바니티(단지내)부동산중개",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2652749926",
+   "article_no": "2653237224",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -88,7 +73,7 @@
    "floor": "저/25",
    "building": "102",
    "direction": "EE",
-   "confirmed": "2026-10-01",
+   "confirmed": "2026-10-03",
    "description": "에풀 풀옵션, 층간소음 걱정없는 복층, 비즈밸리상권이용",
    "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
    "price_text": "90000"
@@ -181,6 +166,21 @@
    "confirmed": "2026-09-15",
    "description": "복층 다락방, 시스템에어컨, 팬트리,  풀옵션",
    "realtor": "풍경채선우부동산공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2652905070",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.64,
+   "area_supply": 117.37,
+   "floor": "저/25",
+   "building": "103",
+   "direction": "WW",
+   "confirmed": "2026-10-01",
+   "description": "",
+   "realtor": "풍경채어바니티(단지내)부동산중개",
    "price_text": "90000"
   },
   {
@@ -349,6 +349,21 @@
    "price_text": "70000/100"
   },
   {
+   "article_no": "2653299711",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 160,
+   "area_exclusive": 101.04,
+   "area_supply": 138.88,
+   "floor": "중/26",
+   "building": "104",
+   "direction": "SS",
+   "confirmed": "2026-10-03",
+   "description": "방4 남향 사방이 트인 뷰 채광좋음 풀에어컨 넓은 전실 이사협의",
+   "realtor": "그라시움이화공인중개사사무소",
+   "price_text": "80000/160"
+  },
+  {
    "article_no": "2652490007",
    "trade": "B2",
    "deposit": 80000,
@@ -376,21 +391,6 @@
    "confirmed": "2026-09-29",
    "description": "귀한 반전세추천 융무 풀옵션 방4화2 컨디션 채광좋음 입주일협의",
    "realtor": "고덕대박(428-8600)공인중개사사무소",
-   "price_text": "80000/160"
-  },
-  {
-   "article_no": "2649803665",
-   "trade": "B2",
-   "deposit": 80000,
-   "rent": 160,
-   "area_exclusive": 101.04,
-   "area_supply": 138.88,
-   "floor": "중/26",
-   "building": "104",
-   "direction": "SS",
-   "confirmed": "2026-09-14",
-   "description": "방4 남향 사방이 트인 뷰 채광좋음 풀에어컨 넓은 전실 이사협의",
-   "realtor": "그라시움이화공인중개사사무소",
    "price_text": "80000/160"
   },
   {
