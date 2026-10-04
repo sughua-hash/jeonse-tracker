@@ -34,51 +34,6 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2653200683",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 75.48,
-   "area_supply": 101.46,
-   "floor": "3/17",
-   "building": "6407",
-   "direction": "SS",
-   "confirmed": "2026-10-03",
-   "description": "밝고 환한 집 내부컨디션 최상 주방넓은 선호 타입 버스정류장 인근",
-   "realtor": "위례한결공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
-   "article_no": "2653201082",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 75.48,
-   "area_supply": 101.46,
-   "floor": "3/17",
-   "building": "6407",
-   "direction": "ES",
-   "confirmed": "2026-10-03",
-   "description": "house. 30B, 급매물 추천, 빠른입주, 트인 뷰, 초중고 인접",
-   "realtor": "하우스이음공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
-   "article_no": "2653203600",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 75.48,
-   "area_supply": 101.46,
-   "floor": "3/17",
-   "building": "6407",
-   "direction": "ES",
-   "confirmed": "2026-10-03",
-   "description": "시온 학교, 상가, 대중교통이용편리함 인기타입 시스템신규설치 컨디션굿",
-   "realtor": "시온공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
    "article_no": "2653325245",
    "trade": "B1",
    "deposit": 75000,
@@ -91,21 +46,6 @@
    "confirmed": "2026-10-03",
    "description": "탁트인 뷰 트리플학세권 위례 에듀타운의 중심 풍부한 인프라와 숲품아",
    "realtor": "위례진주공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
-   "article_no": "2653249512",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 75.48,
-   "area_supply": 101.46,
-   "floor": "3/17",
-   "building": "6407",
-   "direction": "SS",
-   "confirmed": "2026-10-03",
-   "description": "6억 반전세도가능,관리잘된집,초중고인접,상권이용편리",
-   "realtor": "02-431-5600롯데부동산공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -124,22 +64,7 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2653211902",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 75.48,
-   "area_supply": 101.46,
-   "floor": "3/17",
-   "building": "6407",
-   "direction": "SS",
-   "confirmed": "2026-10-03",
-   "description": "깔끔한집. 채광좋음. 넓은 동간거리. 선호하는타입. 위례초중고",
-   "realtor": "오페라(02-431-8300)공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
-   "article_no": "2653263997",
+   "article_no": "2653203600",
    "trade": "B1",
    "deposit": 75000,
    "rent": 0,
@@ -149,8 +74,23 @@
    "building": "6407",
    "direction": "ES",
    "confirmed": "2026-10-03",
-   "description": "착한전세. 학교와 생활편의시설 굿",
-   "realtor": "위례금탑024438900공인중개사사무소",
+   "description": "시온 학교, 상가, 대중교통이용편리함 인기타입 시스템신규설치 컨디션굿",
+   "realtor": "시온공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
+   "article_no": "2653201082",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 75.48,
+   "area_supply": 101.46,
+   "floor": "3/17",
+   "building": "6407",
+   "direction": "ES",
+   "confirmed": "2026-10-03",
+   "description": "house. 30B, 급매물 추천, 빠른입주, 트인 뷰, 초중고 인접",
+   "realtor": "하우스이음공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -169,6 +109,21 @@
    "price_text": "75000"
   },
   {
+   "article_no": "2653211902",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 75.48,
+   "area_supply": 101.46,
+   "floor": "3/17",
+   "building": "6407",
+   "direction": "SS",
+   "confirmed": "2026-10-03",
+   "description": "깔끔한집. 채광좋음. 넓은 동간거리. 선호하는타입. 위례초중고",
+   "realtor": "오페라(02-431-8300)공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
    "article_no": "2653196636",
    "trade": "B1",
    "deposit": 75000,
@@ -181,6 +136,21 @@
    "confirmed": "2026-10-03",
    "description": "넓은 주방, 밝은 채광, 산뜻 분위기, 한걸음 초중고, ",
    "realtor": "위례좋은집(02-400-2002)공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
+   "article_no": "2653200683",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 75.48,
+   "area_supply": 101.46,
+   "floor": "3/17",
+   "building": "6407",
+   "direction": "SS",
+   "confirmed": "2026-10-03",
+   "description": "밝고 환한 집 내부컨디션 최상 주방넓은 선호 타입 버스정류장 인근",
+   "realtor": "위례한결공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -199,7 +169,22 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2652922912",
+   "article_no": "2653249512",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 75.48,
+   "area_supply": 101.46,
+   "floor": "3/17",
+   "building": "6407",
+   "direction": "SS",
+   "confirmed": "2026-10-03",
+   "description": "6억 반전세도가능,관리잘된집,초중고인접,상권이용편리",
+   "realtor": "02-431-5600롯데부동산공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
+   "article_no": "2653263997",
    "trade": "B1",
    "deposit": 75000,
    "rent": 0,
@@ -208,9 +193,9 @@
    "floor": "3/17",
    "building": "6407",
    "direction": "ES",
-   "confirmed": "2026-10-02",
-   "description": "L 내부깔끔. 정상입주. 인기타입. 넓은 주방 확보. 시스템에어컨 설치.",
-   "realtor": "월드공인중개사사무소",
+   "confirmed": "2026-10-03",
+   "description": "착한전세. 학교와 생활편의시설 굿",
+   "realtor": "위례금탑024438900공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -226,36 +211,6 @@
    "confirmed": "2026-10-02",
    "description": "탁트인 뷰 트리플학세권 위례 에듀타운의 중심 풍부한 인프라와 숲품아 단지",
    "realtor": "위례진주공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
-   "article_no": "2653046681",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 75.48,
-   "area_supply": 101.46,
-   "floor": "3/17",
-   "building": "6407",
-   "direction": "ES",
-   "confirmed": "2026-10-02",
-   "description": "트인전망,시스템에어컨설치,상권이용편리한단지,위례초중고학군",
-   "realtor": "위례다경024072255공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
-   "article_no": "2652948536",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 75.48,
-   "area_supply": 101.46,
-   "floor": "3/17",
-   "building": "6407",
-   "direction": "SS",
-   "confirmed": "2026-10-02",
-   "description": "I 아성 I 30,귀한전세,선호타입,컨디션굿,상가이용편리,위례초중고도보",
-   "realtor": "아성플로리체공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -289,6 +244,51 @@
    "price_text": "75000"
   },
   {
+   "article_no": "2652948536",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 75.48,
+   "area_supply": 101.46,
+   "floor": "3/17",
+   "building": "6407",
+   "direction": "SS",
+   "confirmed": "2026-10-02",
+   "description": "I 아성 I 30,귀한전세,선호타입,컨디션굿,상가이용편리,위례초중고도보",
+   "realtor": "아성플로리체공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
+   "article_no": "2653046681",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 75.48,
+   "area_supply": 101.46,
+   "floor": "3/17",
+   "building": "6407",
+   "direction": "ES",
+   "confirmed": "2026-10-02",
+   "description": "트인전망,시스템에어컨설치,상권이용편리한단지,위례초중고학군",
+   "realtor": "위례다경024072255공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
+   "article_no": "2652922912",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 75.48,
+   "area_supply": 101.46,
+   "floor": "3/17",
+   "building": "6407",
+   "direction": "ES",
+   "confirmed": "2026-10-02",
+   "description": "L 내부깔끔. 정상입주. 인기타입. 넓은 주방 확보. 시스템에어컨 설치.",
+   "realtor": "월드공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
    "article_no": "2653001180",
    "trade": "B1",
    "deposit": 75000,
@@ -301,21 +301,6 @@
    "confirmed": "2026-10-02",
    "description": "",
    "realtor": "일번지공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
-   "article_no": "2653174726",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 75.48,
-   "area_supply": 101.46,
-   "floor": "3/17",
-   "building": "6407",
-   "direction": "ES",
-   "confirmed": "2026-10-02",
-   "description": "방3, 쾌적한 숲세권, 초중고 초 인접, 상가 이용 편리,",
-   "realtor": "위례탑공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -334,7 +319,7 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2652629961",
+   "article_no": "2653174726",
    "trade": "B1",
    "deposit": 75000,
    "rent": 0,
@@ -343,9 +328,9 @@
    "floor": "3/17",
    "building": "6407",
    "direction": "ES",
-   "confirmed": "2026-10-01",
-   "description": "愛30 빠른입주 반전세도가능 주방인테리어  채광굿 위례초중고학군",
-   "realtor": "위례황금부동산공인중개사사무소",
+   "confirmed": "2026-10-02",
+   "description": "방3, 쾌적한 숲세권, 초중고 초 인접, 상가 이용 편리,",
+   "realtor": "위례탑공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -361,6 +346,21 @@
    "confirmed": "2026-10-01",
    "description": "트인전망 방3 화2 넓은주방 초중고인접단지",
    "realtor": "위례스마일공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
+   "article_no": "2652629961",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 75.48,
+   "area_supply": 101.46,
+   "floor": "3/17",
+   "building": "6407",
+   "direction": "ES",
+   "confirmed": "2026-10-01",
+   "description": "愛30 빠른입주 반전세도가능 주방인테리어  채광굿 위례초중고학군",
+   "realtor": "위례황금부동산공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -754,21 +754,6 @@
    "price_text": "82000"
   },
   {
-   "article_no": "2653196888",
-   "trade": "B1",
-   "deposit": 82000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 114.23,
-   "floor": "고/21",
-   "building": "6411",
-   "direction": "SS",
-   "confirmed": "2026-10-03",
-   "description": "입주, 판상형, 산뜻 모던 톤, 밝은 채광, 초중고 학세권까지",
-   "realtor": "위례좋은집(02-400-2002)공인중개사사무소",
-   "price_text": "82000"
-  },
-  {
    "article_no": "2653238549",
    "trade": "B1",
    "deposit": 82000,
@@ -781,6 +766,21 @@
    "confirmed": "2026-10-03",
    "description": "트인 조망, 내부 최상, 관리 잘 된 집",
    "realtor": "롯데캐슬공인중개사사무소024459600",
+   "price_text": "82000"
+  },
+  {
+   "article_no": "2653196888",
+   "trade": "B1",
+   "deposit": 82000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 114.23,
+   "floor": "고/21",
+   "building": "6411",
+   "direction": "SS",
+   "confirmed": "2026-10-03",
+   "description": "입주, 판상형, 산뜻 모던 톤, 밝은 채광, 초중고 학세권까지",
+   "realtor": "위례좋은집(02-400-2002)공인중개사사무소",
    "price_text": "82000"
   },
   {
@@ -844,21 +844,6 @@
    "price_text": "88000"
   },
   {
-   "article_no": "2653197333",
-   "trade": "B1",
-   "deposit": 88000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 114.23,
-   "floor": "고/15",
-   "building": "6403",
-   "direction": "SS",
-   "confirmed": "2026-10-03",
-   "description": "ACE.상가가까운 인기동. 트인뷰. 판상형.채광도 좋아요. 융무",
-   "realtor": "에이스호반(02-400-5665)공인중개사사무소",
-   "price_text": "88000"
-  },
-  {
    "article_no": "2653203603",
    "trade": "B1",
    "deposit": 88000,
@@ -874,36 +859,6 @@
    "price_text": "88000"
   },
   {
-   "article_no": "2653205656",
-   "trade": "B1",
-   "deposit": 88000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 114.23,
-   "floor": "고/15",
-   "building": "6403",
-   "direction": "SS",
-   "confirmed": "2026-10-03",
-   "description": "귀한전세,시스템에어컨. 채광좋고 관리잘된집. 붙박이장. 위례초중고바로앞",
-   "realtor": "위례제일024033777공인중개사사무소",
-   "price_text": "88000"
-  },
-  {
-   "article_no": "2653218470",
-   "trade": "B1",
-   "deposit": 88000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 114.23,
-   "floor": "고/15",
-   "building": "6403",
-   "direction": "SS",
-   "confirmed": "2026-10-03",
-   "description": "융자없음. 상가 학원 이용편리. 에어컨있음. 판상형구조.",
-   "realtor": "오페라(02-431-8300)공인중개사사무소",
-   "price_text": "88000"
-  },
-  {
    "article_no": "2653325092",
    "trade": "B1",
    "deposit": 88000,
@@ -916,6 +871,36 @@
    "confirmed": "2026-10-03",
    "description": "무융자 채광좋은 트인뷰  트리플학세권 안심단지 채광통풍 우수한 판상형",
    "realtor": "위례진주공인중개사사무소",
+   "price_text": "88000"
+  },
+  {
+   "article_no": "2653197333",
+   "trade": "B1",
+   "deposit": 88000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 114.23,
+   "floor": "고/15",
+   "building": "6403",
+   "direction": "SS",
+   "confirmed": "2026-10-03",
+   "description": "ACE.상가가까운 인기동. 트인뷰. 판상형.채광도 좋아요. 융무",
+   "realtor": "에이스호반(02-400-5665)공인중개사사무소",
+   "price_text": "88000"
+  },
+  {
+   "article_no": "2653196887",
+   "trade": "B1",
+   "deposit": 88000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 114.23,
+   "floor": "고/15",
+   "building": "6403",
+   "direction": "SS",
+   "confirmed": "2026-10-03",
+   "description": "상가 초중고 한걸음, 조망 좋고 깔끔한 집, 융자 없어요 ",
+   "realtor": "위례좋은집(02-400-2002)공인중개사사무소",
    "price_text": "88000"
   },
   {
@@ -949,7 +934,7 @@
    "price_text": "88000"
   },
   {
-   "article_no": "2653196887",
+   "article_no": "2653218470",
    "trade": "B1",
    "deposit": 88000,
    "rent": 0,
@@ -959,8 +944,23 @@
    "building": "6403",
    "direction": "SS",
    "confirmed": "2026-10-03",
-   "description": "상가 초중고 한걸음, 조망 좋고 깔끔한 집, 융자 없어요 ",
-   "realtor": "위례좋은집(02-400-2002)공인중개사사무소",
+   "description": "융자없음. 상가 학원 이용편리. 에어컨있음. 판상형구조.",
+   "realtor": "오페라(02-431-8300)공인중개사사무소",
+   "price_text": "88000"
+  },
+  {
+   "article_no": "2653205656",
+   "trade": "B1",
+   "deposit": 88000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 114.23,
+   "floor": "고/15",
+   "building": "6403",
+   "direction": "SS",
+   "confirmed": "2026-10-03",
+   "description": "귀한전세,시스템에어컨. 채광좋고 관리잘된집. 붙박이장. 위례초중고바로앞",
+   "realtor": "위례제일024033777공인중개사사무소",
    "price_text": "88000"
   },
   {
@@ -994,6 +994,21 @@
    "price_text": "88000"
   },
   {
+   "article_no": "2653000842",
+   "trade": "B1",
+   "deposit": 88000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 114.23,
+   "floor": "고/15",
+   "building": "6403",
+   "direction": "SS",
+   "confirmed": "2026-10-02",
+   "description": "로얄동 로얄층, 시원한 전망, 학교 상가 가까운동, 인기판상형",
+   "realtor": "일번지공인중개사사무소",
+   "price_text": "88000"
+  },
+  {
    "article_no": "2652948006",
    "trade": "B1",
    "deposit": 88000,
@@ -1024,21 +1039,6 @@
    "price_text": "88000"
   },
   {
-   "article_no": "2653000842",
-   "trade": "B1",
-   "deposit": 88000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 114.23,
-   "floor": "고/15",
-   "building": "6403",
-   "direction": "SS",
-   "confirmed": "2026-10-02",
-   "description": "로얄동 로얄층, 시원한 전망, 학교 상가 가까운동, 인기판상형",
-   "realtor": "일번지공인중개사사무소",
-   "price_text": "88000"
-  },
-  {
    "article_no": "2653027342",
    "trade": "B1",
    "deposit": 88000,
@@ -1051,21 +1051,6 @@
    "confirmed": "2026-10-02",
    "description": "협의가능한 입주.융무집.위례초중고학군.살가이용편리동",
    "realtor": "위례더샵공인중개사사무소",
-   "price_text": "88000"
-  },
-  {
-   "article_no": "2652751293",
-   "trade": "B1",
-   "deposit": 88000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 114.23,
-   "floor": "고/15",
-   "building": "6403",
-   "direction": "ES",
-   "confirmed": "2026-10-01",
-   "description": "입구 로얄동 융무 에어컨 상가 학교 가까운동",
-   "realtor": "더캐슬공인중개사사무소",
    "price_text": "88000"
   },
   {
@@ -1084,7 +1069,7 @@
    "price_text": "88000"
   },
   {
-   "article_no": "2652446715",
+   "article_no": "2652751293",
    "trade": "B1",
    "deposit": 88000,
    "rent": 0,
@@ -1092,10 +1077,10 @@
    "area_supply": 114.23,
    "floor": "고/15",
    "building": "6403",
-   "direction": "WS",
-   "confirmed": "2026-09-30",
-   "description": "트인전망,로얄동층,에어컨유,융자없음,상권이용편리한단지,위례초중고학군",
-   "realtor": "위례다경024072255공인중개사사무소",
+   "direction": "ES",
+   "confirmed": "2026-10-01",
+   "description": "입구 로얄동 융무 에어컨 상가 학교 가까운동",
+   "realtor": "더캐슬공인중개사사무소",
    "price_text": "88000"
   },
   {
@@ -1111,6 +1096,21 @@
    "confirmed": "2026-09-30",
    "description": "Bom 귀한전세 융자무 확트인 로얄층 에어컨  상가이용편리 초중고학세권",
    "realtor": "호반의봄(02-402-7070)공인중개사사무소",
+   "price_text": "88000"
+  },
+  {
+   "article_no": "2652446715",
+   "trade": "B1",
+   "deposit": 88000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 114.23,
+   "floor": "고/15",
+   "building": "6403",
+   "direction": "WS",
+   "confirmed": "2026-09-30",
+   "description": "트인전망,로얄동층,에어컨유,융자없음,상권이용편리한단지,위례초중고학군",
+   "realtor": "위례다경024072255공인중개사사무소",
    "price_text": "88000"
   },
   {
@@ -1204,6 +1204,21 @@
    "price_text": "88000"
   },
   {
+   "article_no": "2653251373",
+   "trade": "B1",
+   "deposit": 88000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 114.23,
+   "floor": "고/15",
+   "building": "6403",
+   "direction": "SS",
+   "confirmed": "2026-10-03",
+   "description": "융자무,로얄동,위례학군지,초중고인접,상권이용편리",
+   "realtor": "02-431-5600롯데부동산공인중개사사무소",
+   "price_text": "88000"
+  },
+  {
    "article_no": "2653239271",
    "trade": "B1",
    "deposit": 88000,
@@ -1276,21 +1291,6 @@
    "confirmed": "2026-10-02",
    "description": "노을맛집. 풀시스템. 주방넓고 감각적인 구조. 위례초중고. 셔틀라인",
    "realtor": "위례더샵공인중개사사무소",
-   "price_text": "88000"
-  },
-  {
-   "article_no": "2653251373",
-   "trade": "B1",
-   "deposit": 88000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 114.23,
-   "floor": "고/15",
-   "building": "6403",
-   "direction": "SS",
-   "confirmed": "2026-10-03",
-   "description": "융자무,로얄동,위례학군지,초중고인접,상권이용편리",
-   "realtor": "02-431-5600롯데부동산공인중개사사무소",
    "price_text": "88000"
   },
   {
@@ -1429,7 +1429,7 @@
    "price_text": "60000/80"
   },
   {
-   "article_no": "2653201083",
+   "article_no": "2653202087",
    "trade": "B2",
    "deposit": 60000,
    "rent": 80,
@@ -1439,8 +1439,23 @@
    "building": "6407",
    "direction": "ES",
    "confirmed": "2026-10-03",
-   "description": "house. 30B, 급매물 추천, 빠른입주, 트인 뷰, 초중고 인접",
-   "realtor": "하우스이음공인중개사사무소",
+   "description": "L 입주협의. 인기타입. 생활권이 편리한 대단지",
+   "realtor": "월드공인중개사사무소",
+   "price_text": "60000/80"
+  },
+  {
+   "article_no": "2653211942",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 80,
+   "area_exclusive": 75.48,
+   "area_supply": 101.46,
+   "floor": "3/17",
+   "building": "6407",
+   "direction": "SS",
+   "confirmed": "2026-10-03",
+   "description": "깔끔한집. 채광좋음. 넓은 동간거리. 선호하는타입. 위례초중고",
+   "realtor": "오페라(02-431-8300)공인중개사사무소",
    "price_text": "60000/80"
   },
   {
@@ -1456,6 +1471,51 @@
    "confirmed": "2026-10-03",
    "description": "시온 학교, 상가, 대중교통이용편리함 인기타입 시스템신규설치 컨디션굿",
    "realtor": "시온공인중개사사무소",
+   "price_text": "60000/80"
+  },
+  {
+   "article_no": "2653196881",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 80,
+   "area_exclusive": 75.48,
+   "area_supply": 101.46,
+   "floor": "3/17",
+   "building": "6407",
+   "direction": "SS",
+   "confirmed": "2026-10-03",
+   "description": "넓은 주방, 밝은 채광, 산뜻 분위기, 한걸음 초중고까지",
+   "realtor": "위례좋은집(02-400-2002)공인중개사사무소",
+   "price_text": "60000/80"
+  },
+  {
+   "article_no": "2653325277",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 80,
+   "area_exclusive": 75.48,
+   "area_supply": 101.46,
+   "floor": "3/17",
+   "building": "6407",
+   "direction": "SS",
+   "confirmed": "2026-10-03",
+   "description": "탁트인 뷰 트리플학세권 위례 에듀타운의 중심 풍부한 인프라와 숲품아 단지",
+   "realtor": "위례진주공인중개사사무소",
+   "price_text": "60000/80"
+  },
+  {
+   "article_no": "2653201083",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 80,
+   "area_exclusive": 75.48,
+   "area_supply": 101.46,
+   "floor": "3/17",
+   "building": "6407",
+   "direction": "ES",
+   "confirmed": "2026-10-03",
+   "description": "house. 30B, 급매물 추천, 빠른입주, 트인 뷰, 초중고 인접",
+   "realtor": "하우스이음공인중개사사무소",
    "price_text": "60000/80"
   },
   {
@@ -1489,66 +1549,6 @@
    "price_text": "60000/80"
   },
   {
-   "article_no": "2653202087",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 80,
-   "area_exclusive": 75.48,
-   "area_supply": 101.46,
-   "floor": "3/17",
-   "building": "6407",
-   "direction": "ES",
-   "confirmed": "2026-10-03",
-   "description": "L 입주협의. 인기타입. 생활권이 편리한 대단지",
-   "realtor": "월드공인중개사사무소",
-   "price_text": "60000/80"
-  },
-  {
-   "article_no": "2653196881",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 80,
-   "area_exclusive": 75.48,
-   "area_supply": 101.46,
-   "floor": "3/17",
-   "building": "6407",
-   "direction": "SS",
-   "confirmed": "2026-10-03",
-   "description": "넓은 주방, 밝은 채광, 산뜻 분위기, 한걸음 초중고까지",
-   "realtor": "위례좋은집(02-400-2002)공인중개사사무소",
-   "price_text": "60000/80"
-  },
-  {
-   "article_no": "2653211942",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 80,
-   "area_exclusive": 75.48,
-   "area_supply": 101.46,
-   "floor": "3/17",
-   "building": "6407",
-   "direction": "SS",
-   "confirmed": "2026-10-03",
-   "description": "깔끔한집. 채광좋음. 넓은 동간거리. 선호하는타입. 위례초중고",
-   "realtor": "오페라(02-431-8300)공인중개사사무소",
-   "price_text": "60000/80"
-  },
-  {
-   "article_no": "2653325277",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 80,
-   "area_exclusive": 75.48,
-   "area_supply": 101.46,
-   "floor": "3/17",
-   "building": "6407",
-   "direction": "SS",
-   "confirmed": "2026-10-03",
-   "description": "탁트인 뷰 트리플학세권 위례 에듀타운의 중심 풍부한 인프라와 숲품아 단지",
-   "realtor": "위례진주공인중개사사무소",
-   "price_text": "60000/80"
-  },
-  {
    "article_no": "2653282447",
    "trade": "B2",
    "deposit": 60000,
@@ -1561,51 +1561,6 @@
    "confirmed": "2026-10-03",
    "description": "I위례추천I 30P 주인거주 뻥뷰 방3 화장실2 강추",
    "realtor": "센트럴자이단지내 위례공인중개사사무소",
-   "price_text": "60000/80"
-  },
-  {
-   "article_no": "2652949532",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 80,
-   "area_exclusive": 75.48,
-   "area_supply": 101.46,
-   "floor": "3/17",
-   "building": "6407",
-   "direction": "SS",
-   "confirmed": "2026-10-02",
-   "description": "I 아성 I 30,귀한월세,선호타입,컨디션굿,상권이용편리,위례초중고도보",
-   "realtor": "아성플로리체공인중개사사무소",
-   "price_text": "60000/80"
-  },
-  {
-   "article_no": "2653042449",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 80,
-   "area_exclusive": 75.48,
-   "area_supply": 101.46,
-   "floor": "3/17",
-   "building": "6407",
-   "direction": "ES",
-   "confirmed": "2026-10-02",
-   "description": "트인전망,시스템에어컨설치,상권이용편리한단지,위례초중고학군",
-   "realtor": "위례다경024072255공인중개사사무소",
-   "price_text": "60000/80"
-  },
-  {
-   "article_no": "2652961566",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 80,
-   "area_exclusive": 75.48,
-   "area_supply": 101.46,
-   "floor": "3/17",
-   "building": "6407",
-   "direction": "SS",
-   "confirmed": "2026-10-02",
-   "description": "11월중순, 단기가능, 방3, 에어컨설치 조건, 개방감굿 밝아요.",
-   "realtor": "위례비전(02-414-9955)공인중개사사무소",
    "price_text": "60000/80"
   },
   {
@@ -1636,6 +1591,51 @@
    "confirmed": "2026-10-02",
    "description": "L 입주협의. 인기타입. 생활권이 편리한 대단지",
    "realtor": "월드공인중개사사무소",
+   "price_text": "60000/80"
+  },
+  {
+   "article_no": "2652961566",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 80,
+   "area_exclusive": 75.48,
+   "area_supply": 101.46,
+   "floor": "3/17",
+   "building": "6407",
+   "direction": "SS",
+   "confirmed": "2026-10-02",
+   "description": "11월중순, 단기가능, 방3, 에어컨설치 조건, 개방감굿 밝아요.",
+   "realtor": "위례비전(02-414-9955)공인중개사사무소",
+   "price_text": "60000/80"
+  },
+  {
+   "article_no": "2653042449",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 80,
+   "area_exclusive": 75.48,
+   "area_supply": 101.46,
+   "floor": "3/17",
+   "building": "6407",
+   "direction": "ES",
+   "confirmed": "2026-10-02",
+   "description": "트인전망,시스템에어컨설치,상권이용편리한단지,위례초중고학군",
+   "realtor": "위례다경024072255공인중개사사무소",
+   "price_text": "60000/80"
+  },
+  {
+   "article_no": "2652949532",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 80,
+   "area_exclusive": 75.48,
+   "area_supply": 101.46,
+   "floor": "3/17",
+   "building": "6407",
+   "direction": "SS",
+   "confirmed": "2026-10-02",
+   "description": "I 아성 I 30,귀한월세,선호타입,컨디션굿,상권이용편리,위례초중고도보",
+   "realtor": "아성플로리체공인중개사사무소",
    "price_text": "60000/80"
   },
   {
@@ -1714,21 +1714,6 @@
    "price_text": "60000/80"
   },
   {
-   "article_no": "2650401032",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 80,
-   "area_exclusive": 75.48,
-   "area_supply": 101.46,
-   "floor": "3/17",
-   "building": "6407",
-   "direction": "WS",
-   "confirmed": "2026-09-17",
-   "description": "방3, 전망 좋은 집, 집상태 굿, 전세 7.5억 가능, 추천",
-   "realtor": "우리집부동산공인중개사사무소",
-   "price_text": "60000/80"
-  },
-  {
    "article_no": "2650347528",
    "trade": "B2",
    "deposit": 60000,
@@ -1741,6 +1726,21 @@
    "confirmed": "2026-09-17",
    "description": "선호하는 타입, 내부상태 굿, 초.중.고 가까운 집 .상가편리",
    "realtor": "위례굿모닝(024073500)부동산공인중개사사무소",
+   "price_text": "60000/80"
+  },
+  {
+   "article_no": "2650401032",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 80,
+   "area_exclusive": 75.48,
+   "area_supply": 101.46,
+   "floor": "3/17",
+   "building": "6407",
+   "direction": "WS",
+   "confirmed": "2026-09-17",
+   "description": "방3, 전망 좋은 집, 집상태 굿, 전세 7.5억 가능, 추천",
+   "realtor": "우리집부동산공인중개사사무소",
    "price_text": "60000/80"
   },
   {
@@ -1864,21 +1864,6 @@
    "price_text": "65000/80"
   },
   {
-   "article_no": "2652583458",
-   "trade": "B2",
-   "deposit": 65000,
-   "rent": 80,
-   "area_exclusive": 84.98,
-   "area_supply": 114.23,
-   "floor": "11/15",
-   "building": "6403",
-   "direction": "SS",
-   "confirmed": "2026-09-30",
-   "description": "愛34 방3 즉시입주 융자없음 전세도가능  에어컨유 트인조망 상권앞동",
-   "realtor": "위례황금부동산공인중개사사무소",
-   "price_text": "65000/80"
-  },
-  {
    "article_no": "2652560462",
    "trade": "B2",
    "deposit": 65000,
@@ -1891,6 +1876,21 @@
    "confirmed": "2026-09-30",
    "description": "시원한뷰. 무융자. 위례초중고. 상가버스 바로앞. 셔틀세권라인",
    "realtor": "위례더샵공인중개사사무소",
+   "price_text": "65000/80"
+  },
+  {
+   "article_no": "2652583458",
+   "trade": "B2",
+   "deposit": 65000,
+   "rent": 80,
+   "area_exclusive": 84.98,
+   "area_supply": 114.23,
+   "floor": "11/15",
+   "building": "6403",
+   "direction": "SS",
+   "confirmed": "2026-09-30",
+   "description": "愛34 방3 즉시입주 융자없음 전세도가능  에어컨유 트인조망 상권앞동",
+   "realtor": "위례황금부동산공인중개사사무소",
    "price_text": "65000/80"
   },
   {
@@ -1909,7 +1909,22 @@
    "price_text": "65000/80"
   },
   {
-   "article_no": "2653252051",
+   "article_no": "2653237566",
+   "trade": "B2",
+   "deposit": 65000,
+   "rent": 80,
+   "area_exclusive": 84.98,
+   "area_supply": 114.23,
+   "floor": "고/15",
+   "building": "6403",
+   "direction": "ES",
+   "confirmed": "2026-10-03",
+   "description": "입구 로얄동 융무 에어컨 상가 학교 가까운동",
+   "realtor": "더캐슬공인중개사사무소",
+   "price_text": "65000/80"
+  },
+  {
+   "article_no": "2653217528",
    "trade": "B2",
    "deposit": 65000,
    "rent": 80,
@@ -1919,8 +1934,8 @@
    "building": "6403",
    "direction": "SS",
    "confirmed": "2026-10-03",
-   "description": "로얄동,로얄층,융자무,초중고인접,상가학원이용편리,아이키우기 좋은 아파트",
-   "realtor": "02-431-5600롯데부동산공인중개사사무소",
+   "description": "융자없음. 상가 학원 이용편리. 에어컨있음. 판상형구조.",
+   "realtor": "오페라(02-431-8300)공인중개사사무소",
    "price_text": "65000/80"
   },
   {
@@ -1954,22 +1969,7 @@
    "price_text": "65000/80"
   },
   {
-   "article_no": "2653237566",
-   "trade": "B2",
-   "deposit": 65000,
-   "rent": 80,
-   "area_exclusive": 84.98,
-   "area_supply": 114.23,
-   "floor": "고/15",
-   "building": "6403",
-   "direction": "ES",
-   "confirmed": "2026-10-03",
-   "description": "입구 로얄동 융무 에어컨 상가 학교 가까운동",
-   "realtor": "더캐슬공인중개사사무소",
-   "price_text": "65000/80"
-  },
-  {
-   "article_no": "2653217528",
+   "article_no": "2653252051",
    "trade": "B2",
    "deposit": 65000,
    "rent": 80,
@@ -1979,8 +1979,8 @@
    "building": "6403",
    "direction": "SS",
    "confirmed": "2026-10-03",
-   "description": "융자없음. 상가 학원 이용편리. 에어컨있음. 판상형구조.",
-   "realtor": "오페라(02-431-8300)공인중개사사무소",
+   "description": "로얄동,로얄층,융자무,초중고인접,상가학원이용편리,아이키우기 좋은 아파트",
+   "realtor": "02-431-5600롯데부동산공인중개사사무소",
    "price_text": "65000/80"
   },
   {
@@ -2119,21 +2119,6 @@
    "price_text": "50000/165"
   },
   {
-   "article_no": "2652936518",
-   "trade": "B2",
-   "deposit": 50000,
-   "rent": 165,
-   "area_exclusive": 84.98,
-   "area_supply": 114.23,
-   "floor": "고/25",
-   "building": "6401",
-   "direction": "SS",
-   "confirmed": "2026-10-02",
-   "description": "시온 학교, 상가, 대중교통이용편리 로얄층 에어컨풀 인덕션 식기세척기",
-   "realtor": "시온공인중개사사무소",
-   "price_text": "50000/165"
-  },
-  {
    "article_no": "2653190981",
    "trade": "B2",
    "deposit": 50000,
@@ -2146,6 +2131,21 @@
    "confirmed": "2026-10-02",
    "description": "I일등I주인거주 집상태 최상, 풀에어컨, 생활편리 선호동,애완동물X",
    "realtor": "롯데일등공인중개사사무소",
+   "price_text": "50000/165"
+  },
+  {
+   "article_no": "2652936518",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 165,
+   "area_exclusive": 84.98,
+   "area_supply": 114.23,
+   "floor": "고/25",
+   "building": "6401",
+   "direction": "SS",
+   "confirmed": "2026-10-02",
+   "description": "시온 학교, 상가, 대중교통이용편리 로얄층 에어컨풀 인덕션 식기세척기",
+   "realtor": "시온공인중개사사무소",
    "price_text": "50000/165"
   },
   {
