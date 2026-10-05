@@ -1,5 +1,5 @@
 {
- "date": "2026-10-04",
+ "date": "2026-10-05",
  "complexNo": "150311",
  "name": "빌리브센트하이",
  "articles": [
@@ -394,21 +394,6 @@
    "price_text": "50000"
   },
   {
-   "article_no": "2647816587",
-   "trade": "B1",
-   "deposit": 50000,
-   "rent": 0,
-   "area_exclusive": 98.84,
-   "area_supply": 129.73,
-   "floor": "27/29",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-09-04",
-   "description": "첫입주. 시스템에어컨4대. 빠른입주가능. 전세대츨불가",
-   "realtor": "평내호평진 공인중개사사무소",
-   "price_text": "50000"
-  },
-  {
    "article_no": "2651725429",
    "trade": "B1",
    "deposit": 50000,
@@ -454,21 +439,6 @@
    "price_text": "20000/180"
   },
   {
-   "article_no": "2650396390",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 180,
-   "area_exclusive": 84.97,
-   "area_supply": 112.41,
-   "floor": "12/29",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-09-17",
-   "description": "시스템에어컨 신축 역세권 입주날짜협의",
-   "realtor": "명진공인중개사",
-   "price_text": "20000/180"
-  },
-  {
    "article_no": "2650321962",
    "trade": "B2",
    "deposit": 20000,
@@ -481,6 +451,21 @@
    "confirmed": "2026-09-17",
    "description": "조먕트임 주인거주 마석역광역버스 생활편리",
    "realtor": "대주파크빌공인중개사사무소",
+   "price_text": "20000/180"
+  },
+  {
+   "article_no": "2650396390",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 180,
+   "area_exclusive": 84.97,
+   "area_supply": 112.41,
+   "floor": "12/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-09-17",
+   "description": "시스템에어컨 신축 역세권 입주날짜협의",
+   "realtor": "명진공인중개사",
    "price_text": "20000/180"
   },
   {

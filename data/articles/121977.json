@@ -1,38 +1,8 @@
 {
- "date": "2026-10-04",
+ "date": "2026-10-05",
  "complexNo": "121977",
  "name": "고덕자이",
  "articles": [
-  {
-   "article_no": "2653294532",
-   "trade": "B1",
-   "deposit": 83000,
-   "rent": 0,
-   "area_exclusive": 59.93,
-   "area_supply": 83.3,
-   "floor": "고/25",
-   "building": "111",
-   "direction": "SS",
-   "confirmed": "2026-10-03",
-   "description": "추.천. 귀한 25P전세,11월입주,반전세가능, 밝고 관리 잘된집",
-   "realtor": "강동명문공인중개사사무소",
-   "price_text": "83000"
-  },
-  {
-   "article_no": "2653278387",
-   "trade": "B1",
-   "deposit": 83000,
-   "rent": 0,
-   "area_exclusive": 59.93,
-   "area_supply": 83.3,
-   "floor": "고/25",
-   "building": "111",
-   "direction": "ES",
-   "confirmed": "2026-10-03",
-   "description": "초품아. 고덕천 트인뷰. 시스템에어컨. 반전세7억50가능. 우수커뮤니티",
-   "realtor": "참좋은공인중개사사무소",
-   "price_text": "83000"
-  },
   {
    "article_no": "2653280084",
    "trade": "B1",
@@ -46,6 +16,21 @@
    "confirmed": "2026-10-03",
    "description": "추천, 로얄동 로얄층, 탁트인 고덕천 뷰, 초품아, 우수 커뮤니티",
    "realtor": "자이햇살공인중개사사무소",
+   "price_text": "83000"
+  },
+  {
+   "article_no": "2653294532",
+   "trade": "B1",
+   "deposit": 83000,
+   "rent": 0,
+   "area_exclusive": 59.93,
+   "area_supply": 83.3,
+   "floor": "고/25",
+   "building": "111",
+   "direction": "SS",
+   "confirmed": "2026-10-03",
+   "description": "추.천. 귀한 25P전세,11월입주,반전세가능, 밝고 관리 잘된집",
+   "realtor": "강동명문공인중개사사무소",
    "price_text": "83000"
   },
   {
@@ -64,6 +49,21 @@
    "price_text": "83000"
   },
   {
+   "article_no": "2653278387",
+   "trade": "B1",
+   "deposit": 83000,
+   "rent": 0,
+   "area_exclusive": 59.93,
+   "area_supply": 83.3,
+   "floor": "고/25",
+   "building": "111",
+   "direction": "ES",
+   "confirmed": "2026-10-03",
+   "description": "초품아. 고덕천 트인뷰. 시스템에어컨. 반전세7억50가능. 우수커뮤니티",
+   "realtor": "참좋은공인중개사사무소",
+   "price_text": "83000"
+  },
+  {
    "article_no": "2653266050",
    "trade": "B1",
    "deposit": 83000,
@@ -79,7 +79,7 @@
    "price_text": "83000"
   },
   {
-   "article_no": "2653267660",
+   "article_no": "2653364759",
    "trade": "B1",
    "deposit": 84000,
    "rent": 0,
@@ -88,24 +88,9 @@
    "floor": "고/25",
    "building": "111",
    "direction": "SS",
-   "confirmed": "2026-10-03",
+   "confirmed": "2026-10-05",
    "description": "역세권.25P  고덕천 뷰  11월입주 인테리어잘된 집  커뮤니티 우수",
    "realtor": "사랑부동산공인중개사사무소",
-   "price_text": "84000"
-  },
-  {
-   "article_no": "2653276692",
-   "trade": "B1",
-   "deposit": 84000,
-   "rent": 0,
-   "area_exclusive": 59.93,
-   "area_supply": 83.3,
-   "floor": "고/25",
-   "building": "111",
-   "direction": "SS",
-   "confirmed": "2026-10-03",
-   "description": "시원한 고층 트인뷰. 로얄 고덕천뷰. 채광 통풍좋은 판상형 구조",
-   "realtor": "일등그라시움 부동산중개",
    "price_text": "84000"
   },
   {
@@ -121,6 +106,21 @@
    "confirmed": "2026-10-03",
    "description": "STAR추천 로얄동 뻥뷰 고덕천뷰 에어컨O 관리잘된집",
    "realtor": "고덕스타공인중개사사무소",
+   "price_text": "84000"
+  },
+  {
+   "article_no": "2653276692",
+   "trade": "B1",
+   "deposit": 84000,
+   "rent": 0,
+   "area_exclusive": 59.93,
+   "area_supply": 83.3,
+   "floor": "고/25",
+   "building": "111",
+   "direction": "SS",
+   "confirmed": "2026-10-03",
+   "description": "시원한 고층 트인뷰. 로얄 고덕천뷰. 채광 통풍좋은 판상형 구조",
+   "realtor": "일등그라시움 부동산중개",
    "price_text": "84000"
   },
   {
@@ -214,21 +214,6 @@
    "price_text": "105000"
   },
   {
-   "article_no": "2653222193",
-   "trade": "B1",
-   "deposit": 105000,
-   "rent": 0,
-   "area_exclusive": 84.44,
-   "area_supply": 110.43,
-   "floor": "저/29",
-   "building": "114",
-   "direction": "SS",
-   "confirmed": "2026-10-03",
-   "description": "단독 추천급전세 풀시스템에어컨 풀옵션 넓은팬트리공간 커뮤니티우수",
-   "realtor": "고덕스카이공인중개사사무소",
-   "price_text": "105000"
-  },
-  {
    "article_no": "2653217778",
    "trade": "B1",
    "deposit": 105000,
@@ -241,6 +226,21 @@
    "confirmed": "2026-10-03",
    "description": "올확장,풀옵션,펜트리있는 인기타입,초품아,우수커뮤니티",
    "realtor": "단지내이레(443-6606)공인중개사사무소",
+   "price_text": "105000"
+  },
+  {
+   "article_no": "2653222193",
+   "trade": "B1",
+   "deposit": 105000,
+   "rent": 0,
+   "area_exclusive": 84.44,
+   "area_supply": 110.43,
+   "floor": "저/29",
+   "building": "114",
+   "direction": "SS",
+   "confirmed": "2026-10-03",
+   "description": "단독 추천급전세 풀시스템에어컨 풀옵션 넓은팬트리공간 커뮤니티우수",
+   "realtor": "고덕스카이공인중개사사무소",
    "price_text": "105000"
   },
   {
@@ -379,6 +379,21 @@
    "price_text": "70000/50"
   },
   {
+   "article_no": "2653279713",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 50,
+   "area_exclusive": 59.93,
+   "area_supply": 83.3,
+   "floor": "고/25",
+   "building": "111",
+   "direction": "SS",
+   "confirmed": "2026-10-03",
+   "description": "추천, 로얄동 로얄층, 탁트인 고덕천 뷰, 초품아, 우수 커뮤니티",
+   "realtor": "자이햇살공인중개사사무소",
+   "price_text": "70000/50"
+  },
+  {
    "article_no": "2653266143",
    "trade": "B2",
    "deposit": 70000,
@@ -394,19 +409,19 @@
    "price_text": "70000/50"
   },
   {
-   "article_no": "2653279713",
+   "article_no": "2653364744",
    "trade": "B2",
    "deposit": 70000,
-   "rent": 50,
+   "rent": 60,
    "area_exclusive": 59.93,
    "area_supply": 83.3,
    "floor": "고/25",
    "building": "111",
    "direction": "SS",
-   "confirmed": "2026-10-03",
-   "description": "추천, 로얄동 로얄층, 탁트인 고덕천 뷰, 초품아, 우수 커뮤니티",
-   "realtor": "자이햇살공인중개사사무소",
-   "price_text": "70000/50"
+   "confirmed": "2026-10-05",
+   "description": "역세권.25P  고덕천 뷰  11월입주 인테리어잘된 집  커뮤니티 우수",
+   "realtor": "사랑부동산공인중개사사무소",
+   "price_text": "70000/60"
   },
   {
    "article_no": "2653293739",
@@ -424,7 +439,7 @@
    "price_text": "70000/60"
   },
   {
-   "article_no": "2653268282",
+   "article_no": "2653269759",
    "trade": "B2",
    "deposit": 70000,
    "rent": 60,
@@ -432,10 +447,10 @@
    "area_supply": 83.3,
    "floor": "고/25",
    "building": "111",
-   "direction": "SS",
+   "direction": "ES",
    "confirmed": "2026-10-03",
-   "description": "역세권.25P  고덕천 뷰  11월입주 인테리어잘된 집  커뮤니티 우수",
-   "realtor": "사랑부동산공인중개사사무소",
+   "description": "STAR추천 로얄동 뻥뷰 고덕천뷰 에어컨O 관리잘된집",
+   "realtor": "고덕스타공인중개사사무소",
    "price_text": "70000/60"
   },
   {
@@ -451,21 +466,6 @@
    "confirmed": "2026-10-03",
    "description": "뛰어난 조망권. 시원한 고층 뷰. 시스템 에어컨. 전세도 가능",
    "realtor": "일등그라시움 부동산중개",
-   "price_text": "70000/60"
-  },
-  {
-   "article_no": "2653269759",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 60,
-   "area_exclusive": 59.93,
-   "area_supply": 83.3,
-   "floor": "고/25",
-   "building": "111",
-   "direction": "ES",
-   "confirmed": "2026-10-03",
-   "description": "STAR추천 로얄동 뻥뷰 고덕천뷰 에어컨O 관리잘된집",
-   "realtor": "고덕스타공인중개사사무소",
    "price_text": "70000/60"
   },
   {

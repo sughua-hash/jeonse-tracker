@@ -1,5 +1,5 @@
 {
- "date": "2026-10-04",
+ "date": "2026-10-05",
  "complexNo": "107715",
  "name": "위례래미안이편한세상",
  "articles": [
@@ -34,6 +34,36 @@
    "price_text": "89000"
   },
   {
+   "article_no": "2653360040",
+   "trade": "B1",
+   "deposit": 92000,
+   "rent": 0,
+   "area_exclusive": 75.99,
+   "area_supply": 99.91,
+   "floor": "4/19",
+   "building": "5606",
+   "direction": "SS",
+   "confirmed": "2026-10-05",
+   "description": "내부 최상. 정원뷰. 초중고 인접. 시스템에어컨. 남위례역 도보. 인덕션",
+   "realtor": "위례열린공인중개사사무소",
+   "price_text": "92000"
+  },
+  {
+   "article_no": "2653356087",
+   "trade": "B1",
+   "deposit": 92000,
+   "rent": 0,
+   "area_exclusive": 75.99,
+   "area_supply": 99.91,
+   "floor": "4/19",
+   "building": "5606",
+   "direction": "WS",
+   "confirmed": "2026-10-05",
+   "description": "시온 중앙광장 로얄동 로얄층 방3 시스템 초중고학세권 남위례역대단지",
+   "realtor": "시온공인중개사사무소",
+   "price_text": "92000"
+  },
+  {
    "article_no": "2653248535",
    "trade": "B1",
    "deposit": 92000,
@@ -46,21 +76,6 @@
    "confirmed": "2026-10-03",
    "description": "어린이집 초중고 안전등교 로얄동 에어컨 커뮤니티 편리 연결동 인기대단지",
    "realtor": "금메달공인중개사사무소",
-   "price_text": "92000"
-  },
-  {
-   "article_no": "2653221726",
-   "trade": "B1",
-   "deposit": 92000,
-   "rent": 0,
-   "area_exclusive": 75.99,
-   "area_supply": 99.91,
-   "floor": "4/19",
-   "building": "5606",
-   "direction": "WS",
-   "confirmed": "2026-10-03",
-   "description": "시스템에어컨 조용하고 전망 예쁜 집",
-   "realtor": "명품현대공인중개사사무소",
    "price_text": "92000"
   },
   {
@@ -79,21 +94,6 @@
    "price_text": "92000"
   },
   {
-   "article_no": "2653244893",
-   "trade": "B1",
-   "deposit": 92000,
-   "rent": 0,
-   "area_exclusive": 75.99,
-   "area_supply": 99.91,
-   "floor": "4/19",
-   "building": "5606",
-   "direction": "WS",
-   "confirmed": "2026-10-03",
-   "description": "시스템에어컨 로얄동 조용하고 밝은집입니다 남위례역 도보가능",
-   "realtor": "명품래미안공인중개사사무소",
-   "price_text": "92000"
-  },
-  {
    "article_no": "2653201054",
    "trade": "B1",
    "deposit": 92000,
@@ -106,6 +106,36 @@
    "confirmed": "2026-10-03",
    "description": "내부 최상. 정원뷰. 초중고 인접. 시스템에어컨. 남위례역 도보. 인덕션",
    "realtor": "위례열린공인중개사사무소",
+   "price_text": "92000"
+  },
+  {
+   "article_no": "2653221726",
+   "trade": "B1",
+   "deposit": 92000,
+   "rent": 0,
+   "area_exclusive": 75.99,
+   "area_supply": 99.91,
+   "floor": "4/19",
+   "building": "5606",
+   "direction": "WS",
+   "confirmed": "2026-10-03",
+   "description": "시스템에어컨 조용하고 전망 예쁜 집",
+   "realtor": "명품현대공인중개사사무소",
+   "price_text": "92000"
+  },
+  {
+   "article_no": "2653244893",
+   "trade": "B1",
+   "deposit": 92000,
+   "rent": 0,
+   "area_exclusive": 75.99,
+   "area_supply": 99.91,
+   "floor": "4/19",
+   "building": "5606",
+   "direction": "WS",
+   "confirmed": "2026-10-03",
+   "description": "시스템에어컨 로얄동 조용하고 밝은집입니다 남위례역 도보가능",
+   "realtor": "명품래미안공인중개사사무소",
    "price_text": "92000"
   },
   {
@@ -139,21 +169,6 @@
    "price_text": "92000"
   },
   {
-   "article_no": "2652984405",
-   "trade": "B1",
-   "deposit": 92000,
-   "rent": 0,
-   "area_exclusive": 75.99,
-   "area_supply": 99.91,
-   "floor": "4/19",
-   "building": "5606",
-   "direction": "WS",
-   "confirmed": "2026-10-02",
-   "description": "30a 로얄동 층  초중고어린이집 남위례도보",
-   "realtor": "단지내래미안이편한부동산중개법인 주식회사",
-   "price_text": "92000"
-  },
-  {
    "article_no": "2652998378",
    "trade": "B1",
    "deposit": 92000,
@@ -169,7 +184,7 @@
    "price_text": "92000"
   },
   {
-   "article_no": "2652936530",
+   "article_no": "2652984405",
    "trade": "B1",
    "deposit": 92000,
    "rent": 0,
@@ -179,38 +194,8 @@
    "building": "5606",
    "direction": "WS",
    "confirmed": "2026-10-02",
-   "description": "시온 중앙광장 로얄동 로얄층 방3 시스템 초중고학세권 남위례역대단지",
-   "realtor": "시온공인중개사사무소",
-   "price_text": "92000"
-  },
-  {
-   "article_no": "2652925650",
-   "trade": "B1",
-   "deposit": 92000,
-   "rent": 0,
-   "area_exclusive": 75.99,
-   "area_supply": 99.91,
-   "floor": "4/19",
-   "building": "5606",
-   "direction": "WS",
-   "confirmed": "2026-10-02",
-   "description": "L 초품아. 안전한 통학. 커뮤니티 이용편리. 개방감 있음. 에어컨 유",
-   "realtor": "월드공인중개사사무소",
-   "price_text": "92000"
-  },
-  {
-   "article_no": "2652699319",
-   "trade": "B1",
-   "deposit": 92000,
-   "rent": 0,
-   "area_exclusive": 75.99,
-   "area_supply": 99.91,
-   "floor": "4/19",
-   "building": "5606",
-   "direction": "WS",
-   "confirmed": "2026-10-01",
-   "description": "시스템에어컨 로얄동 조용하고 아주밝은 집입니다 초중고 인접",
-   "realtor": "명품래미안공인중개사사무소",
+   "description": "30a 로얄동 층  초중고어린이집 남위례도보",
+   "realtor": "단지내래미안이편한부동산중개법인 주식회사",
    "price_text": "92000"
   },
   {
@@ -229,7 +214,7 @@
    "price_text": "92000"
   },
   {
-   "article_no": "2652626179",
+   "article_no": "2652699319",
    "trade": "B1",
    "deposit": 92000,
    "rent": 0,
@@ -237,10 +222,10 @@
    "area_supply": 99.91,
    "floor": "4/19",
    "building": "5606",
-   "direction": "SS",
+   "direction": "WS",
    "confirmed": "2026-10-01",
-   "description": "내부 최상. 정원뷰. 초중고 인접. 시스템에어컨. 남위례역 도보. 인덕션",
-   "realtor": "위례열린공인중개사사무소",
+   "description": "시스템에어컨 로얄동 조용하고 아주밝은 집입니다 초중고 인접",
+   "realtor": "명품래미안공인중개사사무소",
    "price_text": "92000"
   },
   {
@@ -484,21 +469,6 @@
    "price_text": "95000"
   },
   {
-   "article_no": "2652925402",
-   "trade": "B1",
-   "deposit": 95000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 111.85,
-   "floor": "중/15",
-   "building": "5615",
-   "direction": "WS",
-   "confirmed": "2026-10-02",
-   "description": "L 정상입주 빠른입주 융자없음 지하철 초근접동 입주일 협의가능",
-   "realtor": "월드공인중개사사무소",
-   "price_text": "95000"
-  },
-  {
    "article_no": "2651988501",
    "trade": "B1",
    "deposit": 95000,
@@ -574,6 +544,21 @@
    "price_text": "95000"
   },
   {
+   "article_no": "2653360078",
+   "trade": "B1",
+   "deposit": 98000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 111.85,
+   "floor": "고/15",
+   "building": "5604",
+   "direction": "SS",
+   "confirmed": "2026-10-05",
+   "description": "융자무. 시스템에어컨.  판상형. 위례역 도보권. 초중고 인접. 채광좋음",
+   "realtor": "위례열린공인중개사사무소",
+   "price_text": "98000"
+  },
+  {
    "article_no": "2653316535",
    "trade": "B1",
    "deposit": 98000,
@@ -586,21 +571,6 @@
    "confirmed": "2026-10-03",
    "description": "시스템에어컨풀 탁트인뷰 융자없어요 초중고 인접한 대단지 아파트입니",
    "realtor": "명품래미안공인중개사사무소",
-   "price_text": "98000"
-  },
-  {
-   "article_no": "2653298702",
-   "trade": "B1",
-   "deposit": 98000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 111.85,
-   "floor": "고/15",
-   "building": "5604",
-   "direction": "WS",
-   "confirmed": "2026-10-03",
-   "description": "융자무, 에어컨유, 컨디션좋음, 판상형구조, 1월중협의",
-   "realtor": "두리공인중개사사무소",
    "price_text": "98000"
   },
   {
@@ -631,6 +601,21 @@
    "confirmed": "2026-10-03",
    "description": "트인전망, 초등학교 인접, 시스템에어컨, 융무, 협의",
    "realtor": "위례엘리트힐스테이트공인중개사사무소",
+   "price_text": "98000"
+  },
+  {
+   "article_no": "2653298702",
+   "trade": "B1",
+   "deposit": 98000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 111.85,
+   "floor": "고/15",
+   "building": "5604",
+   "direction": "WS",
+   "confirmed": "2026-10-03",
+   "description": "융자무, 에어컨유, 컨디션좋음, 판상형구조, 1월중협의",
+   "realtor": "두리공인중개사사무소",
    "price_text": "98000"
   },
   {
@@ -679,21 +664,6 @@
    "price_text": "98000"
   },
   {
-   "article_no": "2652927865",
-   "trade": "B1",
-   "deposit": 98000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 111.85,
-   "floor": "고/15",
-   "building": "5604",
-   "direction": "WS",
-   "confirmed": "2026-10-02",
-   "description": "L 로얄동. 확실한 개방감. 초품아. 시스템에어컨. 융자없음",
-   "realtor": "월드공인중개사사무소",
-   "price_text": "98000"
-  },
-  {
    "article_no": "2652785200",
    "trade": "B1",
    "deposit": 98000,
@@ -706,21 +676,6 @@
    "confirmed": "2026-10-01",
    "description": "ACE.시에풀.탁트인개방감.학교,상가,남위례역가까운 생활편리.융무.",
    "realtor": "에이스호반(02-400-5665)공인중개사사무소",
-   "price_text": "98000"
-  },
-  {
-   "article_no": "2652424493",
-   "trade": "B1",
-   "deposit": 98000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 111.85,
-   "floor": "고/15",
-   "building": "5604",
-   "direction": "SS",
-   "confirmed": "2026-09-30",
-   "description": "융자무. 시스템에어컨.  판상형. 위례역 도보권. 초중고 인접. 채광좋음",
-   "realtor": "위례열린공인중개사사무소",
    "price_text": "98000"
   },
   {
@@ -814,21 +769,6 @@
    "price_text": "100000"
   },
   {
-   "article_no": "2652999846",
-   "trade": "B1",
-   "deposit": 100000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 111.85,
-   "floor": "13/18",
-   "building": "5618",
-   "direction": "WS",
-   "confirmed": "2026-10-02",
-   "description": "입주 채광밝은 트인전망 초중고 남위례역 도보권 인기",
-   "realtor": "금메달공인중개사사무소",
-   "price_text": "100000"
-  },
-  {
    "article_no": "2653103138",
    "trade": "B1",
    "deposit": 100000,
@@ -841,6 +781,21 @@
    "confirmed": "2026-10-02",
    "description": "34,융자무 6억반전세가능 지하철역근접로얄동 로얄층 트인조망 남향채광",
    "realtor": "위례래미안공인중개사사무소",
+   "price_text": "100000"
+  },
+  {
+   "article_no": "2652999846",
+   "trade": "B1",
+   "deposit": 100000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 111.85,
+   "floor": "13/18",
+   "building": "5618",
+   "direction": "WS",
+   "confirmed": "2026-10-02",
+   "description": "입주 채광밝은 트인전망 초중고 남위례역 도보권 인기",
+   "realtor": "금메달공인중개사사무소",
    "price_text": "100000"
   },
   {
@@ -964,6 +919,21 @@
    "price_text": "100000"
   },
   {
+   "article_no": "2653360328",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 100,
+   "area_exclusive": 84.98,
+   "area_supply": 111.85,
+   "floor": "13/18",
+   "building": "5618",
+   "direction": "SS",
+   "confirmed": "2026-10-05",
+   "description": "시에풀  빠른입주 정남향 남위례역 도보 02 406 9966",
+   "realtor": "위례갤러리공인중개사사무소",
+   "price_text": "70000/100"
+  },
+  {
    "article_no": "2653223400",
    "trade": "B2",
    "deposit": 70000,
@@ -976,21 +946,6 @@
    "confirmed": "2026-10-03",
    "description": "빠른입주 남위례역 가까운동 초중고어린이집 집상태좋음. 뷰좋고 채광좋음",
    "realtor": "단지내래미안이편한부동산중개법인 주식회사",
-   "price_text": "70000/100"
-  },
-  {
-   "article_no": "2653244981",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 100,
-   "area_exclusive": 84.98,
-   "area_supply": 111.85,
-   "floor": "13/18",
-   "building": "5618",
-   "direction": "WS",
-   "confirmed": "2026-10-03",
-   "description": "빠른입주 가능 남위례역 도보가능 초중고 인접한 대단지 아파트 입니다",
-   "realtor": "명품래미안공인중개사사무소",
    "price_text": "70000/100"
   },
   {
@@ -1009,7 +964,7 @@
    "price_text": "70000/100"
   },
   {
-   "article_no": "2653201330",
+   "article_no": "2653244981",
    "trade": "B2",
    "deposit": 70000,
    "rent": 100,
@@ -1017,10 +972,10 @@
    "area_supply": 111.85,
    "floor": "13/18",
    "building": "5618",
-   "direction": "SS",
+   "direction": "WS",
    "confirmed": "2026-10-03",
-   "description": "시에풀  빠른입주 정남향 남위례역 도보 02 406 9966",
-   "realtor": "위례갤러리공인중개사사무소",
+   "description": "빠른입주 가능 남위례역 도보가능 초중고 인접한 대단지 아파트 입니다",
+   "realtor": "명품래미안공인중개사사무소",
    "price_text": "70000/100"
   },
   {
@@ -1219,6 +1174,21 @@
    "price_text": "80000/100"
   },
   {
+   "article_no": "2653358382",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 140,
+   "area_exclusive": 84.98,
+   "area_supply": 111.85,
+   "floor": "13/18",
+   "building": "5618",
+   "direction": "WS",
+   "confirmed": "2026-10-05",
+   "description": "남위례역 도보권. 빠른입주 가능. 깔끔하고 채광 상태 좋음. 초중고인접",
+   "realtor": "위례열린공인중개사사무소",
+   "price_text": "60000/140"
+  },
+  {
    "article_no": "2653299387",
    "trade": "B2",
    "deposit": 60000,
@@ -1249,21 +1219,6 @@
    "price_text": "60000/140"
   },
   {
-   "article_no": "2653097860",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 140,
-   "area_exclusive": 84.98,
-   "area_supply": 111.85,
-   "floor": "13/18",
-   "building": "5618",
-   "direction": "WS",
-   "confirmed": "2026-10-02",
-   "description": "34, 판상형 입주일조율가 지하철역근접동 상권이용편리 채광우수",
-   "realtor": "위례래미안공인중개사사무소",
-   "price_text": "60000/140"
-  },
-  {
    "article_no": "2652971992",
    "trade": "B2",
    "deposit": 60000,
@@ -1276,6 +1231,21 @@
    "confirmed": "2026-10-02",
    "description": "빠른입주 로얄동 층 초중고어린이집 남위례도보 커뮤니티 가까운동",
    "realtor": "단지내래미안이편한부동산중개법인 주식회사",
+   "price_text": "60000/140"
+  },
+  {
+   "article_no": "2653097860",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 140,
+   "area_exclusive": 84.98,
+   "area_supply": 111.85,
+   "floor": "13/18",
+   "building": "5618",
+   "direction": "WS",
+   "confirmed": "2026-10-02",
+   "description": "34, 판상형 입주일조율가 지하철역근접동 상권이용편리 채광우수",
+   "realtor": "위례래미안공인중개사사무소",
    "price_text": "60000/140"
   },
   {
