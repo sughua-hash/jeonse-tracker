@@ -1,5 +1,5 @@
 {
- "date": "2026-10-05",
+ "date": "2026-10-06",
  "complexNo": "27297",
  "name": "이안남양주",
  "articles": [
@@ -47,6 +47,36 @@
    "description": "로얄동 로얄층 귀한전세",
    "realtor": "씨티공인중개사사무소",
    "price_text": "31000"
+  },
+  {
+   "article_no": "2653422644",
+   "trade": "B1",
+   "deposit": 31500,
+   "rent": 0,
+   "area_exclusive": 84.63,
+   "area_supply": 109.45,
+   "floor": "14/16",
+   "building": "104",
+   "direction": "EE",
+   "confirmed": "2026-10-05",
+   "description": "확장형,깨끗,입주는 12월17일이후 협의가능",
+   "realtor": "이안대우공인중개사사무소",
+   "price_text": "31500"
+  },
+  {
+   "article_no": "2653413974",
+   "trade": "B1",
+   "deposit": 31500,
+   "rent": 0,
+   "area_exclusive": 84.63,
+   "area_supply": 109.45,
+   "floor": "14/16",
+   "building": "104",
+   "direction": "ES",
+   "confirmed": "2026-10-05",
+   "description": "로얄동 로얄층 내부깨끗한 귀한 전세입니다",
+   "realtor": "포스코부동산공인중개사사무소",
+   "price_text": "31500"
   },
   {
    "article_no": "2653313887",

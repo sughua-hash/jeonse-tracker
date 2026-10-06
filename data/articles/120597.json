@@ -1,5 +1,5 @@
 {
- "date": "2026-10-05",
+ "date": "2026-10-06",
  "complexNo": "120597",
  "name": "남양주두산위브트레지움",
  "articles": [
@@ -154,21 +154,6 @@
    "price_text": "5000/150"
   },
   {
-   "article_no": "2652862472",
-   "trade": "B2",
-   "deposit": 5000,
-   "rent": 150,
-   "area_exclusive": 84.95,
-   "area_supply": 114.7,
-   "floor": "13/31",
-   "building": "109",
-   "direction": "ES",
-   "confirmed": "2026-10-01",
-   "description": "즉시입주 가능한 내부깨끗한 월세입니다",
-   "realtor": "포스코부동산공인중개사사무소",
-   "price_text": "5000/150"
-  },
-  {
    "article_no": "2652447269",
    "trade": "B2",
    "deposit": 4000,
@@ -196,6 +181,21 @@
    "confirmed": "2026-09-29",
    "description": "융자무 조망굿 에5 대리석주방 중문 방3 반려동물 안됨 이사 한달이상 협",
    "realtor": "봄날트레지움 공인중개사사무소",
+   "price_text": "4000/170"
+  },
+  {
+   "article_no": "2653286173",
+   "trade": "B2",
+   "deposit": 4000,
+   "rent": 170,
+   "area_exclusive": 84.95,
+   "area_supply": 114.7,
+   "floor": "중/33",
+   "building": "104",
+   "direction": "ES",
+   "confirmed": "2026-10-06",
+   "description": "융자무 빠른입주가능 올인테리어",
+   "realtor": "메인공인중개사사무소",
    "price_text": "4000/170"
   },
   {
