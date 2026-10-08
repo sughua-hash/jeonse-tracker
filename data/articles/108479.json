@@ -1,5 +1,5 @@
 {
- "date": "2026-10-07",
+ "date": "2026-10-08",
  "complexNo": "108479",
  "name": "미사강변푸르지오2차",
  "articles": [
@@ -17,6 +17,36 @@
    "description": "융자무 풀에어컨설치 27년1월입주 손님만연락",
    "realtor": "미사푸르지오공인중개사사무소",
    "price_text": "95000"
+  },
+  {
+   "article_no": "2654041065",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 150,
+   "area_exclusive": 101.89,
+   "area_supply": 132.06,
+   "floor": "중/29",
+   "building": "107",
+   "direction": "WS",
+   "confirmed": "2026-10-08",
+   "description": "시원하게 트인뷰, 1월입주, 엘베2대동, 에어컨,손님만연락, 초중고근접",
+   "realtor": "미사솔로몬공인중개사사무소",
+   "price_text": "50000/150"
+  },
+  {
+   "article_no": "2654041328",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 165,
+   "area_exclusive": 101.81,
+   "area_supply": 131.53,
+   "floor": "중/29",
+   "building": "103",
+   "direction": "WS",
+   "confirmed": "2026-10-08",
+   "description": "탁트인 한강뷰, 채광좋고 컨디션굿, 초중고도보5분",
+   "realtor": "미사솔로몬공인중개사사무소",
+   "price_text": "50000/165"
   }
  ]
 }

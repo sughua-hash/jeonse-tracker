@@ -1,5 +1,5 @@
 {
- "date": "2026-10-07",
+ "date": "2026-10-08",
  "complexNo": "983",
  "name": "푸른마을",
  "articles": [
@@ -64,6 +64,21 @@
    "price_text": "75000"
   },
   {
+   "article_no": "2653662774",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "중/15",
+   "building": "101",
+   "direction": "EE",
+   "confirmed": "2026-10-06",
+   "description": "25 중동중 중산고 입주일 협의",
+   "realtor": "래미안공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
    "article_no": "2653763209",
    "trade": "B1",
    "deposit": 75000,
@@ -79,21 +94,6 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2653662774",
-   "trade": "B1",
-   "deposit": 77000,
-   "rent": 0,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "중/15",
-   "building": "101",
-   "direction": "EE",
-   "confirmed": "2026-10-06",
-   "description": "25 중동중 중산고 입주일 협의",
-   "realtor": "래미안공인중개사사무소",
-   "price_text": "77000"
-  },
-  {
    "article_no": "2652827978",
    "trade": "B1",
    "deposit": 80000,
@@ -106,6 +106,21 @@
    "confirmed": "2026-10-01",
    "description": "25.남향. 오래거주가능. 조건맞춰드려요",
    "realtor": "일원뱅크공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2653952742",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "중/15",
+   "building": "107",
+   "direction": "SS",
+   "confirmed": "2026-10-07",
+   "description": "25 . 귀한전세 . 남향. 로얄동 우수학군 입주일협의",
+   "realtor": "엘리트공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -139,7 +154,7 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2652643834",
+   "article_no": "2653896810",
    "trade": "B1",
    "deposit": 80000,
    "rent": 0,
@@ -147,10 +162,10 @@
    "area_supply": 82.14,
    "floor": "중/15",
    "building": "107",
-   "direction": "SS",
-   "confirmed": "2026-10-01",
-   "description": "25 . 귀한전세 . 남향. 로얄동 우수학군 입주일협의",
-   "realtor": "엘리트공인중개사사무소",
+   "direction": "EE",
+   "confirmed": "2026-10-07",
+   "description": "귀한전세 . 입주협의 . 학군우수한 역세권 . 탁트인전망",
+   "realtor": "양지공인중개사사무소",
    "price_text": "80000"
   },
   {

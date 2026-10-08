@@ -1,5 +1,5 @@
 {
- "date": "2026-10-07",
+ "date": "2026-10-08",
  "complexNo": "27297",
  "name": "이안남양주",
  "articles": [
@@ -79,18 +79,18 @@
    "price_text": "31500"
   },
   {
-   "article_no": "2653313887",
+   "article_no": "2653869900",
    "trade": "B1",
    "deposit": 33000,
    "rent": 0,
    "area_exclusive": 84.61,
    "area_supply": 110.28,
-   "floor": "9/18",
+   "floor": "8/18",
    "building": "106",
-   "direction": "EE",
-   "confirmed": "2026-10-03",
-   "description": "중문설치,도배함, 확장형,조망좋음,입주협의",
-   "realtor": "이안대우공인중개사사무소",
+   "direction": "WS",
+   "confirmed": "2026-10-07",
+   "description": "전망좋은 조용한단지 귀한전세입니다",
+   "realtor": "포스코부동산공인중개사사무소",
    "price_text": "33000"
   },
   {
@@ -105,6 +105,21 @@
    "direction": "SS",
    "confirmed": "2026-10-02",
    "description": "입주협의 확장형",
+   "realtor": "이안대우공인중개사사무소",
+   "price_text": "33000"
+  },
+  {
+   "article_no": "2653313887",
+   "trade": "B1",
+   "deposit": 33000,
+   "rent": 0,
+   "area_exclusive": 84.61,
+   "area_supply": 110.28,
+   "floor": "9/18",
+   "building": "106",
+   "direction": "EE",
+   "confirmed": "2026-10-03",
+   "description": "중문설치,도배함, 확장형,조망좋음,입주협의",
    "realtor": "이안대우공인중개사사무소",
    "price_text": "33000"
   },
