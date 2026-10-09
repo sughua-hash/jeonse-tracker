@@ -1,5 +1,5 @@
 {
- "date": "2026-10-08",
+ "date": "2026-10-09",
  "complexNo": "140148",
  "name": "고덕풍경채어바니티",
  "articles": [
@@ -49,22 +49,22 @@
    "price_text": "85000"
   },
   {
-   "article_no": "2648532421",
+   "article_no": "2654347977",
    "trade": "B1",
-   "deposit": 85000,
+   "deposit": 90000,
    "rent": 0,
-   "area_exclusive": 84.23,
-   "area_supply": 117.54,
+   "area_exclusive": 84.67,
+   "area_supply": 118.24,
    "floor": "저/25",
    "building": "102",
-   "direction": "ES",
-   "confirmed": "2026-09-08",
-   "description": "조망최상 넓은테라스 각종팬트리 붙박이장 설치 풀에어컨",
-   "realtor": "선우부동산 공인중개사사무소",
-   "price_text": "85000"
+   "direction": "SS",
+   "confirmed": "2026-10-09",
+   "description": "34p 큰문 다락형 넓은펜트리 수납공간 풀옵션",
+   "realtor": "큰문공인중개사사무소",
+   "price_text": "90000"
   },
   {
-   "article_no": "2653894226",
+   "article_no": "2654154672",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -73,13 +73,13 @@
    "floor": "저/25",
    "building": "102",
    "direction": "EE",
-   "confirmed": "2026-10-07",
+   "confirmed": "2026-10-08",
    "description": "에풀 풀옵션, 층간소음 걱정없는 복층, 비즈밸리상권이용",
    "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
    "price_text": "90000"
   },
   {
-   "article_no": "2653525016",
+   "article_no": "2654116575",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -88,22 +88,7 @@
    "floor": "저/25",
    "building": "102",
    "direction": "SS",
-   "confirmed": "2026-10-06",
-   "description": "34p 큰문 다락형 넓은펜트리 수납공간 풀옵션",
-   "realtor": "큰문공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2653611500",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.67,
-   "area_supply": 118.24,
-   "floor": "저/25",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-10-06",
+   "confirmed": "2026-10-08",
    "description": "넉넉한 수납공간. 다락방.풀에어컨. 실링팬.주인거주 관리 잘된집",
    "realtor": "고덕햇살426-3336공인중개사사무소",
    "price_text": "90000"
@@ -169,21 +154,6 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2652905070",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.64,
-   "area_supply": 117.37,
-   "floor": "저/25",
-   "building": "103",
-   "direction": "WW",
-   "confirmed": "2026-10-01",
-   "description": "",
-   "realtor": "풍경채어바니티(단지내)부동산중개",
-   "price_text": "90000"
-  },
-  {
    "article_no": "2652907331",
    "trade": "B1",
    "deposit": 90000,
@@ -193,6 +163,21 @@
    "floor": "중/25",
    "building": "101",
    "direction": "SS",
+   "confirmed": "2026-10-01",
+   "description": "",
+   "realtor": "풍경채어바니티(단지내)부동산중개",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2652905070",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.64,
+   "area_supply": 117.37,
+   "floor": "저/25",
+   "building": "103",
+   "direction": "WW",
    "confirmed": "2026-10-01",
    "description": "",
    "realtor": "풍경채어바니티(단지내)부동산중개",
@@ -212,6 +197,36 @@
    "description": "채광좋은 방3화2, 에어컨풀, 공기청정 옵션풀",
    "realtor": "풍경채선우부동산공인중개사사무소",
    "price_text": "90000"
+  },
+  {
+   "article_no": "2654344446",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 101.04,
+   "area_supply": 138.88,
+   "floor": "중/26",
+   "building": "104",
+   "direction": "SS",
+   "confirmed": "2026-10-09",
+   "description": "추천 매물.풀 옵션 . 관리잘된 집. 입주일 조정가능.",
+   "realtor": "김앤김그라시움공인",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2654311679",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 101.04,
+   "area_supply": 138.88,
+   "floor": "중/26",
+   "building": "104",
+   "direction": "SS",
+   "confirmed": "2026-10-08",
+   "description": "추천 매물.풀 옵션 . 관리잘된 집. 입주일 조정가능.",
+   "realtor": "김앤김그라시움공인",
+   "price_text": "120000"
   },
   {
    "article_no": "2653614424",
@@ -259,6 +274,21 @@
    "price_text": "120000"
   },
   {
+   "article_no": "2654347985",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 100,
+   "area_exclusive": 84.67,
+   "area_supply": 118.24,
+   "floor": "저/25",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-10-09",
+   "description": "34p 큰문 다락형 넓은펜트리 수납공간 풀옵션",
+   "realtor": "큰문공인중개사사무소",
+   "price_text": "70000/100"
+  },
+  {
    "article_no": "2653615480",
    "trade": "B2",
    "deposit": 70000,
@@ -271,21 +301,6 @@
    "confirmed": "2026-10-06",
    "description": "넓은 다락방. 팬트리등 수납공간 좋은집. 풀에어컨.아이들 키우기 좋은집",
    "realtor": "고덕햇살426-3336공인중개사사무소",
-   "price_text": "70000/100"
-  },
-  {
-   "article_no": "2652735520",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 100,
-   "area_exclusive": 84.67,
-   "area_supply": 118.24,
-   "floor": "저/25",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-10-01",
-   "description": "34p 큰문 다락형 넓은펜트리 수납공간 풀옵션",
-   "realtor": "큰문공인중개사사무소",
    "price_text": "70000/100"
   },
   {
@@ -349,19 +364,34 @@
    "price_text": "70000/100"
   },
   {
-   "article_no": "2648532236",
+   "article_no": "2654344440",
    "trade": "B2",
-   "deposit": 70000,
-   "rent": 100,
-   "area_exclusive": 84.67,
-   "area_supply": 118.24,
-   "floor": "저/25",
-   "building": "102",
-   "direction": "WW",
-   "confirmed": "2026-09-08",
-   "description": "다락방  각종팬트리 붙박이장 설치 풀에어컨",
-   "realtor": "선우부동산 공인중개사사무소",
-   "price_text": "70000/100"
+   "deposit": 80000,
+   "rent": 160,
+   "area_exclusive": 101.04,
+   "area_supply": 138.88,
+   "floor": "중/26",
+   "building": "104",
+   "direction": "SS",
+   "confirmed": "2026-10-09",
+   "description": "추천 매물.풀 옵션 . 관리잘된 집. 입주일 조정가능.",
+   "realtor": "김앤김그라시움공인",
+   "price_text": "80000/160"
+  },
+  {
+   "article_no": "2654312556",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 160,
+   "area_exclusive": 101.04,
+   "area_supply": 138.88,
+   "floor": "중/26",
+   "building": "104",
+   "direction": "SS",
+   "confirmed": "2026-10-08",
+   "description": "추천 매물.풀 옵션 . 관리잘된 집. 입주일 조정가능.",
+   "realtor": "김앤김그라시움공인",
+   "price_text": "80000/160"
   },
   {
    "article_no": "2653615143",
@@ -436,21 +466,6 @@
    "confirmed": "2026-09-09",
    "description": "정남향, 42P 방4화2, 최고의 뷰, 풀옵션",
    "realtor": "풍경채선우부동산공인중개사사무소",
-   "price_text": "80000/160"
-  },
-  {
-   "article_no": "2648531016",
-   "trade": "B2",
-   "deposit": 80000,
-   "rent": 160,
-   "area_exclusive": 101.04,
-   "area_supply": 138.88,
-   "floor": "중/26",
-   "building": "104",
-   "direction": "SS",
-   "confirmed": "2026-09-08",
-   "description": " 넓은전실 각종팬트리 붙박이장 설치 풀에어컨 방4개",
-   "realtor": "선우부동산 공인중개사사무소",
    "price_text": "80000/160"
   }
  ]
