@@ -1,23 +1,8 @@
 {
- "date": "2026-10-09",
+ "date": "2026-10-10",
  "complexNo": "983",
  "name": "푸른마을",
  "articles": [
-  {
-   "article_no": "2654246945",
-   "trade": "B1",
-   "deposit": 52500,
-   "rent": 0,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "고/15",
-   "building": "108",
-   "direction": "EE",
-   "confirmed": "2026-10-08",
-   "description": "확장특올수리 . 12월초 입주협의",
-   "realtor": "양지공인중개사사무소",
-   "price_text": "52500"
-  },
   {
    "article_no": "2654286984",
    "trade": "B1",
@@ -154,21 +139,6 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2652914220",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "중/15",
-   "building": "107",
-   "direction": "EE",
-   "confirmed": "2026-10-02",
-   "description": "남향 귀한전세 12월입주  오래거주가능",
-   "realtor": "삼성(3411-8100)공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2652941980",
    "trade": "B1",
    "deposit": 80000,
@@ -181,6 +151,21 @@
    "confirmed": "2026-10-02",
    "description": "25 남향 뷰좋은집 수리상태깨끗 잔금일협의",
    "realtor": "엘리트공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2652914220",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "중/15",
+   "building": "107",
+   "direction": "EE",
+   "confirmed": "2026-10-02",
+   "description": "남향 귀한전세 12월입주  오래거주가능",
+   "realtor": "삼성(3411-8100)공인중개사사무소",
    "price_text": "80000"
   },
   {

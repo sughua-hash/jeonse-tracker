@@ -1,23 +1,8 @@
 {
- "date": "2026-10-09",
+ "date": "2026-10-10",
  "complexNo": "150311",
  "name": "빌리브센트하이",
  "articles": [
-  {
-   "article_no": "2653297655",
-   "trade": "B1",
-   "deposit": 42000,
-   "rent": 0,
-   "area_exclusive": 84.97,
-   "area_supply": 112.41,
-   "floor": "6/29",
-   "building": "101",
-   "direction": "SS",
-   "confirmed": "2026-10-06",
-   "description": "역세권  첫입주  주상복합아파트  잔금완료 전세자금대출 안됨.",
-   "realtor": "동원써브공인중개사사무소",
-   "price_text": "42000"
-  },
   {
    "article_no": "2653190621",
    "trade": "B1",
@@ -169,21 +154,6 @@
    "price_text": "45000"
   },
   {
-   "article_no": "2650395893",
-   "trade": "B1",
-   "deposit": 45000,
-   "rent": 0,
-   "area_exclusive": 84.97,
-   "area_supply": 112.41,
-   "floor": "12/29",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-09-17",
-   "description": "귀한전세 초중학교 인접 생활편리 신축아파트 입주협의",
-   "realtor": "명진공인중개사",
-   "price_text": "45000"
-  },
-  {
    "article_no": "2650376773",
    "trade": "B1",
    "deposit": 45000,
@@ -196,6 +166,21 @@
    "confirmed": "2026-09-17",
    "description": "",
    "realtor": "인터넷공인중개사사무소",
+   "price_text": "45000"
+  },
+  {
+   "article_no": "2650395893",
+   "trade": "B1",
+   "deposit": 45000,
+   "rent": 0,
+   "area_exclusive": 84.97,
+   "area_supply": 112.41,
+   "floor": "12/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-09-17",
+   "description": "귀한전세 초중학교 인접 생활편리 신축아파트 입주협의",
+   "realtor": "명진공인중개사",
    "price_text": "45000"
   },
   {
@@ -364,21 +349,6 @@
    "price_text": "20000/180"
   },
   {
-   "article_no": "2650321962",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 180,
-   "area_exclusive": 84.97,
-   "area_supply": 112.41,
-   "floor": "12/29",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-09-17",
-   "description": "조먕트임 주인거주 마석역광역버스 생활편리",
-   "realtor": "대주파크빌공인중개사사무소",
-   "price_text": "20000/180"
-  },
-  {
    "article_no": "2650396390",
    "trade": "B2",
    "deposit": 20000,
@@ -391,6 +361,21 @@
    "confirmed": "2026-09-17",
    "description": "시스템에어컨 신축 역세권 입주날짜협의",
    "realtor": "명진공인중개사",
+   "price_text": "20000/180"
+  },
+  {
+   "article_no": "2650321962",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 180,
+   "area_exclusive": 84.97,
+   "area_supply": 112.41,
+   "floor": "12/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-09-17",
+   "description": "조먕트임 주인거주 마석역광역버스 생활편리",
+   "realtor": "대주파크빌공인중개사사무소",
    "price_text": "20000/180"
   },
   {
