@@ -1,5 +1,5 @@
 {
- "date": "2026-10-10",
+ "date": "2026-10-11",
  "complexNo": "115018",
  "name": "더샵지제역센트럴파크(1BL)",
  "articles": [
@@ -64,6 +64,21 @@
    "price_text": "20500"
   },
   {
+   "article_no": "2654600087",
+   "trade": "B1",
+   "deposit": 26000,
+   "rent": 0,
+   "area_exclusive": 59.62,
+   "area_supply": 79.7,
+   "floor": "2/27",
+   "building": "121",
+   "direction": "WS",
+   "confirmed": "2026-10-10",
+   "description": "융자무 시에2대 27년3월협의입주 주차지하2층동",
+   "realtor": "지제더샵단지내공인중개사사무소",
+   "price_text": "26000"
+  },
+  {
    "article_no": "2653597993",
    "trade": "B1",
    "deposit": 26000,
@@ -106,21 +121,6 @@
    "confirmed": "2026-10-03",
    "description": "K.무융자.수납좋은타입.주차편리.엘베2대.27년3월중순부터협의입주",
    "realtor": "더샵금메달공인중개사사무소",
-   "price_text": "27000"
-  },
-  {
-   "article_no": "2651849350",
-   "trade": "B1",
-   "deposit": 27000,
-   "rent": 0,
-   "area_exclusive": 59.76,
-   "area_supply": 79.49,
-   "floor": "중/27",
-   "building": "104",
-   "direction": "WS",
-   "confirmed": "2026-09-28",
-   "description": "추천 융자무 시에2대 집깔끔 1월초협의입주 언제든볼수있어요",
-   "realtor": "지제더샵단지내공인중개사사무소",
    "price_text": "27000"
   },
   {
@@ -194,7 +194,7 @@
    "building": "126",
    "direction": "ES",
    "confirmed": "2026-10-09",
-   "description": "K.지하2층주차.전면동.트인뷰.에어컨2대.2월중순협의입주",
+   "description": "K.지하2층주차.전면동.트인뷰.에어컨2대.2월5일입주",
    "realtor": "더샵금메달공인중개사사무소",
    "price_text": "31000"
   },
@@ -287,6 +287,21 @@
    "description": "11월협의입주풀옵션실링팬과예쁜조명전자제품일절가구일절 굿집깨끗함1인가구굿",
    "realtor": "더샵에이스부동산공인중개사사무소",
    "price_text": "2000/130"
+  },
+  {
+   "article_no": "2654527667",
+   "trade": "B2",
+   "deposit": 2000,
+   "rent": 140,
+   "area_exclusive": 74.97,
+   "area_supply": 99.14,
+   "floor": "고/27",
+   "building": "105",
+   "direction": "WS",
+   "confirmed": "2026-10-10",
+   "description": "1월7일 협의입주투인원에어컨집상태깨끗2년만 계약가능",
+   "realtor": "지제역더샵영신부동산공인중개사사무소",
+   "price_text": "2000/140"
   },
   {
    "article_no": "2653870272",
