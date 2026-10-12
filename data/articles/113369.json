@@ -94,21 +94,6 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2654594348",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.56,
-   "area_supply": 112.88,
-   "floor": "중/29",
-   "building": "5203",
-   "direction": "ES",
-   "confirmed": "2026-10-10",
-   "description": "공원뻥뷰,알파룸,12월 입주일협의 8호선인접 로얄동 로얄층",
-   "realtor": "하지민공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
    "article_no": "2654538643",
    "trade": "B1",
    "deposit": 90000,
@@ -121,6 +106,21 @@
    "confirmed": "2026-10-10",
    "description": "12월입주협의,시.에4대,중앙공원뷰,초중고인접",
    "realtor": "현대미소공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2654594348",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "ES",
+   "confirmed": "2026-10-10",
+   "description": "공원뻥뷰,알파룸,12월 입주일협의 8호선인접 로얄동 로얄층",
+   "realtor": "하지민공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -304,6 +304,21 @@
    "price_text": "30000/260"
   },
   {
+   "article_no": "2654676288",
+   "trade": "B2",
+   "deposit": 30000,
+   "rent": 260,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "ES",
+   "confirmed": "2026-10-12",
+   "description": "입주협의,중앙공원뷰,에어컨4,알파룸",
+   "realtor": "나라공인중개사사무소",
+   "price_text": "30000/260"
+  },
+  {
    "article_no": "2654775767",
    "trade": "B2",
    "deposit": 30000,
@@ -334,7 +349,7 @@
    "price_text": "30000/260"
   },
   {
-   "article_no": "2654676288",
+   "article_no": "2654438072",
    "trade": "B2",
    "deposit": 30000,
    "rent": 260,
@@ -343,9 +358,9 @@
    "floor": "중/29",
    "building": "5203",
    "direction": "ES",
-   "confirmed": "2026-10-12",
-   "description": "입주협의,중앙공원뷰,에어컨4,알파룸",
-   "realtor": "나라공인중개사사무소",
+   "confirmed": "2026-10-10",
+   "description": "땡큐추천, 중앙공원뷰, 주인거주로관리상태굿, 시에4대, 알파룸, 초중인접",
+   "realtor": "땡큐부동산공인중개사사무소",
    "price_text": "30000/260"
   },
   {
@@ -361,21 +376,6 @@
    "confirmed": "2026-10-10",
    "description": "공원뻥뷰,알파룸,12월 입주일협의 8호선인접 로얄동 로얄층",
    "realtor": "하지민공인중개사사무소",
-   "price_text": "30000/260"
-  },
-  {
-   "article_no": "2654438072",
-   "trade": "B2",
-   "deposit": 30000,
-   "rent": 260,
-   "area_exclusive": 84.56,
-   "area_supply": 112.88,
-   "floor": "중/29",
-   "building": "5203",
-   "direction": "ES",
-   "confirmed": "2026-10-10",
-   "description": "땡큐추천, 중앙공원뷰, 주인거주로관리상태굿, 시에4대, 알파룸, 초중인접",
-   "realtor": "땡큐부동산공인중개사사무소",
    "price_text": "30000/260"
   },
   {
