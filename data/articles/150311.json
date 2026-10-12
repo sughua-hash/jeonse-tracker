@@ -1,8 +1,23 @@
 {
- "date": "2026-10-11",
+ "date": "2026-10-12",
  "complexNo": "150311",
  "name": "빌리브센트하이",
  "articles": [
+  {
+   "article_no": "2654807910",
+   "trade": "B1",
+   "deposit": 43000,
+   "rent": 0,
+   "area_exclusive": 84.97,
+   "area_supply": 112.41,
+   "floor": "28/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-10-12",
+   "description": "신축 첫입주,확트인 조망,로얄동,시스템에어컨4,전철역세권,초중고인접",
+   "realtor": "에이스공인중개사사무소",
+   "price_text": "43000"
+  },
   {
    "article_no": "2653190621",
    "trade": "B1",
@@ -46,21 +61,6 @@
    "confirmed": "2026-09-28",
    "description": "급전세 조망 햇빛굿, 귀한84b타입, 에어컨4, 올확장",
    "realtor": "e편한 행복 공인중개사사무소",
-   "price_text": "43000"
-  },
-  {
-   "article_no": "2651471177",
-   "trade": "B1",
-   "deposit": 43000,
-   "rent": 0,
-   "area_exclusive": 84.97,
-   "area_supply": 112.41,
-   "floor": "28/29",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-09-23",
-   "description": "신축 첫입주,확트인 조망,로얄동,시스템에어컨4,전철역세권,초중고인접",
-   "realtor": "에이스공인중개사사무소",
    "price_text": "43000"
   },
   {
@@ -154,21 +154,6 @@
    "price_text": "45000"
   },
   {
-   "article_no": "2650376773",
-   "trade": "B1",
-   "deposit": 45000,
-   "rent": 0,
-   "area_exclusive": 84.97,
-   "area_supply": 112.41,
-   "floor": "12/29",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-09-17",
-   "description": "",
-   "realtor": "인터넷공인중개사사무소",
-   "price_text": "45000"
-  },
-  {
    "article_no": "2650395893",
    "trade": "B1",
    "deposit": 45000,
@@ -181,6 +166,21 @@
    "confirmed": "2026-09-17",
    "description": "귀한전세 초중학교 인접 생활편리 신축아파트 입주협의",
    "realtor": "명진공인중개사",
+   "price_text": "45000"
+  },
+  {
+   "article_no": "2650376773",
+   "trade": "B1",
+   "deposit": 45000,
+   "rent": 0,
+   "area_exclusive": 84.97,
+   "area_supply": 112.41,
+   "floor": "12/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-09-17",
+   "description": "",
+   "realtor": "인터넷공인중개사사무소",
    "price_text": "45000"
   },
   {
@@ -289,21 +289,6 @@
    "price_text": "50000"
   },
   {
-   "article_no": "2649270708",
-   "trade": "B1",
-   "deposit": 50000,
-   "rent": 0,
-   "area_exclusive": 98.84,
-   "area_supply": 129.73,
-   "floor": "27/29",
-   "building": "102",
-   "direction": "ES",
-   "confirmed": "2026-09-11",
-   "description": "즉시입주가 전세대출안됨 시스템에어컨4대",
-   "realtor": "신명스카이뷰그린공인중개사사무소",
-   "price_text": "50000"
-  },
-  {
    "article_no": "2651725429",
    "trade": "B1",
    "deposit": 50000,
@@ -349,21 +334,6 @@
    "price_text": "20000/180"
   },
   {
-   "article_no": "2650321962",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 180,
-   "area_exclusive": 84.97,
-   "area_supply": 112.41,
-   "floor": "12/29",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-09-17",
-   "description": "조먕트임 주인거주 마석역광역버스 생활편리",
-   "realtor": "대주파크빌공인중개사사무소",
-   "price_text": "20000/180"
-  },
-  {
    "article_no": "2650396390",
    "trade": "B2",
    "deposit": 20000,
@@ -376,6 +346,21 @@
    "confirmed": "2026-09-17",
    "description": "시스템에어컨 신축 역세권 입주날짜협의",
    "realtor": "명진공인중개사",
+   "price_text": "20000/180"
+  },
+  {
+   "article_no": "2650321962",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 180,
+   "area_exclusive": 84.97,
+   "area_supply": 112.41,
+   "floor": "12/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-09-17",
+   "description": "조먕트임 주인거주 마석역광역버스 생활편리",
+   "realtor": "대주파크빌공인중개사사무소",
    "price_text": "20000/180"
   },
   {

@@ -1,5 +1,5 @@
 {
- "date": "2026-10-11",
+ "date": "2026-10-12",
  "complexNo": "27297",
  "name": "이안남양주",
  "articles": [
@@ -19,21 +19,6 @@
    "price_text": "31000"
   },
   {
-   "article_no": "2653209157",
-   "trade": "B1",
-   "deposit": 31000,
-   "rent": 0,
-   "area_exclusive": 84.61,
-   "area_supply": 110.28,
-   "floor": "11/16",
-   "building": "105",
-   "direction": "SS",
-   "confirmed": "2026-10-03",
-   "description": "빠른입주 협의가능,확장형, 조용한라인",
-   "realtor": "이안대우공인중개사사무소",
-   "price_text": "31000"
-  },
-  {
    "article_no": "2652611058",
    "trade": "B1",
    "deposit": 31000,
@@ -49,6 +34,21 @@
    "price_text": "31000"
   },
   {
+   "article_no": "2654852251",
+   "trade": "B1",
+   "deposit": 31500,
+   "rent": 0,
+   "area_exclusive": 84.63,
+   "area_supply": 109.45,
+   "floor": "14/16",
+   "building": "104",
+   "direction": "ES",
+   "confirmed": "2026-10-12",
+   "description": "로얄동 로얄층 내부깨끗한 귀한 전세입니다",
+   "realtor": "포스코부동산공인중개사사무소",
+   "price_text": "31500"
+  },
+  {
    "article_no": "2653422644",
    "trade": "B1",
    "deposit": 31500,
@@ -61,21 +61,6 @@
    "confirmed": "2026-10-05",
    "description": "확장형,깨끗,입주는 12월16일 이전 협의가능",
    "realtor": "이안대우공인중개사사무소",
-   "price_text": "31500"
-  },
-  {
-   "article_no": "2653413974",
-   "trade": "B1",
-   "deposit": 31500,
-   "rent": 0,
-   "area_exclusive": 84.63,
-   "area_supply": 109.45,
-   "floor": "14/16",
-   "building": "104",
-   "direction": "ES",
-   "confirmed": "2026-10-05",
-   "description": "로얄동 로얄층 내부깨끗한 귀한 전세입니다",
-   "realtor": "포스코부동산공인중개사사무소",
    "price_text": "31500"
   },
   {
@@ -122,6 +107,21 @@
    "description": "중문설치,도배함, 확장형,조망좋음,입주협의",
    "realtor": "이안대우공인중개사사무소",
    "price_text": "33000"
+  },
+  {
+   "article_no": "2654761876",
+   "trade": "B1",
+   "deposit": 45000,
+   "rent": 0,
+   "area_exclusive": 134.06,
+   "area_supply": 164.02,
+   "floor": "5/16",
+   "building": "103",
+   "direction": "ES",
+   "confirmed": "2026-10-12",
+   "description": "입주협의 화도IC접근성좋음 확장형",
+   "realtor": "우방대명공인중개사사무소",
+   "price_text": "45000"
   },
   {
    "article_no": "2651939441",
@@ -196,21 +196,6 @@
    "confirmed": "2026-09-16",
    "description": "대형평수 귀한매물.확장형.깨끗.입주협의",
    "realtor": "OK공인중개사사무소",
-   "price_text": "45000"
-  },
-  {
-   "article_no": "2649322791",
-   "trade": "B1",
-   "deposit": 45000,
-   "rent": 0,
-   "area_exclusive": 134.06,
-   "area_supply": 164.02,
-   "floor": "5/16",
-   "building": "103",
-   "direction": "ES",
-   "confirmed": "2026-09-11",
-   "description": "입주협의 화도IC접근성좋음 확장형",
-   "realtor": "우방대명공인중개사사무소",
    "price_text": "45000"
   }
  ]
