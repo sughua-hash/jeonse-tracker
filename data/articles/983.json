@@ -1,5 +1,5 @@
 {
- "date": "2026-10-12",
+ "date": "2026-10-13",
  "complexNo": "983",
  "name": "푸른마을",
  "articles": [
@@ -15,6 +15,21 @@
    "direction": "SS",
    "confirmed": "2026-10-12",
    "description": "25 집주인매물 남향 입주일조정 오랫동안거주",
+   "realtor": "샘터공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
+   "article_no": "2654945573",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "7/15",
+   "building": "107",
+   "direction": "SS",
+   "confirmed": "2026-10-12",
+   "description": "25집주인매물 12월입주일조정 남향 로얄동 층 오랫동안거주가능",
    "realtor": "샘터공인중개사사무소",
    "price_text": "75000"
   },
@@ -49,21 +64,6 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2654945573",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "7/15",
-   "building": "107",
-   "direction": "SS",
-   "confirmed": "2026-10-12",
-   "description": "25집주인매물 12월입주일조정 남향 로얄동 층 오랫동안거주가능",
-   "realtor": "샘터공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
    "article_no": "2654181331",
    "trade": "B1",
    "deposit": 75000,
@@ -90,6 +90,21 @@
    "direction": "SS",
    "confirmed": "2026-10-07",
    "description": "25 . 귀한전세 . 남향. 로얄동 우수학군 입주일협의",
+   "realtor": "엘리트공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
+   "article_no": "2652941980",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "중/15",
+   "building": "107",
+   "direction": "SS",
+   "confirmed": "2026-10-02",
+   "description": "25 남향 뷰좋은집 수리상태깨끗 잔금일협의",
    "realtor": "엘리트공인중개사사무소",
    "price_text": "75000"
   },
@@ -199,21 +214,6 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2652941980",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "중/15",
-   "building": "107",
-   "direction": "SS",
-   "confirmed": "2026-10-02",
-   "description": "25 남향 뷰좋은집 수리상태깨끗 잔금일협의",
-   "realtor": "엘리트공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2654925631",
    "trade": "B1",
    "deposit": 80000,
@@ -257,6 +257,21 @@
    "description": "대모산전망 급매물  쾌적  조용  편리 수리  무융자  학군좋고  마트 ",
    "realtor": "희망공인중개사사무소",
    "price_text": "80000"
+  },
+  {
+   "article_no": "2655014127",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "고/15",
+   "building": "111",
+   "direction": "SS",
+   "confirmed": "2026-10-13",
+   "description": "주인거주 . 남향 . 밝고 . 따듯한집 . 전망최고 ",
+   "realtor": "엘리트공인중개사사무소",
+   "price_text": "110000"
   },
   {
    "article_no": "2652357251",

@@ -1,5 +1,5 @@
 {
- "date": "2026-10-12",
+ "date": "2026-10-13",
  "complexNo": "121977",
  "name": "고덕자이",
  "articles": [
@@ -199,7 +199,22 @@
    "price_text": "108000"
   },
   {
-   "article_no": "2654911416",
+   "article_no": "2655011783",
+   "trade": "B1",
+   "deposit": 130000,
+   "rent": 0,
+   "area_exclusive": 101.04,
+   "area_supply": 127.09,
+   "floor": "중/29",
+   "building": "117",
+   "direction": "SS",
+   "confirmed": "2026-10-13",
+   "description": "방4.귀한대형전세.뷰.채광최고.풀옵션.",
+   "realtor": "이화공인중개사",
+   "price_text": "130000"
+  },
+  {
+   "article_no": "2654803889",
    "trade": "B1",
    "deposit": 130000,
    "rent": 0,
@@ -209,8 +224,8 @@
    "building": "117",
    "direction": "SS",
    "confirmed": "2026-10-12",
-   "description": "시스텀에어컨 초품아아파트  트윈 조망",
-   "realtor": "대상공인중개사사무소(427-0001)",
+   "description": "방4개 38p,시스템에어컨풀, 탁트인뷰 로얄동층 , 초품아, 세대창고",
+   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
    "price_text": "130000"
   },
   {
@@ -229,7 +244,7 @@
    "price_text": "130000"
   },
   {
-   "article_no": "2654803889",
+   "article_no": "2654911416",
    "trade": "B1",
    "deposit": 130000,
    "rent": 0,
@@ -239,8 +254,8 @@
    "building": "117",
    "direction": "SS",
    "confirmed": "2026-10-12",
-   "description": "방4개 38p,시스템에어컨풀, 탁트인뷰 로얄동층 , 초품아, 세대창고",
-   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
+   "description": "시스텀에어컨 초품아아파트  트윈 조망",
+   "realtor": "대상공인중개사사무소(427-0001)",
    "price_text": "130000"
   },
   {
