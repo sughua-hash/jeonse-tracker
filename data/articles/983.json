@@ -1,5 +1,5 @@
 {
- "date": "2026-10-13",
+ "date": "2026-10-14",
  "complexNo": "983",
  "name": "푸른마을",
  "articles": [
@@ -15,21 +15,6 @@
    "direction": "SS",
    "confirmed": "2026-10-12",
    "description": "25 집주인매물 남향 입주일조정 오랫동안거주",
-   "realtor": "샘터공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
-   "article_no": "2654945573",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "7/15",
-   "building": "107",
-   "direction": "SS",
-   "confirmed": "2026-10-12",
-   "description": "25집주인매물 12월입주일조정 남향 로얄동 층 오랫동안거주가능",
    "realtor": "샘터공인중개사사무소",
    "price_text": "75000"
   },
@@ -61,6 +46,21 @@
    "confirmed": "2026-10-12",
    "description": "방3 깨끗한남향집 입주일협의  주인직매물  공동환영",
    "realtor": "일원샘터공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
+   "article_no": "2654945573",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "7/15",
+   "building": "107",
+   "direction": "SS",
+   "confirmed": "2026-10-12",
+   "description": "25집주인매물 12월입주일조정 남향 로얄동 층 오랫동안거주가능",
+   "realtor": "샘터공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -109,21 +109,6 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2654945923",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "7/15",
-   "building": "107",
-   "direction": "SS",
-   "confirmed": "2026-10-12",
-   "description": "25집주인전세 남향 깨끗한상태 입주일12중순이후 조정",
-   "realtor": "샘터공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
    "article_no": "2654926131",
    "trade": "B1",
    "deposit": 75000,
@@ -139,6 +124,36 @@
    "price_text": "75000"
   },
   {
+   "article_no": "2654945923",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "7/15",
+   "building": "107",
+   "direction": "SS",
+   "confirmed": "2026-10-12",
+   "description": "25집주인전세 남향 깨끗한상태 입주일12중순이후 조정",
+   "realtor": "샘터공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
+   "article_no": "2655222497",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "중/15",
+   "building": "107",
+   "direction": "SS",
+   "confirmed": "2026-10-13",
+   "description": "25집주인매물 남향 12월 조정가능 로얄동 층",
+   "realtor": "샘터공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
    "article_no": "2654605190",
    "trade": "B1",
    "deposit": 75000,
@@ -151,21 +166,6 @@
    "confirmed": "2026-10-10",
    "description": "방3개 귀한전세 역세권 학군우수",
    "realtor": "개포금메달공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
-   "article_no": "2653778054",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "중/15",
-   "building": "107",
-   "direction": "SS",
-   "confirmed": "2026-10-06",
-   "description": "25집주인매물 남향 12월 조정가능 로얄동 층",
-   "realtor": "샘터공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -302,6 +302,21 @@
    "description": "주인직매물,샷시교체올수리,2월입주협의",
    "realtor": "푸른닷컴공인중개사",
    "price_text": "110000"
+  },
+  {
+   "article_no": "2655184466",
+   "trade": "B2",
+   "deposit": 10000,
+   "rent": 250,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "중/15",
+   "building": "107",
+   "direction": "SS",
+   "confirmed": "2026-10-13",
+   "description": "주인매물  남향 상태깨긋함 11월 12월입주 가능",
+   "realtor": "삼성(3411-8100)공인중개사사무소",
+   "price_text": "10000/250"
   }
  ]
 }

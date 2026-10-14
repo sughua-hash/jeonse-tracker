@@ -1,5 +1,5 @@
 {
- "date": "2026-10-13",
+ "date": "2026-10-14",
  "complexNo": "140148",
  "name": "고덕풍경채어바니티",
  "articles": [
@@ -49,6 +49,21 @@
    "price_text": "85000"
   },
   {
+   "article_no": "2655113886",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.67,
+   "area_supply": 118.24,
+   "floor": "저/25",
+   "building": "102",
+   "direction": "EE",
+   "confirmed": "2026-10-13",
+   "description": "에풀 풀옵션, 층간소음 걱정없는 복층, 비즈밸리상권이용",
+   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
    "article_no": "2655028704",
    "trade": "B1",
    "deposit": 90000,
@@ -61,21 +76,6 @@
    "confirmed": "2026-10-13",
    "description": "34p 큰문 다락형 넓은펜트리 수납공간 풀옵션",
    "realtor": "큰문공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2654807108",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.67,
-   "area_supply": 118.24,
-   "floor": "저/25",
-   "building": "102",
-   "direction": "EE",
-   "confirmed": "2026-10-12",
-   "description": "에풀 풀옵션, 층간소음 걱정없는 복층, 비즈밸리상권이용",
-   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -362,6 +362,21 @@
    "description": "복층 다락방, 시스템에어컨, 팬트리,  풀옵션",
    "realtor": "풍경채선우부동산공인중개사사무소",
    "price_text": "70000/100"
+  },
+  {
+   "article_no": "2655232102",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 160,
+   "area_exclusive": 101.04,
+   "area_supply": 138.88,
+   "floor": "중/26",
+   "building": "104",
+   "direction": "SS",
+   "confirmed": "2026-10-13",
+   "description": "방4 화2 ,에어컨6대,가전과 가구 풀옵션 숲뷰",
+   "realtor": "풍경채어바니티(단지내)부동산중개",
+   "price_text": "80000/160"
   },
   {
    "article_no": "2654493697",

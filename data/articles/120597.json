@@ -1,5 +1,5 @@
 {
- "date": "2026-10-13",
+ "date": "2026-10-14",
  "complexNo": "120597",
  "name": "남양주두산위브트레지움",
  "articles": [
@@ -14,12 +14,12 @@
    "building": "103",
    "direction": "ES",
    "confirmed": "2026-10-12",
-   "description": "앞트인조망,앞동 진출입편리,융자무",
+   "description": "빠른입주가,앞트인조망,앞동 진출입편리,융자무",
    "realtor": "보미청광공인중개사사무소",
    "price_text": "27000"
   },
   {
-   "article_no": "2654205294",
+   "article_no": "2655182237",
    "trade": "B1",
    "deposit": 28000,
    "rent": 0,
@@ -28,7 +28,7 @@
    "floor": "11/35",
    "building": "112",
    "direction": "WS",
-   "confirmed": "2026-10-08",
+   "confirmed": "2026-10-13",
    "description": "시스템에어컨4,깨끗함,애완견안됨,11월중순이후이사,질권설정안됨",
    "realtor": "두산위브장원공인중개사사무소",
    "price_text": "28000"
@@ -109,6 +109,21 @@
    "price_text": "5000/150"
   },
   {
+   "article_no": "2655228749",
+   "trade": "B2",
+   "deposit": 5000,
+   "rent": 150,
+   "area_exclusive": 84.95,
+   "area_supply": 114.7,
+   "floor": "고/33",
+   "building": "110",
+   "direction": "ES",
+   "confirmed": "2026-10-13",
+   "description": "시에어컨 빌냉장고 중문 융무 아주깨끗 입주협의 ",
+   "realtor": "두산온누리공인중개사",
+   "price_text": "5000/150"
+  },
+  {
    "article_no": "2654722512",
    "trade": "B2",
    "deposit": 4000,
@@ -134,7 +149,7 @@
    "building": "104",
    "direction": "ES",
    "confirmed": "2026-10-07",
-   "description": "융자무 조망굿 에5 대리석주방 중문 방3 반려동물 안됨 빠른이사 ",
+   "description": "융자무 조망굿 에5 대리석주방 중문 방3 반려동물 안됨 ",
    "realtor": "봄날트레지움 공인중개사사무소",
    "price_text": "4000/170"
   },
