@@ -1,5 +1,5 @@
 {
- "date": "2026-10-14",
+ "date": "2026-10-15",
  "complexNo": "115018",
  "name": "더샵지제역센트럴파크(1BL)",
  "articles": [
@@ -124,6 +124,21 @@
    "price_text": "26000"
   },
   {
+   "article_no": "2655466087",
+   "trade": "B1",
+   "deposit": 27000,
+   "rent": 0,
+   "area_exclusive": 74.99,
+   "area_supply": 98.71,
+   "floor": "27/27",
+   "building": "110",
+   "direction": "WS",
+   "confirmed": "2026-10-14",
+   "description": "융자무 빠른입주 타입굿 엘베2대 주차지하2층동",
+   "realtor": "지제더샵단지내공인중개사사무소",
+   "price_text": "27000"
+  },
+  {
    "article_no": "2655149614",
    "trade": "B1",
    "deposit": 27000,
@@ -169,21 +184,6 @@
    "price_text": "27000"
   },
   {
-   "article_no": "2655017120",
-   "trade": "B1",
-   "deposit": 27000,
-   "rent": 0,
-   "area_exclusive": 74.99,
-   "area_supply": 98.71,
-   "floor": "고/27",
-   "building": "110",
-   "direction": "WS",
-   "confirmed": "2026-10-12",
-   "description": "융자무 11월6일입주로  타입굿 엘베2대 주차지하2층동",
-   "realtor": "지제더샵단지내공인중개사사무소",
-   "price_text": "27000"
-  },
-  {
    "article_no": "2655017279",
    "trade": "B1",
    "deposit": 27000,
@@ -214,22 +214,7 @@
    "price_text": "27000"
   },
   {
-   "article_no": "2654935583",
-   "trade": "B1",
-   "deposit": 28000,
-   "rent": 0,
-   "area_exclusive": 59.62,
-   "area_supply": 79.7,
-   "floor": "고/27",
-   "building": "121",
-   "direction": "ES",
-   "confirmed": "2026-10-12",
-   "description": "1월 중순이후부터 협의입주투인원에어컨뻥뷰초품아귀한전세",
-   "realtor": "지제역더샵영신부동산공인중개사사무소",
-   "price_text": "28000"
-  },
-  {
-   "article_no": "2653574002",
+   "article_no": "2655298839",
    "trade": "B1",
    "deposit": 28000,
    "rent": 0,
@@ -238,7 +223,7 @@
    "floor": "고/25",
    "building": "113",
    "direction": "ES",
-   "confirmed": "2026-10-06",
+   "confirmed": "2026-10-14",
    "description": "무융자 시원한 뷰  시스템2대  중문  상태좋음 27년 2월말이후",
    "realtor": "지제역더샵1단지공인중개사사무소",
    "price_text": "28000"
