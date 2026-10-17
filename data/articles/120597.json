@@ -1,5 +1,5 @@
 {
- "date": "2026-10-16",
+ "date": "2026-10-17",
  "complexNo": "120597",
  "name": "남양주두산위브트레지움",
  "articles": [
@@ -49,6 +49,21 @@
    "price_text": "35000"
   },
   {
+   "article_no": "2655861182",
+   "trade": "B1",
+   "deposit": 35000,
+   "rent": 0,
+   "area_exclusive": 74.99,
+   "area_supply": 101.47,
+   "floor": "4/33",
+   "building": "104",
+   "direction": "WS",
+   "confirmed": "2026-10-16",
+   "description": "날짜협의가능,조망",
+   "realtor": "두산위브트레지움공인중개사사무소",
+   "price_text": "35000"
+  },
+  {
    "article_no": "2653051454",
    "trade": "B2",
    "deposit": 10000,
@@ -89,7 +104,7 @@
    "building": "110",
    "direction": "ES",
    "confirmed": "2026-10-16",
-   "description": "시에어컨 빌트인냉장고 반려동물 안되요 융무 깔끔하고 입주협의",
+   "description": "시스템에어컨4 인덕션 빌트인냉장고 깨끗 융무 반려동물X",
    "realtor": "두산온누리공인중개사사무소",
    "price_text": "5000/150"
   },
@@ -109,6 +124,21 @@
    "price_text": "5000/150"
   },
   {
+   "article_no": "2655859926",
+   "trade": "B2",
+   "deposit": 5000,
+   "rent": 150,
+   "area_exclusive": 84.95,
+   "area_supply": 114.7,
+   "floor": "21/32",
+   "building": "106",
+   "direction": "WS",
+   "confirmed": "2026-10-16",
+   "description": "보증금상향조절가능(1억 월차임125만원까지),12월23일이후입주",
+   "realtor": "두산위브트레지움공인중개사사무소",
+   "price_text": "5000/150"
+  },
+  {
    "article_no": "2655228749",
    "trade": "B2",
    "deposit": 5000,
@@ -122,21 +152,6 @@
    "description": "시에어컨 빌냉장고 중문 융무 아주깨끗 입주협의 ",
    "realtor": "두산온누리공인중개사",
    "price_text": "5000/150"
-  },
-  {
-   "article_no": "2651269841",
-   "trade": "B2",
-   "deposit": 4000,
-   "rent": 170,
-   "area_exclusive": 84.95,
-   "area_supply": 114.7,
-   "floor": "15/33",
-   "building": "104",
-   "direction": "ES",
-   "confirmed": "2026-09-22",
-   "description": "에5 전망굿",
-   "realtor": "두산위트공인중개사",
-   "price_text": "4000/170"
   }
  ]
 }

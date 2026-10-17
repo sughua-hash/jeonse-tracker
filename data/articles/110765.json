@@ -1,5 +1,5 @@
 {
- "date": "2026-10-16",
+ "date": "2026-10-17",
  "complexNo": "110765",
  "name": "고덕숲아이파크",
  "articles": [
@@ -109,6 +109,21 @@
    "price_text": "58000/90"
   },
   {
+   "article_no": "2656001754",
+   "trade": "B2",
+   "deposit": 58000,
+   "rent": 100,
+   "area_exclusive": 59.97,
+   "area_supply": 84.78,
+   "floor": "중/9",
+   "building": "110",
+   "direction": "WS",
+   "confirmed": "2026-10-17",
+   "description": "강.추.생태숲풀뷰.햇살좋은 탁.트인뷰.한영학군인접.컨디션굿.숲속도서관1분",
+   "realtor": "골드공인중개사사무소",
+   "price_text": "58000/100"
+  },
+  {
    "article_no": "2655687687",
    "trade": "B2",
    "deposit": 58000,
@@ -124,7 +139,7 @@
    "price_text": "58000/100"
   },
   {
-   "article_no": "2655627633",
+   "article_no": "2655890588",
    "trade": "B2",
    "deposit": 58000,
    "rent": 100,
@@ -132,10 +147,25 @@
    "area_supply": 84.78,
    "floor": "중/9",
    "building": "110",
-   "direction": "WS",
-   "confirmed": "2026-10-15",
-   "description": "강.추.생태숲풀뷰.햇살좋은 탁.트인뷰.한영학군인접.컨디션굿.숲속도서관1분",
-   "realtor": "골드공인중개사사무소",
+   "direction": "SS",
+   "confirmed": "2026-10-16",
+   "description": "숲세권 뷰,학군A급지 ,커뮤니티,입주협의",
+   "realtor": "센트럴부자공인중개사사무소",
+   "price_text": "58000/100"
+  },
+  {
+   "article_no": "2655913724",
+   "trade": "B2",
+   "deposit": 58000,
+   "rent": 100,
+   "area_exclusive": 59.97,
+   "area_supply": 84.78,
+   "floor": "중/9",
+   "building": "110",
+   "direction": "SS",
+   "confirmed": "2026-10-16",
+   "description": "영구숲조망 고덕숲 도서관 바로근처 중고등학교 근거리",
+   "realtor": "대상공인중개사사무소(427-0001)",
    "price_text": "58000/100"
   },
   {

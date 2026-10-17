@@ -1,5 +1,5 @@
 {
- "date": "2026-10-16",
+ "date": "2026-10-17",
  "complexNo": "150311",
  "name": "빌리브센트하이",
  "articles": [
@@ -76,21 +76,6 @@
    "confirmed": "2026-09-29",
    "description": "신축 84B 에어컨4대 뻥뚫린조망 현금전세 조절가",
    "realtor": "두산위브부동산공인중개사사무소",
-   "price_text": "43000"
-  },
-  {
-   "article_no": "2650071226",
-   "trade": "B1",
-   "deposit": 43000,
-   "rent": 0,
-   "area_exclusive": 84.97,
-   "area_supply": 112.41,
-   "floor": "28/29",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-09-16",
-   "description": "에4대 전세대출X 탁트인뷰 중문 인덕션 신축 즉시 ",
-   "realtor": "두산온누리공인중개사",
    "price_text": "43000"
   },
   {
@@ -319,21 +304,6 @@
    "price_text": "20000/180"
   },
   {
-   "article_no": "2650321962",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 180,
-   "area_exclusive": 84.97,
-   "area_supply": 112.41,
-   "floor": "12/29",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-09-17",
-   "description": "조먕트임 주인거주 마석역광역버스 생활편리",
-   "realtor": "대주파크빌공인중개사사무소",
-   "price_text": "20000/180"
-  },
-  {
    "article_no": "2650396390",
    "trade": "B2",
    "deposit": 20000,
@@ -346,6 +316,21 @@
    "confirmed": "2026-09-17",
    "description": "시스템에어컨 신축 역세권 입주날짜협의",
    "realtor": "명진공인중개사",
+   "price_text": "20000/180"
+  },
+  {
+   "article_no": "2650321962",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 180,
+   "area_exclusive": 84.97,
+   "area_supply": 112.41,
+   "floor": "12/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-09-17",
+   "description": "조먕트임 주인거주 마석역광역버스 생활편리",
+   "realtor": "대주파크빌공인중개사사무소",
    "price_text": "20000/180"
   },
   {

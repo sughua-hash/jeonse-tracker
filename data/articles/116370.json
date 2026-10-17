@@ -1,5 +1,5 @@
 {
- "date": "2026-10-16",
+ "date": "2026-10-17",
  "complexNo": "116370",
  "name": "e편한세상시티인하대역",
  "articles": [
@@ -64,21 +64,6 @@
    "price_text": "2000/120"
   },
   {
-   "article_no": "2654246372",
-   "trade": "B2",
-   "deposit": 3000,
-   "rent": 130,
-   "area_exclusive": 79.57,
-   "area_supply": 119.12,
-   "floor": "고/32",
-   "building": "104",
-   "direction": "SS",
-   "confirmed": "2026-10-08",
-   "description": "O 물건부자 똑순이 O 귀한79타입 O 빠른이사 0 시에2",
-   "realtor": "똑순이부동산공인중개사사무소",
-   "price_text": "3000/130"
-  },
-  {
    "article_no": "2654029932",
    "trade": "B2",
    "deposit": 3000,
@@ -91,6 +76,21 @@
    "confirmed": "2026-10-08",
    "description": "O똑순이O남향 고층 월세 O 방3 O 에어컨2대 O 이사협의 O",
    "realtor": "SK똑순이부동산공인중개사사무소",
+   "price_text": "3000/130"
+  },
+  {
+   "article_no": "2654246372",
+   "trade": "B2",
+   "deposit": 3000,
+   "rent": 130,
+   "area_exclusive": 79.57,
+   "area_supply": 119.12,
+   "floor": "고/32",
+   "building": "104",
+   "direction": "SS",
+   "confirmed": "2026-10-08",
+   "description": "O 물건부자 똑순이 O 귀한79타입 O 빠른이사 0 시에2",
+   "realtor": "똑순이부동산공인중개사사무소",
    "price_text": "3000/130"
   },
   {
