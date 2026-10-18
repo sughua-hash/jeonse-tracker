@@ -1,23 +1,8 @@
 {
- "date": "2026-10-17",
+ "date": "2026-10-18",
  "complexNo": "110298",
  "name": "다산롯데캐슬",
  "articles": [
-  {
-   "article_no": "2654308347",
-   "trade": "B1",
-   "deposit": 63000,
-   "rent": 0,
-   "area_exclusive": 74.97,
-   "area_supply": 99.81,
-   "floor": "저/20",
-   "building": "2201",
-   "direction": "ES",
-   "confirmed": "2026-10-08",
-   "description": "추천 27.1.13 방3 융자소액 역세권 상권이용편리 깨끗하게 관리잘된",
-   "realtor": "다산퍼스트공인중개사사무소",
-   "price_text": "63000"
-  },
   {
    "article_no": "2654856851",
    "trade": "B1",
@@ -77,6 +62,21 @@
    "description": "단지정원뷰, 융무조건, 입주협의, 다산역초중고인접",
    "realtor": "다산역롯데 단지넷 부동산 공인중개사사무소",
    "price_text": "85000"
+  },
+  {
+   "article_no": "2656097886",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 70,
+   "area_exclusive": 84.99,
+   "area_supply": 113.0,
+   "floor": "중/24",
+   "building": "2209",
+   "direction": "ES",
+   "confirmed": "2026-10-17",
+   "description": "입주협의 융자무 컨디션최상 개방감있는뷰 생활인프라최상",
+   "realtor": "다산하늘자이공인중개사",
+   "price_text": "60000/70"
   },
   {
    "article_no": "2653238870",

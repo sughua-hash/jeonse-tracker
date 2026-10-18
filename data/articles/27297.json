@@ -1,5 +1,5 @@
 {
- "date": "2026-10-17",
+ "date": "2026-10-18",
  "complexNo": "27297",
  "name": "이안남양주",
  "articles": [
@@ -64,7 +64,7 @@
    "price_text": "31000"
   },
   {
-   "article_no": "2654852251",
+   "article_no": "2656058898",
    "trade": "B1",
    "deposit": 31500,
    "rent": 0,
@@ -73,7 +73,7 @@
    "floor": "14/16",
    "building": "104",
    "direction": "ES",
-   "confirmed": "2026-10-12",
+   "confirmed": "2026-10-17",
    "description": "로얄동 로얄층 내부깨끗한 귀한 전세입니다",
    "realtor": "포스코부동산공인중개사사무소",
    "price_text": "31500"
@@ -214,19 +214,19 @@
    "price_text": "45000"
   },
   {
-   "article_no": "2651259542",
-   "trade": "B1",
-   "deposit": 45000,
-   "rent": 0,
-   "area_exclusive": 134.06,
-   "area_supply": 164.02,
-   "floor": "5/16",
-   "building": "103",
-   "direction": "WS",
-   "confirmed": "2026-09-22",
-   "description": "넓은평수 귀한전세입니다",
-   "realtor": "포스코부동산공인중개사사무소",
-   "price_text": "45000"
+   "article_no": "2656040681",
+   "trade": "B2",
+   "deposit": 35000,
+   "rent": 75,
+   "area_exclusive": 125.22,
+   "area_supply": 163.15,
+   "floor": "14/17",
+   "building": "101",
+   "direction": "EE",
+   "confirmed": "2026-10-17",
+   "description": "복층으로 귀한임대, 빠른입주협의 ,조망좋아요.",
+   "realtor": "이안대우공인중개사사무소",
+   "price_text": "35000/75"
   }
  ]
 }
