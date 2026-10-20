@@ -1,5 +1,5 @@
 {
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "complexNo": "115018",
  "name": "더샵지제역센트럴파크(1BL)",
  "articles": [
@@ -49,7 +49,7 @@
    "price_text": "20500"
   },
   {
-   "article_no": "2656127323",
+   "article_no": "2656330180",
    "trade": "B1",
    "deposit": 26000,
    "rent": 0,
@@ -58,9 +58,9 @@
    "floor": "2/27",
    "building": "121",
    "direction": "WS",
-   "confirmed": "2026-10-17",
-   "description": "융자무 시에2대 27년3월협의입주 주차지하2층동",
-   "realtor": "지제더샵단지내공인중개사사무소",
+   "confirmed": "2026-10-19",
+   "description": "K.무융자.주차편리.에어컨2대.27년3월협의",
+   "realtor": "더샵금메달공인중개사사무소",
    "price_text": "26000"
   },
   {
@@ -79,7 +79,7 @@
    "price_text": "26000"
   },
   {
-   "article_no": "2656082439",
+   "article_no": "2656127323",
    "trade": "B1",
    "deposit": 26000,
    "rent": 0,
@@ -89,8 +89,8 @@
    "building": "121",
    "direction": "WS",
    "confirmed": "2026-10-17",
-   "description": "K.무융자.주차편리.에어컨2대.27년3월협의",
-   "realtor": "더샵금메달공인중개사사무소",
+   "description": "융자무 시에2대 27년3월협의입주 주차지하2층동",
+   "realtor": "지제더샵단지내공인중개사사무소",
    "price_text": "26000"
   },
   {
@@ -104,7 +104,7 @@
    "building": "121",
    "direction": "WS",
    "confirmed": "2026-10-14",
-   "description": "초등,정문근접동,시스템2.27년3월입주 전세대출가능, ",
+   "description": "OK.초등,정문근접동,시스템2.27년3월입주 전세대출가능",
    "realtor": "더샵OK공인중개사사무소",
    "price_text": "26000"
   },
@@ -139,21 +139,6 @@
    "price_text": "27000"
   },
   {
-   "article_no": "2656033180",
-   "trade": "B1",
-   "deposit": 28000,
-   "rent": 0,
-   "area_exclusive": 59.76,
-   "area_supply": 79.49,
-   "floor": "저/27",
-   "building": "105",
-   "direction": "WS",
-   "confirmed": "2026-10-17",
-   "description": "12월협의입주  햇살좋은집 초품아 대단지아파트 지제역 이마트인접",
-   "realtor": "더샵에이스부동산공인중개사사무소",
-   "price_text": "28000"
-  },
-  {
    "article_no": "2655980638",
    "trade": "B1",
    "deposit": 28000,
@@ -165,6 +150,21 @@
    "direction": "ES",
    "confirmed": "2026-10-17",
    "description": "27년1월 8협의입주 정원뷰가예쁜집 집상태좋아요  시스템2대 집상태굿",
+   "realtor": "더샵에이스부동산공인중개사사무소",
+   "price_text": "28000"
+  },
+  {
+   "article_no": "2656033180",
+   "trade": "B1",
+   "deposit": 28000,
+   "rent": 0,
+   "area_exclusive": 59.76,
+   "area_supply": 79.49,
+   "floor": "저/27",
+   "building": "105",
+   "direction": "WS",
+   "confirmed": "2026-10-17",
+   "description": "12월협의입주  햇살좋은집 초품아 대단지아파트 지제역 이마트인접",
    "realtor": "더샵에이스부동산공인중개사사무소",
    "price_text": "28000"
   },
@@ -199,36 +199,6 @@
    "price_text": "28000"
   },
   {
-   "article_no": "2656011547",
-   "trade": "B1",
-   "deposit": 32000,
-   "rent": 0,
-   "area_exclusive": 83.71,
-   "area_supply": 109.28,
-   "floor": "7/27",
-   "building": "126",
-   "direction": "WS",
-   "confirmed": "2026-10-17",
-   "description": "No1. 뻥뷰 . 시에4대. 무융자. 1월협의입주. 지하2층 주차편리",
-   "realtor": "지제최고공인중개사사무소",
-   "price_text": "32000"
-  },
-  {
-   "article_no": "2655861702",
-   "trade": "B1",
-   "deposit": 32000,
-   "rent": 0,
-   "area_exclusive": 83.71,
-   "area_supply": 109.28,
-   "floor": "7/27",
-   "building": "126",
-   "direction": "ES",
-   "confirmed": "2026-10-16",
-   "description": "27년2월 협의입주 정원뷰가예쁜집 집상태좋아요   초품아 상권이용편리",
-   "realtor": "더샵에이스부동산공인중개사사무소",
-   "price_text": "32000"
-  },
-  {
    "article_no": "2652099739",
    "trade": "B1",
    "deposit": 35000,
@@ -239,7 +209,7 @@
    "building": "125",
    "direction": "ES",
    "confirmed": "2026-09-28",
-   "description": "27년2월 입주가능투인원에어컨협의입주가능동간넓어 답답하지않은뷰",
+   "description": "27년1월 2월 입주가능투인원에어컨협의입주가능동간넓어 답답하지않은뷰",
    "realtor": "지제역더샵영신부동산공인중개사사무소",
    "price_text": "35000"
   },
@@ -287,6 +257,21 @@
    "description": "11월협의입주풀옵션실링팬과예쁜조명전자제품일절가구일절 굿집깨끗함1인가구굿",
    "realtor": "더샵에이스부동산공인중개사사무소",
    "price_text": "2000/130"
+  },
+  {
+   "article_no": "2656332143",
+   "trade": "B2",
+   "deposit": 2000,
+   "rent": 140,
+   "area_exclusive": 74.97,
+   "area_supply": 99.14,
+   "floor": "저/27",
+   "building": "105",
+   "direction": "WS",
+   "confirmed": "2026-10-19",
+   "description": "영자      시스템에어컨4대   법인가능  1년계약   12월협의입주",
+   "realtor": "지제더샵최영자공인중개사사무소",
+   "price_text": "2000/140"
   },
   {
    "article_no": "2654527667",

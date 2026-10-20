@@ -1,5 +1,5 @@
 {
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "complexNo": "108479",
  "name": "미사강변푸르지오2차",
  "articles": [
@@ -49,21 +49,6 @@
    "price_text": "95000"
   },
   {
-   "article_no": "2655818558",
-   "trade": "B1",
-   "deposit": 95000,
-   "rent": 0,
-   "area_exclusive": 101.88,
-   "area_supply": 131.79,
-   "floor": "중/27",
-   "building": "111",
-   "direction": "ES",
-   "confirmed": "2026-10-16",
-   "description": "융자무 풀에어컨설치 27년1월입주 손님만연락",
-   "realtor": "미사푸르지오공인중개사사무소",
-   "price_text": "95000"
-  },
-  {
    "article_no": "2655983360",
    "trade": "B1",
    "deposit": 95000,
@@ -79,7 +64,22 @@
    "price_text": "95000"
   },
   {
-   "article_no": "2656151147",
+   "article_no": "2655818558",
+   "trade": "B1",
+   "deposit": 95000,
+   "rent": 0,
+   "area_exclusive": 101.88,
+   "area_supply": 131.79,
+   "floor": "중/27",
+   "building": "111",
+   "direction": "ES",
+   "confirmed": "2026-10-16",
+   "description": "융자무 풀에어컨설치 27년1월입주 손님만연락",
+   "realtor": "미사푸르지오공인중개사사무소",
+   "price_text": "95000"
+  },
+  {
+   "article_no": "2656480409",
    "trade": "B2",
    "deposit": 50000,
    "rent": 165,
@@ -88,13 +88,13 @@
    "floor": "중/29",
    "building": "103",
    "direction": "WS",
-   "confirmed": "2026-10-18",
+   "confirmed": "2026-10-20",
    "description": "탁트인 한강뷰, 채광좋고 컨디션굿, 초중고도보5분",
    "realtor": "미사솔로몬공인중개사사무소",
    "price_text": "50000/165"
   },
   {
-   "article_no": "2655964272",
+   "article_no": "2656426837",
    "trade": "B2",
    "deposit": 20000,
    "rent": 340,
@@ -103,13 +103,13 @@
    "floor": "저/29",
    "building": "104",
    "direction": "WS",
-   "confirmed": "2026-10-16",
+   "confirmed": "2026-10-19",
    "description": "컨디션굿 융자무 초중고인접 인기타입 선동ic 교통편리",
    "realtor": "미사대우공인중개사사무소",
    "price_text": "20000/340"
   },
   {
-   "article_no": "2655952245",
+   "article_no": "2656273483",
    "trade": "B2",
    "deposit": 20000,
    "rent": 340,
@@ -118,7 +118,7 @@
    "floor": "저/29",
    "building": "104",
    "direction": "WS",
-   "confirmed": "2026-10-16",
+   "confirmed": "2026-10-19",
    "description": "0317960086 융자없음 에어컨3대 입주협의,초중고,9호선호재",
    "realtor": "미사행복공인중개사사무소",
    "price_text": "20000/340"

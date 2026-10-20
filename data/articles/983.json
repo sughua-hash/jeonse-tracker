@@ -1,5 +1,5 @@
 {
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "complexNo": "983",
  "name": "푸른마을",
  "articles": [
@@ -94,6 +94,21 @@
    "price_text": "80000"
   },
   {
+   "article_no": "2656298774",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "중/15",
+   "building": "109",
+   "direction": "SS",
+   "confirmed": "2026-10-19",
+   "description": "31.남향,확장수리깨끗,로얄동,로얄층,반전세가능",
+   "realtor": "일원뱅크공인중개사사무소",
+   "price_text": "110000"
+  },
+  {
    "article_no": "2652357251",
    "trade": "B1",
    "deposit": 110000,
@@ -122,6 +137,21 @@
    "description": "주인직매물,샷시교체올수리,2월입주협의",
    "realtor": "푸른닷컴공인중개사",
    "price_text": "110000"
+  },
+  {
+   "article_no": "2656388708",
+   "trade": "B2",
+   "deposit": 10000,
+   "rent": 250,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "12/15",
+   "building": "107",
+   "direction": "SS",
+   "confirmed": "2026-10-19",
+   "description": "화장실과 씽크대는 수리됨 . 12월말 1월입주협의 . 학군우수한역세권",
+   "realtor": "양지공인중개사사무소",
+   "price_text": "10000/250"
   },
   {
    "article_no": "2656098670",
