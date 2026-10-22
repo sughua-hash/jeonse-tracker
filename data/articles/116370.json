@@ -1,38 +1,8 @@
 {
- "date": "2026-10-20",
+ "date": "2026-10-22",
  "complexNo": "116370",
  "name": "e편한세상시티인하대역",
  "articles": [
-  {
-   "article_no": "2653545249",
-   "trade": "B1",
-   "deposit": 29000,
-   "rent": 0,
-   "area_exclusive": 79.57,
-   "area_supply": 119.12,
-   "floor": "고/32",
-   "building": "104",
-   "direction": "SS",
-   "confirmed": "2026-10-06",
-   "description": "입주일협의가능 에어컨2 인하대역3분 홈플러스5분",
-   "realtor": "e편한씨티공인중개사사무소",
-   "price_text": "29000"
-  },
-  {
-   "article_no": "2654844722",
-   "trade": "B2",
-   "deposit": 28000,
-   "rent": 10,
-   "area_exclusive": 79.57,
-   "area_supply": 119.12,
-   "floor": "고/32",
-   "building": "104",
-   "direction": "SS",
-   "confirmed": "2026-10-12",
-   "description": "입주일협의가능 3룸 에어컨2 인하대역3분 편의시설굿",
-   "realtor": "힘찬헤리움공인중개사사무소",
-   "price_text": "28000/10"
-  },
   {
    "article_no": "2654178140",
    "trade": "B2",
@@ -64,7 +34,7 @@
    "price_text": "2000/120"
   },
   {
-   "article_no": "2654029932",
+   "article_no": "2654844722",
    "trade": "B2",
    "deposit": 3000,
    "rent": 130,
@@ -73,9 +43,9 @@
    "floor": "고/32",
    "building": "104",
    "direction": "SS",
-   "confirmed": "2026-10-08",
-   "description": "O똑순이O남향 고층 월세 O 방3 O 에어컨2대 O 이사협의 O",
-   "realtor": "SK똑순이부동산공인중개사사무소",
+   "confirmed": "2026-10-12",
+   "description": "입주일협의가능 3룸 화장실2 에어컨2 인하대역3분 편의시설굿",
+   "realtor": "힘찬헤리움공인중개사사무소",
    "price_text": "3000/130"
   },
   {
@@ -91,6 +61,21 @@
    "confirmed": "2026-10-08",
    "description": "O 물건부자 똑순이 O 귀한79타입 O 빠른이사 0 시에2",
    "realtor": "똑순이부동산공인중개사사무소",
+   "price_text": "3000/130"
+  },
+  {
+   "article_no": "2654029932",
+   "trade": "B2",
+   "deposit": 3000,
+   "rent": 130,
+   "area_exclusive": 79.57,
+   "area_supply": 119.12,
+   "floor": "고/32",
+   "building": "104",
+   "direction": "SS",
+   "confirmed": "2026-10-08",
+   "description": "O똑순이O남향 고층 월세 O 방3 O 에어컨2대 O 이사협의 O",
+   "realtor": "SK똑순이부동산공인중개사사무소",
    "price_text": "3000/130"
   },
   {

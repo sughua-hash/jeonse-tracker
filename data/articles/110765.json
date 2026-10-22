@@ -1,8 +1,23 @@
 {
- "date": "2026-10-20",
+ "date": "2026-10-22",
  "complexNo": "110765",
  "name": "고덕숲아이파크",
  "articles": [
+  {
+   "article_no": "2656850242",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 59.87,
+   "area_supply": 85.81,
+   "floor": "고/10",
+   "building": "113",
+   "direction": "SS",
+   "confirmed": "2026-10-21",
+   "description": "파노라마 숲 뷰.채광좋은 타입.우수학군.우수 생활권",
+   "realtor": "키움공인중개사사무소",
+   "price_text": "75000"
+  },
   {
    "article_no": "2656230892",
    "trade": "B1",
@@ -34,22 +49,7 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2654845419",
-   "trade": "B1",
-   "deposit": 85000,
-   "rent": 0,
-   "area_exclusive": 59.87,
-   "area_supply": 85.81,
-   "floor": "고/10",
-   "building": "113",
-   "direction": "SS",
-   "confirmed": "2026-10-12",
-   "description": "파노라마 숲 뷰.채광좋은 타입.우수학군.우수 생활권",
-   "realtor": "키움공인중개사사무소",
-   "price_text": "85000"
-  },
-  {
-   "article_no": "2654791764",
+   "article_no": "2656886493",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -58,7 +58,7 @@
    "floor": "저/21",
    "building": "107",
    "direction": "WS",
-   "confirmed": "2026-10-12",
+   "confirmed": "2026-10-21",
    "description": "숲세권.명문학군.숲도서관 이용편리. 에1대.",
    "realtor": "태양공인중개사사무소",
    "price_text": "90000"
@@ -139,6 +139,21 @@
    "price_text": "58000/90"
   },
   {
+   "article_no": "2656609152",
+   "trade": "B2",
+   "deposit": 58000,
+   "rent": 100,
+   "area_exclusive": 59.97,
+   "area_supply": 84.78,
+   "floor": "중/9",
+   "building": "110",
+   "direction": "WS",
+   "confirmed": "2026-10-20",
+   "description": "숲속의아파트,학세권,역세권아파트,대출무",
+   "realtor": "경성공인중개사사무소",
+   "price_text": "58000/100"
+  },
+  {
    "article_no": "2656335185",
    "trade": "B2",
    "deposit": 58000,
@@ -154,22 +169,7 @@
    "price_text": "58000/100"
   },
   {
-   "article_no": "2656087616",
-   "trade": "B2",
-   "deposit": 58000,
-   "rent": 100,
-   "area_exclusive": 59.97,
-   "area_supply": 84.78,
-   "floor": "중/9",
-   "building": "110",
-   "direction": "WS",
-   "confirmed": "2026-10-17",
-   "description": "숲속의아파트,학세권,역세권아파트,대출무",
-   "realtor": "경성공인중개사사무소",
-   "price_text": "58000/100"
-  },
-  {
-   "article_no": "2656287364",
+   "article_no": "2656766791",
    "trade": "B2",
    "deposit": 58000,
    "rent": 100,
@@ -178,7 +178,7 @@
    "floor": "중/9",
    "building": "110",
    "direction": "SS",
-   "confirmed": "2026-10-19",
+   "confirmed": "2026-10-21",
    "description": "영구숲조망 고덕숲 도서관 바로근처 중고등학교 근거리",
    "realtor": "대상공인중개사사무소(427-0001)",
    "price_text": "58000/100"
