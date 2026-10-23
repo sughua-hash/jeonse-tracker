@@ -1,5 +1,5 @@
 {
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "complexNo": "983",
  "name": "푸른마을",
  "articles": [
@@ -139,6 +139,21 @@
    "price_text": "110000"
   },
   {
+   "article_no": "2657122710",
+   "trade": "B2",
+   "deposit": 10000,
+   "rent": 250,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "12/15",
+   "building": "107",
+   "direction": "SS",
+   "confirmed": "2026-10-22",
+   "description": "남향 귀한월세 . 12월말 1월입주협의 . 수리깨끗 . 학군우수",
+   "realtor": "양지공인중개사사무소",
+   "price_text": "10000/250"
+  },
+  {
    "article_no": "2656825145",
    "trade": "B2",
    "deposit": 10000,
@@ -150,21 +165,6 @@
    "direction": "SS",
    "confirmed": "2026-10-21",
    "description": "화장실과 씽크대는 수리됨 . 12월말 1월입주협의 . 학군우수한역세권",
-   "realtor": "양지공인중개사사무소",
-   "price_text": "10000/250"
-  },
-  {
-   "article_no": "2656664604",
-   "trade": "B2",
-   "deposit": 10000,
-   "rent": 250,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "12/15",
-   "building": "107",
-   "direction": "SS",
-   "confirmed": "2026-10-20",
-   "description": "남향 귀한월세 . 12월말 1월입주협의 . 수리깨끗 . 학군우수",
    "realtor": "양지공인중개사사무소",
    "price_text": "10000/250"
   },

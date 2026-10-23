@@ -1,5 +1,5 @@
 {
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "complexNo": "140148",
  "name": "고덕풍경채어바니티",
  "articles": [
@@ -64,7 +64,7 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2656761728",
+   "article_no": "2657035104",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -73,7 +73,7 @@
    "floor": "저/25",
    "building": "102",
    "direction": "EN",
-   "confirmed": "2026-10-21",
+   "confirmed": "2026-10-22",
    "description": "강력추천.넓은테라스.층간소음 없음. 풀옵션.트인 환한뷰.명문학군",
    "realtor": "고덕햇살426-3336공인중개사사무소",
    "price_text": "90000"
@@ -124,7 +124,7 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2656780187",
+   "article_no": "2657037830",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -133,9 +133,24 @@
    "floor": "저/25",
    "building": "102",
    "direction": "EE",
-   "confirmed": "2026-10-21",
+   "confirmed": "2026-10-22",
    "description": "에풀 풀옵션, 층간소음 걱정없는 복층, 비즈밸리상권이용",
    "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2657035640",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.67,
+   "area_supply": 118.24,
+   "floor": "저/25",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-10-22",
+   "description": "넉넉한 수납공간. 다락방.풀에어컨. 실링팬.주인거주 관리 잘된집",
+   "realtor": "고덕햇살426-3336공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -151,21 +166,6 @@
    "confirmed": "2026-10-21",
    "description": "34p 큰문 다락형 넓은펜트리 수납공간 풀옵션",
    "realtor": "큰문공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2656548761",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.67,
-   "area_supply": 118.24,
-   "floor": "저/25",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-10-20",
-   "description": "넉넉한 수납공간. 다락방.풀에어컨. 실링팬.주인거주 관리 잘된집",
-   "realtor": "고덕햇살426-3336공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -319,7 +319,7 @@
    "price_text": "100000"
   },
   {
-   "article_no": "2656762461",
+   "article_no": "2657035802",
    "trade": "B1",
    "deposit": 120000,
    "rent": 0,
@@ -328,13 +328,13 @@
    "floor": "중/26",
    "building": "104",
    "direction": "SS",
-   "confirmed": "2026-10-21",
+   "confirmed": "2026-10-22",
    "description": "추천.입주날짜 협의가능.시원한 숲뷰.풀에,인덕션등 풀옵션.명문학군",
    "realtor": "고덕햇살426-3336공인중개사사무소",
    "price_text": "120000"
   },
   {
-   "article_no": "2656567272",
+   "article_no": "2657025733",
    "trade": "B1",
    "deposit": 120000,
    "rent": 0,
@@ -343,7 +343,7 @@
    "floor": "중/26",
    "building": "104",
    "direction": "EE",
-   "confirmed": "2026-10-20",
+   "confirmed": "2026-10-22",
    "description": "넓은평수, 에풀 트인뷰 채광좋은집, 비즈밸리상권이용",
    "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
    "price_text": "120000"
@@ -439,6 +439,21 @@
    "price_text": "120000"
   },
   {
+   "article_no": "2657036322",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 100,
+   "area_exclusive": 84.67,
+   "area_supply": 118.24,
+   "floor": "저/25",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-10-22",
+   "description": "넓은 다락방. 팬트리등 수납공간 좋은집. 풀에어컨.아이들 키우기 좋은집",
+   "realtor": "고덕햇살426-3336공인중개사사무소",
+   "price_text": "70000/100"
+  },
+  {
    "article_no": "2656712292",
    "trade": "B2",
    "deposit": 70000,
@@ -451,21 +466,6 @@
    "confirmed": "2026-10-21",
    "description": "34p 큰문 다락형 넓은펜트리 수납공간 풀옵션",
    "realtor": "큰문공인중개사사무소",
-   "price_text": "70000/100"
-  },
-  {
-   "article_no": "2656549606",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 100,
-   "area_exclusive": 84.67,
-   "area_supply": 118.24,
-   "floor": "저/25",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-10-20",
-   "description": "넓은 다락방. 팬트리등 수납공간 좋은집. 풀에어컨.아이들 키우기 좋은집",
-   "realtor": "고덕햇살426-3336공인중개사사무소",
    "price_text": "70000/100"
   },
   {
@@ -529,7 +529,7 @@
    "price_text": "70000/100"
   },
   {
-   "article_no": "2656779586",
+   "article_no": "2657032664",
    "trade": "B2",
    "deposit": 80000,
    "rent": 160,
@@ -538,7 +538,7 @@
    "floor": "중/26",
    "building": "104",
    "direction": "EE",
-   "confirmed": "2026-10-21",
+   "confirmed": "2026-10-22",
    "description": "넓은평수, 에풀 트인뷰 채광좋은집, 비즈밸리상권이용",
    "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
    "price_text": "80000/160"
