@@ -1,5 +1,5 @@
 {
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "complexNo": "120597",
  "name": "남양주두산위브트레지움",
  "articles": [
@@ -64,21 +64,6 @@
    "price_text": "34000"
   },
   {
-   "article_no": "2656434324",
-   "trade": "B1",
-   "deposit": 37000,
-   "rent": 0,
-   "area_exclusive": 84.95,
-   "area_supply": 114.7,
-   "floor": "20/33",
-   "building": "105",
-   "direction": "WS",
-   "confirmed": "2026-10-19",
-   "description": "방3,12월말협의,중문",
-   "realtor": "두산위브트레지움공인중개사사무소",
-   "price_text": "37000"
-  },
-  {
    "article_no": "2653051454",
    "trade": "B2",
    "deposit": 10000,
@@ -92,6 +77,21 @@
    "description": "",
    "realtor": "두산위트공인중개사",
    "price_text": "10000/100"
+  },
+  {
+   "article_no": "2657563519",
+   "trade": "B2",
+   "deposit": 5000,
+   "rent": 145,
+   "area_exclusive": 84.95,
+   "area_supply": 114.7,
+   "floor": "21/32",
+   "building": "106",
+   "direction": "WS",
+   "confirmed": "2026-10-24",
+   "description": "전망굿. 입주협의 . 금액조율가능.반려동물안됨",
+   "realtor": "행복라온공인중개사사무소",
+   "price_text": "5000/145"
   },
   {
    "article_no": "2656045043",

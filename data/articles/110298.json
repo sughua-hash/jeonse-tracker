@@ -1,5 +1,5 @@
 {
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "complexNo": "110298",
  "name": "다산롯데캐슬",
  "articles": [
@@ -74,12 +74,12 @@
    "building": "2209",
    "direction": "ES",
    "confirmed": "2026-10-24",
-   "description": "입주협의 융자무 컨디션최상 개방감있는뷰 생활인프라최상",
+   "description": "1월중순입주 융자무 컨디션최상 개방감있는뷰 생활인프라최상",
    "realtor": "다산하늘자이공인중개사",
    "price_text": "60000/70"
   },
   {
-   "article_no": "2656981739",
+   "article_no": "2657577068",
    "trade": "B2",
    "deposit": 44000,
    "rent": 100,
@@ -88,9 +88,24 @@
    "floor": "고/23",
    "building": "2210",
    "direction": "ES",
-   "confirmed": "2026-10-22",
+   "confirmed": "2026-10-24",
    "description": "입주협의,2in1에어컨,식세기,중문,복도드레스룸,반려동물X,역세권",
    "realtor": "다산1등롯데공인중개사사무소",
+   "price_text": "44000/100"
+  },
+  {
+   "article_no": "2657548510",
+   "trade": "B2",
+   "deposit": 44000,
+   "rent": 100,
+   "area_exclusive": 84.99,
+   "area_supply": 112.74,
+   "floor": "고/23",
+   "building": "2210",
+   "direction": "WS",
+   "confirmed": "2026-10-24",
+   "description": "추천 탁트인뷰 투인원에어컨 중문 식세기 컨디션굿 입주협의",
+   "realtor": "다산롯데캐슬 공인중개사사무소",
    "price_text": "44000/100"
   },
   {
@@ -104,7 +119,7 @@
    "building": "2204",
    "direction": "ES",
    "confirmed": "2026-10-03",
-   "description": "단독위임,입주 협의가 ,옵션무,8호선 전철 도보7분 거리,반려동물x",
+   "description": "",
    "realtor": "비젼부동산공인중개사사무소",
    "price_text": "10000/250"
   },
