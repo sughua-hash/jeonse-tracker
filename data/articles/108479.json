@@ -1,5 +1,5 @@
 {
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "complexNo": "108479",
  "name": "미사강변푸르지오2차",
  "articles": [
@@ -79,6 +79,36 @@
    "price_text": "50000/165"
   },
   {
+   "article_no": "2657580888",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 340,
+   "area_exclusive": 101.81,
+   "area_supply": 131.53,
+   "floor": "9/29",
+   "building": "104",
+   "direction": "WS",
+   "confirmed": "2026-10-26",
+   "description": "0317960086 융자없음 에어컨3대 입주협의,초중고,9호선호재",
+   "realtor": "미사행복공인중개사사무소",
+   "price_text": "20000/340"
+  },
+  {
+   "article_no": "2657497325",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 340,
+   "area_exclusive": 101.81,
+   "area_supply": 131.53,
+   "floor": "9/29",
+   "building": "104",
+   "direction": "SS",
+   "confirmed": "2026-10-24",
+   "description": "정상입주. 판상형 . 시스템에어콘 3대. 초중고 인접",
+   "realtor": "미사강변왕공인중개사사무소",
+   "price_text": "20000/340"
+  },
+  {
    "article_no": "2657527548",
    "trade": "B2",
    "deposit": 20000,
@@ -91,21 +121,6 @@
    "confirmed": "2026-10-24",
    "description": "거실트인뷰 무융자 입주협의가능 선호판상형 시스템에어컨 광역버스이용편리",
    "realtor": "미사푸르지오공인중개사사무소",
-   "price_text": "20000/340"
-  },
-  {
-   "article_no": "2657497325",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 340,
-   "area_exclusive": 101.81,
-   "area_supply": 131.53,
-   "floor": "저/29",
-   "building": "104",
-   "direction": "SS",
-   "confirmed": "2026-10-24",
-   "description": "정상입주. 판상형 . 시스템에어콘 3대. 초중고 인접",
-   "realtor": "미사강변왕공인중개사사무소",
    "price_text": "20000/340"
   },
   {
@@ -169,21 +184,6 @@
    "price_text": "10000/370"
   },
   {
-   "article_no": "2656846350",
-   "trade": "B2",
-   "deposit": 10000,
-   "rent": 370,
-   "area_exclusive": 101.87,
-   "area_supply": 131.38,
-   "floor": "고/29",
-   "building": "104",
-   "direction": "EN",
-   "confirmed": "2026-10-21",
-   "description": "거실전면한강뷰 보증금조정가능 입주협의 외곽진출입용이 초중고인접",
-   "realtor": "미사엘리트공인중개사사무소",
-   "price_text": "10000/370"
-  },
-  {
    "article_no": "2656816015",
    "trade": "B2",
    "deposit": 10000,
@@ -196,6 +196,21 @@
    "confirmed": "2026-10-21",
    "description": "거실한강뷰 최상, 보증금 조정가능, 초중고인접, 융무, 선동ic 인접",
    "realtor": "미사푸르지오탑공인중개사사무소",
+   "price_text": "10000/370"
+  },
+  {
+   "article_no": "2656846350",
+   "trade": "B2",
+   "deposit": 10000,
+   "rent": 370,
+   "area_exclusive": 101.87,
+   "area_supply": 131.38,
+   "floor": "고/29",
+   "building": "104",
+   "direction": "EN",
+   "confirmed": "2026-10-21",
+   "description": "거실전면한강뷰 보증금조정가능 입주협의 외곽진출입용이 초중고인접",
+   "realtor": "미사엘리트공인중개사사무소",
    "price_text": "10000/370"
   }
  ]

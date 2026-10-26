@@ -1,5 +1,5 @@
 {
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "complexNo": "983",
  "name": "푸른마을",
  "articles": [
@@ -199,21 +199,6 @@
    "price_text": "10000/250"
   },
   {
-   "article_no": "2656883119",
-   "trade": "B2",
-   "deposit": 10000,
-   "rent": 260,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "12/15",
-   "building": "107",
-   "direction": "SS",
-   "confirmed": "2026-10-21",
-   "description": "방3 도배해드립니다  입주일협의  모든조건 협의가능",
-   "realtor": "일원샘터공인중개사사무소",
-   "price_text": "10000/260"
-  },
-  {
    "article_no": "2656882577",
    "trade": "B2",
    "deposit": 10000,
@@ -226,6 +211,21 @@
    "confirmed": "2026-10-21",
    "description": "",
    "realtor": "샘터공인중개사사무소",
+   "price_text": "10000/260"
+  },
+  {
+   "article_no": "2656883119",
+   "trade": "B2",
+   "deposit": 10000,
+   "rent": 260,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "12/15",
+   "building": "107",
+   "direction": "SS",
+   "confirmed": "2026-10-21",
+   "description": "방3 도배해드립니다  입주일협의  모든조건 협의가능",
+   "realtor": "일원샘터공인중개사사무소",
    "price_text": "10000/260"
   },
   {
