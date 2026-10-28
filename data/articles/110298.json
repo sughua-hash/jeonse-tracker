@@ -1,8 +1,23 @@
 {
- "date": "2026-10-26",
+ "date": "2026-10-28",
  "complexNo": "110298",
  "name": "다산롯데캐슬",
  "articles": [
+  {
+   "article_no": "2657689547",
+   "trade": "B1",
+   "deposit": 85000,
+   "rent": 0,
+   "area_exclusive": 84.99,
+   "area_supply": 112.74,
+   "floor": "저/27",
+   "building": "2205",
+   "direction": "WS",
+   "confirmed": "2026-10-26",
+   "description": "단지정원뷰, 융무조건, 입주협의, 다산역초중고인접",
+   "realtor": "다산역롯데 단지넷 부동산 공인중개사사무소",
+   "price_text": "85000"
+  },
   {
    "article_no": "2654895554",
    "trade": "B1",
@@ -34,21 +49,6 @@
    "price_text": "85000"
   },
   {
-   "article_no": "2651963386",
-   "trade": "B1",
-   "deposit": 85000,
-   "rent": 0,
-   "area_exclusive": 84.99,
-   "area_supply": 112.74,
-   "floor": "저/27",
-   "building": "2205",
-   "direction": "WS",
-   "confirmed": "2026-09-28",
-   "description": "단지정원뷰, 융무조건, 입주협의, 다산역초중고인접",
-   "realtor": "다산역롯데 단지넷 부동산 공인중개사사무소",
-   "price_text": "85000"
-  },
-  {
    "article_no": "2657392409",
    "trade": "B1",
    "deposit": 85000,
@@ -64,7 +64,7 @@
    "price_text": "85000"
   },
   {
-   "article_no": "2657577068",
+   "article_no": "2657844968",
    "trade": "B2",
    "deposit": 44000,
    "rent": 100,
@@ -73,7 +73,7 @@
    "floor": "고/23",
    "building": "2210",
    "direction": "ES",
-   "confirmed": "2026-10-24",
+   "confirmed": "2026-10-27",
    "description": "입주협의,2in1에어컨,식세기,중문,복도드레스룸,반려동물X,역세권",
    "realtor": "다산1등롯데공인중개사사무소",
    "price_text": "44000/100"
@@ -92,6 +92,66 @@
    "description": "추천 탁트인뷰 투인원에어컨 중문 식세기 컨디션굿 입주협의",
    "realtor": "다산롯데캐슬 공인중개사사무소",
    "price_text": "44000/100"
+  },
+  {
+   "article_no": "2657987730",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 100,
+   "area_exclusive": 84.97,
+   "area_supply": 113.2,
+   "floor": "고/25",
+   "building": "2203",
+   "direction": "WS",
+   "confirmed": "2026-10-27",
+   "description": "ss김여사추천,주인거주입주협의,다산역,상권이용편리,채광밝고 관리잘된집",
+   "realtor": "김여사공인중개사사무소",
+   "price_text": "50000/100"
+  },
+  {
+   "article_no": "2657894525",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 100,
+   "area_exclusive": 84.97,
+   "area_supply": 113.2,
+   "floor": "고/25",
+   "building": "2203",
+   "direction": "WS",
+   "confirmed": "2026-10-27",
+   "description": "추천 탁트인뷰 중문 컨디션굿 입주협의 다산역5분 상가이용편리",
+   "realtor": "다산롯데캐슬 공인중개사사무소",
+   "price_text": "50000/100"
+  },
+  {
+   "article_no": "2657909958",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 100,
+   "area_exclusive": 84.97,
+   "area_supply": 113.2,
+   "floor": "고/25",
+   "building": "2203",
+   "direction": "WS",
+   "confirmed": "2026-10-27",
+   "description": "해잘들고트인뷰, 다산역,초중고 인접 로얄동층, 입주협의",
+   "realtor": "다산역롯데 단지넷 부동산 공인중개사사무소",
+   "price_text": "50000/100"
+  },
+  {
+   "article_no": "2657771283",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 100,
+   "area_exclusive": 84.97,
+   "area_supply": 113.2,
+   "floor": "고/25",
+   "building": "2203",
+   "direction": "WS",
+   "confirmed": "2026-10-26",
+   "description": "날짜협의가능. 판상형. 84A타입. 내부 컨디션 좋음.",
+   "realtor": "다산8호선공인중개사사무소",
+   "price_text": "50000/100"
   },
   {
    "article_no": "2653238870",
