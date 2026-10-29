@@ -1,5 +1,5 @@
 {
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "complexNo": "115018",
  "name": "더샵지제역센트럴파크(1BL)",
  "articles": [
@@ -34,36 +34,6 @@
    "price_text": "20500"
   },
   {
-   "article_no": "2652096702",
-   "trade": "B1",
-   "deposit": 20500,
-   "rent": 0,
-   "area_exclusive": 74.99,
-   "area_supply": 98.71,
-   "floor": "4/25",
-   "building": "113",
-   "direction": "WS",
-   "confirmed": "2026-09-28",
-   "description": "초품아투윈원상가이용편리저렴한전세융자남김",
-   "realtor": "지제역더샵영신부동산공인중개사사무소",
-   "price_text": "20500"
-  },
-  {
-   "article_no": "2657574013",
-   "trade": "B1",
-   "deposit": 26000,
-   "rent": 0,
-   "area_exclusive": 59.62,
-   "area_supply": 79.7,
-   "floor": "2/27",
-   "building": "121",
-   "direction": "WS",
-   "confirmed": "2026-10-24",
-   "description": "융자무 시에2대 3월중순에서말 집상태굿 주차지하2층동",
-   "realtor": "지제더샵단지내공인중개사사무소",
-   "price_text": "26000"
-  },
-  {
    "article_no": "2657958180",
    "trade": "B1",
    "deposit": 26000,
@@ -76,21 +46,6 @@
    "confirmed": "2026-10-27",
    "description": "1년 단기전세, 해 잘드는 고층, 1인가구, 신혼부부 추천",
    "realtor": "신한부동산중개사무소",
-   "price_text": "26000"
-  },
-  {
-   "article_no": "2655733941",
-   "trade": "B1",
-   "deposit": 26000,
-   "rent": 0,
-   "area_exclusive": 59.62,
-   "area_supply": 79.7,
-   "floor": "저/27",
-   "building": "121",
-   "direction": "WS",
-   "confirmed": "2026-10-15",
-   "description": "정문동 시스템에어컨2대 집상태굿 3월협의입주 주차지하2층동",
-   "realtor": "지제더샵단지내공인중개사사무소",
    "price_text": "26000"
   },
   {
@@ -119,7 +74,7 @@
    "building": "113",
    "direction": "ES",
    "confirmed": "2026-10-23",
-   "description": "No1. 27. 2월협의입주. 시스템에어컨4대. 중문. 조망권최고",
+   "description": "No1.  12월이후볼수있음. 2월입주.에어컨4대. 중문. 1인가구선호",
    "realtor": "더샵최고공인중개사사무소",
    "price_text": "28000"
   },
@@ -152,6 +107,81 @@
    "description": "12월협의입주  햇살좋은집 초품아 대단지아파트 지제역 이마트인접",
    "realtor": "더샵에이스부동산공인중개사사무소",
    "price_text": "28000"
+  },
+  {
+   "article_no": "2658138563",
+   "trade": "B1",
+   "deposit": 31000,
+   "rent": 0,
+   "area_exclusive": 84.79,
+   "area_supply": 110.69,
+   "floor": "중/27",
+   "building": "107",
+   "direction": "WS",
+   "confirmed": "2026-10-28",
+   "description": "K.무융자.정원뷰.넓은단지뷰.에어컨4대.2월하순협의입주",
+   "realtor": "더샵금메달공인중개사사무소",
+   "price_text": "31000"
+  },
+  {
+   "article_no": "2658232930",
+   "trade": "B1",
+   "deposit": 33000,
+   "rent": 0,
+   "area_exclusive": 84.79,
+   "area_supply": 110.69,
+   "floor": "11/26",
+   "building": "125",
+   "direction": "ES",
+   "confirmed": "2026-10-29",
+   "description": "1월29일입주 융자상환조건 에어컨2대 지하2층동 로얄동",
+   "realtor": "더샵일등공인중개사사무소",
+   "price_text": "33000"
+  },
+  {
+   "article_no": "2658115355",
+   "trade": "B1",
+   "deposit": 33000,
+   "rent": 0,
+   "area_exclusive": 84.79,
+   "area_supply": 110.69,
+   "floor": "11/26",
+   "building": "125",
+   "direction": "ES",
+   "confirmed": "2026-10-28",
+   "description": "1월29일입주, 귀한전세, 융자상환, 에어컨2대",
+   "realtor": "더샵하나공인중개사사무소",
+   "price_text": "33000"
+  },
+  {
+   "article_no": "2658185204",
+   "trade": "B1",
+   "deposit": 33000,
+   "rent": 0,
+   "area_exclusive": 84.79,
+   "area_supply": 110.69,
+   "floor": "11/26",
+   "building": "125",
+   "direction": "ES",
+   "confirmed": "2026-10-28",
+   "description": "1월29일시에2대 집상태굿 주차지하2층동 협의입주가능동간넓음",
+   "realtor": "지제역더샵영신부동산공인중개사사무소",
+   "price_text": "33000"
+  },
+  {
+   "article_no": "2658181529",
+   "trade": "B1",
+   "deposit": 33000,
+   "rent": 0,
+   "area_exclusive": 84.79,
+   "area_supply": 110.69,
+   "floor": "11/26",
+   "building": "125",
+   "direction": "ES",
+   "confirmed": "2026-10-28",
+   "description": "K.대출상환조건.에어컨2대.지하2층주차장.1월29일협의입주",
+   "realtor": "더샵금메달공인중개사사무소",
+   "price_text": "33000"
   },
   {
    "article_no": "2657299313",
@@ -197,6 +227,21 @@
    "description": "시스템에어컨3대중문27년2월만 만기협의가능",
    "realtor": "지제역더샵영신부동산공인중개사사무소",
    "price_text": "2000/130"
+  },
+  {
+   "article_no": "2658075028",
+   "trade": "B2",
+   "deposit": 1000,
+   "rent": 150,
+   "area_exclusive": 59.62,
+   "area_supply": 79.7,
+   "floor": "고/27",
+   "building": "121",
+   "direction": "WS",
+   "confirmed": "2026-10-28",
+   "description": "1월입주협의,막힘없는뷰,귀한월세,시에2,법인숙소가능",
+   "realtor": "지제역원탑공인중개사사무소",
+   "price_text": "1000/150"
   },
   {
    "article_no": "2656015135",

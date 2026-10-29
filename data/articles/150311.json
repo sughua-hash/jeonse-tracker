@@ -1,5 +1,5 @@
 {
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "complexNo": "150311",
  "name": "빌리브센트하이",
  "articles": [
@@ -46,21 +46,6 @@
    "confirmed": "2026-10-12",
    "description": "신축 첫입주,확트인 조망,로얄동,시스템에어컨4,전철역세권,초중고인접",
    "realtor": "에이스공인중개사사무소",
-   "price_text": "43000"
-  },
-  {
-   "article_no": "2651985290",
-   "trade": "B1",
-   "deposit": 43000,
-   "rent": 0,
-   "area_exclusive": 84.97,
-   "area_supply": 112.41,
-   "floor": "28/29",
-   "building": "102",
-   "direction": "ES",
-   "confirmed": "2026-09-28",
-   "description": "급전세 조망 햇빛굿, 귀한84b타입, 에어컨4, 올확장",
-   "realtor": "e편한 행복 공인중개사사무소",
    "price_text": "43000"
   },
   {
@@ -154,6 +139,21 @@
    "price_text": "45000"
   },
   {
+   "article_no": "2658162532",
+   "trade": "B1",
+   "deposit": 50000,
+   "rent": 0,
+   "area_exclusive": 98.84,
+   "area_supply": 129.73,
+   "floor": "27/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-10-28",
+   "description": "역세권 시스템에어컨4대 확장형 금액조정가능 대출불가",
+   "realtor": "대교공인중개사사무소",
+   "price_text": "50000"
+  },
+  {
    "article_no": "2657345974",
    "trade": "B1",
    "deposit": 50000,
@@ -241,21 +241,6 @@
    "confirmed": "2026-10-06",
    "description": "첫입주. 시스템에어컨4대. 빠른입주가능. 전세대츨불가",
    "realtor": "평내호평진 공인중개사사무소",
-   "price_text": "50000"
-  },
-  {
-   "article_no": "2651910081",
-   "trade": "B1",
-   "deposit": 50000,
-   "rent": 0,
-   "area_exclusive": 98.84,
-   "area_supply": 129.73,
-   "floor": "27/29",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-09-28",
-   "description": "역세권 시스템에어컨4대 확장형 금액조정가능 대출불가",
-   "realtor": "대교공인중개사사무소",
    "price_text": "50000"
   }
  ]
