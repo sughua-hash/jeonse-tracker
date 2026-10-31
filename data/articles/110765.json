@@ -1,5 +1,5 @@
 {
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "complexNo": "110765",
  "name": "고덕숲아이파크",
  "articles": [
@@ -49,6 +49,21 @@
    "price_text": "90000"
   },
   {
+   "article_no": "2658700275",
+   "trade": "B1",
+   "deposit": 95000,
+   "rent": 0,
+   "area_exclusive": 84.85,
+   "area_supply": 112.83,
+   "floor": "중/25",
+   "building": "108",
+   "direction": "ES",
+   "confirmed": "2026-10-30",
+   "description": "영구숲뷰 풀옵션 에5 채광좋음 명문중고교학군구립숲속도서관",
+   "realtor": "대일공인중개사",
+   "price_text": "95000"
+  },
+  {
    "article_no": "2655431029",
    "trade": "B1",
    "deposit": 95000,
@@ -79,21 +94,6 @@
    "price_text": "98000"
   },
   {
-   "article_no": "2658069021",
-   "trade": "B1",
-   "deposit": 100000,
-   "rent": 0,
-   "area_exclusive": 84.85,
-   "area_supply": 112.83,
-   "floor": "중/25",
-   "building": "108",
-   "direction": "ES",
-   "confirmed": "2026-10-28",
-   "description": "영구숲뷰 풀옵션 에5 채광좋음 명문중고교학군구립숲속도서관",
-   "realtor": "대일공인중개사",
-   "price_text": "100000"
-  },
-  {
    "article_no": "2655461365",
    "trade": "B2",
    "deposit": 58000,
@@ -109,7 +109,7 @@
    "price_text": "58000/90"
   },
   {
-   "article_no": "2658329959",
+   "article_no": "2658587405",
    "trade": "B2",
    "deposit": 58000,
    "rent": 100,
@@ -118,7 +118,7 @@
    "floor": "중/9",
    "building": "110",
    "direction": "SS",
-   "confirmed": "2026-10-29",
+   "confirmed": "2026-10-30",
    "description": "정남향 채광좋은집, 한영학군. 숲도서관개관. 9호선호재",
    "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
    "price_text": "58000/100"
@@ -154,7 +154,7 @@
    "price_text": "58000/100"
   },
   {
-   "article_no": "2657692648",
+   "article_no": "2658589065",
    "trade": "B2",
    "deposit": 58000,
    "rent": 100,
@@ -163,7 +163,7 @@
    "floor": "중/9",
    "building": "110",
    "direction": "SS",
-   "confirmed": "2026-10-26",
+   "confirmed": "2026-10-30",
    "description": "영구숲조망 고덕숲 도서관 바로근처 중고등학교 근거리",
    "realtor": "대상공인중개사사무소(427-0001)",
    "price_text": "58000/100"

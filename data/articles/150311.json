@@ -1,8 +1,23 @@
 {
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "complexNo": "150311",
  "name": "빌리브센트하이",
  "articles": [
+  {
+   "article_no": "2658589410",
+   "trade": "B1",
+   "deposit": 43000,
+   "rent": 0,
+   "area_exclusive": 84.97,
+   "area_supply": 112.41,
+   "floor": "28/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-10-30",
+   "description": "신축 첫입주,확트인 조망,로얄동,시스템에어컨4,전철역세권,초중고인접",
+   "realtor": "에이스공인중개사사무소",
+   "price_text": "43000"
+  },
   {
    "article_no": "2658406448",
    "trade": "B1",
@@ -34,6 +49,21 @@
    "price_text": "43000"
   },
   {
+   "article_no": "2658760877",
+   "trade": "B1",
+   "deposit": 43000,
+   "rent": 0,
+   "area_exclusive": 84.97,
+   "area_supply": 112.41,
+   "floor": "28/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-10-31",
+   "description": "신축 84B 에어컨4대 뻥뚫린조망 현금전세 조절가",
+   "realtor": "두산위브부동산공인중개사사무소",
+   "price_text": "43000"
+  },
+  {
    "article_no": "2657230548",
    "trade": "B1",
    "deposit": 43000,
@@ -46,21 +76,6 @@
    "confirmed": "2026-10-23",
    "description": "34B 신축 에어컨4 중문 인덕션 초중고인접 역세권 전세대출불가",
    "realtor": "두산온누리공인중개사사무소",
-   "price_text": "43000"
-  },
-  {
-   "article_no": "2654807910",
-   "trade": "B1",
-   "deposit": 43000,
-   "rent": 0,
-   "area_exclusive": 84.97,
-   "area_supply": 112.41,
-   "floor": "28/29",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-10-12",
-   "description": "신축 첫입주,확트인 조망,로얄동,시스템에어컨4,전철역세권,초중고인접",
-   "realtor": "에이스공인중개사사무소",
    "price_text": "43000"
   },
   {
@@ -154,6 +169,21 @@
    "price_text": "50000"
   },
   {
+   "article_no": "2658620032",
+   "trade": "B1",
+   "deposit": 50000,
+   "rent": 0,
+   "area_exclusive": 98.84,
+   "area_supply": 129.73,
+   "floor": "27/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-10-30",
+   "description": "39A 신축 에어컨4 중문 인덕션 뻥조망굿 전세대출불가 조절가",
+   "realtor": "두산온누리공인중개사사무소",
+   "price_text": "50000"
+  },
+  {
    "article_no": "2658162532",
    "trade": "B1",
    "deposit": 50000,
@@ -211,21 +241,6 @@
    "confirmed": "2026-10-24",
    "description": "조정가 대출불가 에어컨4대 역세권 초중고교인접",
    "realtor": "두산위브부동산공인중개사사무소",
-   "price_text": "50000"
-  },
-  {
-   "article_no": "2657232613",
-   "trade": "B1",
-   "deposit": 50000,
-   "rent": 0,
-   "area_exclusive": 98.84,
-   "area_supply": 129.73,
-   "floor": "27/29",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-10-23",
-   "description": "39A 신축 에어컨4 중문 인덕션 뻥조망굿 전세대출불가 조절가",
-   "realtor": "두산온누리공인중개사사무소",
    "price_text": "50000"
   },
   {
