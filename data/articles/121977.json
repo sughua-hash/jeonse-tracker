@@ -1,5 +1,5 @@
 {
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "complexNo": "121977",
  "name": "고덕자이",
  "articles": [
@@ -139,21 +139,6 @@
    "price_text": "88000"
   },
   {
-   "article_no": "2658316030",
-   "trade": "B1",
-   "deposit": 88000,
-   "rent": 0,
-   "area_exclusive": 59.93,
-   "area_supply": 83.3,
-   "floor": "중/12",
-   "building": "106",
-   "direction": "SS",
-   "confirmed": "2026-10-29",
-   "description": "에풀, 선호동 정남향 채광좋은집, 세대창고, 초품아, 우수커뮤",
-   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
-   "price_text": "88000"
-  },
-  {
    "article_no": "2658477760",
    "trade": "B1",
    "deposit": 88000,
@@ -166,6 +151,21 @@
    "confirmed": "2026-10-29",
    "description": "풀에어컨 정남향 밝은집",
    "realtor": "고덕자이(441-0109)공인중개사사무소",
+   "price_text": "88000"
+  },
+  {
+   "article_no": "2658316030",
+   "trade": "B1",
+   "deposit": 88000,
+   "rent": 0,
+   "area_exclusive": 59.93,
+   "area_supply": 83.3,
+   "floor": "중/12",
+   "building": "106",
+   "direction": "SS",
+   "confirmed": "2026-10-29",
+   "description": "에풀, 선호동 정남향 채광좋은집, 세대창고, 초품아, 우수커뮤",
+   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
    "price_text": "88000"
   },
   {
@@ -274,21 +274,6 @@
    "price_text": "97000"
   },
   {
-   "article_no": "2658480958",
-   "trade": "B1",
-   "deposit": 97000,
-   "rent": 0,
-   "area_exclusive": 84.44,
-   "area_supply": 110.43,
-   "floor": "저/29",
-   "building": "114",
-   "direction": "ES",
-   "confirmed": "2026-10-29",
-   "description": "커뮤니티최고시설,풀옵션,학세권고일초5분거리,정상입주",
-   "realtor": "경성공인중개사사무소",
-   "price_text": "97000"
-  },
-  {
    "article_no": "2658370139",
    "trade": "B1",
    "deposit": 97000,
@@ -301,6 +286,21 @@
    "confirmed": "2026-10-29",
    "description": "강추.너무좋은집.에어컨풀.중문.고일초품아.상일중.한영중학군.12월중순",
    "realtor": "고덕베네루체공인중개사사무소",
+   "price_text": "97000"
+  },
+  {
+   "article_no": "2658480958",
+   "trade": "B1",
+   "deposit": 97000,
+   "rent": 0,
+   "area_exclusive": 84.44,
+   "area_supply": 110.43,
+   "floor": "저/29",
+   "building": "114",
+   "direction": "ES",
+   "confirmed": "2026-10-29",
+   "description": "커뮤니티최고시설,풀옵션,학세권고일초5분거리,정상입주",
+   "realtor": "경성공인중개사사무소",
    "price_text": "97000"
   },
   {
@@ -529,21 +529,6 @@
    "price_text": "105000"
   },
   {
-   "article_no": "2658670787",
-   "trade": "B1",
-   "deposit": 105000,
-   "rent": 0,
-   "area_exclusive": 84.44,
-   "area_supply": 110.43,
-   "floor": "고/29",
-   "building": "110",
-   "direction": "SS",
-   "confirmed": "2026-10-30",
-   "description": "올확장,풀옵션의 채광좋은 집,입주협의가능,주인거주로 관리 잘 된 집",
-   "realtor": "단지내이레(443-6606)공인중개사사무소",
-   "price_text": "105000"
-  },
-  {
    "article_no": "2658683469",
    "trade": "B1",
    "deposit": 105000,
@@ -556,6 +541,21 @@
    "confirmed": "2026-10-30",
    "description": "로얄동층 올확장 에5 주인거주 관리상태 채광 탁월  1월중 입주 협의 가",
    "realtor": "고덕씨앗부동산공인중개사사무소",
+   "price_text": "105000"
+  },
+  {
+   "article_no": "2658670787",
+   "trade": "B1",
+   "deposit": 105000,
+   "rent": 0,
+   "area_exclusive": 84.44,
+   "area_supply": 110.43,
+   "floor": "고/29",
+   "building": "110",
+   "direction": "SS",
+   "confirmed": "2026-10-30",
+   "description": "올확장,풀옵션의 채광좋은 집,입주협의가능,주인거주로 관리 잘 된 집",
+   "realtor": "단지내이레(443-6606)공인중개사사무소",
    "price_text": "105000"
   },
   {
@@ -631,36 +631,6 @@
    "confirmed": "2026-10-30",
    "description": "시스텀에어컨 초품아아파트  트윈 조망",
    "realtor": "대상공인중개사사무소(427-0001)",
-   "price_text": "130000"
-  },
-  {
-   "article_no": "2657190892",
-   "trade": "B1",
-   "deposit": 130000,
-   "rent": 0,
-   "area_exclusive": 101.04,
-   "area_supply": 127.09,
-   "floor": "중/29",
-   "building": "117",
-   "direction": "SS",
-   "confirmed": "2026-10-23",
-   "description": "금터 38A 침실4 욕실2 풀에 눈부신 채광  시원하게 열린 조망 고일초",
-   "realtor": "고덕그라시움금터부동산공인중개사사무소",
-   "price_text": "130000"
-  },
-  {
-   "article_no": "2656713381",
-   "trade": "B1",
-   "deposit": 130000,
-   "rent": 0,
-   "area_exclusive": 101.04,
-   "area_supply": 127.09,
-   "floor": "중/29",
-   "building": "117",
-   "direction": "SS",
-   "confirmed": "2026-10-21",
-   "description": "금터 38A 침실4 욕실2 풀에 눈부신 채광  시원하게 열린 조망 고일초",
-   "realtor": "고덕그라시움금터부동산공인중개사사무소",
    "price_text": "130000"
   },
   {
@@ -814,6 +784,21 @@
    "price_text": "30000/240"
   },
   {
+   "article_no": "2658995171",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 330,
+   "area_exclusive": 84.44,
+   "area_supply": 110.43,
+   "floor": "저/27",
+   "building": "104",
+   "direction": "SS",
+   "confirmed": "2026-11-02",
+   "description": "",
+   "realtor": "부동산뉴스공인중개사사무소",
+   "price_text": "20000/330"
+  },
+  {
    "article_no": "2658788742",
    "trade": "B2",
    "deposit": 20000,
@@ -826,21 +811,6 @@
    "confirmed": "2026-10-31",
    "description": "반전세 지하철가까운로얄동 풀에어컨 팬트리공간넓음 초품아",
    "realtor": "고덕스카이공인중개사사무소",
-   "price_text": "20000/330"
-  },
-  {
-   "article_no": "2658764645",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 330,
-   "area_exclusive": 84.44,
-   "area_supply": 110.43,
-   "floor": "저/27",
-   "building": "104",
-   "direction": "SS",
-   "confirmed": "2026-10-31",
-   "description": "단독 트인 단지내뷰,시,에,넓은 펜트리 공간,27년 2월말3월",
-   "realtor": "센트럴부자공인중개사사무소",
    "price_text": "20000/330"
   },
   {
@@ -859,7 +829,7 @@
    "price_text": "20000/330"
   },
   {
-   "article_no": "2658591781",
+   "article_no": "2658764645",
    "trade": "B2",
    "deposit": 20000,
    "rent": 330,
@@ -868,9 +838,9 @@
    "floor": "저/27",
    "building": "104",
    "direction": "SS",
-   "confirmed": "2026-10-30",
-   "description": "풀옵션 초품아아파트",
-   "realtor": "대상공인중개사사무소(427-0001)",
+   "confirmed": "2026-10-31",
+   "description": "단독 트인 단지내뷰,시,에,넓은 펜트리 공간,27년 2월말3월",
+   "realtor": "센트럴부자공인중개사사무소",
    "price_text": "20000/330"
   },
   {
@@ -886,6 +856,21 @@
    "confirmed": "2026-10-30",
    "description": "풀에어컨  트인뷰  2월말3월초",
    "realtor": "고덕자이(441-0109)공인중개사사무소",
+   "price_text": "20000/330"
+  },
+  {
+   "article_no": "2658591781",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 330,
+   "area_exclusive": 84.44,
+   "area_supply": 110.43,
+   "floor": "저/27",
+   "building": "104",
+   "direction": "SS",
+   "confirmed": "2026-10-30",
+   "description": "풀옵션 초품아아파트",
+   "realtor": "대상공인중개사사무소(427-0001)",
    "price_text": "20000/330"
   },
   {

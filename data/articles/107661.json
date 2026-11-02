@@ -1,8 +1,53 @@
 {
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "complexNo": "107661",
  "name": "위례센트럴푸르지오",
  "articles": [
+  {
+   "article_no": "2658961858",
+   "trade": "B1",
+   "deposit": 93000,
+   "rent": 0,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "5/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-11-02",
+   "description": "ACE.귀한전세.시스템에어컨풀.정남.인기구조.세대지하창고",
+   "realtor": "에이스호반(02-400-5665)공인중개사사무소",
+   "price_text": "93000"
+  },
+  {
+   "article_no": "2658955196",
+   "trade": "B1",
+   "deposit": 93000,
+   "rent": 0,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "5/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-11-02",
+   "description": "푸른초학군  방3 에어컨풀 세대창고 귀한전세",
+   "realtor": "더힐우리공인중개사사무소",
+   "price_text": "93000"
+  },
+  {
+   "article_no": "2658951595",
+   "trade": "B1",
+   "deposit": 93000,
+   "rent": 0,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "5/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-11-02",
+   "description": "L 에풀. 방3. 넓은 알파룸. 수납특화. 정남향. 초품아. 개별세대창고",
+   "realtor": "월드공인중개사사무소",
+   "price_text": "93000"
+  },
   {
    "article_no": "2658918335",
    "trade": "B1",
@@ -16,51 +61,6 @@
    "confirmed": "2026-11-01",
    "description": "푸른초학군  방3 에어컨풀 세대창고 귀한전세",
    "realtor": "더힐우리공인중개사사무소",
-   "price_text": "93000"
-  },
-  {
-   "article_no": "2658756236",
-   "trade": "B1",
-   "deposit": 93000,
-   "rent": 0,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "5/15",
-   "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-10-31",
-   "description": "푸른초학군  방3 에어컨풀 세대창고 귀한전세",
-   "realtor": "더힐우리공인중개사사무소",
-   "price_text": "93000"
-  },
-  {
-   "article_no": "2658806393",
-   "trade": "B1",
-   "deposit": 93000,
-   "rent": 0,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "5/15",
-   "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-10-31",
-   "description": "단지상가,귀한전세,시스템에어컨풀,정남향,세대별지하창고",
-   "realtor": "위례다경024072255공인중개사사무소",
-   "price_text": "93000"
-  },
-  {
-   "article_no": "2658843695",
-   "trade": "B1",
-   "deposit": 93000,
-   "rent": 0,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "5/15",
-   "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-10-31",
-   "description": "Bom  남향 트인조망 에어컨풀 푸른초 품은단지 선호타입 세대별지하창고",
-   "realtor": "호반의봄(02-402-7070)공인중개사사무소",
    "price_text": "93000"
   },
   {
@@ -79,7 +79,7 @@
    "price_text": "93000"
   },
   {
-   "article_no": "2658773077",
+   "article_no": "2658806393",
    "trade": "B1",
    "deposit": 93000,
    "rent": 0,
@@ -89,8 +89,8 @@
    "building": "5401",
    "direction": "SS",
    "confirmed": "2026-10-31",
-   "description": "ACE.귀한전세.시스템에어컨풀.정남.인기구조.세대지하창고",
-   "realtor": "에이스호반(02-400-5665)공인중개사사무소",
+   "description": "단지상가,귀한전세,시스템에어컨풀,정남향,세대별지하창고",
+   "realtor": "위례다경024072255공인중개사사무소",
    "price_text": "93000"
   },
   {
@@ -139,6 +139,21 @@
    "price_text": "93000"
   },
   {
+   "article_no": "2658843695",
+   "trade": "B1",
+   "deposit": 93000,
+   "rent": 0,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "5/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-10-31",
+   "description": "Bom  남향 트인조망 에어컨풀 푸른초 품은단지 선호타입 세대별지하창고",
+   "realtor": "호반의봄(02-402-7070)공인중개사사무소",
+   "price_text": "93000"
+  },
+  {
    "article_no": "2658600256",
    "trade": "B1",
    "deposit": 93000,
@@ -151,21 +166,6 @@
    "confirmed": "2026-10-30",
    "description": "시스템에어컨. 상가학교복지관이용편리. 동간거리 넓고 조용함. 채광통풍 굿",
    "realtor": "위례금탑024438900공인중개사사무소",
-   "price_text": "93000"
-  },
-  {
-   "article_no": "2658553748",
-   "trade": "B1",
-   "deposit": 93000,
-   "rent": 0,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "5/15",
-   "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-10-30",
-   "description": "L 에풀. 방3. 넓은 알파룸. 수납특화. 정남향. 초품아. 개별세대창고",
-   "realtor": "월드공인중개사사무소",
    "price_text": "93000"
   },
   {
@@ -199,21 +199,6 @@
    "price_text": "93000"
   },
   {
-   "article_no": "2658655533",
-   "trade": "B1",
-   "deposit": 93000,
-   "rent": 0,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "5/15",
-   "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-10-30",
-   "description": "Bom 36 따뜻한 남향 에어컨풀 인기타입 푸른초 품은단지 세대별지하창고",
-   "realtor": "호반의봄(02-402-7070) 공인중개사사무소",
-   "price_text": "93000"
-  },
-  {
    "article_no": "2658629614",
    "trade": "B1",
    "deposit": 93000,
@@ -229,6 +214,21 @@
    "price_text": "93000"
   },
   {
+   "article_no": "2658655533",
+   "trade": "B1",
+   "deposit": 93000,
+   "rent": 0,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "5/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-10-30",
+   "description": "Bom 36 따뜻한 남향 에어컨풀 인기타입 푸른초 품은단지 세대별지하창고",
+   "realtor": "호반의봄(02-402-7070) 공인중개사사무소",
+   "price_text": "93000"
+  },
+  {
    "article_no": "2657968299",
    "trade": "B1",
    "deposit": 93000,
@@ -241,6 +241,36 @@
    "confirmed": "2026-10-27",
    "description": "ACE.방3.시스템에어컨풀.채광좋은정남향.판상형,넓은알파룸.진출입이펀리",
    "realtor": "에이스호반(02-400-5665)공인중개사사무소",
+   "price_text": "93000"
+  },
+  {
+   "article_no": "2658952515",
+   "trade": "B1",
+   "deposit": 93000,
+   "rent": 0,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "저/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-11-02",
+   "description": "house. 36A 4베이 판상형, 트인 뷰, 시에4, 세대별창고 有",
+   "realtor": "하우스이음공인중개사사무소",
+   "price_text": "93000"
+  },
+  {
+   "article_no": "2658952540",
+   "trade": "B1",
+   "deposit": 93000,
+   "rent": 0,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "저/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-11-02",
+   "description": "에풀,채광좋은남향 열린뷰,진출입편리,세대창고",
+   "realtor": "도무스공인중개사사무소주식회사",
    "price_text": "93000"
   },
   {
@@ -269,36 +299,6 @@
    "building": "5401",
    "direction": "SS",
    "confirmed": "2026-11-01",
-   "description": "house. 36A 4베이 판상형, 트인 뷰, 시에4, 세대별창고 有",
-   "realtor": "하우스이음공인중개사사무소",
-   "price_text": "93000"
-  },
-  {
-   "article_no": "2658916439",
-   "trade": "B1",
-   "deposit": 93000,
-   "rent": 0,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "저/15",
-   "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-11-01",
-   "description": "에풀,채광좋은남향 열린뷰,진출입편리,세대창고",
-   "realtor": "도무스공인중개사사무소주식회사",
-   "price_text": "93000"
-  },
-  {
-   "article_no": "2658753429",
-   "trade": "B1",
-   "deposit": 93000,
-   "rent": 0,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "저/15",
-   "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-10-31",
    "description": "house. 36A 4베이 판상형, 트인 뷰, 시에4, 세대별창고 有",
    "realtor": "하우스이음공인중개사사무소",
    "price_text": "93000"
@@ -349,6 +349,21 @@
    "price_text": "93000"
   },
   {
+   "article_no": "2654907293",
+   "trade": "B1",
+   "deposit": 93000,
+   "rent": 0,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "저/15",
+   "building": "5401",
+   "direction": "WS",
+   "confirmed": "2026-10-12",
+   "description": "단지상가,귀한전세,시스템에어컨풀,정남향,세대별지하창고",
+   "realtor": "위례다경024072255공인중개사사무소",
+   "price_text": "93000"
+  },
+  {
    "article_no": "2654939423",
    "trade": "B1",
    "deposit": 93000,
@@ -379,22 +394,7 @@
    "price_text": "93000"
   },
   {
-   "article_no": "2654907293",
-   "trade": "B1",
-   "deposit": 93000,
-   "rent": 0,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "저/15",
-   "building": "5401",
-   "direction": "WS",
-   "confirmed": "2026-10-12",
-   "description": "단지상가,귀한전세,시스템에어컨풀,정남향,세대별지하창고",
-   "realtor": "위례다경024072255공인중개사사무소",
-   "price_text": "93000"
-  },
-  {
-   "article_no": "2658838514",
+   "article_no": "2658951304",
    "trade": "B1",
    "deposit": 97000,
    "rent": 0,
@@ -402,10 +402,10 @@
    "area_supply": 131.02,
    "floor": "저/25",
    "building": "5406",
-   "direction": "SS",
-   "confirmed": "2026-10-31",
-   "description": "단지상가,트인정원뷰,에어컨유,푸른초,상가이용편리,세대별지하창고",
-   "realtor": "위례다경024072255공인중개사사무소",
+   "direction": "ES",
+   "confirmed": "2026-11-02",
+   "description": "L 방3. 주방팬트리. 1월말부터 입주협의가능. 장기거주가능. 에어컨 유",
+   "realtor": "월드공인중개사사무소",
    "price_text": "97000"
   },
   {
@@ -421,6 +421,21 @@
    "confirmed": "2026-10-31",
    "description": "L 방3. 주방팬트리. 1월말부터 입주협의가능. 장기거주가능. 에어컨 유",
    "realtor": "월드공인중개사사무소",
+   "price_text": "97000"
+  },
+  {
+   "article_no": "2658838514",
+   "trade": "B1",
+   "deposit": 97000,
+   "rent": 0,
+   "area_exclusive": 101.96,
+   "area_supply": 131.02,
+   "floor": "저/25",
+   "building": "5406",
+   "direction": "SS",
+   "confirmed": "2026-10-31",
+   "description": "단지상가,트인정원뷰,에어컨유,푸른초,상가이용편리,세대별지하창고",
+   "realtor": "위례다경024072255공인중개사사무소",
    "price_text": "97000"
   },
   {
@@ -619,7 +634,7 @@
    "price_text": "110000"
   },
   {
-   "article_no": "2658916433",
+   "article_no": "2658961594",
    "trade": "B2",
    "deposit": 70000,
    "rent": 90,
@@ -628,52 +643,7 @@
    "floor": "저/15",
    "building": "5401",
    "direction": "SS",
-   "confirmed": "2026-11-01",
-   "description": "house. 36A 4베이 판상형, 트인 뷰, 시에4, 세대별창고 有",
-   "realtor": "하우스이음공인중개사사무소",
-   "price_text": "70000/90"
-  },
-  {
-   "article_no": "2658753450",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 90,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "저/15",
-   "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-10-31",
-   "description": "house. 36A 4베이 판상형, 트인 뷰, 시에4, 세대별창고 有",
-   "realtor": "하우스이음공인중개사사무소",
-   "price_text": "70000/90"
-  },
-  {
-   "article_no": "2658847014",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 90,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "저/15",
-   "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-10-31",
-   "description": "정남향  시스템에어컨  초품아 만족도 높은 단지  학원상가 이용편리",
-   "realtor": "위례성원공인중개사사무소",
-   "price_text": "70000/90"
-  },
-  {
-   "article_no": "2658820973",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 90,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "저/15",
-   "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-10-31",
+   "confirmed": "2026-11-02",
    "description": "ACE.시스템에어컨풀.동간거리확보된트인뷰.내부컨디션최상.정남향",
    "realtor": "에이스호반(02-400-5665)공인중개사사무소",
    "price_text": "70000/90"
@@ -694,21 +664,6 @@
    "price_text": "70000/90"
   },
   {
-   "article_no": "2658588176",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 90,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "저/15",
-   "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-10-30",
-   "description": "입주 채광좋은 정남향 알파룸별도 학원상가복지관 이용편리 초품아 세대창고",
-   "realtor": "위례대교(02-400-9595)공인중개사사무소",
-   "price_text": "70000/90"
-  },
-  {
    "article_no": "2658624868",
    "trade": "B2",
    "deposit": 70000,
@@ -721,6 +676,21 @@
    "confirmed": "2026-10-30",
    "description": "햇살 가득  탁트인 정남향뷰 넓은 동간거리 초품아단지 풀시스템에어컨",
    "realtor": "위례진주(02-456-7999)공인중개사사무소",
+   "price_text": "70000/90"
+  },
+  {
+   "article_no": "2658588176",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 90,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "저/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-10-30",
+   "description": "입주 채광좋은 정남향 알파룸별도 학원상가복지관 이용편리 초품아 세대창고",
+   "realtor": "위례대교(02-400-9595)공인중개사사무소",
    "price_text": "70000/90"
   },
   {
@@ -739,7 +709,7 @@
    "price_text": "70000/90"
   },
   {
-   "article_no": "2658205062",
+   "article_no": "2658962889",
    "trade": "B2",
    "deposit": 70000,
    "rent": 90,
@@ -748,9 +718,9 @@
    "floor": "저/15",
    "building": "5401",
    "direction": "SS",
-   "confirmed": "2026-10-29",
-   "description": "방3,시스템에어컨,채광우수,트인조망,세대창고로수납넉넉",
-   "realtor": "더힐타워 02)421-3600 공인중개사사무소",
+   "confirmed": "2026-11-02",
+   "description": "ACE.시스템에어컨풀. 햇살좋은 정남향.인기구조.세대지하창고.초품아",
+   "realtor": "에이스호반(02-400-5665)공인중개사사무소",
    "price_text": "70000/90"
   },
   {
@@ -769,7 +739,82 @@
    "price_text": "70000/90"
   },
   {
-   "article_no": "2658916438",
+   "article_no": "2658987512",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 100,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "저/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-11-02",
+   "description": "방3,시스템에어컨,채광우수,트인조망,세대창고로수납넉넉",
+   "realtor": "더힐타워 02)421-3600 공인중개사사무소",
+   "price_text": "70000/100"
+  },
+  {
+   "article_no": "2658950878",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 100,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "저/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-11-02",
+   "description": "L 시스템에어컨 풀.  남향. 트인 뷰. 초품아. 개별세대창고. 수납 굿",
+   "realtor": "월드공인중개사사무소",
+   "price_text": "70000/100"
+  },
+  {
+   "article_no": "2658955202",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 100,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "저/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-11-02",
+   "description": "푸른초학군  방3 에어컨풀 세대창고  상가이용편리",
+   "realtor": "더힐우리공인중개사사무소",
+   "price_text": "70000/100"
+  },
+  {
+   "article_no": "2658952525",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 100,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "저/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-11-02",
+   "description": "house. 36A 4베이 판상형, 트인 뷰, 시에4, 세대별창고 有",
+   "realtor": "하우스이음공인중개사사무소",
+   "price_text": "70000/100"
+  },
+  {
+   "article_no": "2658952542",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 100,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "저/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-11-02",
+   "description": "에풀,채광좋음 진출입편리,세대창고,단지내위례푸른초",
+   "realtor": "도무스공인중개사사무소주식회사",
+   "price_text": "70000/100"
+  },
+  {
+   "article_no": "2658916433",
    "trade": "B2",
    "deposit": 70000,
    "rent": 100,
@@ -779,8 +824,8 @@
    "building": "5401",
    "direction": "SS",
    "confirmed": "2026-11-01",
-   "description": "에풀,채광좋음 진출입편리,세대창고,단지내위례푸른초",
-   "realtor": "도무스공인중개사사무소주식회사",
+   "description": "house. 36A 4베이 판상형, 트인 뷰, 시에4, 세대별창고 有",
+   "realtor": "하우스이음공인중개사사무소",
    "price_text": "70000/100"
   },
   {
@@ -799,21 +844,6 @@
    "price_text": "70000/100"
   },
   {
-   "article_no": "2658751791",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 100,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "저/15",
-   "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-10-31",
-   "description": "L 시스템에어컨 풀.  남향. 트인 뷰. 초품아. 개별세대창고. 수납 굿",
-   "realtor": "월드공인중개사사무소",
-   "price_text": "70000/100"
-  },
-  {
    "article_no": "2658806064",
    "trade": "B2",
    "deposit": 70000,
@@ -829,7 +859,7 @@
    "price_text": "70000/100"
   },
   {
-   "article_no": "2658554145",
+   "article_no": "2658751791",
    "trade": "B2",
    "deposit": 70000,
    "rent": 100,
@@ -838,13 +868,13 @@
    "floor": "저/15",
    "building": "5401",
    "direction": "SS",
-   "confirmed": "2026-10-30",
+   "confirmed": "2026-10-31",
    "description": "L 시스템에어컨 풀.  남향. 트인 뷰. 초품아. 개별세대창고. 수납 굿",
    "realtor": "월드공인중개사사무소",
    "price_text": "70000/100"
   },
   {
-   "article_no": "2658527937",
+   "article_no": "2658847014",
    "trade": "B2",
    "deposit": 70000,
    "rent": 100,
@@ -852,10 +882,10 @@
    "area_supply": 121.27,
    "floor": "저/15",
    "building": "5401",
-   "direction": "WS",
-   "confirmed": "2026-10-30",
-   "description": "단지상가,귀한반전세,시스템에어컨풀,푸른초,활용도높은알파룸",
-   "realtor": "위례다경024072255공인중개사사무소",
+   "direction": "SS",
+   "confirmed": "2026-10-31",
+   "description": "정남향  시스템에어컨  초품아 만족도 높은 단지  학원상가 이용편리",
+   "realtor": "위례성원공인중개사사무소",
    "price_text": "70000/100"
   },
   {
@@ -874,7 +904,7 @@
    "price_text": "70000/100"
   },
   {
-   "article_no": "2658419026",
+   "article_no": "2658527937",
    "trade": "B2",
    "deposit": 70000,
    "rent": 100,
@@ -882,10 +912,10 @@
    "area_supply": 121.27,
    "floor": "저/15",
    "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-10-29",
-   "description": "푸른초학군  방3 에어컨풀 세대창고  상가이용편리",
-   "realtor": "더힐우리공인중개사사무소",
+   "direction": "WS",
+   "confirmed": "2026-10-30",
+   "description": "단지상가,귀한반전세,시스템에어컨풀,푸른초,활용도높은알파룸",
+   "realtor": "위례다경024072255공인중개사사무소",
    "price_text": "70000/100"
   },
   {
@@ -904,21 +934,6 @@
    "price_text": "70000/100"
   },
   {
-   "article_no": "2657643535",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 100,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "저/15",
-   "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-10-26",
-   "description": "입주 채광좋은 정남향 알파룸별도 학원상가복지관 이용편리 초품아 세대창고",
-   "realtor": "위례대교(02-400-9595)공인중개사사무소",
-   "price_text": "70000/100"
-  },
-  {
    "article_no": "2657654563",
    "trade": "B2",
    "deposit": 70000,
@@ -931,6 +946,21 @@
    "confirmed": "2026-10-26",
    "description": "시스템에어컨, 관리 잘 된 집",
    "realtor": "롯데캐슬공인중개사사무소024459600",
+   "price_text": "70000/100"
+  },
+  {
+   "article_no": "2657643535",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 100,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "저/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-10-26",
+   "description": "입주 채광좋은 정남향 알파룸별도 학원상가복지관 이용편리 초품아 세대창고",
+   "realtor": "위례대교(02-400-9595)공인중개사사무소",
    "price_text": "70000/100"
   },
   {
