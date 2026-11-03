@@ -1,6 +1,22 @@
 {
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "complexNo": "109543",
  "name": "남양주창현두산(창현도뮤토)",
- "articles": []
+ "articles": [
+  {
+   "article_no": "2659263969",
+   "trade": "B1",
+   "deposit": 31000,
+   "rent": 0,
+   "area_exclusive": 59.95,
+   "area_supply": 85.51,
+   "floor": "3/22",
+   "building": "105",
+   "direction": "ES",
+   "confirmed": "2026-11-02",
+   "description": "",
+   "realtor": "도뮤토부동산공인중개사사무소",
+   "price_text": "31000"
+  }
+ ]
 }

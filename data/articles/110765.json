@@ -1,5 +1,5 @@
 {
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "complexNo": "110765",
  "name": "고덕숲아이파크",
  "articles": [
@@ -124,6 +124,36 @@
    "price_text": "58000/90"
   },
   {
+   "article_no": "2659125739",
+   "trade": "B2",
+   "deposit": 58000,
+   "rent": 100,
+   "area_exclusive": 59.97,
+   "area_supply": 84.78,
+   "floor": "중/9",
+   "building": "110",
+   "direction": "SS",
+   "confirmed": "2026-11-02",
+   "description": "정남향 채광좋은집, 한영학군. 숲도서관개관. 9호선호재",
+   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
+   "price_text": "58000/100"
+  },
+  {
+   "article_no": "2659034460",
+   "trade": "B2",
+   "deposit": 58000,
+   "rent": 100,
+   "area_exclusive": 59.97,
+   "area_supply": 84.78,
+   "floor": "중/9",
+   "building": "110",
+   "direction": "SS",
+   "confirmed": "2026-11-02",
+   "description": "탁트인뷰 채광좋은판상형 한영학군 숲속도서관",
+   "realtor": "고덕스카이공인중개사사무소",
+   "price_text": "58000/100"
+  },
+  {
    "article_no": "2658912154",
    "trade": "B2",
    "deposit": 58000,
@@ -136,36 +166,6 @@
    "confirmed": "2026-10-31",
    "description": "강.추.생태숲풀뷰.햇살좋은 탁.트인뷰.한영학군인접.컨디션굿.숲속도서관1분",
    "realtor": "골드공인중개사사무소",
-   "price_text": "58000/100"
-  },
-  {
-   "article_no": "2658905602",
-   "trade": "B2",
-   "deposit": 58000,
-   "rent": 100,
-   "area_exclusive": 59.97,
-   "area_supply": 84.78,
-   "floor": "중/9",
-   "building": "110",
-   "direction": "SS",
-   "confirmed": "2026-10-31",
-   "description": "탁트인뷰 채광좋은판상형 한영학군 숲속도서관",
-   "realtor": "고덕스카이공인중개사사무소",
-   "price_text": "58000/100"
-  },
-  {
-   "article_no": "2658789181",
-   "trade": "B2",
-   "deposit": 58000,
-   "rent": 100,
-   "area_exclusive": 59.97,
-   "area_supply": 84.78,
-   "floor": "중/9",
-   "building": "110",
-   "direction": "SS",
-   "confirmed": "2026-10-31",
-   "description": "정남향 채광좋은집, 한영학군. 숲도서관개관. 9호선호재",
-   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
    "price_text": "58000/100"
   },
   {
@@ -184,7 +184,7 @@
    "price_text": "58000/100"
   },
   {
-   "article_no": "2658589065",
+   "article_no": "2659115206",
    "trade": "B2",
    "deposit": 58000,
    "rent": 100,
@@ -193,7 +193,7 @@
    "floor": "중/9",
    "building": "110",
    "direction": "SS",
-   "confirmed": "2026-10-30",
+   "confirmed": "2026-11-02",
    "description": "영구숲조망 고덕숲 도서관 바로근처 중고등학교 근거리",
    "realtor": "대상공인중개사사무소(427-0001)",
    "price_text": "58000/100"
