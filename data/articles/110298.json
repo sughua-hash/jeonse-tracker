@@ -1,5 +1,5 @@
 {
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "complexNo": "110298",
  "name": "다산롯데캐슬",
  "articles": [
@@ -94,6 +94,36 @@
    "price_text": "85000"
   },
   {
+   "article_no": "2659469766",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 100,
+   "area_exclusive": 84.97,
+   "area_supply": 113.2,
+   "floor": "고/25",
+   "building": "2203",
+   "direction": "WS",
+   "confirmed": "2026-11-03",
+   "description": "입주협의,주인거주,엘베2대,초역세권,학세권,로얄동,로얄층",
+   "realtor": "다산자이삼성공인중개사사무소",
+   "price_text": "50000/100"
+  },
+  {
+   "article_no": "2659371344",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 100,
+   "area_exclusive": 84.97,
+   "area_supply": 113.2,
+   "floor": "고/25",
+   "building": "2203",
+   "direction": "WS",
+   "confirmed": "2026-11-03",
+   "description": "해잘들고트인뷰, 다산역,초중고 인접 로얄동층, 입주협의",
+   "realtor": "다산역롯데 단지넷 부동산 공인중개사사무소",
+   "price_text": "50000/100"
+  },
+  {
    "article_no": "2659299707",
    "trade": "B2",
    "deposit": 50000,
@@ -109,6 +139,21 @@
    "price_text": "50000/100"
   },
   {
+   "article_no": "2659376938",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 100,
+   "area_exclusive": 84.97,
+   "area_supply": 113.2,
+   "floor": "고/25",
+   "building": "2203",
+   "direction": "WS",
+   "confirmed": "2026-11-03",
+   "description": "e조은추천.트인뷰.다산역역세권.초중고학세권.중심상권",
+   "realtor": "다산e조은공인중개사사무소",
+   "price_text": "50000/100"
+  },
+  {
    "article_no": "2659312450",
    "trade": "B2",
    "deposit": 50000,
@@ -121,21 +166,6 @@
    "confirmed": "2026-11-03",
    "description": "G골드추천.협의입주.중문.초역세권.다산초중고.엘베2대.단지트인뷰",
    "realtor": "다산자이골드부동산공인중개사사무소",
-   "price_text": "50000/100"
-  },
-  {
-   "article_no": "2659072085",
-   "trade": "B2",
-   "deposit": 50000,
-   "rent": 100,
-   "area_exclusive": 84.97,
-   "area_supply": 113.2,
-   "floor": "고/25",
-   "building": "2203",
-   "direction": "WS",
-   "confirmed": "2026-11-02",
-   "description": "해잘들고트인뷰, 다산역,초중고 인접 로얄동층, 입주협의",
-   "realtor": "다산역롯데 단지넷 부동산 공인중개사사무소",
    "price_text": "50000/100"
   },
   {
@@ -181,21 +211,6 @@
    "confirmed": "2026-10-31",
    "description": "입주협의, 고층뷰, 4베이 판상형, 초중고 및 지하철과 상권 가까움",
    "realtor": "다산부동산파트너 공인중개사사무소",
-   "price_text": "50000/100"
-  },
-  {
-   "article_no": "2658791031",
-   "trade": "B2",
-   "deposit": 50000,
-   "rent": 100,
-   "area_exclusive": 84.97,
-   "area_supply": 113.2,
-   "floor": "고/25",
-   "building": "2203",
-   "direction": "WS",
-   "confirmed": "2026-10-31",
-   "description": "e조은추천.트인뷰.다산역역세권.초중고학세권.중심상권",
-   "realtor": "다산e조은공인중개사사무소",
    "price_text": "50000/100"
   },
   {
@@ -314,7 +329,7 @@
    "building": "2205",
    "direction": "ES",
    "confirmed": "2026-10-31",
-   "description": "위임.트인뷰.융자무.2월중순협의.다산역세권 중심상가이용편리",
+   "description": "위임.트인뷰.융자무.2월중순협의.깔끔한집.다산역세권 중심상가이용편리",
    "realtor": "현대아이파크공인중개사사무소",
    "price_text": "20000/200"
   },

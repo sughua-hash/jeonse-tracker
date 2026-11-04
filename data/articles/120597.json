@@ -1,8 +1,23 @@
 {
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "complexNo": "120597",
  "name": "남양주두산위브트레지움",
  "articles": [
+  {
+   "article_no": "2659559338",
+   "trade": "B2",
+   "deposit": 10000,
+   "rent": 100,
+   "area_exclusive": 59.98,
+   "area_supply": 82.01,
+   "floor": "27/35",
+   "building": "112",
+   "direction": "WS",
+   "confirmed": "2026-11-04",
+   "description": "11월 25일",
+   "realtor": "두산위트공인중개사",
+   "price_text": "10000/100"
+  },
   {
    "article_no": "2658913251",
    "trade": "B2",

@@ -1,5 +1,5 @@
 {
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "complexNo": "110522",
  "name": "남양주월산사랑으로부영2단지",
  "articles": [
@@ -17,6 +17,36 @@
    "description": "",
    "realtor": "효성공인중개사사무소",
    "price_text": "32000"
+  },
+  {
+   "article_no": "2659333485",
+   "trade": "B1",
+   "deposit": 35000,
+   "rent": 0,
+   "area_exclusive": 148.0,
+   "area_supply": 178.35,
+   "floor": "중/33",
+   "building": "207",
+   "direction": "ES",
+   "confirmed": "2026-11-03",
+   "description": "",
+   "realtor": "건화공인중개사사무소",
+   "price_text": "35000"
+  },
+  {
+   "article_no": "2659381366",
+   "trade": "B2",
+   "deposit": 5000,
+   "rent": 170,
+   "area_exclusive": 148.0,
+   "area_supply": 178.35,
+   "floor": "중/33",
+   "building": "207",
+   "direction": "ES",
+   "confirmed": "2026-11-03",
+   "description": "",
+   "realtor": "건화공인중개사사무소",
+   "price_text": "5000/170"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "complexNo": "116370",
  "name": "e편한세상시티인하대역",
  "articles": [
@@ -34,6 +34,21 @@
    "price_text": "22000"
   },
   {
+   "article_no": "2659452709",
+   "trade": "B2",
+   "deposit": 500,
+   "rent": 65,
+   "area_exclusive": 19.84,
+   "area_supply": 30.82,
+   "floor": "14/37",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-11-03",
+   "description": "인하대역 가까운 풀옵션 오피스텔 이사협의",
+   "realtor": "에스케이일등공인중개사사무소",
+   "price_text": "500/65"
+  },
+  {
    "article_no": "2658738056",
    "trade": "B2",
    "deposit": 500,
@@ -44,7 +59,7 @@
    "building": "102",
    "direction": "SS",
    "confirmed": "2026-10-31",
-   "description": "이편한 귀한원룸, 풀옵션, 융자무, 1월초이사협의",
+   "description": "이편한 귀한원룸, 풀옵션, 융자무, 2월초이사협의",
    "realtor": "SK뷰부동산114공인중개사사무소",
    "price_text": "500/70"
   },
@@ -62,6 +77,21 @@
    "description": "큰 원룸 . 공실 . 즉시입주 가능 . 고층뷰",
    "realtor": "SK윤부동산공인중개사사무소",
    "price_text": "500/75"
+  },
+  {
+   "article_no": "2659387673",
+   "trade": "B2",
+   "deposit": 1000,
+   "rent": 75,
+   "area_exclusive": 27.11,
+   "area_supply": 41.23,
+   "floor": "저/37",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-11-03",
+   "description": "인하대역 풀옵션 2월말입주 월세 전입가능",
+   "realtor": "뉴월드공인중개사사무소",
+   "price_text": "1000/75"
   },
   {
    "article_no": "2659137958",
@@ -109,21 +139,6 @@
    "price_text": "3000/130"
   },
   {
-   "article_no": "2654029932",
-   "trade": "B2",
-   "deposit": 3000,
-   "rent": 130,
-   "area_exclusive": 79.57,
-   "area_supply": 119.12,
-   "floor": "고/32",
-   "building": "104",
-   "direction": "SS",
-   "confirmed": "2026-10-08",
-   "description": "O똑순이O남향 고층 월세 O 방3 O 에어컨2대 O 이사협의 O",
-   "realtor": "SK똑순이부동산공인중개사사무소",
-   "price_text": "3000/130"
-  },
-  {
    "article_no": "2654246372",
    "trade": "B2",
    "deposit": 3000,
@@ -136,6 +151,21 @@
    "confirmed": "2026-10-08",
    "description": "O 물건부자 똑순이 O 귀한79타입 O 빠른이사 0 시에2",
    "realtor": "똑순이부동산공인중개사사무소",
+   "price_text": "3000/130"
+  },
+  {
+   "article_no": "2654029932",
+   "trade": "B2",
+   "deposit": 3000,
+   "rent": 130,
+   "area_exclusive": 79.57,
+   "area_supply": 119.12,
+   "floor": "고/32",
+   "building": "104",
+   "direction": "SS",
+   "confirmed": "2026-10-08",
+   "description": "O똑순이O남향 고층 월세 O 방3 O 에어컨2대 O 이사협의 O",
+   "realtor": "SK똑순이부동산공인중개사사무소",
    "price_text": "3000/130"
   }
  ]
