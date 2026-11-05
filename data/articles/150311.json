@@ -1,8 +1,23 @@
 {
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "complexNo": "150311",
  "name": "빌리브센트하이",
  "articles": [
+  {
+   "article_no": "2659632232",
+   "trade": "B1",
+   "deposit": 43000,
+   "rent": 0,
+   "area_exclusive": 84.97,
+   "area_supply": 112.41,
+   "floor": "28/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-11-04",
+   "description": "신축 첫입주,확트인 조망,로얄동,시스템에어컨4,전철역세권,초중고인접",
+   "realtor": "에이스공인중개사사무소",
+   "price_text": "43000"
+  },
   {
    "article_no": "2658406448",
    "trade": "B1",
@@ -19,19 +34,34 @@
    "price_text": "43000"
   },
   {
-   "article_no": "2656161753",
+   "article_no": "2659714163",
    "trade": "B1",
-   "deposit": 45000,
+   "deposit": 43000,
    "rent": 0,
    "area_exclusive": 84.97,
    "area_supply": 112.41,
-   "floor": "28/29",
+   "floor": "고/29",
    "building": "102",
    "direction": "ES",
-   "confirmed": "2026-10-19",
-   "description": "대출불가 12월말이전입주 첫입주 깨끗",
-   "realtor": "탑부동산중개사무소",
-   "price_text": "45000"
+   "confirmed": "2026-11-04",
+   "description": "귀한84b타입, 확트인뷰,현금전세,급전세 조망 햇빛굿, 에어컨4, 올확장",
+   "realtor": "한강반도유보라 공인중개사사무소",
+   "price_text": "43000"
+  },
+  {
+   "article_no": "2659720951",
+   "trade": "B1",
+   "deposit": 50000,
+   "rent": 0,
+   "area_exclusive": 98.84,
+   "area_supply": 129.73,
+   "floor": "27/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-11-05",
+   "description": "조정가 대출불가 에어컨4대 역세권 초중고교인접",
+   "realtor": "두산위브부동산공인중개사사무소",
+   "price_text": "50000"
   }
  ]
 }

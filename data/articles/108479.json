@@ -1,5 +1,5 @@
 {
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "complexNo": "108479",
  "name": "미사강변푸르지오2차",
  "articles": [
@@ -34,7 +34,7 @@
    "price_text": "100000"
   },
   {
-   "article_no": "2658811860",
+   "article_no": "2659584257",
    "trade": "B1",
    "deposit": 110000,
    "rent": 0,
@@ -43,9 +43,24 @@
    "floor": "중/29",
    "building": "103",
    "direction": "EN",
-   "confirmed": "2026-10-31",
+   "confirmed": "2026-11-04",
    "description": "거실전면프리미엄한강뷰 풀에어컨 특화타입 초중고옆 한강공원앞",
    "realtor": "미사푸르지오공인중개사사무소",
+   "price_text": "110000"
+  },
+  {
+   "article_no": "2659679162",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 101.89,
+   "area_supply": 132.06,
+   "floor": "고/29",
+   "building": "103",
+   "direction": "EE",
+   "confirmed": "2026-11-04",
+   "description": "쓰리룸 아파트 전세",
+   "realtor": "스카이폴리스옥수수공인중개사사무소",
    "price_text": "110000"
   },
   {
@@ -124,6 +139,21 @@
    "price_text": "30000/300"
   },
   {
+   "article_no": "2659648760",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 340,
+   "area_exclusive": 101.81,
+   "area_supply": 131.53,
+   "floor": "9/29",
+   "building": "104",
+   "direction": "WS",
+   "confirmed": "2026-11-04",
+   "description": "9층  남향O 융자없음O 에어컨3대O 입주협의O 초중고O 9호선호재",
+   "realtor": "미사행복공인중개사사무소",
+   "price_text": "20000/340"
+  },
+  {
    "article_no": "2659533831",
    "trade": "B2",
    "deposit": 20000,
@@ -139,7 +169,7 @@
    "price_text": "20000/340"
   },
   {
-   "article_no": "2659373735",
+   "article_no": "2659579165",
    "trade": "B2",
    "deposit": 20000,
    "rent": 340,
@@ -148,22 +178,7 @@
    "floor": "9/29",
    "building": "104",
    "direction": "WS",
-   "confirmed": "2026-11-03",
-   "description": "9층  남향O 융자없음O 에어컨3대O 입주협의O 초중고O 9호선호재",
-   "realtor": "미사행복공인중개사사무소",
-   "price_text": "20000/340"
-  },
-  {
-   "article_no": "2659363084",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 340,
-   "area_exclusive": 101.81,
-   "area_supply": 131.53,
-   "floor": "9/29",
-   "building": "104",
-   "direction": "WS",
-   "confirmed": "2026-11-03",
+   "confirmed": "2026-11-04",
    "description": "거실트인뷰 무융자 입주협의가능 선호판상형 시스템에어컨 광역버스이용편리",
    "realtor": "미사푸르지오공인중개사사무소",
    "price_text": "20000/340"

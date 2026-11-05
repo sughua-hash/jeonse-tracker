@@ -1,5 +1,5 @@
 {
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "complexNo": "983",
  "name": "푸른마을",
  "articles": [
@@ -79,21 +79,6 @@
    "price_text": "110000"
   },
   {
-   "article_no": "2659424979",
-   "trade": "B1",
-   "deposit": 110000,
-   "rent": 0,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "중/15",
-   "building": "109",
-   "direction": "SS",
-   "confirmed": "2026-11-03",
-   "description": "31.남향,확장수리깨끗,로얄동,로얄층,반전세가능",
-   "realtor": "일원뱅크공인중개사사무소",
-   "price_text": "110000"
-  },
-  {
    "article_no": "2659419903",
    "trade": "B1",
    "deposit": 110000,
@@ -121,6 +106,21 @@
    "confirmed": "2026-11-03",
    "description": "직매물,확장올수리,대모산전망동,오래거주가능",
    "realtor": "푸른닷컴공인중개사",
+   "price_text": "110000"
+  },
+  {
+   "article_no": "2659424979",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "중/15",
+   "building": "109",
+   "direction": "SS",
+   "confirmed": "2026-11-03",
+   "description": "31.남향,확장수리깨끗,로얄동,로얄층,반전세가능",
+   "realtor": "일원뱅크공인중개사사무소",
    "price_text": "110000"
   },
   {
@@ -214,7 +214,7 @@
    "price_text": "80000/120"
   },
   {
-   "article_no": "2659079145",
+   "article_no": "2659626099",
    "trade": "B2",
    "deposit": 40000,
    "rent": 280,
@@ -223,10 +223,25 @@
    "floor": "14/15",
    "building": "102",
    "direction": "SS",
-   "confirmed": "2026-11-02",
+   "confirmed": "2026-11-04",
    "description": "주인직매물 .공동환영귀한 . 남향수리깨끗 . 방확장",
    "realtor": "양지공인중개사사무소",
    "price_text": "40000/280"
+  },
+  {
+   "article_no": "2659720481",
+   "trade": "B2",
+   "deposit": 5000,
+   "rent": 340,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "고/15",
+   "building": "101",
+   "direction": "EE",
+   "confirmed": "2026-11-05",
+   "description": "25 거실확장올수리 로얄동 막힘없는뷰 빠른입주가능",
+   "realtor": "엘리트공인중개사사무소",
+   "price_text": "5000/340"
   },
   {
    "article_no": "2659520925",
@@ -244,7 +259,7 @@
    "price_text": "20000/350"
   },
   {
-   "article_no": "2659481105",
+   "article_no": "2659625776",
    "trade": "B2",
    "deposit": 20000,
    "rent": 360,
@@ -253,7 +268,7 @@
    "floor": "14/15",
    "building": "102",
    "direction": "SS",
-   "confirmed": "2026-11-03",
+   "confirmed": "2026-11-04",
    "description": "주인직매물.공동환영. 수리깨끗 . 방확장 . 보증금조정가능",
    "realtor": "양지공인중개사사무소",
    "price_text": "20000/360"
@@ -334,6 +349,21 @@
    "price_text": "20000/360"
   },
   {
+   "article_no": "2657776575",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 360,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "14/15",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-10-26",
+   "description": "푸른로얄동,오래거주가능,일조권전망좋은집",
+   "realtor": "푸른닷컴공인중개사",
+   "price_text": "20000/360"
+  },
+  {
    "article_no": "2657770089",
    "trade": "B2",
    "deposit": 20000,
@@ -361,21 +391,6 @@
    "confirmed": "2026-10-26",
    "description": "집내부깨끗,일조권전망좋은집,주차편리",
    "realtor": "푸른닷컴공인중개사사무소",
-   "price_text": "20000/360"
-  },
-  {
-   "article_no": "2657776575",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 360,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "14/15",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-10-26",
-   "description": "푸른로얄동,오래거주가능,일조권전망좋은집",
-   "realtor": "푸른닷컴공인중개사",
    "price_text": "20000/360"
   }
  ]
