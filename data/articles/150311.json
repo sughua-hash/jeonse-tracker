@@ -1,5 +1,5 @@
 {
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "complexNo": "150311",
  "name": "빌리브센트하이",
  "articles": [
@@ -34,6 +34,21 @@
    "price_text": "43000"
   },
   {
+   "article_no": "2660169873",
+   "trade": "B1",
+   "deposit": 43000,
+   "rent": 0,
+   "area_exclusive": 84.97,
+   "area_supply": 112.41,
+   "floor": "28/29",
+   "building": "102",
+   "direction": "WS",
+   "confirmed": "2026-11-06",
+   "description": "신축 84B 에어컨4대 뻥뚫린조망 현금전세 ",
+   "realtor": "두산위브부동산공인중개사사무소",
+   "price_text": "43000"
+  },
+  {
    "article_no": "2659714163",
    "trade": "B1",
    "deposit": 43000,
@@ -47,21 +62,6 @@
    "description": "귀한84b타입, 확트인뷰,현금전세,급전세 조망 햇빛굿, 에어컨4, 올확장",
    "realtor": "한강반도유보라 공인중개사사무소",
    "price_text": "43000"
-  },
-  {
-   "article_no": "2659720951",
-   "trade": "B1",
-   "deposit": 50000,
-   "rent": 0,
-   "area_exclusive": 98.84,
-   "area_supply": 129.73,
-   "floor": "27/29",
-   "building": "102",
-   "direction": "WS",
-   "confirmed": "2026-11-05",
-   "description": "조정가 대출불가 에어컨4대 역세권 초중고교인접",
-   "realtor": "두산위브부동산공인중개사사무소",
-   "price_text": "50000"
   }
  ]
 }
