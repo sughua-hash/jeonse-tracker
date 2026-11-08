@@ -1,5 +1,5 @@
 {
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "complexNo": "120597",
  "name": "남양주두산위브트레지움",
  "articles": [
@@ -49,6 +49,21 @@
    "price_text": "36000"
   },
   {
+   "article_no": "2660316329",
+   "trade": "B1",
+   "deposit": 36000,
+   "rent": 0,
+   "area_exclusive": 84.95,
+   "area_supply": 114.7,
+   "floor": "7/33",
+   "building": "105",
+   "direction": "WS",
+   "confirmed": "2026-11-07",
+   "description": "융무,시스템에어컨5,중문,2월중순협의",
+   "realtor": "두산위브트레지움공인중개사사무소",
+   "price_text": "36000"
+  },
+  {
    "article_no": "2659848970",
    "trade": "B2",
    "deposit": 30000,
@@ -60,6 +75,21 @@
    "direction": "WS",
    "confirmed": "2026-11-05",
    "description": "대출없음,2월중순협의,시스템에어컨5,중문",
+   "realtor": "두산위브트레지움공인중개사사무소",
+   "price_text": "30000/30"
+  },
+  {
+   "article_no": "2660317900",
+   "trade": "B2",
+   "deposit": 30000,
+   "rent": 30,
+   "area_exclusive": 84.95,
+   "area_supply": 114.7,
+   "floor": "7/33",
+   "building": "105",
+   "direction": "WS",
+   "confirmed": "2026-11-07",
+   "description": "융무,시스템에어컨5,중문,2월중순협의",
    "realtor": "두산위브트레지움공인중개사사무소",
    "price_text": "30000/30"
   },

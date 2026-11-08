@@ -1,5 +1,5 @@
 {
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "complexNo": "983",
  "name": "푸른마을",
  "articles": [
@@ -34,36 +34,6 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2657718341",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "7/15",
-   "building": "107",
-   "direction": "EE",
-   "confirmed": "2026-10-26",
-   "description": "귀한전세 . 입주협의 . 학군우수한 역세권 . 탁트인전망",
-   "realtor": "양지공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
-   "article_no": "2656663861",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "중/15",
-   "building": "107",
-   "direction": "EE",
-   "confirmed": "2026-10-20",
-   "description": "귀한전세 . 입주협의 . 학군우수한 역세권 . 탁트인전망",
-   "realtor": "양지공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2660129185",
    "trade": "B1",
    "deposit": 80000,
@@ -77,6 +47,36 @@
    "description": "대모산전망 급매물  쾌적  조용  편리 수리  무융자  학군좋고  마트 ",
    "realtor": "희망공인중개사사무소",
    "price_text": "80000"
+  },
+  {
+   "article_no": "2660323888",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "중/15",
+   "building": "109",
+   "direction": "SS",
+   "confirmed": "2026-11-07",
+   "description": "31.남향,샷시교체된확장올수리,로얄동,로얄층,반전세가능",
+   "realtor": "일원뱅크공인중개사사무소",
+   "price_text": "110000"
+  },
+  {
+   "article_no": "2660379722",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "중/15",
+   "building": "106",
+   "direction": "SS",
+   "confirmed": "2026-11-07",
+   "description": "31.남향,대모산 전망 굿,수리깨끗,초역세권 단지",
+   "realtor": "일원뱅크공인중개사사무소",
+   "price_text": "110000"
   },
   {
    "article_no": "2659419903",
@@ -121,21 +121,6 @@
    "confirmed": "2026-11-03",
    "description": "31집주인직매물 깨끗한수리상태 남향 로얄동 층 입주일조정",
    "realtor": "샘터공인중개사사무소",
-   "price_text": "110000"
-  },
-  {
-   "article_no": "2659424979",
-   "trade": "B1",
-   "deposit": 110000,
-   "rent": 0,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "중/15",
-   "building": "109",
-   "direction": "SS",
-   "confirmed": "2026-11-03",
-   "description": "31.남향,샷시교체된확장올수리,로얄동,로얄층,반전세가능",
-   "realtor": "일원뱅크공인중개사사무소",
    "price_text": "110000"
   },
   {
@@ -184,7 +169,7 @@
    "price_text": "110000"
   },
   {
-   "article_no": "2659858863",
+   "article_no": "2660324751",
    "trade": "B2",
    "deposit": 60000,
    "rent": 80,
@@ -193,7 +178,7 @@
    "floor": "중/15",
    "building": "108",
    "direction": "EE",
-   "confirmed": "2026-11-05",
+   "confirmed": "2026-11-07",
    "description": "25.주인직매물,샷시교체,1월20일입주협의",
    "realtor": "일원뱅크공인중개사사무소",
    "price_text": "60000/80"
@@ -212,21 +197,6 @@
    "description": "31.햇빛 잘드는 남향,샷시교체 확장올수리됨",
    "realtor": "일원뱅크공인중개사사무소",
    "price_text": "90000/80"
-  },
-  {
-   "article_no": "2660061665",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 90,
-   "area_exclusive": 59.76,
-   "area_supply": 82.14,
-   "floor": "저/15",
-   "building": "101",
-   "direction": "SS",
-   "confirmed": "2026-11-06",
-   "description": "24 입주협의, 올수리 , 소유자핫라인 ,3호선역세권,",
-   "realtor": "루체하임88(단지내)공인중개사",
-   "price_text": "60000/90"
   },
   {
    "article_no": "2659418871",
@@ -259,7 +229,7 @@
    "price_text": "80000/120"
   },
   {
-   "article_no": "2659626099",
+   "article_no": "2660327090",
    "trade": "B2",
    "deposit": 40000,
    "rent": 280,
@@ -268,10 +238,40 @@
    "floor": "14/15",
    "building": "102",
    "direction": "SS",
-   "confirmed": "2026-11-04",
+   "confirmed": "2026-11-07",
    "description": "주인직매물 .공동환영귀한 . 남향수리깨끗 . 방확장",
    "realtor": "양지공인중개사사무소",
    "price_text": "40000/280"
+  },
+  {
+   "article_no": "2658147223",
+   "trade": "B2",
+   "deposit": 40000,
+   "rent": 280,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "14/15",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-10-28",
+   "description": "집주인매물 남향전망좋은집 입구방확장 깔끔하게수리됨 공동환영",
+   "realtor": "삼성(3411-8100)공인중개사사무소",
+   "price_text": "40000/280"
+  },
+  {
+   "article_no": "2660325083",
+   "trade": "B2",
+   "deposit": 5000,
+   "rent": 340,
+   "area_exclusive": 59.76,
+   "area_supply": 82.14,
+   "floor": "12/15",
+   "building": "101",
+   "direction": "EE",
+   "confirmed": "2026-11-07",
+   "description": "25 뷰좋은집 거실확장된 올수리 빠른입주가능 오래거주가능 공동불가",
+   "realtor": "엘리트공인중개사사무소",
+   "price_text": "5000/340"
   },
   {
    "article_no": "2659720481",
@@ -349,21 +349,6 @@
    "price_text": "20000/360"
   },
   {
-   "article_no": "2658147223",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 360,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "14/15",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-10-28",
-   "description": "집주인매물 남향전망좋은집 입구방확장 깔끔하게수리됨 공동환영",
-   "realtor": "삼성(3411-8100)공인중개사사무소",
-   "price_text": "20000/360"
-  },
-  {
    "article_no": "2659243524",
    "trade": "B2",
    "deposit": 20000,
@@ -394,21 +379,6 @@
    "price_text": "20000/360"
   },
   {
-   "article_no": "2657774391",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 360,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "14/15",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-10-26",
-   "description": "집내부깨끗,일조권전망좋은집,주차편리",
-   "realtor": "푸른닷컴공인중개사사무소",
-   "price_text": "20000/360"
-  },
-  {
    "article_no": "2657776575",
    "trade": "B2",
    "deposit": 20000,
@@ -421,6 +391,21 @@
    "confirmed": "2026-10-26",
    "description": "푸른로얄동,오래거주가능,일조권전망좋은집",
    "realtor": "푸른닷컴공인중개사",
+   "price_text": "20000/360"
+  },
+  {
+   "article_no": "2657774391",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 360,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "14/15",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-10-26",
+   "description": "집내부깨끗,일조권전망좋은집,주차편리",
+   "realtor": "푸른닷컴공인중개사사무소",
    "price_text": "20000/360"
   },
   {
