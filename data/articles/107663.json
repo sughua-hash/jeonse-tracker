@@ -1,5 +1,5 @@
 {
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "complexNo": "107663",
  "name": "미사강변푸르지오",
  "articles": [
@@ -34,7 +34,7 @@
    "price_text": "87000"
   },
   {
-   "article_no": "2660429918",
+   "article_no": "2660464087",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -43,13 +43,13 @@
    "floor": "고/29",
    "building": "112",
    "direction": "WS",
-   "confirmed": "2026-11-08",
-   "description": "추천 시원한 조망 롯데타워 망월천 호수 뷰  집 깨끗 애완동물X",
+   "confirmed": "2026-11-09",
+   "description": "미사 최강단지 로얄동 고층 시원한 호수조망 롯데 타워뷰  집깨끗함 관리특",
    "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
    "price_text": "90000"
   },
   {
-   "article_no": "2660256577",
+   "article_no": "2660459460",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -58,7 +58,7 @@
    "floor": "고/29",
    "building": "112",
    "direction": "WS",
-   "confirmed": "2026-11-07",
+   "confirmed": "2026-11-09",
    "description": "추천 시원한 조망 롯데타워 망월천 호수 뷰  집 깨끗 애완동물X",
    "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
    "price_text": "90000"
@@ -79,7 +79,22 @@
    "price_text": "90000"
   },
   {
-   "article_no": "2660432995",
+   "article_no": "2660450385",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.99,
+   "area_supply": 111.63,
+   "floor": "고/29",
+   "building": "112",
+   "direction": "WS",
+   "confirmed": "2026-11-08",
+   "description": "추천  롯데타워 뷰 망월천뷰 관리 잘된집   전망트임  초품아",
+   "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2660464110",
    "trade": "B1",
    "deposit": 93000,
    "rent": 0,
@@ -88,13 +103,28 @@
    "floor": "저/22",
    "building": "104",
    "direction": "ES",
-   "confirmed": "2026-11-08",
+   "confirmed": "2026-11-09",
    "description": "시스템에어컨3대 판상형   채광 좋은집 넓은 방구조 초중고 인접",
    "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
    "price_text": "93000"
   },
   {
-   "article_no": "2660430241",
+   "article_no": "2660461508",
+   "trade": "B1",
+   "deposit": 93000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 111.83,
+   "floor": "저/22",
+   "building": "104",
+   "direction": "SS",
+   "confirmed": "2026-11-09",
+   "description": "푸릇푸릇푸르지오 귀한전세 아늑한 정원뷰의 판상형 시에3,중문  집상태좋음",
+   "realtor": "푸르지오비비(031-793-3000)공인중개사사무소",
+   "price_text": "93000"
+  },
+  {
+   "article_no": "2660460668",
    "trade": "B1",
    "deposit": 93000,
    "rent": 0,
@@ -103,7 +133,7 @@
    "floor": "저/22",
    "building": "104",
    "direction": "ES",
-   "confirmed": "2026-11-08",
+   "confirmed": "2026-11-09",
    "description": "4Bay 판상형   시스템에어컨3  중문 특관리  윤슬초중 하남고",
    "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
    "price_text": "93000"
@@ -124,36 +154,6 @@
    "price_text": "93000"
   },
   {
-   "article_no": "2660343071",
-   "trade": "B1",
-   "deposit": 93000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 111.83,
-   "floor": "저/22",
-   "building": "104",
-   "direction": "ES",
-   "confirmed": "2026-11-07",
-   "description": "삶이 푸르지오.빠른입주,집상태좋음,윤슬초중,단지뷰,",
-   "realtor": "푸르지오(031-794-4950)공인중개사사무소",
-   "price_text": "93000"
-  },
-  {
-   "article_no": "2660258129",
-   "trade": "B1",
-   "deposit": 93000,
-   "rent": 0,
-   "area_exclusive": 84.98,
-   "area_supply": 111.83,
-   "floor": "저/22",
-   "building": "104",
-   "direction": "SS",
-   "confirmed": "2026-11-07",
-   "description": "푸릇푸릇푸르지오 귀한전세 아늑한 정원뷰의 판상형 시에3,중문  집상태좋음",
-   "realtor": "푸르지오비비(031-793-3000)공인중개사사무소",
-   "price_text": "93000"
-  },
-  {
    "article_no": "2660338754",
    "trade": "B1",
    "deposit": 93000,
@@ -165,6 +165,21 @@
    "direction": "ES",
    "confirmed": "2026-11-07",
    "description": "삶이푸르지오. 에어컨3, 중문, 판상형, 집상태 최상, 윤슬초중인접",
+   "realtor": "푸르지오(031-794-4950)공인중개사사무소",
+   "price_text": "93000"
+  },
+  {
+   "article_no": "2660343071",
+   "trade": "B1",
+   "deposit": 93000,
+   "rent": 0,
+   "area_exclusive": 84.98,
+   "area_supply": 111.83,
+   "floor": "저/22",
+   "building": "104",
+   "direction": "ES",
+   "confirmed": "2026-11-07",
+   "description": "삶이 푸르지오.빠른입주,집상태좋음,윤슬초중,단지뷰,",
    "realtor": "푸르지오(031-794-4950)공인중개사사무소",
    "price_text": "93000"
   },
@@ -274,6 +289,21 @@
    "price_text": "70000/100"
   },
   {
+   "article_no": "2660463403",
+   "trade": "B2",
+   "deposit": 65000,
+   "rent": 110,
+   "area_exclusive": 84.99,
+   "area_supply": 111.63,
+   "floor": "저/29",
+   "building": "112",
+   "direction": "WS",
+   "confirmed": "2026-11-09",
+   "description": "푸릇푸릇 푸르지오  초록이 예쁜 정원뷰  망월천일부조망  밝고환한집",
+   "realtor": "푸르지오비비(031-793-3000)공인중개사사무소",
+   "price_text": "65000/110"
+  },
+  {
    "article_no": "2660429514",
    "trade": "B2",
    "deposit": 65000,
@@ -284,21 +314,6 @@
    "building": "112",
    "direction": "WS",
    "confirmed": "2026-11-08",
-   "description": "푸릇푸릇 푸르지오  초록이 예쁜 정원뷰  망월천일부조망  밝고환한집",
-   "realtor": "푸르지오비비(031-793-3000)공인중개사사무소",
-   "price_text": "65000/110"
-  },
-  {
-   "article_no": "2660397518",
-   "trade": "B2",
-   "deposit": 65000,
-   "rent": 110,
-   "area_exclusive": 84.99,
-   "area_supply": 111.63,
-   "floor": "저/29",
-   "building": "112",
-   "direction": "WS",
-   "confirmed": "2026-11-07",
    "description": "푸릇푸릇 푸르지오  초록이 예쁜 정원뷰  망월천일부조망  밝고환한집",
    "realtor": "푸르지오비비(031-793-3000)공인중개사사무소",
    "price_text": "65000/110"
@@ -394,6 +409,21 @@
    "price_text": "20000/280"
   },
   {
+   "article_no": "2660462858",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 300,
+   "area_exclusive": 84.99,
+   "area_supply": 111.63,
+   "floor": "고/18",
+   "building": "106",
+   "direction": "SS",
+   "confirmed": "2026-11-09",
+   "description": "푸릇푸릇푸르지오 귀한 반전세 시에4 최근 부분 인테리어 집상태좋음 학세권",
+   "realtor": "푸르지오비비(031-793-3000)공인중개사사무소",
+   "price_text": "20000/300"
+  },
+  {
    "article_no": "2660432007",
    "trade": "B2",
    "deposit": 20000,
@@ -404,21 +434,6 @@
    "building": "106",
    "direction": "SS",
    "confirmed": "2026-11-08",
-   "description": "푸릇푸릇푸르지오 귀한 반전세 시에4 최근 부분 인테리어 집상태좋음 학세권",
-   "realtor": "푸르지오비비(031-793-3000)공인중개사사무소",
-   "price_text": "20000/300"
-  },
-  {
-   "article_no": "2660259489",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 300,
-   "area_exclusive": 84.99,
-   "area_supply": 111.63,
-   "floor": "고/18",
-   "building": "106",
-   "direction": "SS",
-   "confirmed": "2026-11-07",
    "description": "푸릇푸릇푸르지오 귀한 반전세 시에4 최근 부분 인테리어 집상태좋음 학세권",
    "realtor": "푸르지오비비(031-793-3000)공인중개사사무소",
    "price_text": "20000/300"

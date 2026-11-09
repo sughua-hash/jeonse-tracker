@@ -1,5 +1,5 @@
 {
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "complexNo": "110298",
  "name": "다산롯데캐슬",
  "articles": [
@@ -154,6 +154,21 @@
    "price_text": "85000"
   },
   {
+   "article_no": "2660468861",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 100,
+   "area_exclusive": 84.97,
+   "area_supply": 113.2,
+   "floor": "고/25",
+   "building": "2203",
+   "direction": "WS",
+   "confirmed": "2026-11-09",
+   "description": "G골드추천.협의입주.중문.초역세권.다산초중고.엘베2대.단지트인뷰",
+   "realtor": "다산자이골드부동산공인중개사사무소",
+   "price_text": "50000/100"
+  },
+  {
    "article_no": "2660319535",
    "trade": "B2",
    "deposit": 50000,
@@ -199,7 +214,7 @@
    "price_text": "50000/100"
   },
   {
-   "article_no": "2660249715",
+   "article_no": "2659863394",
    "trade": "B2",
    "deposit": 50000,
    "rent": 100,
@@ -208,9 +223,9 @@
    "floor": "고/25",
    "building": "2203",
    "direction": "WS",
-   "confirmed": "2026-11-06",
-   "description": "G골드추천.협의입주.중문.초역세권.다산초중고.엘베2대.단지트인뷰",
-   "realtor": "다산자이골드부동산공인중개사사무소",
+   "confirmed": "2026-11-05",
+   "description": "추천. 입주일협의 A타입판상형 고층트인뷰 초중고 가까운 학세권 다산역세권",
+   "realtor": "가람부동산공인중개사사무소",
    "price_text": "50000/100"
   },
   {
@@ -226,21 +241,6 @@
    "confirmed": "2026-11-05",
    "description": "해잘들고트인뷰, 다산역,초중고 인접 로얄동층, 입주협의",
    "realtor": "다산역롯데 단지넷 부동산 공인중개사사무소",
-   "price_text": "50000/100"
-  },
-  {
-   "article_no": "2659863394",
-   "trade": "B2",
-   "deposit": 50000,
-   "rent": 100,
-   "area_exclusive": 84.97,
-   "area_supply": 113.2,
-   "floor": "고/25",
-   "building": "2203",
-   "direction": "WS",
-   "confirmed": "2026-11-05",
-   "description": "추천. 입주일협의 A타입판상형 고층트인뷰 초중고 가까운 학세권 다산역세권",
-   "realtor": "가람부동산공인중개사사무소",
    "price_text": "50000/100"
   },
   {
@@ -289,21 +289,6 @@
    "price_text": "50000/100"
   },
   {
-   "article_no": "2659469766",
-   "trade": "B2",
-   "deposit": 50000,
-   "rent": 100,
-   "area_exclusive": 84.97,
-   "area_supply": 113.2,
-   "floor": "고/25",
-   "building": "2203",
-   "direction": "WS",
-   "confirmed": "2026-11-03",
-   "description": "입주협의,주인거주,엘베2대,초역세권,학세권,로얄동,로얄층",
-   "realtor": "다산자이삼성공인중개사사무소",
-   "price_text": "50000/100"
-  },
-  {
    "article_no": "2659299707",
    "trade": "B2",
    "deposit": 50000,
@@ -316,6 +301,21 @@
    "confirmed": "2026-11-03",
    "description": "ss김여사추천,주인거주입주협의,다산역,상권이용편리,채광밝고 관리잘된집",
    "realtor": "김여사공인중개사사무소",
+   "price_text": "50000/100"
+  },
+  {
+   "article_no": "2659469766",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 100,
+   "area_exclusive": 84.97,
+   "area_supply": 113.2,
+   "floor": "고/25",
+   "building": "2203",
+   "direction": "WS",
+   "confirmed": "2026-11-03",
+   "description": "입주협의,주인거주,엘베2대,초역세권,학세권,로얄동,로얄층",
+   "realtor": "다산자이삼성공인중개사사무소",
    "price_text": "50000/100"
   },
   {
