@@ -1,5 +1,5 @@
 {
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "complexNo": "102235",
  "name": "고덕리엔파크3단지",
  "articles": [
@@ -34,6 +34,21 @@
    "price_text": "70000"
   },
   {
+   "article_no": "2660593154",
+   "trade": "B1",
+   "deposit": 70000,
+   "rent": 0,
+   "area_exclusive": 59.83,
+   "area_supply": 79.26,
+   "floor": "중/15",
+   "building": "320",
+   "direction": "SS",
+   "confirmed": "2026-11-09",
+   "description": "올확장 인테리어 융자무 남향 깨끗해요 애완동물 안되요 정상입주",
+   "realtor": "뱅크(426-8400)공인중개사",
+   "price_text": "70000"
+  },
+  {
    "article_no": "2660425026",
    "trade": "B1",
    "deposit": 70000,
@@ -46,21 +61,6 @@
    "confirmed": "2026-11-07",
    "description": "남향 최근올확장 인테리어  융자무  깨끗해요 애완동물안되요 입주일자협의가",
    "realtor": "뱅크(426-8400)공인중개사사무소",
-   "price_text": "70000"
-  },
-  {
-   "article_no": "2659236636",
-   "trade": "B1",
-   "deposit": 70000,
-   "rent": 0,
-   "area_exclusive": 59.83,
-   "area_supply": 79.26,
-   "floor": "중/15",
-   "building": "320",
-   "direction": "SS",
-   "confirmed": "2026-11-02",
-   "description": "올확장 인테리어 융자무 남향 깨끗해요 애완동물 안되요 정상입주",
-   "realtor": "뱅크(426-8400)공인중개사",
    "price_text": "70000"
   },
   {
@@ -77,6 +77,21 @@
    "description": "귀한 전세물건입니다",
    "realtor": "한마음(426-2700)공인중개사사무소",
    "price_text": "80000"
+  },
+  {
+   "article_no": "2660610800",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 210,
+   "area_exclusive": 84.87,
+   "area_supply": 111.78,
+   "floor": "중/15",
+   "building": "320",
+   "direction": "SS",
+   "confirmed": "2026-11-09",
+   "description": "융무.귀한월세.판상형.관리 잘된세대.즉시입주나 협의가.손님만",
+   "realtor": "파크공인중개사사무소",
+   "price_text": "20000/210"
   }
  ]
 }
