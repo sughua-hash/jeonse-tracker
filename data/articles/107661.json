@@ -1,5 +1,5 @@
 {
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "complexNo": "107661",
  "name": "위례센트럴푸르지오",
  "articles": [
@@ -19,6 +19,51 @@
    "price_text": "96000"
   },
   {
+   "article_no": "2661018558",
+   "trade": "B1",
+   "deposit": 97000,
+   "rent": 0,
+   "area_exclusive": 101.96,
+   "area_supply": 131.02,
+   "floor": "저/25",
+   "building": "5406",
+   "direction": "SS",
+   "confirmed": "2026-11-11",
+   "description": "방3, 트인뷰, 넓은드레스룸,입주협의,학세권단지",
+   "realtor": "더힐타워 02)421-3600 공인중개사사무소",
+   "price_text": "97000"
+  },
+  {
+   "article_no": "2661016455",
+   "trade": "B1",
+   "deposit": 97000,
+   "rent": 0,
+   "area_exclusive": 101.96,
+   "area_supply": 131.02,
+   "floor": "저/25",
+   "building": "5406",
+   "direction": "ES",
+   "confirmed": "2026-11-11",
+   "description": "L 방3. 주방팬트리. 1월말부터 입주협의가능. 장기거주가능. 에어컨 유",
+   "realtor": "월드공인중개사사무소",
+   "price_text": "97000"
+  },
+  {
+   "article_no": "2661016521",
+   "trade": "B1",
+   "deposit": 97000,
+   "rent": 0,
+   "area_exclusive": 101.96,
+   "area_supply": 131.02,
+   "floor": "저/25",
+   "building": "5406",
+   "direction": "SS",
+   "confirmed": "2026-11-11",
+   "description": "에유, 탁 트인 시야에 펼쳐지는 아름다운 단지 조경 뷰",
+   "realtor": "도무스공인중개사사무소주식회사",
+   "price_text": "97000"
+  },
+  {
    "article_no": "2660789480",
    "trade": "B1",
    "deposit": 97000,
@@ -34,7 +79,7 @@
    "price_text": "97000"
   },
   {
-   "article_no": "2660763856",
+   "article_no": "2660924009",
    "trade": "B1",
    "deposit": 97000,
    "rent": 0,
@@ -42,10 +87,25 @@
    "area_supply": 131.02,
    "floor": "저/25",
    "building": "5406",
-   "direction": "ES",
+   "direction": "SS",
    "confirmed": "2026-11-10",
-   "description": "L 방3. 주방팬트리. 1월말부터 입주협의가능. 장기거주가능. 에어컨 유",
-   "realtor": "월드공인중개사사무소",
+   "description": "",
+   "realtor": "에이스호반(02-400-5665)공인중개사사무소",
+   "price_text": "97000"
+  },
+  {
+   "article_no": "2660826393",
+   "trade": "B1",
+   "deposit": 97000,
+   "rent": 0,
+   "area_exclusive": 101.96,
+   "area_supply": 131.02,
+   "floor": "저/25",
+   "building": "5406",
+   "direction": "SS",
+   "confirmed": "2026-11-10",
+   "description": "단지상가,트인정원뷰,에어컨유,푸른초,상가이용편리,세대별지하창고",
+   "realtor": "위례다경024072255공인중개사사무소",
    "price_text": "97000"
   },
   {
@@ -64,22 +124,7 @@
    "price_text": "97000"
   },
   {
-   "article_no": "2660464385",
-   "trade": "B1",
-   "deposit": 97000,
-   "rent": 0,
-   "area_exclusive": 101.96,
-   "area_supply": 131.02,
-   "floor": "저/25",
-   "building": "5406",
-   "direction": "SS",
-   "confirmed": "2026-11-09",
-   "description": "방3, 트인뷰, 넓은드레스룸,입주협의,학세권단지",
-   "realtor": "더힐타워 02)421-3600 공인중개사사무소",
-   "price_text": "97000"
-  },
-  {
-   "article_no": "2660462750",
+   "article_no": "2660763856",
    "trade": "B1",
    "deposit": 97000,
    "rent": 0,
@@ -88,7 +133,7 @@
    "floor": "저/25",
    "building": "5406",
    "direction": "ES",
-   "confirmed": "2026-11-09",
+   "confirmed": "2026-11-10",
    "description": "L 방3. 주방팬트리. 1월말부터 입주협의가능. 장기거주가능. 에어컨 유",
    "realtor": "월드공인중개사사무소",
    "price_text": "97000"
@@ -154,21 +199,6 @@
    "price_text": "97000"
   },
   {
-   "article_no": "2660314905",
-   "trade": "B1",
-   "deposit": 97000,
-   "rent": 0,
-   "area_exclusive": 101.96,
-   "area_supply": 131.02,
-   "floor": "저/25",
-   "building": "5406",
-   "direction": "SS",
-   "confirmed": "2026-11-07",
-   "description": "단지상가,트인정원뷰,에어컨유,푸른초,상가이용편리,세대별지하창고",
-   "realtor": "위례다경024072255공인중개사사무소",
-   "price_text": "97000"
-  },
-  {
    "article_no": "2660353709",
    "trade": "B1",
    "deposit": 97000,
@@ -196,21 +226,6 @@
    "confirmed": "2026-11-06",
    "description": "Bom 로얄동 정원뷰 에어컨 세대별창고 푸른초 상가 근접동",
    "realtor": "호반의봄(02-402-7070)공인중개사사무소",
-   "price_text": "97000"
-  },
-  {
-   "article_no": "2659881748",
-   "trade": "B1",
-   "deposit": 97000,
-   "rent": 0,
-   "area_exclusive": 101.96,
-   "area_supply": 131.02,
-   "floor": "저/25",
-   "building": "5406",
-   "direction": "SS",
-   "confirmed": "2026-11-05",
-   "description": "에유, 탁 트인 시야에 펼쳐지는 아름다운 단지 조경 뷰",
-   "realtor": "도무스공인중개사사무소주식회사",
    "price_text": "97000"
   },
   {
@@ -274,7 +289,7 @@
    "price_text": "97000"
   },
   {
-   "article_no": "2660495095",
+   "article_no": "2660828412",
    "trade": "B1",
    "deposit": 100000,
    "rent": 0,
@@ -283,7 +298,7 @@
    "floor": "고/25",
    "building": "5407",
    "direction": "ES",
-   "confirmed": "2026-11-09",
+   "confirmed": "2026-11-10",
    "description": "단지상가,전담,빠른입주가능,에어컨풀,확트인전망뷰,초품아",
    "realtor": "위례다경024072255공인중개사사무소",
    "price_text": "100000"
@@ -304,7 +319,7 @@
    "price_text": "100000"
   },
   {
-   "article_no": "2660494456",
+   "article_no": "2660991454",
    "trade": "B1",
    "deposit": 105000,
    "rent": 0,
@@ -313,9 +328,24 @@
    "floor": "중/22",
    "building": "5408",
    "direction": "SS",
-   "confirmed": "2026-11-09",
-   "description": "단지상가,빠른입주가능,귀한방4개,에어컨유,초품아,조용한동",
-   "realtor": "위례다경024072255공인중개사사무소",
+   "confirmed": "2026-11-10",
+   "description": "ACE.빠른입주.방4.시스템어컨풀.트인뷰.상가,복지관이용편리.세대지하창고",
+   "realtor": "에이스호반(02-400-5665)공인중개사사무소",
+   "price_text": "105000"
+  },
+  {
+   "article_no": "2660984786",
+   "trade": "B1",
+   "deposit": 105000,
+   "rent": 0,
+   "area_exclusive": 101.96,
+   "area_supply": 131.02,
+   "floor": "중/22",
+   "building": "5408",
+   "direction": "SS",
+   "confirmed": "2026-11-10",
+   "description": "ACE.빠른입주.조건협의.방4.시스템에어컨풀.상가,복지관이용편리.트인뷰",
+   "realtor": "에이스호반(02-400-5665)공인중개사사무소",
    "price_text": "105000"
   },
   {
@@ -439,7 +469,7 @@
    "price_text": "80000/80"
   },
   {
-   "article_no": "2660317299",
+   "article_no": "2660829691",
    "trade": "B2",
    "deposit": 80000,
    "rent": 120,
@@ -448,7 +478,7 @@
    "floor": "고/25",
    "building": "5406",
    "direction": "SS",
-   "confirmed": "2026-11-07",
+   "confirmed": "2026-11-10",
    "description": "단지상가,트인뷰,방4개,에어컨유,상가이용편리,세대별지하창고",
    "realtor": "위례다경024072255공인중개사사무소",
    "price_text": "80000/120"
@@ -497,6 +527,51 @@
    "description": "방4개,에유,날짜협의가능,초등학교인접,학원상가이용편리,복지관수영장인접",
    "realtor": "02-431-5600롯데부동산공인중개사사무소",
    "price_text": "60000/200"
+  },
+  {
+   "article_no": "2661015958",
+   "trade": "B2",
+   "deposit": 30000,
+   "rent": 300,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "고/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-11-11",
+   "description": "우수한 일조량과 새 에어컨 설치로 더욱 쾌적한 집,반려동물 X",
+   "realtor": "도무스공인중개사사무소주식회사",
+   "price_text": "30000/300"
+  },
+  {
+   "article_no": "2660829112",
+   "trade": "B2",
+   "deposit": 30000,
+   "rent": 300,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "고/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-11-10",
+   "description": "단지상가,2027년2월입주,정남향,푸른초,세대별지하창고",
+   "realtor": "위례다경024072255공인중개사사무소",
+   "price_text": "30000/300"
+  },
+  {
+   "article_no": "2660921524",
+   "trade": "B2",
+   "deposit": 30000,
+   "rent": 300,
+   "area_exclusive": 94.99,
+   "area_supply": 121.27,
+   "floor": "고/15",
+   "building": "5401",
+   "direction": "SS",
+   "confirmed": "2026-11-10",
+   "description": "ACE.탁트인뷰.에유.깔끔한인테리어.채광좋은정남향.세대지하창고.2월말협의",
+   "realtor": "에이스호반(02-400-5665)공인중개사사무소",
+   "price_text": "30000/300"
   },
   {
    "article_no": "2660492882",
@@ -559,36 +634,6 @@
    "price_text": "30000/300"
   },
   {
-   "article_no": "2660258675",
-   "trade": "B2",
-   "deposit": 30000,
-   "rent": 300,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "고/15",
-   "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-11-07",
-   "description": "우수한 일조량과 새 에어컨 설치로 더욱 쾌적한 집,반려동물 X",
-   "realtor": "도무스공인중개사사무소주식회사",
-   "price_text": "30000/300"
-  },
-  {
-   "article_no": "2660316686",
-   "trade": "B2",
-   "deposit": 30000,
-   "rent": 300,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "고/15",
-   "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-11-07",
-   "description": "단지상가,2027년2월입주,정남향,푸른초,세대별지하창고",
-   "realtor": "위례다경024072255공인중개사사무소",
-   "price_text": "30000/300"
-  },
-  {
    "article_no": "2660107718",
    "trade": "B2",
    "deposit": 30000,
@@ -601,21 +646,6 @@
    "confirmed": "2026-11-06",
    "description": "Bom  트인 고층뷰 에어컨 푸른초 품은단지 선호타입 세대별지하창고",
    "realtor": "호반의봄(02-402-7070)공인중개사사무소",
-   "price_text": "30000/300"
-  },
-  {
-   "article_no": "2659855516",
-   "trade": "B2",
-   "deposit": 30000,
-   "rent": 300,
-   "area_exclusive": 94.99,
-   "area_supply": 121.27,
-   "floor": "고/15",
-   "building": "5401",
-   "direction": "SS",
-   "confirmed": "2026-11-05",
-   "description": "ACE.탁트인뷰.에유.깔끔한인테리어.채광좋은정남향.세대지하창고.2월말협의",
-   "realtor": "에이스호반(02-400-5665)공인중개사사무소",
    "price_text": "30000/300"
   },
   {

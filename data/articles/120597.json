@@ -1,5 +1,5 @@
 {
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "complexNo": "120597",
  "name": "남양주두산위브트레지움",
  "articles": [
@@ -14,7 +14,7 @@
    "building": "108",
    "direction": "WS",
    "confirmed": "2026-11-05",
-   "description": "입주협의,에어컨3대,줄눈,중문설치,단열필름,거실방충망,전망최고",
+   "description": "시스템에어컨3대,줄눈,중문설치,단열필름,미세방충망,전망최고",
    "realtor": "신도브래뉴공인중개사사무소",
    "price_text": "27000"
   },
@@ -64,6 +64,21 @@
    "price_text": "36000"
   },
   {
+   "article_no": "2660857460",
+   "trade": "B1",
+   "deposit": 37000,
+   "rent": 0,
+   "area_exclusive": 84.95,
+   "area_supply": 114.7,
+   "floor": "7/27",
+   "building": "107",
+   "direction": "WS",
+   "confirmed": "2026-11-10",
+   "description": "3월부터 날짜협의",
+   "realtor": "두산위브트레지움공인중개사사무소",
+   "price_text": "37000"
+  },
+  {
    "article_no": "2659848970",
    "trade": "B2",
    "deposit": 30000,
@@ -92,21 +107,6 @@
    "description": "융무,시스템에어컨5,중문,2월중순협의",
    "realtor": "두산위브트레지움공인중개사사무소",
    "price_text": "30000/30"
-  },
-  {
-   "article_no": "2659559338",
-   "trade": "B2",
-   "deposit": 10000,
-   "rent": 100,
-   "area_exclusive": 59.98,
-   "area_supply": 82.01,
-   "floor": "27/35",
-   "building": "112",
-   "direction": "WS",
-   "confirmed": "2026-11-04",
-   "description": "11월 25일",
-   "realtor": "두산위트공인중개사",
-   "price_text": "10000/100"
   },
   {
    "article_no": "2658913251",

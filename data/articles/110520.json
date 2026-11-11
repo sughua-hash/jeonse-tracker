@@ -1,21 +1,21 @@
 {
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "complexNo": "110520",
  "name": "남양주월산사랑으로부영1단지",
  "articles": [
   {
-   "article_no": "2658468040",
+   "article_no": "2660958859",
    "trade": "B2",
    "deposit": 5000,
    "rent": 160,
    "area_exclusive": 146.72,
    "area_supply": 176.36,
-   "floor": "29/33",
+   "floor": "8/33",
    "building": "111",
    "direction": "ES",
-   "confirmed": "2026-10-29",
-   "description": "4룸 조망좋음 입주협의",
-   "realtor": "월산부영공인중개사사무소",
+   "confirmed": "2026-11-10",
+   "description": "공실. 4룸. 조망 좋음. 단지내 초등학교. 밝고 환한 집.",
+   "realtor": "효성공인중개사사무소",
    "price_text": "5000/160"
   },
   {
@@ -30,6 +30,21 @@
    "direction": "ES",
    "confirmed": "2026-10-26",
    "description": "4룸 산조망 공원조망 깨끗함 입주협의",
+   "realtor": "월산부영공인중개사사무소",
+   "price_text": "5000/160"
+  },
+  {
+   "article_no": "2658468040",
+   "trade": "B2",
+   "deposit": 5000,
+   "rent": 160,
+   "area_exclusive": 146.72,
+   "area_supply": 176.36,
+   "floor": "29/33",
+   "building": "111",
+   "direction": "ES",
+   "confirmed": "2026-10-29",
+   "description": "4룸 조망좋음 입주협의",
    "realtor": "월산부영공인중개사사무소",
    "price_text": "5000/160"
   },
