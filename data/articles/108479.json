@@ -1,5 +1,5 @@
 {
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "complexNo": "108479",
  "name": "미사강변푸르지오2차",
  "articles": [
@@ -64,7 +64,37 @@
    "price_text": "100000"
   },
   {
-   "article_no": "2661016725",
+   "article_no": "2661232977",
+   "trade": "B1",
+   "deposit": 105000,
+   "rent": 0,
+   "area_exclusive": 101.87,
+   "area_supply": 131.38,
+   "floor": "18/29",
+   "building": "103",
+   "direction": "EN",
+   "confirmed": "2026-11-12",
+   "description": "거실전면 멋진 한강뷰, 풀에어컨, 초중고 학세권, 넓은주방, 교통 편리",
+   "realtor": "자이부자공인중개사사무소",
+   "price_text": "105000"
+  },
+  {
+   "article_no": "2661227750",
+   "trade": "B1",
+   "deposit": 105000,
+   "rent": 0,
+   "area_exclusive": 101.87,
+   "area_supply": 131.38,
+   "floor": "18/29",
+   "building": "103",
+   "direction": "WN",
+   "confirmed": "2026-11-12",
+   "description": "정상입주,풀에어컨,거실 한강뷰",
+   "realtor": "미사포스코공인중개사사무소",
+   "price_text": "105000"
+  },
+  {
+   "article_no": "2661231356",
    "trade": "B1",
    "deposit": 105000,
    "rent": 0,
@@ -73,9 +103,39 @@
    "floor": "18/29",
    "building": "103",
    "direction": "WS",
-   "confirmed": "2026-11-11",
+   "confirmed": "2026-11-12",
    "description": "북향 한강뷰.  풀에어콘. 내부상태 매우 양호",
    "realtor": "미사강변왕공인중개사사무소",
+   "price_text": "105000"
+  },
+  {
+   "article_no": "2661232776",
+   "trade": "B1",
+   "deposit": 105000,
+   "rent": 0,
+   "area_exclusive": 101.87,
+   "area_supply": 131.38,
+   "floor": "18/29",
+   "building": "103",
+   "direction": "EN",
+   "confirmed": "2026-11-12",
+   "description": "거실 한강뷰 근린공원 매우 인접 광역버스 이용 편리 초중고 매우 인접",
+   "realtor": "7단지센트리버공인중개사사무소",
+   "price_text": "105000"
+  },
+  {
+   "article_no": "2661231240",
+   "trade": "B1",
+   "deposit": 105000,
+   "rent": 0,
+   "area_exclusive": 101.87,
+   "area_supply": 131.38,
+   "floor": "18/29",
+   "building": "103",
+   "direction": "EN",
+   "confirmed": "2026-11-12",
+   "description": "거실 전면 한강뷰  풀옵션   프리미엄 가치  시스템 에어컨  선동IC",
+   "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
    "price_text": "105000"
   },
   {
@@ -94,7 +154,22 @@
    "price_text": "105000"
   },
   {
-   "article_no": "2661013153",
+   "article_no": "2661016617",
+   "trade": "B1",
+   "deposit": 105000,
+   "rent": 0,
+   "area_exclusive": 101.87,
+   "area_supply": 131.38,
+   "floor": "18/29",
+   "building": "103",
+   "direction": "WS",
+   "confirmed": "2026-11-11",
+   "description": "거실전면 한강뷰, 풀에어컨, 컨디션굿, 초중고5분내",
+   "realtor": "미사솔로몬공인중개사사무소",
+   "price_text": "105000"
+  },
+  {
+   "article_no": "2661110188",
    "trade": "B1",
    "deposit": 105000,
    "rent": 0,
@@ -104,8 +179,8 @@
    "building": "103",
    "direction": "EN",
    "confirmed": "2026-11-11",
-   "description": "거실 한강뷰 근린공원 매우 인접 광역버스 이용 편리 초중고 매우 인접",
-   "realtor": "7단지센트리버공인중개사사무소",
+   "description": "MAIN.39 거실전면프리미엄한강뷰 풀에어컨 특화타입 초중고5분거리",
+   "realtor": "미사푸르지오공인중개사사무소",
    "price_text": "105000"
   },
   {
@@ -124,7 +199,7 @@
    "price_text": "105000"
   },
   {
-   "article_no": "2661016617",
+   "article_no": "2661016725",
    "trade": "B1",
    "deposit": 105000,
    "rent": 0,
@@ -134,8 +209,38 @@
    "building": "103",
    "direction": "WS",
    "confirmed": "2026-11-11",
-   "description": "거실전면 한강뷰, 풀에어컨, 컨디션굿, 초중고5분내",
-   "realtor": "미사솔로몬공인중개사사무소",
+   "description": "북향 한강뷰.  풀에어콘. 내부상태 매우 양호",
+   "realtor": "미사강변왕공인중개사사무소",
+   "price_text": "105000"
+  },
+  {
+   "article_no": "2661099681",
+   "trade": "B1",
+   "deposit": 105000,
+   "rent": 0,
+   "area_exclusive": 101.87,
+   "area_supply": 131.38,
+   "floor": "18/29",
+   "building": "103",
+   "direction": "EN",
+   "confirmed": "2026-11-11",
+   "description": "거실전면한강뷰 풀에어컨 넓은드레스룸 입주협의가능 초중고인접 외곽진출입용이",
+   "realtor": "미사엘리트공인중개사사무소",
+   "price_text": "105000"
+  },
+  {
+   "article_no": "2661043753",
+   "trade": "B1",
+   "deposit": 105000,
+   "rent": 0,
+   "area_exclusive": 101.87,
+   "area_supply": 131.38,
+   "floor": "18/29",
+   "building": "103",
+   "direction": "EN",
+   "confirmed": "2026-11-11",
+   "description": "HAPPY. 18층O 전면한강뷰O 입주가O 9호선호재O초중고 인접",
+   "realtor": "미사행복공인중개사사무소",
    "price_text": "105000"
   },
   {
@@ -154,21 +259,6 @@
    "price_text": "105000"
   },
   {
-   "article_no": "2660764004",
-   "trade": "B1",
-   "deposit": 105000,
-   "rent": 0,
-   "area_exclusive": 101.87,
-   "area_supply": 131.38,
-   "floor": "18/29",
-   "building": "103",
-   "direction": "WS",
-   "confirmed": "2026-11-10",
-   "description": "북향 한강뷰.  풀에어콘. 내부상태 매우 양호",
-   "realtor": "미사강변왕공인중개사사무소",
-   "price_text": "105000"
-  },
-  {
    "article_no": "2660906592",
    "trade": "B1",
    "deposit": 105000,
@@ -184,51 +274,6 @@
    "price_text": "105000"
   },
   {
-   "article_no": "2660836642",
-   "trade": "B1",
-   "deposit": 105000,
-   "rent": 0,
-   "area_exclusive": 101.87,
-   "area_supply": 131.38,
-   "floor": "18/29",
-   "building": "103",
-   "direction": "EN",
-   "confirmed": "2026-11-10",
-   "description": "거실전면한강뷰 풀에어컨 넓은드레스룸 입주협의가능 초중고인접 외곽진출입용이",
-   "realtor": "미사엘리트공인중개사사무소",
-   "price_text": "105000"
-  },
-  {
-   "article_no": "2660920193",
-   "trade": "B1",
-   "deposit": 105000,
-   "rent": 0,
-   "area_exclusive": 101.87,
-   "area_supply": 131.38,
-   "floor": "18/29",
-   "building": "103",
-   "direction": "EN",
-   "confirmed": "2026-11-10",
-   "description": "거실전면 멋진 한강뷰, 풀에어컨, 초중고 학세권, 넓은주방, 교통 편리",
-   "realtor": "자이부자공인중개사사무소",
-   "price_text": "105000"
-  },
-  {
-   "article_no": "2660810776",
-   "trade": "B1",
-   "deposit": 105000,
-   "rent": 0,
-   "area_exclusive": 101.87,
-   "area_supply": 131.38,
-   "floor": "18/29",
-   "building": "103",
-   "direction": "EN",
-   "confirmed": "2026-11-10",
-   "description": "HAPPY. 18층O 전면한강뷰O 입주가O 9호선호재O초중고 인접",
-   "realtor": "미사행복공인중개사사무소",
-   "price_text": "105000"
-  },
-  {
    "article_no": "2660832535",
    "trade": "B1",
    "deposit": 105000,
@@ -241,36 +286,6 @@
    "confirmed": "2026-11-10",
    "description": "정상입주,풀에어컨,거실 한강뷰",
    "realtor": "미사포스코공인중개사사무소",
-   "price_text": "105000"
-  },
-  {
-   "article_no": "2660763894",
-   "trade": "B1",
-   "deposit": 105000,
-   "rent": 0,
-   "area_exclusive": 101.87,
-   "area_supply": 131.38,
-   "floor": "18/29",
-   "building": "103",
-   "direction": "EN",
-   "confirmed": "2026-11-10",
-   "description": "거실 전면 한강뷰  풀옵션   프리미엄 가치  시스템 에어컨  선동IC",
-   "realtor": "푸르지오플러스(031-795-9933)공인중개사사무소",
-   "price_text": "105000"
-  },
-  {
-   "article_no": "2660568677",
-   "trade": "B1",
-   "deposit": 105000,
-   "rent": 0,
-   "area_exclusive": 101.87,
-   "area_supply": 131.38,
-   "floor": "18/29",
-   "building": "103",
-   "direction": "EN",
-   "confirmed": "2026-11-09",
-   "description": "MAIN.39 거실전면프리미엄한강뷰 풀에어컨 특화타입 초중고5분거리",
-   "realtor": "미사푸르지오공인중개사사무소",
    "price_text": "105000"
   },
   {
@@ -304,6 +319,21 @@
    "price_text": "105000"
   },
   {
+   "article_no": "2661228346",
+   "trade": "B1",
+   "deposit": 105000,
+   "rent": 0,
+   "area_exclusive": 101.87,
+   "area_supply": 131.38,
+   "floor": "중/29",
+   "building": "103",
+   "direction": "EN",
+   "confirmed": "2026-11-12",
+   "description": "",
+   "realtor": "오메가(031-794-1515)푸르지오공인중개사사무소",
+   "price_text": "105000"
+  },
+  {
    "article_no": "2660062431",
    "trade": "B1",
    "deposit": 105000,
@@ -316,21 +346,6 @@
    "confirmed": "2026-11-06",
    "description": "1번지. 고층의 한강뷰 I  풀에어컨 ",
    "realtor": "1번지힐스테이트공인중개사사무소",
-   "price_text": "105000"
-  },
-  {
-   "article_no": "2659942655",
-   "trade": "B1",
-   "deposit": 105000,
-   "rent": 0,
-   "area_exclusive": 101.87,
-   "area_supply": 131.38,
-   "floor": "18/29",
-   "building": "103",
-   "direction": "EN",
-   "confirmed": "2026-11-05",
-   "description": "거실한강뷰, 풀에어컨, 초중고인접, 집깨끗,선동IC 인접",
-   "realtor": "미사푸르지오탑공인중개사사무소",
    "price_text": "105000"
   },
   {
@@ -349,7 +364,37 @@
    "price_text": "105000"
   },
   {
-   "article_no": "2660983413",
+   "article_no": "2659942655",
+   "trade": "B1",
+   "deposit": 105000,
+   "rent": 0,
+   "area_exclusive": 101.87,
+   "area_supply": 131.38,
+   "floor": "18/29",
+   "building": "103",
+   "direction": "EN",
+   "confirmed": "2026-11-05",
+   "description": "거실한강뷰, 풀에어컨, 초중고인접, 집깨끗,선동IC 인접",
+   "realtor": "미사푸르지오탑공인중개사사무소",
+   "price_text": "105000"
+  },
+  {
+   "article_no": "2661080278",
+   "trade": "B1",
+   "deposit": 105000,
+   "rent": 0,
+   "area_exclusive": 101.87,
+   "area_supply": 131.38,
+   "floor": "중/29",
+   "building": "103",
+   "direction": "EN",
+   "confirmed": "2026-11-11",
+   "description": "",
+   "realtor": "오메가(031-794-1515)푸르지오공인중개사사무소",
+   "price_text": "105000"
+  },
+  {
+   "article_no": "2661097126",
    "trade": "B1",
    "deposit": 105000,
    "rent": 0,
@@ -358,9 +403,24 @@
    "floor": "중/29",
    "building": "103",
    "direction": "NN",
-   "confirmed": "2026-11-10",
+   "confirmed": "2026-11-11",
    "description": "환상적인 거실 한강뷰, 풀에어컨, 컨디션굿, 초중고인접, 9호선확정호재",
    "realtor": "미사대우공인중개사사무소",
+   "price_text": "105000"
+  },
+  {
+   "article_no": "2661042227",
+   "trade": "B1",
+   "deposit": 105000,
+   "rent": 0,
+   "area_exclusive": 101.87,
+   "area_supply": 131.38,
+   "floor": "중/29",
+   "building": "103",
+   "direction": "EN",
+   "confirmed": "2026-11-11",
+   "description": "초중고바로  거실정면파노라마한강뷰  광역버스굿  선동ic초입  한강공원",
+   "realtor": "미사센텀팰리스공인중개사사무소",
    "price_text": "105000"
   },
   {
@@ -376,21 +436,6 @@
    "confirmed": "2026-11-09",
    "description": "거실 한강뷰, 풀에어컨, 판상형, 초중고 인접, 입주협의",
    "realtor": "OK(031-793-2030)베라체공인중개사사무소",
-   "price_text": "105000"
-  },
-  {
-   "article_no": "2660610869",
-   "trade": "B1",
-   "deposit": 105000,
-   "rent": 0,
-   "area_exclusive": 101.87,
-   "area_supply": 131.38,
-   "floor": "중/29",
-   "building": "103",
-   "direction": "EN",
-   "confirmed": "2026-11-09",
-   "description": "초중고바로  거실정면파노라마한강뷰  광역버스굿  선동ic초입  한강공원",
-   "realtor": "미사센텀팰리스공인중개사사무소",
    "price_text": "105000"
   },
   {
@@ -439,21 +484,6 @@
    "price_text": "105000"
   },
   {
-   "article_no": "2659900535",
-   "trade": "B1",
-   "deposit": 105000,
-   "rent": 0,
-   "area_exclusive": 101.87,
-   "area_supply": 131.38,
-   "floor": "중/29",
-   "building": "103",
-   "direction": "EN",
-   "confirmed": "2026-11-05",
-   "description": "주인거주, 거실한강뷰, 풀에어컨,초중고인접, 선동ic인접",
-   "realtor": "소현공인중개사사무소",
-   "price_text": "105000"
-  },
-  {
    "article_no": "2659908424",
    "trade": "B1",
    "deposit": 105000,
@@ -484,6 +514,21 @@
    "price_text": "105000"
   },
   {
+   "article_no": "2659900535",
+   "trade": "B1",
+   "deposit": 105000,
+   "rent": 0,
+   "area_exclusive": 101.87,
+   "area_supply": 131.38,
+   "floor": "중/29",
+   "building": "103",
+   "direction": "EN",
+   "confirmed": "2026-11-05",
+   "description": "주인거주, 거실한강뷰, 풀에어컨,초중고인접, 선동ic인접",
+   "realtor": "소현공인중개사사무소",
+   "price_text": "105000"
+  },
+  {
    "article_no": "2659679162",
    "trade": "B1",
    "deposit": 105000,
@@ -496,6 +541,21 @@
    "confirmed": "2026-11-04",
    "description": "귀한전세있습니다  입주협의가능  전망좋아요",
    "realtor": "스카이폴리스옥수수공인중개사사무소",
+   "price_text": "105000"
+  },
+  {
+   "article_no": "2657961284",
+   "trade": "B1",
+   "deposit": 105000,
+   "rent": 0,
+   "area_exclusive": 101.87,
+   "area_supply": 131.38,
+   "floor": "중/29",
+   "building": "104",
+   "direction": "EN",
+   "confirmed": "2026-10-27",
+   "description": "귀한 한강뷰 공원뷰 전세",
+   "realtor": "왕가부동산공인중개사사무소",
    "price_text": "105000"
   },
   {
@@ -512,21 +572,6 @@
    "description": "거실정면한강뷰  초중고인접  광역버스굿  선동ic바로 9호선호재",
    "realtor": "미사센텀팰리스공인중개사사무소",
    "price_text": "105000"
-  },
-  {
-   "article_no": "2657961284",
-   "trade": "B1",
-   "deposit": 110000,
-   "rent": 0,
-   "area_exclusive": 101.87,
-   "area_supply": 131.38,
-   "floor": "중/29",
-   "building": "104",
-   "direction": "EN",
-   "confirmed": "2026-10-27",
-   "description": "귀한 한강뷰 공원뷰 전세",
-   "realtor": "왕가부동산공인중개사사무소",
-   "price_text": "110000"
   },
   {
    "article_no": "2660041780",
@@ -557,81 +602,6 @@
    "description": "탁트인파노라마한강뷰 풀에어컨 9호선호재 초중고인접 교통편리",
    "realtor": "미사대우공인중개사사무소",
    "price_text": "60000/150"
-  },
-  {
-   "article_no": "2660432022",
-   "trade": "B2",
-   "deposit": 50000,
-   "rent": 165,
-   "area_exclusive": 101.81,
-   "area_supply": 131.53,
-   "floor": "중/29",
-   "building": "103",
-   "direction": "WS",
-   "confirmed": "2026-11-08",
-   "description": "탁트인 한강뷰, 채광좋고 컨디션굿, 초중고도보5분",
-   "realtor": "미사솔로몬공인중개사사무소",
-   "price_text": "50000/165"
-  },
-  {
-   "article_no": "2660836931",
-   "trade": "B2",
-   "deposit": 10000,
-   "rent": 370,
-   "area_exclusive": 101.87,
-   "area_supply": 131.38,
-   "floor": "고/29",
-   "building": "104",
-   "direction": "EN",
-   "confirmed": "2026-11-10",
-   "description": "거실전면한강뷰 보증금조정가능 입주협의 외곽진출입용이 초중고인접",
-   "realtor": "미사엘리트공인중개사사무소",
-   "price_text": "10000/370"
-  },
-  {
-   "article_no": "2660569370",
-   "trade": "B2",
-   "deposit": 10000,
-   "rent": 370,
-   "area_exclusive": 101.87,
-   "area_supply": 131.38,
-   "floor": "고/29",
-   "building": "104",
-   "direction": "EN",
-   "confirmed": "2026-11-09",
-   "description": "MAIN.39 거실전면명품한강뷰 보증금조정 무융자 초중고인접 한강공원앞",
-   "realtor": "미사푸르지오공인중개사사무소",
-   "price_text": "10000/370"
-  },
-  {
-   "article_no": "2660591259",
-   "trade": "B2",
-   "deposit": 10000,
-   "rent": 370,
-   "area_exclusive": 101.87,
-   "area_supply": 131.38,
-   "floor": "고/29",
-   "building": "104",
-   "direction": "WS",
-   "confirmed": "2026-11-09",
-   "description": "귀한E타입 멋진거실한강뷰 보증금조절가능 융자무 초중고3분 9호선호재",
-   "realtor": "미사대우공인중개사사무소",
-   "price_text": "10000/370"
-  },
-  {
-   "article_no": "2656816015",
-   "trade": "B2",
-   "deposit": 10000,
-   "rent": 370,
-   "area_exclusive": 101.87,
-   "area_supply": 131.38,
-   "floor": "고/29",
-   "building": "104",
-   "direction": "EN",
-   "confirmed": "2026-10-21",
-   "description": "거실한강뷰 최상, 보증금 조정가능, 초중고인접, 융무, 선동ic 인접",
-   "realtor": "미사푸르지오탑공인중개사사무소",
-   "price_text": "10000/370"
   }
  ]
 }

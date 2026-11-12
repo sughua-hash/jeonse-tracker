@@ -1,5 +1,5 @@
 {
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "complexNo": "113369",
  "name": "힐스테이트다산",
  "articles": [
@@ -17,6 +17,51 @@
    "description": "정남향.융자무.전세대출가능.12월15일입주.초중고인접.중앙공원옆",
    "realtor": "현대아이파크공인중개사사무소",
    "price_text": "65000"
+  },
+  {
+   "article_no": "2661156069",
+   "trade": "B1",
+   "deposit": 68000,
+   "rent": 0,
+   "area_exclusive": 84.69,
+   "area_supply": 113.05,
+   "floor": "고/23",
+   "building": "5211",
+   "direction": "ES",
+   "confirmed": "2026-11-11",
+   "description": "추천,시에,관리잘된집,다산역,초중고학세권,중앙공원",
+   "realtor": "현대미소 공인중개사사무소",
+   "price_text": "68000"
+  },
+  {
+   "article_no": "2661248579",
+   "trade": "B1",
+   "deposit": 70000,
+   "rent": 0,
+   "area_exclusive": 84.69,
+   "area_supply": 113.05,
+   "floor": "고/29",
+   "building": "5208",
+   "direction": "ES",
+   "confirmed": "2026-11-12",
+   "description": "THE힐PICK전세, 시에컨4, 빠른입주협의, 관리잘된집, 고층뷰",
+   "realtor": "다산더힐공인중개사사무소",
+   "price_text": "70000"
+  },
+  {
+   "article_no": "2661161778",
+   "trade": "B1",
+   "deposit": 70000,
+   "rent": 0,
+   "area_exclusive": 84.69,
+   "area_supply": 113.05,
+   "floor": "고/29",
+   "building": "5208",
+   "direction": "ES",
+   "confirmed": "2026-11-11",
+   "description": "전망좋은 조용한동 빠른입주가능 시에4대",
+   "realtor": "하지민공인중개사사무소",
+   "price_text": "70000"
   },
   {
    "article_no": "2660893172",
@@ -49,21 +94,6 @@
    "price_text": "70000"
   },
   {
-   "article_no": "2660265604",
-   "trade": "B1",
-   "deposit": 70000,
-   "rent": 0,
-   "area_exclusive": 84.69,
-   "area_supply": 113.05,
-   "floor": "고/29",
-   "building": "5208",
-   "direction": "ES",
-   "confirmed": "2026-11-07",
-   "description": "THE힐PICK전세, 시에컨4, 빠른입주협의, 관리잘된집, 고층뷰",
-   "realtor": "다산더힐공인중개사사무소",
-   "price_text": "70000"
-  },
-  {
    "article_no": "2660230485",
    "trade": "B1",
    "deposit": 70000,
@@ -91,21 +121,6 @@
    "confirmed": "2026-11-10",
    "description": "나라추천매물,선호하는타입,중앙공원뷰,입주협의",
    "realtor": "나라공인중개사",
-   "price_text": "70000"
-  },
-  {
-   "article_no": "2660518638",
-   "trade": "B1",
-   "deposit": 70000,
-   "rent": 0,
-   "area_exclusive": 84.69,
-   "area_supply": 113.05,
-   "floor": "고/23",
-   "building": "5211",
-   "direction": "ES",
-   "confirmed": "2026-11-09",
-   "description": "추천,입주협의,시에,다산역,초중고학세권,중앙공원",
-   "realtor": "현대미소 공인중개사사무소",
    "price_text": "70000"
   },
   {
@@ -229,7 +244,7 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2660541798",
+   "article_no": "2661226604",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -238,13 +253,13 @@
    "floor": "중/29",
    "building": "5203",
    "direction": "ES",
-   "confirmed": "2026-11-09",
-   "description": "12월중순 입주협의, 중앙공원뷰,시에어컨4대",
-   "realtor": "다산역롯데 단지넷 부동산 공인중개사사무소",
+   "confirmed": "2026-11-12",
+   "description": "i 귀한 중앙공원뷰 i 시스템에어컨 4대 i 알파룸 i",
+   "realtor": "다산안녕공인중개사사무소",
    "price_text": "90000"
   },
   {
-   "article_no": "2660461602",
+   "article_no": "2661069180",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -253,9 +268,9 @@
    "floor": "중/29",
    "building": "5203",
    "direction": "ES",
-   "confirmed": "2026-11-09",
-   "description": "12월 중순입주협의 시스템에어컨 4대 중앙공원뷰로 트여있음",
-   "realtor": "지킴 공인중개사사무소",
+   "confirmed": "2026-11-11",
+   "description": "12월중순 입주협의, 중앙공원뷰,시에어컨4대",
+   "realtor": "다산역롯데 단지넷 부동산 공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -271,6 +286,21 @@
    "confirmed": "2026-11-09",
    "description": "HS 중앙공원 트인뷰 12월입주협의 시에4  프리미엄 대단지",
    "realtor": "다산한양수자인공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2660461602",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "ES",
+   "confirmed": "2026-11-09",
+   "description": "12월 중순입주협의 시스템에어컨 4대 중앙공원뷰로 트여있음",
+   "realtor": "지킴 공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -301,21 +331,6 @@
    "confirmed": "2026-11-05",
    "description": "확트인 중앙공원 뷰 l 시에4 l 12월 입주 협의 l 주인 거주 상태굿",
    "realtor": "다산힐스드림공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2659869411",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.56,
-   "area_supply": 112.88,
-   "floor": "중/29",
-   "building": "5203",
-   "direction": "ES",
-   "confirmed": "2026-11-05",
-   "description": "I 귀한 중앙공원뷰 I 시스템에어컨 4대 I 알파룸 I",
-   "realtor": "다산안녕공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -499,7 +514,7 @@
    "price_text": "50000/100"
   },
   {
-   "article_no": "2659814662",
+   "article_no": "2661090027",
    "trade": "B2",
    "deposit": 40000,
    "rent": 120,
@@ -508,7 +523,7 @@
    "floor": "고/23",
    "building": "5212",
    "direction": "ES",
-   "confirmed": "2026-11-05",
+   "confirmed": "2026-11-11",
    "description": "입주협의,후문인접,4베이구조,초록정원뷰",
    "realtor": "나라공인중개사",
    "price_text": "40000/120"
@@ -529,7 +544,7 @@
    "price_text": "40000/200"
   },
   {
-   "article_no": "2656807676",
+   "article_no": "2661248340",
    "trade": "B2",
    "deposit": 3,
    "rent": 260,
@@ -538,10 +553,40 @@
    "floor": "중/29",
    "building": "5203",
    "direction": "ES",
-   "confirmed": "2026-10-21",
+   "confirmed": "2026-11-12",
    "description": "THE힐 PICK , 중앙공원뷰, 알파룸, 유초중고인접, 시에4대,상태굿",
    "realtor": "다산더힐공인중개사사무소",
    "price_text": "3/260"
+  },
+  {
+   "article_no": "2660992863",
+   "trade": "B2",
+   "deposit": 30000,
+   "rent": 260,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "ES",
+   "confirmed": "2026-11-11",
+   "description": "땡큐추천, 중앙공원뷰, 주인거주로관리상태굿, 시에4대, 알파룸, 초중인접",
+   "realtor": "땡큐부동산공인중개사사무소",
+   "price_text": "30000/260"
+  },
+  {
+   "article_no": "2661069871",
+   "trade": "B2",
+   "deposit": 30000,
+   "rent": 260,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "ES",
+   "confirmed": "2026-11-11",
+   "description": "12월중순 입주협의, 중앙공원뷰,시에어컨4대",
+   "realtor": "다산역롯데 단지넷 부동산 공인중개사사무소",
+   "price_text": "30000/260"
   },
   {
    "article_no": "2660864507",
@@ -571,21 +616,6 @@
    "confirmed": "2026-11-10",
    "description": "입주협의,시.에4대,상태좋음,중앙공원뷰,초중고학세권",
    "realtor": "현대미소공인중개사사무소",
-   "price_text": "30000/260"
-  },
-  {
-   "article_no": "2660841405",
-   "trade": "B2",
-   "deposit": 30000,
-   "rent": 260,
-   "area_exclusive": 84.56,
-   "area_supply": 112.88,
-   "floor": "중/29",
-   "building": "5203",
-   "direction": "ES",
-   "confirmed": "2026-11-10",
-   "description": "12월중순 입주협의, 중앙공원뷰,시에어컨4대",
-   "realtor": "다산역롯데 단지넷 부동산 공인중개사사무소",
    "price_text": "30000/260"
   },
   {
@@ -694,21 +724,6 @@
    "price_text": "30000/260"
   },
   {
-   "article_no": "2657893843",
-   "trade": "B2",
-   "deposit": 30000,
-   "rent": 260,
-   "area_exclusive": 84.56,
-   "area_supply": 112.88,
-   "floor": "중/29",
-   "building": "5203",
-   "direction": "ES",
-   "confirmed": "2026-10-27",
-   "description": "ss김여사추천,12월말 협의,시스템4,중앙공원뷰,초,중가까운로얄동로얄층",
-   "realtor": "김여사공인중개사사무소",
-   "price_text": "30000/260"
-  },
-  {
    "article_no": "2657874273",
    "trade": "B2",
    "deposit": 30000,
@@ -721,6 +736,21 @@
    "confirmed": "2026-10-27",
    "description": "추천1.12월입주협의.시에4대.알찬수납 B타입.중앙공원뷰.",
    "realtor": "다산로얄자이공인중개사사무소",
+   "price_text": "30000/260"
+  },
+  {
+   "article_no": "2657893843",
+   "trade": "B2",
+   "deposit": 30000,
+   "rent": 260,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "ES",
+   "confirmed": "2026-10-27",
+   "description": "ss김여사추천,12월말 협의,시스템4,중앙공원뷰,초,중가까운로얄동로얄층",
+   "realtor": "김여사공인중개사사무소",
    "price_text": "30000/260"
   },
   {
