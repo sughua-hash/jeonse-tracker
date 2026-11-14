@@ -1,5 +1,5 @@
 {
- "date": "2026-11-13",
+ "date": "2026-11-14",
  "complexNo": "110765",
  "name": "고덕숲아이파크",
  "articles": [
@@ -34,21 +34,6 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2661112330",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.97,
-   "area_supply": 84.78,
-   "floor": "고/10",
-   "building": "113",
-   "direction": "WS",
-   "confirmed": "2026-11-11",
-   "description": "입주 협의.풀조망. 명문 학군. 숲속 생활권",
-   "realtor": "태양공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2661073743",
    "trade": "B1",
    "deposit": 80000,
@@ -64,6 +49,21 @@
    "price_text": "80000"
   },
   {
+   "article_no": "2661112330",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 84.78,
+   "floor": "고/10",
+   "building": "113",
+   "direction": "WS",
+   "confirmed": "2026-11-11",
+   "description": "입주 협의.풀조망. 명문 학군. 숲속 생활권",
+   "realtor": "태양공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
    "article_no": "2659686522",
    "trade": "B1",
    "deposit": 80000,
@@ -76,21 +76,6 @@
    "confirmed": "2026-11-06",
    "description": "숲속에 아팥트.밝고 환한집.",
    "realtor": "제일공인중개사사무소481-6600",
-   "price_text": "80000"
-  },
-  {
-   "article_no": "2659705167",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.97,
-   "area_supply": 84.78,
-   "floor": "고/10",
-   "building": "113",
-   "direction": "SS",
-   "confirmed": "2026-11-04",
-   "description": "빠른입주가능.채광좋음.장기거주가능.",
-   "realtor": "고덕베네루체공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -121,6 +106,21 @@
    "confirmed": "2026-11-04",
    "description": "융자없음. 명문학군. 숲세권. 고층숲뷰",
    "realtor": "원스탑공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2659705167",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 84.78,
+   "floor": "고/10",
+   "building": "113",
+   "direction": "SS",
+   "confirmed": "2026-11-04",
+   "description": "빠른입주가능.채광좋음.장기거주가능.",
+   "realtor": "고덕베네루체공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -169,6 +169,21 @@
    "price_text": "80000"
   },
   {
+   "article_no": "2661712333",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.85,
+   "area_supply": 112.83,
+   "floor": "고/21",
+   "building": "107",
+   "direction": "WS",
+   "confirmed": "2026-11-13",
+   "description": "숲속의아파트, 영구조망, 9호선 호재, 입주협의",
+   "realtor": "경성공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
    "article_no": "2661549946",
    "trade": "B1",
    "deposit": 90000,
@@ -184,6 +199,51 @@
    "price_text": "90000"
   },
   {
+   "article_no": "2661571673",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.85,
+   "area_supply": 112.83,
+   "floor": "고/21",
+   "building": "107",
+   "direction": "SS",
+   "confirmed": "2026-11-13",
+   "description": "추천급전세 탁트인뷰최상 채광좋은로얄동층 한영학군 숲속도서관",
+   "realtor": "고덕스카이공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2661581860",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.85,
+   "area_supply": 112.83,
+   "floor": "고/21",
+   "building": "107",
+   "direction": "SS",
+   "confirmed": "2026-11-13",
+   "description": "탁트인숲뷰 개방감굿, 한영중고명문학군, 9호선호재, 세대창고",
+   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2661648458",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.85,
+   "area_supply": 112.83,
+   "floor": "고/21",
+   "building": "107",
+   "direction": "WS",
+   "confirmed": "2026-11-13",
+   "description": "소유주직접 집보여드림 막힘없이 트인 롯데타워 뷰 내부깔끔 명품학군",
+   "realtor": "미르(426-1120)공인중개사사무소",
+   "price_text": "90000"
+  },
+  {
    "article_no": "2661432423",
    "trade": "B1",
    "deposit": 90000,
@@ -196,66 +256,6 @@
    "confirmed": "2026-11-12",
    "description": "급 전세.1월말이내입주.탁.트인 숲세권 풀뷰.구립도서관2분컷.한영학군인접",
    "realtor": "골드공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2661503873",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.85,
-   "area_supply": 112.83,
-   "floor": "고/21",
-   "building": "107",
-   "direction": "SS",
-   "confirmed": "2026-11-12",
-   "description": "탁트인숲뷰 개방감굿, 한영중고명문학군, 9호선호재, 세대창고",
-   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2661471077",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.85,
-   "area_supply": 112.83,
-   "floor": "고/21",
-   "building": "107",
-   "direction": "SS",
-   "confirmed": "2026-11-12",
-   "description": "추천급전세 탁트인뷰최상 채광좋은로얄동층 한영학군 숲속도서관",
-   "realtor": "고덕스카이공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2661381813",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.85,
-   "area_supply": 112.83,
-   "floor": "고/21",
-   "building": "107",
-   "direction": "WS",
-   "confirmed": "2026-11-12",
-   "description": "소유주직접 집보여드림 막힘없이 트인 롯데타워 뷰 내부깔끔 명품학군",
-   "realtor": "미르(426-1120)공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2661130245",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.85,
-   "area_supply": 112.83,
-   "floor": "고/21",
-   "building": "107",
-   "direction": "WS",
-   "confirmed": "2026-11-11",
-   "description": "숲속의아파트, 영구조망, 9호선 호재, 입주협의",
-   "realtor": "경성공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -304,6 +304,21 @@
    "price_text": "90000"
   },
   {
+   "article_no": "2661552670",
+   "trade": "B1",
+   "deposit": 92000,
+   "rent": 0,
+   "area_exclusive": 84.85,
+   "area_supply": 112.83,
+   "floor": "25/25",
+   "building": "102",
+   "direction": "ES",
+   "confirmed": "2026-11-13",
+   "description": "숲세권 뷰, 에어컨 풀,중문,넓은 수납장,커뮤니티,12월18일 입주",
+   "realtor": "센트럴부자공인중개사사무소",
+   "price_text": "92000"
+  },
+  {
    "article_no": "2661045701",
    "trade": "B1",
    "deposit": 92000,
@@ -317,51 +332,6 @@
    "description": "추천 전세,융무 입주 12월협의, 에어컨,상일역 역세권,초등학교 가까운동",
    "realtor": "단지내이레(443-6606)공인중개사사무소",
    "price_text": "92000"
-  },
-  {
-   "article_no": "2661390453",
-   "trade": "B1",
-   "deposit": 95000,
-   "rent": 0,
-   "area_exclusive": 84.85,
-   "area_supply": 112.83,
-   "floor": "중/25",
-   "building": "108",
-   "direction": "SS",
-   "confirmed": "2026-11-12",
-   "description": "에어컨5대, 탁트인뷰, 고덕숲도서관, 한영중고학군",
-   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
-   "price_text": "95000"
-  },
-  {
-   "article_no": "2661074248",
-   "trade": "B1",
-   "deposit": 95000,
-   "rent": 0,
-   "area_exclusive": 84.85,
-   "area_supply": 112.83,
-   "floor": "중/25",
-   "building": "108",
-   "direction": "ES",
-   "confirmed": "2026-11-11",
-   "description": "숲속의아파트,학세권,역세권아파트,대출무,풀어에컨,중문있음",
-   "realtor": "경성공인중개사사무소",
-   "price_text": "95000"
-  },
-  {
-   "article_no": "2655431029",
-   "trade": "B1",
-   "deposit": 95000,
-   "rent": 0,
-   "area_exclusive": 84.85,
-   "area_supply": 112.83,
-   "floor": "고/19",
-   "building": "101",
-   "direction": "WS",
-   "confirmed": "2026-10-14",
-   "description": "손님만. 에어컨. 풀조망. 고현초. 상일역가까운동.",
-   "realtor": "태양공인중개사사무소",
-   "price_text": "95000"
   },
   {
    "article_no": "2660191495",
