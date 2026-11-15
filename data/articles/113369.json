@@ -1,5 +1,5 @@
 {
- "date": "2026-11-14",
+ "date": "2026-11-15",
  "complexNo": "113369",
  "name": "힐스테이트다산",
  "articles": [
@@ -34,7 +34,7 @@
    "price_text": "67000"
   },
   {
-   "article_no": "2661575039",
+   "article_no": "2661817547",
    "trade": "B1",
    "deposit": 68000,
    "rent": 0,
@@ -43,7 +43,7 @@
    "floor": "고/23",
    "building": "5211",
    "direction": "ES",
-   "confirmed": "2026-11-13",
+   "confirmed": "2026-11-14",
    "description": "추천,시에,관리잘된집,다산역,초중고학세권,중앙공원",
    "realtor": "현대미소 공인중개사사무소",
    "price_text": "68000"
@@ -184,6 +184,21 @@
    "price_text": "73000"
   },
   {
+   "article_no": "2661868338",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 84.69,
+   "area_supply": 113.05,
+   "floor": "중/29",
+   "building": "5203",
+   "direction": "SS",
+   "confirmed": "2026-11-14",
+   "description": "트인뷰,입주협의,햇살가득정남향,시.에4대,상태좋음,초중고학세권,중앙공원",
+   "realtor": "현대미소 공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
    "article_no": "2661743109",
    "trade": "B1",
    "deposit": 75000,
@@ -199,21 +214,6 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2660851344",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 84.56,
-   "area_supply": 112.88,
-   "floor": "저/29",
-   "building": "5205",
-   "direction": "SS",
-   "confirmed": "2026-11-10",
-   "description": "입주협의,시스템에어컨풀,정원뷰,알파룸,관리잘된집",
-   "realtor": "나라공인중개사",
-   "price_text": "75000"
-  },
-  {
    "article_no": "2660854736",
    "trade": "B1",
    "deposit": 75000,
@@ -226,6 +226,21 @@
    "confirmed": "2026-11-10",
    "description": "입주협의.정남향.트인 단지뷰.역가까운 동. 중앙공원.다산초중고 학세권",
    "realtor": "유승좋은날공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
+   "article_no": "2660851344",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 84.56,
+   "area_supply": 112.88,
+   "floor": "저/29",
+   "building": "5205",
+   "direction": "SS",
+   "confirmed": "2026-11-10",
+   "description": "입주협의,시스템에어컨풀,정원뷰,알파룸,관리잘된집",
+   "realtor": "나라공인중개사",
    "price_text": "75000"
   },
   {

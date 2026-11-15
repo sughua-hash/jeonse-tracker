@@ -1,5 +1,5 @@
 {
- "date": "2026-11-14",
+ "date": "2026-11-15",
  "complexNo": "102235",
  "name": "고덕리엔파크3단지",
  "articles": [
@@ -79,6 +79,36 @@
    "price_text": "70000"
   },
   {
+   "article_no": "2661869325",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 84.87,
+   "area_supply": 111.78,
+   "floor": "저/15",
+   "building": "323",
+   "direction": "WS",
+   "confirmed": "2026-11-14",
+   "description": "부자되는 집",
+   "realtor": "고덕독도공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2661862532",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 84.87,
+   "area_supply": 111.78,
+   "floor": "저/15",
+   "building": "323",
+   "direction": "SS",
+   "confirmed": "2026-11-14",
+   "description": "올확장.채광좋은 남향.판상형.그린웨이 숲세권.강명초중인접.강일역 역세권.",
+   "realtor": "고덕삼성공인중개사사무소(02-442-2000)",
+   "price_text": "80000"
+  },
+  {
    "article_no": "2655947304",
    "trade": "B1",
    "deposit": 80000,
@@ -104,7 +134,7 @@
    "building": "320",
    "direction": "SS",
    "confirmed": "2026-11-09",
-   "description": "융무.판상형.관리 잘된세대.즉시입주나 협의가.손님만",
+   "description": "융무.판상형.관리굿.즉시입주.협의가.손님만",
    "realtor": "파크공인중개사사무소",
    "price_text": "20000/210"
   }

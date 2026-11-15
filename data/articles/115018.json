@@ -1,5 +1,5 @@
 {
- "date": "2026-11-14",
+ "date": "2026-11-15",
  "complexNo": "115018",
  "name": "더샵지제역센트럴파크(1BL)",
  "articles": [
@@ -289,21 +289,6 @@
    "price_text": "27000"
   },
   {
-   "article_no": "2661004313",
-   "trade": "B1",
-   "deposit": 28000,
-   "rent": 0,
-   "area_exclusive": 59.62,
-   "area_supply": 79.7,
-   "floor": "고/26",
-   "building": "116",
-   "direction": "ES",
-   "confirmed": "2026-11-11",
-   "description": "초등학교근접 주차편리 집상태좋아요 1월협의입주",
-   "realtor": "더샵미소공인중개사사무소",
-   "price_text": "28000"
-  },
-  {
    "article_no": "2661097071",
    "trade": "B1",
    "deposit": 28000,
@@ -424,7 +409,7 @@
    "price_text": "31000"
   },
   {
-   "article_no": "2661714074",
+   "article_no": "2661707725",
    "trade": "B1",
    "deposit": 31000,
    "rent": 0,
@@ -434,8 +419,8 @@
    "building": "110",
    "direction": "WS",
    "confirmed": "2026-11-13",
-   "description": "GM.시에4대,필로팅1층으로 바닥 층고 높음.중문,27년 2월 협의 입주",
-   "realtor": "THESHARP굿모닝공인중개사사무소",
+   "description": "입주협의시에4정원뷰지하주차장편리중문엘베2대2월중 협의",
+   "realtor": "지제역더샵영신부동산공인중개사사무소",
    "price_text": "31000"
   },
   {
@@ -454,7 +439,7 @@
    "price_text": "31000"
   },
   {
-   "article_no": "2661707725",
+   "article_no": "2661714074",
    "trade": "B1",
    "deposit": 31000,
    "rent": 0,
@@ -464,8 +449,8 @@
    "building": "110",
    "direction": "WS",
    "confirmed": "2026-11-13",
-   "description": "입주협의시에4정원뷰지하주차장편리중문엘베2대2월중 협의",
-   "realtor": "지제역더샵영신부동산공인중개사사무소",
+   "description": "GM.시에4대,필로팅1층으로 바닥 층고 높음.중문,27년 2월 협의 입주",
+   "realtor": "THESHARP굿모닝공인중개사사무소",
    "price_text": "31000"
   },
   {
@@ -619,21 +604,6 @@
    "price_text": "33000"
   },
   {
-   "article_no": "2659552762",
-   "trade": "B1",
-   "deposit": 33000,
-   "rent": 0,
-   "area_exclusive": 84.79,
-   "area_supply": 110.69,
-   "floor": "11/26",
-   "building": "125",
-   "direction": "ES",
-   "confirmed": "2026-11-04",
-   "description": "OK.1월입주협의. 시스템2.지하2개층주차편리.",
-   "realtor": "더샵OK공인중개사사무소",
-   "price_text": "33000"
-  },
-  {
    "article_no": "2659719775",
    "trade": "B1",
    "deposit": 33000,
@@ -646,6 +616,21 @@
    "confirmed": "2026-11-04",
    "description": "1월29일시에2대 집상태굿 주차지하2층동 협의입주가능동간넓음",
    "realtor": "지제역더샵영신부동산공인중개사사무소",
+   "price_text": "33000"
+  },
+  {
+   "article_no": "2659552762",
+   "trade": "B1",
+   "deposit": 33000,
+   "rent": 0,
+   "area_exclusive": 84.79,
+   "area_supply": 110.69,
+   "floor": "11/26",
+   "building": "125",
+   "direction": "ES",
+   "confirmed": "2026-11-04",
+   "description": "OK.1월입주협의. 시스템2.지하2개층주차편리.",
+   "realtor": "더샵OK공인중개사사무소",
    "price_text": "33000"
   },
   {
@@ -692,21 +677,6 @@
    "description": "1월29일입주, 귀한전세, 융자상환, 에어컨2대",
    "realtor": "더샵하나공인중개사사무소",
    "price_text": "33000"
-  },
-  {
-   "article_no": "2661721854",
-   "trade": "B2",
-   "deposit": 2000,
-   "rent": 120,
-   "area_exclusive": 59.62,
-   "area_supply": 79.7,
-   "floor": "저/26",
-   "building": "116",
-   "direction": "ES",
-   "confirmed": "2026-11-13",
-   "description": "귀한월세,법인숙소가능,빠른입주,시에4,중문",
-   "realtor": "지제역원탑공인중개사사무소",
-   "price_text": "2000/120"
   },
   {
    "article_no": "2660352872",
@@ -781,6 +751,21 @@
    "confirmed": "2026-10-29",
    "description": "No1. 27. 1월하순입주. 시스템에어컨4대. 줄눈. 탄성.",
    "realtor": "더샵최고공인중개사사무소",
+   "price_text": "2000/130"
+  },
+  {
+   "article_no": "2661845120",
+   "trade": "B2",
+   "deposit": 2000,
+   "rent": 130,
+   "area_exclusive": 59.62,
+   "area_supply": 79.7,
+   "floor": "저/26",
+   "building": "116",
+   "direction": "ES",
+   "confirmed": "2026-11-14",
+   "description": "귀한월세,법인숙소가능,빠른입주,시에4,중문",
+   "realtor": "지제역원탑공인중개사사무소",
    "price_text": "2000/130"
   },
   {
@@ -887,21 +872,6 @@
    "description": "옵션이있어서 법인 숙소로도 가능합니다.",
    "realtor": "포스코굿모닝공인중개사사무소",
    "price_text": "2000/150"
-  },
-  {
-   "article_no": "2659672608",
-   "trade": "B2",
-   "deposit": 2000,
-   "rent": 160,
-   "area_exclusive": 84.79,
-   "area_supply": 110.69,
-   "floor": "저/27",
-   "building": "106",
-   "direction": "ES",
-   "confirmed": "2026-11-04",
-   "description": "11월 27일이후협의입주정원뷰가예쁜집 집상태좋아요무엇이든다협의",
-   "realtor": "더샵에이스부동산공인중개사사무소",
-   "price_text": "2000/160"
   }
  ]
 }
