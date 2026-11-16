@@ -1,5 +1,5 @@
 {
- "date": "2026-11-15",
+ "date": "2026-11-16",
  "complexNo": "109266",
  "name": "위례센트럴자이",
  "articles": [
@@ -199,21 +199,6 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2661848245",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.83,
-   "area_supply": 83.92,
-   "floor": "고/15",
-   "building": "3202",
-   "direction": "ES",
-   "confirmed": "2026-11-14",
-   "description": "愛25 방3 입주협의  융자없음 내부깨끗  조망굿  상권교통편리",
-   "realtor": "위례황금부동산공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2661818355",
    "trade": "B1",
    "deposit": 80000,
@@ -259,21 +244,6 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2661072133",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.83,
-   "area_supply": 83.92,
-   "floor": "고/15",
-   "building": "3202",
-   "direction": "EE",
-   "confirmed": "2026-11-11",
-   "description": "입구동, 융자무, 판상형구조, 컨디션좋음, 교통이용편리함",
-   "realtor": "두리공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2661154051",
    "trade": "B1",
    "deposit": 80000,
@@ -286,6 +256,21 @@
    "confirmed": "2026-11-11",
    "description": "I위례추천I 25P 융무 방3 화장실2 선호타입 트인뷰 트램역옆 광장상권",
    "realtor": "센트럴자이단지내 위례공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2661072133",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 59.83,
+   "area_supply": 83.92,
+   "floor": "고/15",
+   "building": "3202",
+   "direction": "EE",
+   "confirmed": "2026-11-11",
+   "description": "입구동, 융자무, 판상형구조, 컨디션좋음, 교통이용편리함",
+   "realtor": "두리공인중개사사무소",
    "price_text": "80000"
   },
   {
