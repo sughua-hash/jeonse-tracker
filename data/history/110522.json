@@ -21131,14 +21131,14 @@
   "wolse_rent": null,
   "wolse_conv": null,
   "counts": {
-   "all": 2,
+   "all": 3,
    "in_area": 0,
    "jeonse": 0,
    "wolse": 0,
    "wolse_ok": 0
   },
   "areas": {
-   "148": 2
+   "148": 3
   },
   "date": "2026-11-16",
   "source": "fin",
@@ -21201,7 +21201,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 2,
+     "all": 3,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -21266,7 +21266,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 2,
+     "all": 3,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -21331,7 +21331,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 2,
+     "all": 3,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -21393,18 +21393,18 @@
    },
    "150": {
     "jeonse": {
-     "price": 35000,
+     "price": 32000,
      "article": {
-      "article_no": "2659333485",
-      "deposit": 35000,
+      "article_no": "2662041683",
+      "deposit": 32000,
       "rent": 0,
       "area": 148.0,
-      "floor": "중/33",
-      "building": "207",
+      "floor": "6/33",
+      "building": "208",
       "direction": "ES",
-      "confirmed": "2026-11-03",
-      "price_text": "35000",
-      "url": "https://m.land.naver.com/article/info/2659333485"
+      "confirmed": "2026-11-16",
+      "price_text": "32000",
+      "url": "https://m.land.naver.com/article/info/2662041683"
      }
     },
     "wolse_rent": {
@@ -21442,9 +21442,9 @@
      }
     },
     "counts": {
-     "all": 2,
-     "in_area": 2,
-     "jeonse": 1,
+     "all": 3,
+     "in_area": 3,
+     "jeonse": 2,
      "wolse": 1,
      "wolse_ok": 1
     },
@@ -21453,17 +21453,17 @@
       "d1": {
        "date": "2026-11-15",
        "prev": 32000,
-       "delta": 3000
+       "delta": 0
       },
       "d7": {
        "date": "2026-11-09",
        "prev": 32000,
-       "delta": 3000
+       "delta": 0
       },
       "d30": {
        "date": "2026-10-17",
        "prev": 32000,
-       "delta": 3000
+       "delta": 0
       }
      },
      "wolse_rent": {

@@ -21098,20 +21098,20 @@
    }
   },
   "wolse_conv": {
-   "conv": 97500,
-   "rent": 350,
+   "conv": 102500,
+   "rent": 370,
    "deposit": 10000,
    "rate_pct": 4.8,
    "article": {
     "article_no": "2660994541",
     "deposit": 10000,
-    "rent": 350,
+    "rent": 370,
     "area": 84.93,
     "floor": "8/13",
     "building": "110",
     "direction": "SS",
     "confirmed": "2026-11-11",
-    "price_text": "10000/350",
+    "price_text": "10000/370",
     "url": "https://m.land.naver.com/article/info/2660994541"
    }
   },
@@ -21167,12 +21167,12 @@
     "d1": {
      "date": "2026-11-15",
      "prev": 97500,
-     "delta": 0
+     "delta": 5000
     },
     "d7": {
      "date": "2026-11-09",
      "prev": 107500,
-     "delta": -10000
+     "delta": -5000
     },
     "d30": {
      "date": "2026-10-17",

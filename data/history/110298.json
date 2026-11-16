@@ -21548,16 +21548,16 @@
    "rent": 100,
    "deposit": 50000,
    "article": {
-    "article_no": "2661967324",
+    "article_no": "2662232578",
     "deposit": 50000,
     "rent": 100,
     "area": 84.97,
     "floor": "19/25",
     "building": "2203",
-    "direction": "ES",
+    "direction": "WS",
     "confirmed": "2026-11-16",
     "price_text": "50000/100",
-    "url": "https://m.land.naver.com/article/info/2661967324"
+    "url": "https://m.land.naver.com/article/info/2662232578"
    }
   },
   "wolse_conv": {
@@ -21566,28 +21566,28 @@
    "deposit": 50000,
    "rate_pct": 4.8,
    "article": {
-    "article_no": "2661967324",
+    "article_no": "2662232578",
     "deposit": 50000,
     "rent": 100,
     "area": 84.97,
     "floor": "19/25",
     "building": "2203",
-    "direction": "ES",
+    "direction": "WS",
     "confirmed": "2026-11-16",
     "price_text": "50000/100",
-    "url": "https://m.land.naver.com/article/info/2661967324"
+    "url": "https://m.land.naver.com/article/info/2662232578"
    }
   },
   "counts": {
-   "all": 59,
-   "in_area": 56,
-   "jeonse": 27,
-   "wolse": 29,
-   "wolse_ok": 29
+   "all": 63,
+   "in_area": 60,
+   "jeonse": 29,
+   "wolse": 31,
+   "wolse_ok": 31
   },
   "areas": {
    "75": 3,
-   "85": 56
+   "85": 60
   },
   "date": "2026-11-16",
   "source": "fin",
@@ -21650,7 +21650,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 59,
+     "all": 63,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -21715,7 +21715,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 59,
+     "all": 63,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -21780,7 +21780,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 59,
+     "all": 63,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
@@ -21845,7 +21845,7 @@
     "wolse_rent": null,
     "wolse_conv": null,
     "counts": {
-     "all": 59,
+     "all": 63,
      "in_area": 0,
      "jeonse": 0,
      "wolse": 0,
