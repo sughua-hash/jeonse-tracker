@@ -1,5 +1,5 @@
 {
- "date": "2026-11-17",
+ "date": "2026-11-18",
  "complexNo": "110299",
  "name": "e편한세상다산",
  "articles": [
@@ -34,6 +34,51 @@
    "price_text": "66000"
   },
   {
+   "article_no": "2662491032",
+   "trade": "B1",
+   "deposit": 67000,
+   "rent": 0,
+   "area_exclusive": 84.96,
+   "area_supply": 112.74,
+   "floor": "저/27",
+   "building": "5104",
+   "direction": "ES",
+   "confirmed": "2026-11-17",
+   "description": "코코추천, 즉시 계약하고 싶은 집, 올인테리어, 집상태최상, 로얄동",
+   "realtor": "다산코코이편한부동산중개사무소",
+   "price_text": "67000"
+  },
+  {
+   "article_no": "2662441284",
+   "trade": "B1",
+   "deposit": 67000,
+   "rent": 0,
+   "area_exclusive": 84.96,
+   "area_supply": 112.74,
+   "floor": "저/27",
+   "building": "5104",
+   "direction": "SS",
+   "confirmed": "2026-11-17",
+   "description": "e편한공인. 역상권접근좋은동. 화이트인테리어 깔끔관리된집",
+   "realtor": "다산e편한공인중개사사무소",
+   "price_text": "67000"
+  },
+  {
+   "article_no": "2662163130",
+   "trade": "B1",
+   "deposit": 67000,
+   "rent": 0,
+   "area_exclusive": 84.96,
+   "area_supply": 112.74,
+   "floor": "저/27",
+   "building": "5104",
+   "direction": "ES",
+   "confirmed": "2026-11-16",
+   "description": "e조은추천.입주협의.인테리컨디션굿.융자유.다산역.중심상권",
+   "realtor": "다산e조은공인중개사사무소",
+   "price_text": "67000"
+  },
+  {
    "article_no": "2660368667",
    "trade": "B1",
    "deposit": 67000,
@@ -64,7 +109,22 @@
    "price_text": "68000"
   },
   {
-   "article_no": "2662277917",
+   "article_no": "2662519557",
+   "trade": "B1",
+   "deposit": 70000,
+   "rent": 0,
+   "area_exclusive": 84.96,
+   "area_supply": 112.74,
+   "floor": "고/28",
+   "building": "5102",
+   "direction": "ES",
+   "confirmed": "2026-11-18",
+   "description": "G골드추천,입주협의,융자무,새봄초중,확트인뷰,중심상가인접",
+   "realtor": "다산자이골드부동산공인중개사사무소",
+   "price_text": "70000"
+  },
+  {
+   "article_no": "2662316438",
    "trade": "B1",
    "deposit": 70000,
    "rent": 0,
@@ -74,12 +134,12 @@
    "building": "5102",
    "direction": "ES",
    "confirmed": "2026-11-17",
-   "description": "G골드추천,입주협의,융자무,새봄초중,확트인뷰,중심상가인접",
-   "realtor": "다산자이골드부동산공인중개사사무소",
+   "description": "입주협의,융자무,초등학교인접,관리잘된집",
+   "realtor": "나라공인중개사사무소",
    "price_text": "70000"
   },
   {
-   "article_no": "2662264663",
+   "article_no": "2662337464",
    "trade": "B1",
    "deposit": 70000,
    "rent": 0,
@@ -88,24 +148,9 @@
    "floor": "고/28",
    "building": "5102",
    "direction": "ES",
-   "confirmed": "2026-11-16",
-   "description": "코코추천, 입주협의, 트인뷰, 집상태굿, 새봄초, 다산역, 중심상권",
-   "realtor": "다산코코이편한부동산중개사무소",
-   "price_text": "70000"
-  },
-  {
-   "article_no": "2662032505",
-   "trade": "B1",
-   "deposit": 70000,
-   "rent": 0,
-   "area_exclusive": 84.96,
-   "area_supply": 112.74,
-   "floor": "고/28",
-   "building": "5102",
-   "direction": "ES",
-   "confirmed": "2026-11-16",
-   "description": "입주협의,상태좋음,새봄초,다산역,상가인접",
-   "realtor": "현대미소공인중개사사무소",
+   "confirmed": "2026-11-17",
+   "description": "HS 무융자 입주협의 새봄초중인접 생활인프라편리 판상형구조",
+   "realtor": "다산한양수자인공인중개사사무소",
    "price_text": "70000"
   },
   {
@@ -139,6 +184,21 @@
    "price_text": "70000"
   },
   {
+   "article_no": "2662264663",
+   "trade": "B1",
+   "deposit": 70000,
+   "rent": 0,
+   "area_exclusive": 84.96,
+   "area_supply": 112.74,
+   "floor": "고/28",
+   "building": "5102",
+   "direction": "ES",
+   "confirmed": "2026-11-16",
+   "description": "코코추천, 입주협의, 트인뷰, 집상태굿, 새봄초, 다산역, 중심상권",
+   "realtor": "다산코코이편한부동산중개사무소",
+   "price_text": "70000"
+  },
+  {
    "article_no": "2662252403",
    "trade": "B1",
    "deposit": 70000,
@@ -154,7 +214,7 @@
    "price_text": "70000"
   },
   {
-   "article_no": "2662202694",
+   "article_no": "2662032505",
    "trade": "B1",
    "deposit": 70000,
    "rent": 0,
@@ -164,8 +224,8 @@
    "building": "5102",
    "direction": "ES",
    "confirmed": "2026-11-16",
-   "description": "HS 무융자 입주협의 새봄초중인접 생활인프라편리 판상형구조",
-   "realtor": "다산한양수자인공인중개사사무소",
+   "description": "입주협의,상태좋음,새봄초,다산역,상가인접",
+   "realtor": "현대미소공인중개사사무소",
    "price_text": "70000"
   },
   {
@@ -199,21 +259,6 @@
    "price_text": "70000"
   },
   {
-   "article_no": "2661707393",
-   "trade": "B1",
-   "deposit": 70000,
-   "rent": 0,
-   "area_exclusive": 84.96,
-   "area_supply": 112.74,
-   "floor": "고/28",
-   "building": "5102",
-   "direction": "ES",
-   "confirmed": "2026-11-13",
-   "description": "입주협의 고층트인뷰 컨디션좋은 판상형 새봄초중학권 중심상가인접",
-   "realtor": "더자이디엘 공인중개사사무소",
-   "price_text": "70000"
-  },
-  {
    "article_no": "2661768268",
    "trade": "B1",
    "deposit": 70000,
@@ -226,6 +271,21 @@
    "confirmed": "2026-11-13",
    "description": "입주협의 융자무 막힘없이 트인뷰 새봄초중인접 생활인프라편리",
    "realtor": "다산하늘자이공인중개사",
+   "price_text": "70000"
+  },
+  {
+   "article_no": "2661707393",
+   "trade": "B1",
+   "deposit": 70000,
+   "rent": 0,
+   "area_exclusive": 84.96,
+   "area_supply": 112.74,
+   "floor": "고/28",
+   "building": "5102",
+   "direction": "ES",
+   "confirmed": "2026-11-13",
+   "description": "입주협의 고층트인뷰 컨디션좋은 판상형 새봄초중학권 중심상가인접",
+   "realtor": "더자이디엘 공인중개사사무소",
    "price_text": "70000"
   },
   {
@@ -271,21 +331,6 @@
    "confirmed": "2026-11-10",
    "description": "귀한전세 집상태굿 다산역 가까운동",
    "realtor": "다산이편한세상단지0315552200부동산중개사무소",
-   "price_text": "70000"
-  },
-  {
-   "article_no": "2660297846",
-   "trade": "B1",
-   "deposit": 70000,
-   "rent": 0,
-   "area_exclusive": 84.96,
-   "area_supply": 112.74,
-   "floor": "고/28",
-   "building": "5102",
-   "direction": "ES",
-   "confirmed": "2026-11-07",
-   "description": "입주협의,융자무,초등학교인접,관리잘된집",
-   "realtor": "나라공인중개사사무소",
    "price_text": "70000"
   },
   {
@@ -379,33 +424,18 @@
    "price_text": "70000"
   },
   {
-   "article_no": "2662254400",
+   "article_no": "2662504104",
    "trade": "B1",
    "deposit": 70000,
    "rent": 0,
-   "area_exclusive": 84.96,
-   "area_supply": 112.74,
-   "floor": "저/27",
-   "building": "5104",
-   "direction": "ES",
-   "confirmed": "2026-11-16",
-   "description": "코코추천, 바로 계약하고 싶은 집, 올인테리어, 집상태최상, 로얄동",
-   "realtor": "다산코코이편한부동산중개사무소",
-   "price_text": "70000"
-  },
-  {
-   "article_no": "2662163130",
-   "trade": "B1",
-   "deposit": 70000,
-   "rent": 0,
-   "area_exclusive": 84.96,
-   "area_supply": 112.74,
-   "floor": "저/27",
-   "building": "5104",
-   "direction": "ES",
-   "confirmed": "2026-11-16",
-   "description": "e조은추천 입주협의 인테리어 컨디션굿 소액융자",
-   "realtor": "다산e조은공인중개사사무소",
+   "area_exclusive": 84.97,
+   "area_supply": 113.63,
+   "floor": "중/24",
+   "building": "5106",
+   "direction": "WS",
+   "confirmed": "2026-11-17",
+   "description": "e편한 추천, 3월 입주협의,에어컨 유,로얄동 로얄층, 관리 잘 된 집",
+   "realtor": "다산e편한공인중개사사무소",
    "price_text": "70000"
   },
   {
@@ -634,21 +664,6 @@
    "price_text": "75000"
   },
   {
-   "article_no": "2662178471",
-   "trade": "B1",
-   "deposit": 75000,
-   "rent": 0,
-   "area_exclusive": 84.96,
-   "area_supply": 112.74,
-   "floor": "저/29",
-   "building": "5111",
-   "direction": "SS",
-   "confirmed": "2026-11-16",
-   "description": "e편한공인. 1월입주협의. 판상형. 개방감뷰",
-   "realtor": "다산e편한공인중개사사무소",
-   "price_text": "75000"
-  },
-  {
    "article_no": "2662252616",
    "trade": "B1",
    "deposit": 75000,
@@ -661,6 +676,21 @@
    "confirmed": "2026-11-16",
    "description": "단지넷추천 입주협의. 중문,붙박이장옵션, 부출입구쪽 트인뷰",
    "realtor": "다산역롯데 단지넷 부동산 공인중개사사무소",
+   "price_text": "75000"
+  },
+  {
+   "article_no": "2662178471",
+   "trade": "B1",
+   "deposit": 75000,
+   "rent": 0,
+   "area_exclusive": 84.96,
+   "area_supply": 112.74,
+   "floor": "저/29",
+   "building": "5111",
+   "direction": "SS",
+   "confirmed": "2026-11-16",
+   "description": "e편한공인. 1월입주협의. 판상형. 개방감뷰",
+   "realtor": "다산e편한공인중개사사무소",
    "price_text": "75000"
   },
   {
@@ -769,6 +799,21 @@
    "price_text": "75000"
   },
   {
+   "article_no": "2662312676",
+   "trade": "B2",
+   "deposit": 67000,
+   "rent": 20,
+   "area_exclusive": 84.96,
+   "area_supply": 112.74,
+   "floor": "고/29",
+   "building": "5108",
+   "direction": "SS",
+   "confirmed": "2026-11-17",
+   "description": "e편한공인. 빠른입주협의. 풀에어컨. 판상형. 로얄동. 깔끔관리",
+   "realtor": "다산e편한공인중개사사무소",
+   "price_text": "67000/20"
+  },
+  {
    "article_no": "2661946798",
    "trade": "B2",
    "deposit": 67000,
@@ -781,21 +826,6 @@
    "confirmed": "2026-11-16",
    "description": "단지앞퀸즈추천,시원한고층뷰,8호선중심상가인접,선호A타입,풀에어컨,빠른입주",
    "realtor": "단지앞퀸즈공인중개사사무소",
-   "price_text": "67000/20"
-  },
-  {
-   "article_no": "2660929298",
-   "trade": "B2",
-   "deposit": 67000,
-   "rent": 20,
-   "area_exclusive": 84.96,
-   "area_supply": 112.74,
-   "floor": "고/29",
-   "building": "5108",
-   "direction": "SS",
-   "confirmed": "2026-11-10",
-   "description": "e편한공인. 빠른입주환영. 풀에어컨. 판상형. 로얄동. 깔끔관리",
-   "realtor": "다산e편한공인중개사사무소",
    "price_text": "67000/20"
   },
   {
@@ -859,7 +889,22 @@
    "price_text": "40000/165"
   },
   {
-   "article_no": "2662273537",
+   "article_no": "2662519877",
+   "trade": "B2",
+   "deposit": 15000,
+   "rent": 280,
+   "area_exclusive": 84.96,
+   "area_supply": 112.74,
+   "floor": "고/28",
+   "building": "5102",
+   "direction": "ES",
+   "confirmed": "2026-11-18",
+   "description": "G골드추천, 빠른입주,트인뷰,새봄초중,확트인뷰,중심상가",
+   "realtor": "다산자이골드부동산공인중개사사무소",
+   "price_text": "15000/280"
+  },
+  {
+   "article_no": "2662337830",
    "trade": "B2",
    "deposit": 15000,
    "rent": 280,
@@ -869,8 +914,8 @@
    "building": "5102",
    "direction": "ES",
    "confirmed": "2026-11-17",
-   "description": "G골드추천, 빠른입주,트인뷰,새봄초중,확트인뷰,중심상가",
-   "realtor": "다산자이골드부동산공인중개사사무소",
+   "description": "HS 입주협의 트인조망굿 판상형 새봄초중 중심상권이용편리 다산역도보이용",
+   "realtor": "다산한양수자인공인중개사사무소",
    "price_text": "15000/280"
   },
   {
@@ -949,21 +994,6 @@
    "price_text": "15000/280"
   },
   {
-   "article_no": "2661781970",
-   "trade": "B2",
-   "deposit": 15000,
-   "rent": 280,
-   "area_exclusive": 84.96,
-   "area_supply": 112.74,
-   "floor": "고/28",
-   "building": "5102",
-   "direction": "ES",
-   "confirmed": "2026-11-14",
-   "description": "HS 입주협의 트인조망굿 판상형 새봄초중 중심상권이용편리 다산역도보이용",
-   "realtor": "다산한양수자인공인중개사사무소",
-   "price_text": "15000/280"
-  },
-  {
    "article_no": "2661750940",
    "trade": "B2",
    "deposit": 15000,
@@ -994,7 +1024,7 @@
    "price_text": "15000/280"
   },
   {
-   "article_no": "2661667126",
+   "article_no": "2660274393",
    "trade": "B2",
    "deposit": 15000,
    "rent": 280,
@@ -1003,9 +1033,9 @@
    "floor": "고/28",
    "building": "5102",
    "direction": "ES",
-   "confirmed": "2026-11-13",
-   "description": "HS 입주협의 트인조망굿 판상형 새봄초중 중심상권이용편리 다산역도보이용",
-   "realtor": "다산한양수자인공인중개사사무소",
+   "confirmed": "2026-11-07",
+   "description": "빠른입주가능 막힘없이 트인뷰 새봄초중인접 생활인프라편리",
+   "realtor": "다산하늘자이공인중개사",
    "price_text": "15000/280"
   },
   {
@@ -1021,21 +1051,6 @@
    "confirmed": "2026-11-07",
    "description": "추천 빠른입주가능 탁트인 고층뷰 컨디션굿 다산역 상권이용편리",
    "realtor": "다산롯데캐슬 공인중개사사무소",
-   "price_text": "15000/280"
-  },
-  {
-   "article_no": "2660274393",
-   "trade": "B2",
-   "deposit": 15000,
-   "rent": 280,
-   "area_exclusive": 84.96,
-   "area_supply": 112.74,
-   "floor": "고/28",
-   "building": "5102",
-   "direction": "ES",
-   "confirmed": "2026-11-07",
-   "description": "빠른입주가능 막힘없이 트인뷰 새봄초중인접 생활인프라편리",
-   "realtor": "다산하늘자이공인중개사",
    "price_text": "15000/280"
   },
   {
