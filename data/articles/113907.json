@@ -1,8 +1,23 @@
 {
- "date": "2026-11-18",
+ "date": "2026-11-19",
  "complexNo": "113907",
  "name": "고덕그라시움",
  "articles": [
+  {
+   "article_no": "2662565033",
+   "trade": "B1",
+   "deposit": 85000,
+   "rent": 0,
+   "area_exclusive": 59.78,
+   "area_supply": 82.55,
+   "floor": "저/27",
+   "building": "119",
+   "direction": "ES",
+   "confirmed": "2026-11-18",
+   "description": "강덕초, 풀에어컨 아이키우기 좋은 집",
+   "realtor": "금성공인중개사사무소",
+   "price_text": "85000"
+  },
   {
    "article_no": "2662309264",
    "trade": "B1",
@@ -15,6 +30,21 @@
    "direction": "SS",
    "confirmed": "2026-11-17",
    "description": "강추 단독 초역세권 시스템에어컨 커뮤니티이용편리 장기거주가 입주협의가",
+   "realtor": "고덕선경(428-3939)공인중개사사무소",
+   "price_text": "85000"
+  },
+  {
+   "article_no": "2661559478",
+   "trade": "B1",
+   "deposit": 85000,
+   "rent": 0,
+   "area_exclusive": 59.78,
+   "area_supply": 82.55,
+   "floor": "중/15",
+   "building": "145",
+   "direction": "SS",
+   "confirmed": "2026-11-13",
+   "description": "강추 빠른입주협의가 시스템에어컨 컨디션최상",
    "realtor": "고덕선경(428-3939)공인중개사사무소",
    "price_text": "85000"
   },
@@ -34,21 +64,6 @@
    "price_text": "85000"
   },
   {
-   "article_no": "2661559478",
-   "trade": "B1",
-   "deposit": 85000,
-   "rent": 0,
-   "area_exclusive": 59.78,
-   "area_supply": 82.55,
-   "floor": "중/15",
-   "building": "145",
-   "direction": "SS",
-   "confirmed": "2026-11-13",
-   "description": "강추 빠른입주협의가 시스템에어컨 컨디션최상",
-   "realtor": "고덕선경(428-3939)공인중개사사무소",
-   "price_text": "85000"
-  },
-  {
    "article_no": "2660914217",
    "trade": "B1",
    "deposit": 85000,
@@ -61,21 +76,6 @@
    "confirmed": "2026-11-10",
    "description": "일등추천. 조용한 동. 상가 지하철 이용편리. 입주협의",
    "realtor": "고덕일등공인중개사사무소",
-   "price_text": "85000"
-  },
-  {
-   "article_no": "2660922701",
-   "trade": "B1",
-   "deposit": 85000,
-   "rent": 0,
-   "area_exclusive": 59.78,
-   "area_supply": 82.55,
-   "floor": "저/27",
-   "building": "119",
-   "direction": "ES",
-   "confirmed": "2026-11-10",
-   "description": "강덕초, 풀에어컨 아이키우기 좋은 집",
-   "realtor": "금성공인중개사사무소",
    "price_text": "85000"
   },
   {
@@ -139,7 +139,7 @@
    "price_text": "85000"
   },
   {
-   "article_no": "2662312706",
+   "article_no": "2662681790",
    "trade": "B1",
    "deposit": 88000,
    "rent": 0,
@@ -148,9 +148,24 @@
    "floor": "고/21",
    "building": "142",
    "direction": "SS",
-   "confirmed": "2026-11-17",
+   "confirmed": "2026-11-18",
    "description": "단독 트인뷰 채광굿 첫줄 초역세 에어컨",
    "realtor": "고덕신흥공인중개사사무소",
+   "price_text": "88000"
+  },
+  {
+   "article_no": "2662550376",
+   "trade": "B1",
+   "deposit": 88000,
+   "rent": 0,
+   "area_exclusive": 59.78,
+   "area_supply": 82.55,
+   "floor": "중/17",
+   "building": "120",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "25p 무융 강덕초 초역세권 시스템에어컨  트인뷰 채광굿 입주일조정가능",
+   "realtor": "고덕리더스부동산공인중개사사무소",
    "price_text": "88000"
   },
   {
@@ -182,6 +197,21 @@
    "description": "",
    "realtor": "동서울부동산 공인중개사사무소",
    "price_text": "88000"
+  },
+  {
+   "article_no": "2662719696",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 59.78,
+   "area_supply": 82.55,
+   "floor": "중/21",
+   "building": "143",
+   "direction": "ES",
+   "confirmed": "2026-11-19",
+   "description": "단 독  임대인 의뢰 풀 옵션 융무 지하철 커뮤니티 상가 이용 편리",
+   "realtor": "동서울부동산공인중개사사무소",
+   "price_text": "90000"
   },
   {
    "article_no": "2662502981",
@@ -274,21 +304,6 @@
    "price_text": "95000"
   },
   {
-   "article_no": "2660423130",
-   "trade": "B1",
-   "deposit": 95000,
-   "rent": 0,
-   "area_exclusive": 73.56,
-   "area_supply": 101.76,
-   "floor": "중/27",
-   "building": "110",
-   "direction": "SS",
-   "confirmed": "2026-11-09",
-   "description": "손님만우수학군 멋진뷰",
-   "realtor": "스마트그라시움공인중개사사무소",
-   "price_text": "95000"
-  },
-  {
    "article_no": "2658815541",
    "trade": "B1",
    "deposit": 95000,
@@ -334,21 +349,6 @@
    "price_text": "110000"
   },
   {
-   "article_no": "2662359282",
-   "trade": "B1",
-   "deposit": 110000,
-   "rent": 0,
-   "area_exclusive": 73.87,
-   "area_supply": 100.95,
-   "floor": "저/25",
-   "building": "150",
-   "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "입주일  협의 가능 30. 에4개     5호선 상일역  바로",
-   "realtor": "LG공인중개사사무소",
-   "price_text": "110000"
-  },
-  {
    "article_no": "2662412233",
    "trade": "B1",
    "deposit": 110000,
@@ -361,6 +361,21 @@
    "confirmed": "2026-11-17",
    "description": "주.인.직.접, 입주 협의, 풀에어컨, 단지내 조망 너무 예뻐요",
    "realtor": "고덕탑공인중개사사무소",
+   "price_text": "110000"
+  },
+  {
+   "article_no": "2662359282",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 73.87,
+   "area_supply": 100.95,
+   "floor": "저/25",
+   "building": "150",
+   "direction": "SS",
+   "confirmed": "2026-11-17",
+   "description": "입주일  협의 가능 30. 에4개     5호선 상일역  바로",
+   "realtor": "LG공인중개사사무소",
    "price_text": "110000"
   },
   {
@@ -409,7 +424,37 @@
    "price_text": "110000"
   },
   {
-   "article_no": "2662515386",
+   "article_no": "2662683703",
+   "trade": "B1",
+   "deposit": 112000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "저/22",
+   "building": "112",
+   "direction": "ES",
+   "confirmed": "2026-11-18",
+   "description": "단독 관리 112동 강덕초 융무 정원뷰 채광좋음 상태최상",
+   "realtor": "나이스공인중개사사무소",
+   "price_text": "112000"
+  },
+  {
+   "article_no": "2662748761",
+   "trade": "B1",
+   "deposit": 115000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "ES",
+   "confirmed": "2026-11-19",
+   "description": "로얄동호.선호구조.강덕초.입주협의.명문학군.우수커뮤니티",
+   "realtor": "해피부동산공인중개사사무소",
+   "price_text": "115000"
+  },
+  {
+   "article_no": "2662724466",
    "trade": "B1",
    "deposit": 115000,
    "rent": 0,
@@ -418,9 +463,24 @@
    "floor": "중/30",
    "building": "118",
    "direction": "SS",
-   "confirmed": "2026-11-18",
-   "description": "금터 34D 애지중지 관리한집 정갈하고 깔끔한 컨디션 풀에",
+   "confirmed": "2026-11-19",
+   "description": "금터 34D 실물이 훨씬 예쁜집 정갈하고 깔끔한 컨디션 풀에 반전세可",
    "realtor": "고덕그라시움금터부동산공인중개사사무소",
+   "price_text": "115000"
+  },
+  {
+   "article_no": "2662719698",
+   "trade": "B1",
+   "deposit": 115000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "WS",
+   "confirmed": "2026-11-19",
+   "description": "10월말 12월 초 가능   강덕초 커뮤니티 상가 이용 편리",
+   "realtor": "동서울부동산공인중개사사무소",
    "price_text": "115000"
   },
   {
@@ -439,7 +499,7 @@
    "price_text": "115000"
   },
   {
-   "article_no": "2662324998",
+   "article_no": "2662596925",
    "trade": "B1",
    "deposit": 115000,
    "rent": 0,
@@ -448,13 +508,13 @@
    "floor": "중/30",
    "building": "118",
    "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "살기좋은 대단지아파트 최고의전망 시스템에어컨 로얄동층",
-   "realtor": "고덕거성공인중개사사무소",
+   "confirmed": "2026-11-18",
+   "description": "단지내 조망 좋은집,풀에어컨,선호구조,서두르세요",
+   "realtor": "신고덕(427-8955)공인중개사사무소",
    "price_text": "115000"
   },
   {
-   "article_no": "2662502752",
+   "article_no": "2662561607",
    "trade": "B1",
    "deposit": 115000,
    "rent": 0,
@@ -463,13 +523,13 @@
    "floor": "중/30",
    "building": "118",
    "direction": "WS",
-   "confirmed": "2026-11-17",
-   "description": "10월말 12월 초 가능   강덕초 커뮤니티 상가 이용 편리",
-   "realtor": "동서울부동산공인중개사사무소",
+   "confirmed": "2026-11-18",
+   "description": "추천. 로얄동층. 선호타입. 풀에어컨. 관리잘된집",
+   "realtor": "그라시움하늘공인중개사사무소",
    "price_text": "115000"
   },
   {
-   "article_no": "2662395371",
+   "article_no": "2662515386",
    "trade": "B1",
    "deposit": 115000,
    "rent": 0,
@@ -478,13 +538,28 @@
    "floor": "중/30",
    "building": "118",
    "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "잘빠진 구조 4베이 판상형, 강덕초, 커뮤니티 인접동",
-   "realtor": "OK그라시움(426-4933)공인중개사사무소",
+   "confirmed": "2026-11-18",
+   "description": "금터 34D 실물이 훨씬 예쁜집 정갈하고 깔끔한 컨디션 풀에 반전세可",
+   "realtor": "고덕그라시움금터부동산공인중개사사무소",
    "price_text": "115000"
   },
   {
-   "article_no": "2662437146",
+   "article_no": "2662640379",
+   "trade": "B1",
+   "deposit": 115000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "독일 추천. 강덕초. 지하철 연결동. 4베이구조. 단지내 정원뷰.",
+   "realtor": "고덕독일489-4100공인중개사사무소",
+   "price_text": "115000"
+  },
+  {
+   "article_no": "2662611882",
    "trade": "B1",
    "deposit": 115000,
    "rent": 0,
@@ -493,9 +568,9 @@
    "floor": "중/30",
    "building": "118",
    "direction": "WS",
-   "confirmed": "2026-11-17",
-   "description": "강력추천. 귀한전세. 12월협의. 주인거주중.",
-   "realtor": "고덕삼성공인중개사사무소",
+   "confirmed": "2026-11-18",
+   "description": "34D 주인거주 관리굿 판상형 4베이 12월말1월초 협의",
+   "realtor": "미래로공인중개사사무소",
    "price_text": "115000"
   },
   {
@@ -514,6 +589,36 @@
    "price_text": "115000"
   },
   {
+   "article_no": "2662324998",
+   "trade": "B1",
+   "deposit": 115000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-17",
+   "description": "살기좋은 대단지아파트 최고의전망 시스템에어컨 로얄동층",
+   "realtor": "고덕거성공인중개사사무소",
+   "price_text": "115000"
+  },
+  {
+   "article_no": "2662395371",
+   "trade": "B1",
+   "deposit": 115000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-17",
+   "description": "잘빠진 구조 4베이 판상형, 강덕초, 커뮤니티 인접동",
+   "realtor": "OK그라시움(426-4933)공인중개사사무소",
+   "price_text": "115000"
+  },
+  {
    "article_no": "2662326841",
    "trade": "B1",
    "deposit": 115000,
@@ -526,21 +631,6 @@
    "confirmed": "2026-11-17",
    "description": "T 02 3013 2500 월세가능 뉴시에4 바로입주협의가능 새집컨디션",
    "realtor": "부동산뉴스공인중개사사무소",
-   "price_text": "115000"
-  },
-  {
-   "article_no": "2662282647",
-   "trade": "B1",
-   "deposit": 115000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "ES",
-   "confirmed": "2026-11-17",
-   "description": "로얄동호.선호구조.강덕초.입주협의.명문학군.우수커뮤니티",
-   "realtor": "해피부동산공인중개사사무소",
    "price_text": "115000"
   },
   {
@@ -559,7 +649,7 @@
    "price_text": "115000"
   },
   {
-   "article_no": "2662348803",
+   "article_no": "2662355281",
    "trade": "B1",
    "deposit": 115000,
    "rent": 0,
@@ -567,10 +657,40 @@
    "area_supply": 115.63,
    "floor": "중/30",
    "building": "118",
-   "direction": "SS",
+   "direction": "WS",
    "confirmed": "2026-11-17",
-   "description": "추천전세 로얄동층 컨디션굿 선호타입 강덕초  커뮤니티 조식서비스 ",
-   "realtor": "그라시움거성공인중개사사무소",
+   "description": "로얄동층 초중교앞 역세권 대단지커뮤니티 반전세가능",
+   "realtor": "파크자이(428-4270)공인중개사사무소",
+   "price_text": "115000"
+  },
+  {
+   "article_no": "2662502752",
+   "trade": "B1",
+   "deposit": 115000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "WS",
+   "confirmed": "2026-11-17",
+   "description": "10월말 12월 초 가능   강덕초 커뮤니티 상가 이용 편리",
+   "realtor": "동서울부동산공인중개사사무소",
+   "price_text": "115000"
+  },
+  {
+   "article_no": "2662437146",
+   "trade": "B1",
+   "deposit": 115000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "WS",
+   "confirmed": "2026-11-17",
+   "description": "강력추천. 귀한전세. 12월협의. 주인거주중.",
+   "realtor": "고덕삼성공인중개사사무소",
    "price_text": "115000"
   },
   {
@@ -589,21 +709,6 @@
    "price_text": "115000"
   },
   {
-   "article_no": "2662337130",
-   "trade": "B1",
-   "deposit": 115000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "금터 34D 애지중지 관리한집 정갈하고 깔끔한 컨디션 풀에",
-   "realtor": "고덕그라시움금터부동산공인중개사사무소",
-   "price_text": "115000"
-  },
-  {
    "article_no": "2662388822",
    "trade": "B1",
    "deposit": 115000,
@@ -616,6 +721,21 @@
    "confirmed": "2026-11-17",
    "description": "12월말까지 입주협의 반전세 가능 풀에어컨 소유주거주로 내부깔끔 역세권",
    "realtor": "미르(426-1120)공인중개사사무소",
+   "price_text": "115000"
+  },
+  {
+   "article_no": "2662348803",
+   "trade": "B1",
+   "deposit": 115000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-17",
+   "description": "추천전세 로얄동층 컨디션굿 선호타입 강덕초  커뮤니티 조식서비스 ",
+   "realtor": "그라시움거성공인중개사사무소",
    "price_text": "115000"
   },
   {
@@ -694,7 +814,37 @@
    "price_text": "115000"
   },
   {
-   "article_no": "2662536254",
+   "article_no": "2662748760",
+   "trade": "B1",
+   "deposit": 115000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "저/27",
+   "building": "110",
+   "direction": "SS",
+   "confirmed": "2026-11-19",
+   "description": "금터 34A 눈부신 채광 시원한 통풍 정갈하고 깔끔한 컨디션 풀에",
+   "realtor": "고덕그라시움금터부동산공인중개사사무소",
+   "price_text": "115000"
+  },
+  {
+   "article_no": "2662720653",
+   "trade": "B1",
+   "deposit": 115000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "저/27",
+   "building": "110",
+   "direction": "SS",
+   "confirmed": "2026-11-19",
+   "description": "34P 풀에어컨 로얄동층 깨끗이관리된 집",
+   "realtor": "고덕리더스부동산공인중개사사무소",
+   "price_text": "115000"
+  },
+  {
+   "article_no": "2662599234",
    "trade": "B1",
    "deposit": 115000,
    "rent": 0,
@@ -704,12 +854,27 @@
    "building": "110",
    "direction": "SS",
    "confirmed": "2026-11-18",
-   "description": "금터 34A 눈부신 채광 시원한 통풍 정갈하고 깔끔한 컨디션 풀에",
-   "realtor": "고덕그라시움금터부동산공인중개사사무소",
+   "description": "9호선 비즈밸리호재 명문학군 수영장 조식서비스 풀옵션",
+   "realtor": "고덕거성공인중개사사무소",
    "price_text": "115000"
   },
   {
-   "article_no": "2662442715",
+   "article_no": "2662636171",
+   "trade": "B1",
+   "deposit": 115000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "저/27",
+   "building": "110",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "그라시움 point  로얄동 층  ,반전세 가능 ,적극추천 매물",
+   "realtor": "포인트공인중개사사무소",
+   "price_text": "115000"
+  },
+  {
+   "article_no": "2662568934",
    "trade": "B1",
    "deposit": 115000,
    "rent": 0,
@@ -718,9 +883,24 @@
    "floor": "저/27",
    "building": "110",
    "direction": "ES",
-   "confirmed": "2026-11-17",
+   "confirmed": "2026-11-18",
    "description": "추천. 초역세권. 강덕초. 풀에어컨. 로얄동 층.",
    "realtor": "고덕탑공인중개사사무소",
+   "price_text": "115000"
+  },
+  {
+   "article_no": "2662635927",
+   "trade": "B1",
+   "deposit": 115000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "저/27",
+   "building": "110",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "뛰어라.추천.풀에어컨.로얄동.강덕초.",
+   "realtor": "뛰어라공인중개사사무소",
    "price_text": "115000"
   },
   {
@@ -739,21 +919,6 @@
    "price_text": "115000"
   },
   {
-   "article_no": "2661803221",
-   "trade": "B1",
-   "deposit": 115000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "저/27",
-   "building": "110",
-   "direction": "SS",
-   "confirmed": "2026-11-14",
-   "description": "9호선 비즈밸리호재 명문학군 수영장 조식서비스 풀옵션",
-   "realtor": "고덕거성공인중개사사무소",
-   "price_text": "115000"
-  },
-  {
    "article_no": "2661902795",
    "trade": "B1",
    "deposit": 115000,
@@ -766,36 +931,6 @@
    "confirmed": "2026-11-14",
    "description": "추천전세 로얄동층  강덕초 햇살가득한뷰 풀에어컨 커뮤니티 조식서비스 ",
    "realtor": "그라시움거성공인중개사사무소",
-   "price_text": "115000"
-  },
-  {
-   "article_no": "2661468404",
-   "trade": "B1",
-   "deposit": 115000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "저/27",
-   "building": "110",
-   "direction": "SS",
-   "confirmed": "2026-11-12",
-   "description": "T 02 3013 2500 입결좋은집 풀시에 협의가능",
-   "realtor": "부동산뉴스공인중개사사무소",
-   "price_text": "115000"
-  },
-  {
-   "article_no": "2661294765",
-   "trade": "B1",
-   "deposit": 115000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "저/27",
-   "building": "110",
-   "direction": "SS",
-   "confirmed": "2026-11-12",
-   "description": "편리한 역세권 생활,융자무,서두르세요",
-   "realtor": "신고덕(427-8955)공인중개사사무소",
    "price_text": "115000"
   },
   {
@@ -844,6 +979,36 @@
    "price_text": "115000"
   },
   {
+   "article_no": "2661468404",
+   "trade": "B1",
+   "deposit": 115000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "저/27",
+   "building": "110",
+   "direction": "SS",
+   "confirmed": "2026-11-12",
+   "description": "T 02 3013 2500 입결좋은집 풀시에 협의가능",
+   "realtor": "부동산뉴스공인중개사사무소",
+   "price_text": "115000"
+  },
+  {
+   "article_no": "2661294765",
+   "trade": "B1",
+   "deposit": 115000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "저/27",
+   "building": "110",
+   "direction": "SS",
+   "confirmed": "2026-11-12",
+   "description": "편리한 역세권 생활,융자무,서두르세요",
+   "realtor": "신고덕(427-8955)공인중개사사무소",
+   "price_text": "115000"
+  },
+  {
    "article_no": "2662502600",
    "trade": "B1",
    "deposit": 115000,
@@ -874,21 +1039,6 @@
    "price_text": "115000"
   },
   {
-   "article_no": "2659440801",
-   "trade": "B1",
-   "deposit": 115000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "저/28",
-   "building": "109",
-   "direction": "SS",
-   "confirmed": "2026-11-03",
-   "description": "금터 34A 눈부신 채광 시원한 통풍 정갈하고 깔끔한 컨디션 풀에",
-   "realtor": "고덕그라시움금터부동산공인중개사사무소",
-   "price_text": "115000"
-  },
-  {
    "article_no": "2657850763",
    "trade": "B1",
    "deposit": 115000,
@@ -901,6 +1051,21 @@
    "confirmed": "2026-10-27",
    "description": "단독 입주일  협의 에4    강덕초",
    "realtor": "LG공인중개사사무소",
+   "price_text": "115000"
+  },
+  {
+   "article_no": "2659440801",
+   "trade": "B1",
+   "deposit": 115000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "저/28",
+   "building": "109",
+   "direction": "SS",
+   "confirmed": "2026-11-03",
+   "description": "금터 34A 눈부신 채광 시원한 통풍 정갈하고 깔끔한 컨디션 풀에",
+   "realtor": "고덕그라시움금터부동산공인중개사사무소",
    "price_text": "115000"
   },
   {
@@ -949,6 +1114,36 @@
    "price_text": "115000"
   },
   {
+   "article_no": "2662724986",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-19",
+   "description": "그라시움 최고 매물  전세가능 날짜협의가능 명품커뮤니티 학군우수",
+   "realtor": "고덕그라시움사랑부동산중개",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2662571964",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "WS",
+   "confirmed": "2026-11-18",
+   "description": "로얄동층,초중학교 근접,초역세권,빠른입주가능",
+   "realtor": "고덕현대공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
    "article_no": "2662521471",
    "trade": "B1",
    "deposit": 120000,
@@ -964,7 +1159,7 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2662355281",
+   "article_no": "2662568732",
    "trade": "B1",
    "deposit": 120000,
    "rent": 0,
@@ -973,13 +1168,13 @@
    "floor": "중/30",
    "building": "118",
    "direction": "WS",
-   "confirmed": "2026-11-17",
-   "description": "로얄동층 초중교앞 역세권 대단지커뮤니티 반전세가능",
-   "realtor": "파크자이(428-4270)공인중개사사무소",
+   "confirmed": "2026-11-18",
+   "description": "강덕초, 로얄동 층, 선호타입. 11월말 12월초.  8.5억160가능",
+   "realtor": "고덕탑공인중개사사무소",
    "price_text": "120000"
   },
   {
-   "article_no": "2662442371",
+   "article_no": "2662568894",
    "trade": "B1",
    "deposit": 120000,
    "rent": 0,
@@ -988,9 +1183,39 @@
    "floor": "중/30",
    "building": "118",
    "direction": "WS",
-   "confirmed": "2026-11-17",
-   "description": "강덕초, 로얄동 층, 선호타입. 11월말 12월초.  8.5억160가능",
-   "realtor": "고덕탑공인중개사사무소",
+   "confirmed": "2026-11-18",
+   "description": "강덕초,고덕중,로얄동,귀한타입,수영장,조식서비스, 집상태최상",
+   "realtor": "으뜸(478-6800)그라시움공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2662594960",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "빠른입주가능, 로얄동층 선호평형, 더블역세권, 세대창고, 커뮤니티우수",
+   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2662601995",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "로얄동층.탁트인뷰.쾌적한 단지내환경.초중등 바로.대단지커뮤니티",
+   "realtor": "키움공인중개사사무소",
    "price_text": "120000"
   },
   {
@@ -1009,66 +1234,6 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2662334570",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "WS",
-   "confirmed": "2026-11-17",
-   "description": "로얄동층,초중학교 근접,초역세권,빠른입주가능",
-   "realtor": "고덕현대공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2662270324",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "그라시움 최고 매물  전세가능 날짜협의가능 명품커뮤니티 학군우수",
-   "realtor": "고덕그라시움사랑부동산중개",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2662337914",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "빠른입주가능, 로얄동층 선호평형, 더블역세권, 세대창고, 커뮤니티우수",
-   "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2661843773",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-14",
-   "description": "로얄동층.탁트인뷰.쾌적한 단지내환경.초중등 바로.대단지커뮤니티",
-   "realtor": "키움공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
    "article_no": "2661849823",
    "trade": "B1",
    "deposit": 120000,
@@ -1084,7 +1249,7 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2661601127",
+   "article_no": "2661653491",
    "trade": "B1",
    "deposit": 120000,
    "rent": 0,
@@ -1092,10 +1257,10 @@
    "area_supply": 115.63,
    "floor": "중/30",
    "building": "118",
-   "direction": "WS",
+   "direction": "SS",
    "confirmed": "2026-11-13",
-   "description": "강덕초,고덕중,로얄동,귀한타입,수영장,조식서비스, 집상태최상",
-   "realtor": "으뜸(478-6800)그라시움공인중개사사무소",
+   "description": "빠른입주가 판상형 4by구조 선호타입  시스템에어컨 단지뷰 강덕초",
+   "realtor": "그라시움이화공인중개사사무소",
    "price_text": "120000"
   },
   {
@@ -1111,21 +1276,6 @@
    "confirmed": "2026-11-13",
    "description": "34, 초중고인접, 풀에어컨, 음식물처리, 넓은선호구조",
    "realtor": "1번지(426-0110)부동산공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2661653491",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-13",
-   "description": "빠른입주가 판상형 4by구조 선호타입  시스템에어컨 단지뷰 강덕초",
-   "realtor": "그라시움이화공인중개사사무소",
    "price_text": "120000"
   },
   {
@@ -1174,6 +1324,21 @@
    "price_text": "120000"
   },
   {
+   "article_no": "2659677060",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "ES",
+   "confirmed": "2026-11-04",
+   "description": "뛰어라,집주인 거주로 상태 좋음,시에,우수 커뮤니티,역세권",
+   "realtor": "뛰어라공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
    "article_no": "2659658123",
    "trade": "B1",
    "deposit": 120000,
@@ -1204,21 +1369,6 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2659677060",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "ES",
-   "confirmed": "2026-11-04",
-   "description": "뛰어라,집주인 거주로 상태 좋음,시에,우수 커뮤니티,역세권",
-   "realtor": "뛰어라공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
    "article_no": "2659367912",
    "trade": "B1",
    "deposit": 120000,
@@ -1231,6 +1381,21 @@
    "confirmed": "2026-11-03",
    "description": "추천 초역세권 로얄동층 선호타입 강덕초 관리잘 된 집",
    "realtor": "고덕태양공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2659434186",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "WS",
+   "confirmed": "2026-11-03",
+   "description": "판상형 선호타입. 단지뷰 조망.12월입주협의. 반전세가능.커뮤니티 우수",
+   "realtor": "참좋은공인중개사사무소",
    "price_text": "120000"
   },
   {
@@ -1264,21 +1429,6 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2659434186",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "WS",
-   "confirmed": "2026-11-03",
-   "description": "판상형 선호타입. 단지뷰 조망.12월입주협의. 반전세가능.커뮤니티 우수",
-   "realtor": "참좋은공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
    "article_no": "2659102308",
    "trade": "B1",
    "deposit": 120000,
@@ -1291,21 +1441,6 @@
    "confirmed": "2026-11-02",
    "description": "빠른 입주가능. 넓은 구조. 선호타입. 반전세도 가능. 학교 인접",
    "realtor": "고덕일등공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2658671584",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-10-30",
-   "description": "독일 추천. 강덕초. 지하철 연결동. 4베이구조. 단지내 정원뷰.",
-   "realtor": "고덕독일489-4100공인중개사사무소",
    "price_text": "120000"
   },
   {
@@ -1369,21 +1504,6 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2657018932",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "WS",
-   "confirmed": "2026-10-22",
-   "description": "추천. 로얄동층. 선호타입. 풀에어컨. 관리잘된집",
-   "realtor": "그라시움하늘공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
    "article_no": "2656710744",
    "trade": "B1",
    "deposit": 120000,
@@ -1396,36 +1516,6 @@
    "confirmed": "2026-10-21",
    "description": "선호도 높은 귀한 타입 매물. 강덕초라인.역세권.생활편의시설 인접",
    "realtor": "김앤김그라시움공인",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2656548214",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-10-20",
-   "description": "단지내 조망 좋은집,풀에어컨,선호구조,서두르세요",
-   "realtor": "신고덕(427-8955)공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2656590779",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-10-20",
-   "description": "주인거주 관리잘된집, 풀에어컨, 입주협의",
-   "realtor": "그라시움무지개공인중개사사무소",
    "price_text": "120000"
   },
   {
@@ -1444,7 +1534,22 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2662515406",
+   "article_no": "2656590779",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-10-20",
+   "description": "주인거주 관리잘된집, 풀에어컨, 입주협의",
+   "realtor": "그라시움무지개공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2662724985",
    "trade": "B1",
    "deposit": 120000,
    "rent": 0,
@@ -1453,9 +1558,24 @@
    "floor": "저/22",
    "building": "112",
    "direction": "SS",
+   "confirmed": "2026-11-19",
+   "description": "초 역세권. 우수 커뮤니티 학군 우수 로얄 동  조식 서비스",
+   "realtor": "고덕그라시움사랑부동산중개",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2662642062",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "저/22",
+   "building": "112",
+   "direction": "WS",
    "confirmed": "2026-11-18",
-   "description": "금터 34D 넓고 쾌적한 4BAY 풀에  더블 역세권  아이키우기 편한집",
-   "realtor": "고덕그라시움금터부동산공인중개사사무소",
+   "description": "독일 추천. 아이 키우기 좋은 집. 정원뷰. 인기 많은 4베이 판상형.",
+   "realtor": "고덕독일489-4100공인중개사사무소",
    "price_text": "120000"
   },
   {
@@ -1474,7 +1594,22 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2662339360",
+   "article_no": "2662568182",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "저/22",
+   "building": "112",
+   "direction": "WS",
+   "confirmed": "2026-11-18",
+   "description": "강덕초, 풀옵션, 아이키우기 편한 집, 입주 협의, 융자 없어요",
+   "realtor": "고덕탑공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2662515406",
    "trade": "B1",
    "deposit": 120000,
    "rent": 0,
@@ -1483,7 +1618,7 @@
    "floor": "저/22",
    "building": "112",
    "direction": "SS",
-   "confirmed": "2026-11-17",
+   "confirmed": "2026-11-18",
    "description": "금터 34D 넓고 쾌적한 4BAY 풀에  더블 역세권  아이키우기 편한집",
    "realtor": "고덕그라시움금터부동산공인중개사사무소",
    "price_text": "120000"
@@ -1504,7 +1639,7 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2662441986",
+   "article_no": "2662339360",
    "trade": "B1",
    "deposit": 120000,
    "rent": 0,
@@ -1512,10 +1647,10 @@
    "area_supply": 115.63,
    "floor": "저/22",
    "building": "112",
-   "direction": "WS",
+   "direction": "SS",
    "confirmed": "2026-11-17",
-   "description": "강덕초, 풀옵션, 아이키우기 편한 집, 입주 협의, 융자 없어요",
-   "realtor": "고덕탑공인중개사사무소",
+   "description": "금터 34D 넓고 쾌적한 4BAY 풀에  더블 역세권  아이키우기 편한집",
+   "realtor": "고덕그라시움금터부동산공인중개사사무소",
    "price_text": "120000"
   },
   {
@@ -1534,21 +1669,6 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2661517537",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "저/22",
-   "building": "112",
-   "direction": "WS",
-   "confirmed": "2026-11-13",
-   "description": "34, 에풀, 융무, 학원가인접 9호선인접동 초중고인접",
-   "realtor": "1번지(426-0110)부동산공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
    "article_no": "2661585505",
    "trade": "B1",
    "deposit": 120000,
@@ -1561,6 +1681,21 @@
    "confirmed": "2026-11-13",
    "description": "강덕초,선호구조,아이들키우기굿",
    "realtor": "고덕종점그라시움공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2661517537",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "저/22",
+   "building": "112",
+   "direction": "WS",
+   "confirmed": "2026-11-13",
+   "description": "34, 에풀, 융무, 학원가인접 9호선인접동 초중고인접",
+   "realtor": "1번지(426-0110)부동산공인중개사사무소",
    "price_text": "120000"
   },
   {
@@ -1579,21 +1714,6 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2660930800",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "저/22",
-   "building": "112",
-   "direction": "WS",
-   "confirmed": "2026-11-10",
-   "description": "독일 추천. 아이 키우기 좋은 집. 정원뷰. 인기 많은 4베이 판상형.",
-   "realtor": "고덕독일489-4100공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
    "article_no": "2660651579",
    "trade": "B1",
    "deposit": 120000,
@@ -1609,21 +1729,6 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2660494264",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "저/22",
-   "building": "112",
-   "direction": "WS",
-   "confirmed": "2026-11-09",
-   "description": "추천. 로얄동. 트인뷰. 풀에어컨. 융자없고 관리잘된집",
-   "realtor": "그라시움하늘공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
    "article_no": "2660709027",
    "trade": "B1",
    "deposit": 120000,
@@ -1636,6 +1741,21 @@
    "confirmed": "2026-11-09",
    "description": "역세권,  에어컨, 예쁜 정원 전망, 채광 굿",
    "realtor": "단지내행복그라시움공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2660494264",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "저/22",
+   "building": "112",
+   "direction": "WS",
+   "confirmed": "2026-11-09",
+   "description": "추천. 로얄동. 트인뷰. 풀에어컨. 융자없고 관리잘된집",
+   "realtor": "그라시움하늘공인중개사사무소",
    "price_text": "120000"
   },
   {
@@ -1669,21 +1789,6 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2659626492",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "저/22",
-   "building": "112",
-   "direction": "SS",
-   "confirmed": "2026-11-04",
-   "description": "수납공간풍부한 선호타입, 입주협의",
-   "realtor": "그라시움무지개공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
    "article_no": "2659677315",
    "trade": "B1",
    "deposit": 120000,
@@ -1699,7 +1804,7 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2659395386",
+   "article_no": "2659626492",
    "trade": "B1",
    "deposit": 120000,
    "rent": 0,
@@ -1708,9 +1813,9 @@
    "floor": "저/22",
    "building": "112",
    "direction": "SS",
-   "confirmed": "2026-11-03",
-   "description": "조용한 동. 넓은 선호 타입. 수납공간 풍부. 4베이. 상가 지하철 연결",
-   "realtor": "고덕일등공인중개사사무소",
+   "confirmed": "2026-11-04",
+   "description": "수납공간풍부한 선호타입, 입주협의",
+   "realtor": "그라시움무지개공인중개사사무소",
    "price_text": "120000"
   },
   {
@@ -1726,6 +1831,21 @@
    "confirmed": "2026-11-03",
    "description": "조용한 동. 넓은 4베이구조. 수납공간 넉넉. 깨끗관리. 융무",
    "realtor": "일등그라시움 부동산중개",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2659395386",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "저/22",
+   "building": "112",
+   "direction": "SS",
+   "confirmed": "2026-11-03",
+   "description": "조용한 동. 넓은 선호 타입. 수납공간 풍부. 4베이. 상가 지하철 연결",
+   "realtor": "고덕일등공인중개사사무소",
    "price_text": "120000"
   },
   {
@@ -1774,6 +1894,21 @@
    "price_text": "120000"
   },
   {
+   "article_no": "2658493898",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "저/22",
+   "building": "112",
+   "direction": "SS",
+   "confirmed": "2026-10-29",
+   "description": "추천전세 선호타입 강덕초 융자무 풀에어컨 커뮤니티 조식서비스 ",
+   "realtor": "그라시움거성공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
    "article_no": "2658422438",
    "trade": "B1",
    "deposit": 120000,
@@ -1789,7 +1924,7 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2658493898",
+   "article_no": "2658153637",
    "trade": "B1",
    "deposit": 120000,
    "rent": 0,
@@ -1798,9 +1933,9 @@
    "floor": "저/22",
    "building": "112",
    "direction": "SS",
-   "confirmed": "2026-10-29",
-   "description": "추천전세 선호타입 강덕초 융자무 풀에어컨 커뮤니티 조식서비스 ",
-   "realtor": "그라시움거성공인중개사사무소",
+   "confirmed": "2026-10-28",
+   "description": "포베이,어린이가 행복한 집,융자무,보증금조정가",
+   "realtor": "신고덕(427-8955)공인중개사사무소",
    "price_text": "120000"
   },
   {
@@ -1834,21 +1969,6 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2658153637",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "저/22",
-   "building": "112",
-   "direction": "SS",
-   "confirmed": "2026-10-28",
-   "description": "포베이,어린이가 행복한 집,융자무,보증금조정가",
-   "realtor": "신고덕(427-8955)공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
    "article_no": "2658152407",
    "trade": "B1",
    "deposit": 120000,
@@ -1864,307 +1984,22 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2662518071",
+   "article_no": "2662749318",
    "trade": "B1",
    "deposit": 120000,
    "rent": 0,
    "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
+   "area_supply": 115.63,
+   "floor": "중/24",
+   "building": "151",
    "direction": "SS",
-   "confirmed": "2026-11-18",
-   "description": "34P 초역세권 로얄동층 밝고환한집 상가 학교 지하철역 가까운동",
-   "realtor": "고덕리더스부동산공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2662515396",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-18",
-   "description": "금터 34A 남다른 채광 정갈하고 깔끔한 컨디션 풀에 안심 도보 통학",
+   "confirmed": "2026-11-19",
+   "description": "금터 34D 넓고 쾌적한 4BAY 남다른 채광 정갈하고 깔끔한 컨디션",
    "realtor": "고덕그라시움금터부동산공인중개사사무소",
    "price_text": "120000"
   },
   {
-   "article_no": "2662362204",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "알찬 34P 로얄동 로얄층 관리깨끗 학교인접 급전세 1월협의",
-   "realtor": "알찬(406-4900)공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2662282560",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "로얄동호.강덕초.풀에어컨.우수학군.우수커뮤니티수영장",
-   "realtor": "해피부동산공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2662361069",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "추천전세 로얄동층 컨디션굿 풀에어컨 강덕초  커뮤니티 조식서비스 ",
-   "realtor": "그라시움거성공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2662416141",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "강추.주인거주세대.풀옵션. 채광.뷰 좋아요.",
-   "realtor": "이화공인중개사",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2662498477",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "그라시움 최고 매물  날짜협의가능 명품커뮤니티 학군우수",
-   "realtor": "사랑부동산공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2662338548",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "금터 34A 남다른 채광 정갈하고 깔끔한 컨디션 풀에 안심 도보 통학",
-   "realtor": "고덕그라시움금터부동산공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2661601312",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "ES",
-   "confirmed": "2026-11-13",
-   "description": "로얄동,로얄층,시스템에어컨풀,집상태굿,강덕초,12월말협의",
-   "realtor": "으뜸(478-6800)그라시움공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2661772348",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "ES",
-   "confirmed": "2026-11-13",
-   "description": "12월말협의  전실시스템에어컨   로열동   밝고환한집",
-   "realtor": "부동산앤코공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2660934771",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-10",
-   "description": "로얄동층 눈부신채광 풀시스템에어컨  강덕초  컨디션최상",
-   "realtor": "고덕선경(428-3939)공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2660534596",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-09",
-   "description": "T 02 3013 2500 현관문열면학교 자동모범생 넉넉한동간거리",
-   "realtor": "부동산뉴스공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2660702742",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-09",
-   "description": "로얄동,층 에어컨풀 날짜협의 빠른입주도가능 학교초인접",
-   "realtor": "고덕명가공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2660705956",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-09",
-   "description": "역세권, 에어컨, 앞 트인 전망, 채광 굿.",
-   "realtor": "단지내행복그라시움공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2660423974",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-07",
-   "description": "강덕초 인접, 풀에어컨, 고급 커뮤니티, 잘 관리된 집",
-   "realtor": "OK그라시움(426-4933)공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2660421709",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-07",
-   "description": "살기좋은 대단지아파트 최고의전망 시스템에어컨 로얄동층",
-   "realtor": "고덕거성공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2661911129",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-16",
-   "description": "우수학군 예쁜뷰",
-   "realtor": "스마트그라시움공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2659441583",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-03",
-   "description": "조용한 인기동,풀에어컨,햇살 좋은집,협의",
-   "realtor": "신고덕(427-8955)공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2658338632",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-10-29",
-   "description": "강덕초    뷰좋아요 입주일 협의",
-   "realtor": "LG공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2658468436",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-10-29",
-   "description": "강덕초 풀옵션 뻥사이다뷰 지하철상가연결동 융무 컨디션최상 입주협의",
-   "realtor": "나이스공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2662442671",
+   "article_no": "2662568840",
    "trade": "B1",
    "deposit": 120000,
    "rent": 0,
@@ -2173,13 +2008,13 @@
    "floor": "중/24",
    "building": "151",
    "direction": "ES",
-   "confirmed": "2026-11-17",
+   "confirmed": "2026-11-18",
    "description": "중앙 로얄동, 풀옵션, 인기 많은 타입, 추천 전세",
    "realtor": "고덕탑공인중개사사무소",
    "price_text": "120000"
   },
   {
-   "article_no": "2662333751",
+   "article_no": "2662565505",
    "trade": "B1",
    "deposit": 120000,
    "rent": 0,
@@ -2187,10 +2022,10 @@
    "area_supply": 115.63,
    "floor": "중/24",
    "building": "151",
-   "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "금터 34D 넓고 쾌적한 4BAY 남다른 채광 정갈하고 깔끔한 컨디션",
-   "realtor": "고덕그라시움금터부동산공인중개사사무소",
+   "direction": "ES",
+   "confirmed": "2026-11-18",
+   "description": "초 역세권.선호타입.생활인프라.넓은거실 개방감.수영장있는 커뮤니티",
+   "realtor": "골드공인중개사사무소",
    "price_text": "120000"
   },
   {
@@ -2221,21 +2056,6 @@
    "confirmed": "2026-11-13",
    "description": "초역세권 선호타입 4BY 구조 풀에어컨 커뮤니티 이용편리",
    "realtor": "그라시움이화공인중개사사무소",
-   "price_text": "120000"
-  },
-  {
-   "article_no": "2661677279",
-   "trade": "B1",
-   "deposit": 120000,
-   "rent": 0,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/24",
-   "building": "151",
-   "direction": "ES",
-   "confirmed": "2026-11-13",
-   "description": "초 역세권.선호타입.생활인프라.넓은거실 개방감.수영장있는 커뮤니티",
-   "realtor": "골드공인중개사사무소",
    "price_text": "120000"
   },
   {
@@ -2359,7 +2179,322 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2662442327",
+   "article_no": "2662748687",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-19",
+   "description": "로얄동호.강덕초.풀에어컨.우수학군.우수커뮤니티수영장",
+   "realtor": "해피부동산공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2662722145",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-19",
+   "description": "34P 초역세권 로얄동층 밝고환한집 상가 학교 지하철역 가까운동",
+   "realtor": "고덕리더스부동산공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2662568775",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "ES",
+   "confirmed": "2026-11-18",
+   "description": "로얄동,로얄층,시스템에어컨풀,집상태굿,강덕초,12월말협의",
+   "realtor": "으뜸(478-6800)그라시움공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2662700624",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "ES",
+   "confirmed": "2026-11-18",
+   "description": "전실시스템에어컨  단지중앙로열동  밝고환한집",
+   "realtor": "부동산앤코공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2662515396",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "금터 34A 남다른 채광 정갈하고 깔끔한 컨디션 풀에 안심 도보 통학",
+   "realtor": "고덕그라시움금터부동산공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2662338548",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-17",
+   "description": "금터 34A 남다른 채광 정갈하고 깔끔한 컨디션 풀에 안심 도보 통학",
+   "realtor": "고덕그라시움금터부동산공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2662416141",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-17",
+   "description": "강추.주인거주세대.풀옵션. 채광.뷰 좋아요.",
+   "realtor": "이화공인중개사",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2662361069",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-17",
+   "description": "추천전세 로얄동층 컨디션굿 풀에어컨 강덕초  커뮤니티 조식서비스 ",
+   "realtor": "그라시움거성공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2662498477",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-17",
+   "description": "그라시움 최고 매물  날짜협의가능 명품커뮤니티 학군우수",
+   "realtor": "사랑부동산공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2662362204",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-17",
+   "description": "알찬 34P 로얄동 로얄층 관리깨끗 학교인접 급전세 1월협의",
+   "realtor": "알찬(406-4900)공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2660934771",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-10",
+   "description": "로얄동층 눈부신채광 풀시스템에어컨  강덕초  컨디션최상",
+   "realtor": "고덕선경(428-3939)공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2660705956",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-09",
+   "description": "역세권, 에어컨, 앞 트인 전망, 채광 굿.",
+   "realtor": "단지내행복그라시움공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2660534596",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-09",
+   "description": "T 02 3013 2500 현관문열면학교 자동모범생 넉넉한동간거리",
+   "realtor": "부동산뉴스공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2660702742",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-09",
+   "description": "로얄동,층 에어컨풀 날짜협의 빠른입주도가능 학교초인접",
+   "realtor": "고덕명가공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2660421709",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-07",
+   "description": "살기좋은 대단지아파트 최고의전망 시스템에어컨 로얄동층",
+   "realtor": "고덕거성공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2660423974",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-07",
+   "description": "강덕초 인접, 풀에어컨, 고급 커뮤니티, 잘 관리된 집",
+   "realtor": "OK그라시움(426-4933)공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2661911129",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-16",
+   "description": "우수학군 예쁜뷰",
+   "realtor": "스마트그라시움공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2659441583",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-03",
+   "description": "조용한 인기동,풀에어컨,햇살 좋은집,협의",
+   "realtor": "신고덕(427-8955)공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2658338632",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-10-29",
+   "description": "강덕초    뷰좋아요 입주일 협의",
+   "realtor": "LG공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2658468436",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-10-29",
+   "description": "강덕초 풀옵션 뻥사이다뷰 지하철상가연결동 융무 컨디션최상 입주협의",
+   "realtor": "나이스공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2662659875",
+   "trade": "B1",
+   "deposit": 120000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "저/29",
+   "building": "124",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "융자없고  에4개     강덕초 4베이",
+   "realtor": "LG공인중개사사무소",
+   "price_text": "120000"
+  },
+  {
+   "article_no": "2662568280",
    "trade": "B1",
    "deposit": 120000,
    "rent": 0,
@@ -2368,7 +2503,7 @@
    "floor": "저/28",
    "building": "105",
    "direction": "ES",
-   "confirmed": "2026-11-17",
+   "confirmed": "2026-11-18",
    "description": "TOP 단.독. 강덕초, 전면동. 사계절 뷰 예쁜 집. 우수커뮤니티",
    "realtor": "고덕탑공인중개사사무소",
    "price_text": "120000"
@@ -2389,7 +2524,7 @@
    "price_text": "120000"
   },
   {
-   "article_no": "2661847060",
+   "article_no": "2662669455",
    "trade": "B1",
    "deposit": 120000,
    "rent": 0,
@@ -2398,8 +2533,8 @@
    "floor": "저/30",
    "building": "118",
    "direction": "ES",
-   "confirmed": "2026-11-14",
-   "description": "STAR추천 강덕초 관리굿 에어컨 김치냉장고 손님만 2월첫주",
+   "confirmed": "2026-11-18",
+   "description": "STAR추천 공동환영 강덕초 관리굿 에어컨 김치냉장고 2월첫주",
    "realtor": "고덕스타(426-8944)공인중개사사무소",
    "price_text": "120000"
   },
@@ -2524,6 +2659,21 @@
    "price_text": "125000"
   },
   {
+   "article_no": "2662468939",
+   "trade": "B1",
+   "deposit": 125000,
+   "rent": 0,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "저/28",
+   "building": "105",
+   "direction": "WS",
+   "confirmed": "2026-11-18",
+   "description": "조망 뛰어난 선호동 선호타입 전세, 강덕초, 옵션 양호",
+   "realtor": "고덕명품공인중개사사무소",
+   "price_text": "125000"
+  },
+  {
    "article_no": "2661517547",
    "trade": "B2",
    "deposit": 110000,
@@ -2569,7 +2719,7 @@
    "price_text": "70000/60"
   },
   {
-   "article_no": "2662443288",
+   "article_no": "2662567390",
    "trade": "B2",
    "deposit": 100000,
    "rent": 80,
@@ -2578,7 +2728,7 @@
    "floor": "저/22",
    "building": "112",
    "direction": "WS",
-   "confirmed": "2026-11-17",
+   "confirmed": "2026-11-18",
    "description": "강덕초, 풀옵션, 아이키우기 좋은 집, 입주협의, 융자 없어요",
    "realtor": "고덕탑공인중개사사무소",
    "price_text": "100000/80"
@@ -2689,7 +2839,7 @@
    "price_text": "100000/80"
   },
   {
-   "article_no": "2662443820",
+   "article_no": "2662567743",
    "trade": "B2",
    "deposit": 60000,
    "rent": 100,
@@ -2698,7 +2848,7 @@
    "floor": "고/21",
    "building": "143",
    "direction": "ES",
-   "confirmed": "2026-11-17",
+   "confirmed": "2026-11-18",
    "description": "주.인 .직.접, 전철역 바로 앞. 융자없는 집.  햇살좋고  환한 뷰",
    "realtor": "고덕탑공인중개사사무소",
    "price_text": "60000/100"
@@ -2914,6 +3064,21 @@
    "price_text": "90000/120"
   },
   {
+   "article_no": "2662695618",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 140,
+   "area_exclusive": 59.02,
+   "area_supply": 82.4,
+   "floor": "고/21",
+   "building": "148",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "25, 선호타입, 초역세권, 수영장, 음식물처리기, 풀에어컨",
+   "realtor": "1번지(426-0110)부동산공인중개사사무소",
+   "price_text": "50000/140"
+  },
+  {
    "article_no": "2662515379",
    "trade": "B2",
    "deposit": 50000,
@@ -2929,7 +3094,7 @@
    "price_text": "50000/140"
   },
   {
-   "article_no": "2662326671",
+   "article_no": "2662567565",
    "trade": "B2",
    "deposit": 50000,
    "rent": 140,
@@ -2937,10 +3102,10 @@
    "area_supply": 82.4,
    "floor": "고/21",
    "building": "148",
-   "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "알찬 25P 귀한월세 즉시입주하실분  남향 채광굿 관리깨끗",
-   "realtor": "알찬(406-4900)공인중개사사무소",
+   "direction": "ES",
+   "confirmed": "2026-11-18",
+   "description": "추천 월세, 풀에어컨, 입주일 언제나 가능, 밝고 환한 뷰",
+   "realtor": "고덕탑공인중개사사무소",
    "price_text": "50000/140"
   },
   {
@@ -2959,6 +3124,21 @@
    "price_text": "50000/140"
   },
   {
+   "article_no": "2662326671",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 140,
+   "area_exclusive": 59.02,
+   "area_supply": 82.4,
+   "floor": "고/21",
+   "building": "148",
+   "direction": "SS",
+   "confirmed": "2026-11-17",
+   "description": "알찬 25P 귀한월세 즉시입주하실분  남향 채광굿 관리깨끗",
+   "realtor": "알찬(406-4900)공인중개사사무소",
+   "price_text": "50000/140"
+  },
+  {
    "article_no": "2662332713",
    "trade": "B2",
    "deposit": 50000,
@@ -2971,21 +3151,6 @@
    "confirmed": "2026-11-17",
    "description": "금터 25C 시세대비 저렴  올A급 컨디션  눈부신 채광 개방감 독보적",
    "realtor": "고덕그라시움금터부동산공인중개사사무소",
-   "price_text": "50000/140"
-  },
-  {
-   "article_no": "2662443443",
-   "trade": "B2",
-   "deposit": 50000,
-   "rent": 140,
-   "area_exclusive": 59.02,
-   "area_supply": 82.4,
-   "floor": "고/21",
-   "building": "148",
-   "direction": "ES",
-   "confirmed": "2026-11-17",
-   "description": "추천 월세, 풀에어컨, 입주일 언제나 가능, 밝고 환한 뷰",
-   "realtor": "고덕탑공인중개사사무소",
    "price_text": "50000/140"
   },
   {
@@ -3049,7 +3214,7 @@
    "price_text": "50000/140"
   },
   {
-   "article_no": "2660642660",
+   "article_no": "2660505708",
    "trade": "B2",
    "deposit": 50000,
    "rent": 140,
@@ -3057,10 +3222,10 @@
    "area_supply": 82.4,
    "floor": "고/21",
    "building": "148",
-   "direction": "WS",
+   "direction": "SS",
    "confirmed": "2026-11-09",
-   "description": "선호구조,상일역5분내,커뮤니티이용굿",
-   "realtor": "고덕종점그라시움공인중개사사무소",
+   "description": "강추 빠른입주가  풀에어컨 선호타입 커뮤니티이용편리  장기거주가능",
+   "realtor": "고덕선경(428-3939)공인중개사사무소",
    "price_text": "50000/140"
   },
   {
@@ -3079,7 +3244,7 @@
    "price_text": "50000/140"
   },
   {
-   "article_no": "2660505708",
+   "article_no": "2660642660",
    "trade": "B2",
    "deposit": 50000,
    "rent": 140,
@@ -3087,10 +3252,10 @@
    "area_supply": 82.4,
    "floor": "고/21",
    "building": "148",
-   "direction": "SS",
+   "direction": "WS",
    "confirmed": "2026-11-09",
-   "description": "강추 빠른입주가  풀에어컨 선호타입 커뮤니티이용편리  장기거주가능",
-   "realtor": "고덕선경(428-3939)공인중개사사무소",
+   "description": "선호구조,상일역5분내,커뮤니티이용굿",
+   "realtor": "고덕종점그라시움공인중개사사무소",
    "price_text": "50000/140"
   },
   {
@@ -3151,21 +3316,6 @@
    "confirmed": "2026-11-02",
    "description": "T3013 2500  채광굿 탁트인조망 햇살가득 사계절느낄수있는집",
    "realtor": "부동산뉴스공인중개사사무소",
-   "price_text": "50000/140"
-  },
-  {
-   "article_no": "2658401396",
-   "trade": "B2",
-   "deposit": 50000,
-   "rent": 140,
-   "area_exclusive": 59.02,
-   "area_supply": 82.4,
-   "floor": "고/21",
-   "building": "148",
-   "direction": "SS",
-   "confirmed": "2026-10-29",
-   "description": "25, 선호타입, 초역세권, 수영장, 음식물처리기, 풀에어컨",
-   "realtor": "1번지(426-0110)부동산공인중개사사무소",
    "price_text": "50000/140"
   },
   {
@@ -3274,21 +3424,6 @@
    "price_text": "70000/140"
   },
   {
-   "article_no": "2661374275",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 140,
-   "area_exclusive": 73.87,
-   "area_supply": 100.95,
-   "floor": "저/25",
-   "building": "149",
-   "direction": "SS",
-   "confirmed": "2026-11-12",
-   "description": "T 02 3013 2500 뉴스강추매물 채광굿 학군우수 커뮤니티우수",
-   "realtor": "부동산뉴스공인중개사사무소",
-   "price_text": "70000/140"
-  },
-  {
    "article_no": "2661273743",
    "trade": "B2",
    "deposit": 70000,
@@ -3301,6 +3436,21 @@
    "confirmed": "2026-11-12",
    "description": "30P 풀에어컨  장기거주가  초역세권 커뮤니티이용편리",
    "realtor": "고덕선경(428-3939)공인중개사사무소",
+   "price_text": "70000/140"
+  },
+  {
+   "article_no": "2661374275",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 140,
+   "area_exclusive": 73.87,
+   "area_supply": 100.95,
+   "floor": "저/25",
+   "building": "149",
+   "direction": "SS",
+   "confirmed": "2026-11-12",
+   "description": "T 02 3013 2500 뉴스강추매물 채광굿 학군우수 커뮤니티우수",
+   "realtor": "부동산뉴스공인중개사사무소",
    "price_text": "70000/140"
   },
   {
@@ -3319,21 +3469,6 @@
    "price_text": "70000/140"
   },
   {
-   "article_no": "2660665605",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 140,
-   "area_exclusive": 73.87,
-   "area_supply": 100.95,
-   "floor": "저/25",
-   "building": "149",
-   "direction": "SS",
-   "confirmed": "2026-11-09",
-   "description": "초역세 융무 에어컨풀 커뮤니티인접 채광좋고 전망예쁜집",
-   "realtor": "고덕명가공인중개사사무소",
-   "price_text": "70000/140"
-  },
-  {
    "article_no": "2660458030",
    "trade": "B2",
    "deposit": 70000,
@@ -3346,6 +3481,21 @@
    "confirmed": "2026-11-09",
    "description": "초초역세권  숲세권   명품학군 명품커뮤니티",
    "realtor": "현대공인중개사사무소",
+   "price_text": "70000/140"
+  },
+  {
+   "article_no": "2660665605",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 140,
+   "area_exclusive": 73.87,
+   "area_supply": 100.95,
+   "floor": "저/25",
+   "building": "149",
+   "direction": "SS",
+   "confirmed": "2026-11-09",
+   "description": "초역세 융무 에어컨풀 커뮤니티인접 채광좋고 전망예쁜집",
+   "realtor": "고덕명가공인중개사사무소",
    "price_text": "70000/140"
   },
   {
@@ -3439,7 +3589,52 @@
    "price_text": "80000/140"
   },
   {
-   "article_no": "2662518399",
+   "article_no": "2662722542",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 140,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "저/27",
+   "building": "110",
+   "direction": "SS",
+   "confirmed": "2026-11-19",
+   "description": "34p 강추 풀옵션 귀한 반전세 초역세권 로얄동 층 강덕초",
+   "realtor": "고덕리더스부동산공인중개사사무소",
+   "price_text": "80000/140"
+  },
+  {
+   "article_no": "2662720285",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 140,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "저/27",
+   "building": "110",
+   "direction": "SS",
+   "confirmed": "2026-11-19",
+   "description": "그라시움 point  로얄동층  적극추천  전세 가능",
+   "realtor": "포인트공인중개사사무소",
+   "price_text": "80000/140"
+  },
+  {
+   "article_no": "2662567658",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 140,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "저/27",
+   "building": "110",
+   "direction": "ES",
+   "confirmed": "2026-11-18",
+   "description": "추천. 초역세권. 강덕초. 로얄동 층. 풀에어컨",
+   "realtor": "고덕탑공인중개사사무소",
+   "price_text": "80000/140"
+  },
+  {
+   "article_no": "2662639159",
    "trade": "B2",
    "deposit": 80000,
    "rent": 140,
@@ -3449,12 +3644,12 @@
    "building": "110",
    "direction": "SS",
    "confirmed": "2026-11-18",
-   "description": "34p 강추 풀옵션 귀한 반전세 초역세권 로얄동 층 강덕초",
-   "realtor": "고덕리더스부동산공인중개사사무소",
+   "description": "그라시움 point  로얄동층  적극추천  전세 가능",
+   "realtor": "포인트공인중개사사무소",
    "price_text": "80000/140"
   },
   {
-   "article_no": "2662405112",
+   "article_no": "2662589198",
    "trade": "B2",
    "deposit": 80000,
    "rent": 140,
@@ -3463,39 +3658,9 @@
    "floor": "저/27",
    "building": "110",
    "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "9호선 비즈밸리호재 명문학군 수영장 조식서비스 풀옵션",
-   "realtor": "고덕거성공인중개사사무소",
-   "price_text": "80000/140"
-  },
-  {
-   "article_no": "2662319808",
-   "trade": "B2",
-   "deposit": 80000,
-   "rent": 140,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "저/27",
-   "building": "110",
-   "direction": "SS",
-   "confirmed": "2026-11-17",
+   "confirmed": "2026-11-18",
    "description": "금터 34A 눈부신 채광 시원한 통풍 정갈하고 깔끔한 컨디션 풀에",
    "realtor": "고덕그라시움금터부동산공인중개사사무소",
-   "price_text": "80000/140"
-  },
-  {
-   "article_no": "2662443492",
-   "trade": "B2",
-   "deposit": 80000,
-   "rent": 140,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "저/27",
-   "building": "110",
-   "direction": "ES",
-   "confirmed": "2026-11-17",
-   "description": "추천. 초역세권. 강덕초. 로얄동 층. 풀에어컨",
-   "realtor": "고덕탑공인중개사사무소",
    "price_text": "80000/140"
   },
   {
@@ -3514,6 +3679,21 @@
    "price_text": "80000/140"
   },
   {
+   "article_no": "2662405112",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 140,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "저/27",
+   "building": "110",
+   "direction": "SS",
+   "confirmed": "2026-11-17",
+   "description": "9호선 비즈밸리호재 명문학군 수영장 조식서비스 풀옵션",
+   "realtor": "고덕거성공인중개사사무소",
+   "price_text": "80000/140"
+  },
+  {
    "article_no": "2661902905",
    "trade": "B2",
    "deposit": 80000,
@@ -3529,21 +3709,6 @@
    "price_text": "80000/140"
   },
   {
-   "article_no": "2661412492",
-   "trade": "B2",
-   "deposit": 80000,
-   "rent": 140,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "저/27",
-   "building": "110",
-   "direction": "ES",
-   "confirmed": "2026-11-12",
-   "description": "귀한반전세 풀에어컨 전망채광굿 강덕초,고덕중인접",
-   "realtor": "고덕명가공인중개사사무소",
-   "price_text": "80000/140"
-  },
-  {
    "article_no": "2661367319",
    "trade": "B2",
    "deposit": 80000,
@@ -3556,6 +3721,21 @@
    "confirmed": "2026-11-12",
    "description": "선호동 월세, 강덕초",
    "realtor": "고덕명품공인중개사사무소",
+   "price_text": "80000/140"
+  },
+  {
+   "article_no": "2661412492",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 140,
+   "area_exclusive": 84.24,
+   "area_supply": 114.66,
+   "floor": "저/27",
+   "building": "110",
+   "direction": "ES",
+   "confirmed": "2026-11-12",
+   "description": "귀한반전세 풀에어컨 전망채광굿 강덕초,고덕중인접",
+   "realtor": "고덕명가공인중개사사무소",
    "price_text": "80000/140"
   },
   {
@@ -3634,6 +3814,21 @@
    "price_text": "80000/140"
   },
   {
+   "article_no": "2662699241",
+   "trade": "B2",
+   "deposit": 105000,
+   "rent": 140,
+   "area_exclusive": 97.8,
+   "area_supply": 133.41,
+   "floor": "저/34",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "단.독.추천.채광좋은 탁트인뷰.풀에어컨.가장 선호타입동.대단지 커뮤니티",
+   "realtor": "키움공인중개사사무소",
+   "price_text": "105000/140"
+  },
+  {
    "article_no": "2662368343",
    "trade": "B2",
    "deposit": 50000,
@@ -3694,33 +3889,18 @@
    "price_text": "80100/159"
   },
   {
-   "article_no": "2662515779",
+   "article_no": "2662724997",
    "trade": "B2",
    "deposit": 50000,
    "rent": 160,
    "area_exclusive": 59.78,
    "area_supply": 82.55,
-   "floor": "13/14",
-   "building": "132",
-   "direction": "WS",
-   "confirmed": "2026-11-18",
-   "description": "강덕초,조용하고 채광좋은집,",
-   "realtor": "럭키공인중개사사무소",
-   "price_text": "50000/160"
-  },
-  {
-   "article_no": "2662403178",
-   "trade": "B2",
-   "deposit": 50000,
-   "rent": 160,
-   "area_exclusive": 59.78,
-   "area_supply": 82.55,
-   "floor": "13/14",
-   "building": "132",
-   "direction": "WS",
-   "confirmed": "2026-11-17",
-   "description": "강덕초,조용하고 채광좋은집,",
-   "realtor": "럭키공인중개사사무소",
+   "floor": "저/18",
+   "building": "140",
+   "direction": "SS",
+   "confirmed": "2026-11-19",
+   "description": "추천매물 좋은가격  단지뷰  입주매매  선호타입 명품 커뮤니티",
+   "realtor": "고덕그라시움사랑부동산중개",
    "price_text": "50000/160"
   },
   {
@@ -3739,7 +3919,7 @@
    "price_text": "50000/160"
   },
   {
-   "article_no": "2662458252",
+   "article_no": "2662670026",
    "trade": "B2",
    "deposit": 50000,
    "rent": 160,
@@ -3748,13 +3928,13 @@
    "floor": "저/18",
    "building": "140",
    "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "초역세 에어컨 커뮤니티인접 전망채광굿 날짜협의",
-   "realtor": "고덕명가공인중개사사무소",
+   "confirmed": "2026-11-18",
+   "description": "",
+   "realtor": "조은동네부동산426-9800공인중개사사무소",
    "price_text": "50000/160"
   },
   {
-   "article_no": "2662372290",
+   "article_no": "2662696508",
    "trade": "B2",
    "deposit": 50000,
    "rent": 160,
@@ -3763,9 +3943,9 @@
    "floor": "저/18",
    "building": "140",
    "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "",
-   "realtor": "조은동네부동산426-9800공인중개사사무소",
+   "confirmed": "2026-11-18",
+   "description": "인기 초역세권, 커뮤니티이용, 방학이사",
+   "realtor": "신고덕(427-8955)공인중개사사무소",
    "price_text": "50000/160"
   },
   {
@@ -3784,7 +3964,7 @@
    "price_text": "50000/160"
   },
   {
-   "article_no": "2662270321",
+   "article_no": "2662458252",
    "trade": "B2",
    "deposit": 50000,
    "rent": 160,
@@ -3794,8 +3974,8 @@
    "building": "140",
    "direction": "SS",
    "confirmed": "2026-11-17",
-   "description": "추천매물 좋은가격  단지뷰  입주매매  선호타입 명품 커뮤니티",
-   "realtor": "고덕그라시움사랑부동산중개",
+   "description": "초역세 에어컨 커뮤니티인접 전망채광굿 날짜협의",
+   "realtor": "고덕명가공인중개사사무소",
    "price_text": "50000/160"
   },
   {
@@ -3811,6 +3991,36 @@
    "confirmed": "2026-11-13",
    "description": "초역세권   커뮤니티동  확장  에2  선호타입  귀한매물",
    "realtor": "가람공인중개사사무소",
+   "price_text": "50000/160"
+  },
+  {
+   "article_no": "2662515779",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 160,
+   "area_exclusive": 59.78,
+   "area_supply": 82.55,
+   "floor": "고/14",
+   "building": "132",
+   "direction": "WS",
+   "confirmed": "2026-11-18",
+   "description": "강덕초,조용하고 채광좋은집,",
+   "realtor": "럭키공인중개사사무소",
+   "price_text": "50000/160"
+  },
+  {
+   "article_no": "2662403178",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 160,
+   "area_exclusive": 59.78,
+   "area_supply": 82.55,
+   "floor": "고/14",
+   "building": "132",
+   "direction": "WS",
+   "confirmed": "2026-11-17",
+   "description": "강덕초,조용하고 채광좋은집,",
+   "realtor": "럭키공인중개사사무소",
    "price_text": "50000/160"
   },
   {
@@ -3865,7 +4075,7 @@
    "rent": 160,
    "area_exclusive": 73.87,
    "area_supply": 100.95,
-   "floor": "23/25",
+   "floor": "고/25",
    "building": "149",
    "direction": "WS",
    "confirmed": "2026-11-17",
@@ -3934,6 +4144,36 @@
    "price_text": "60000/160"
   },
   {
+   "article_no": "2662748823",
+   "trade": "B2",
+   "deposit": 75000,
+   "rent": 160,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "ES",
+   "confirmed": "2026-11-19",
+   "description": "전세가능.로얄동호.선호구조.강덕초.입주협의.명문학군.우수커뮤니티",
+   "realtor": "해피부동산공인중개사사무소",
+   "price_text": "75000/160"
+  },
+  {
+   "article_no": "2662564940",
+   "trade": "B2",
+   "deposit": 75000,
+   "rent": 160,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "WS",
+   "confirmed": "2026-11-18",
+   "description": "추천. 로얄동층. 풀에어컨. 선호타입. 관리잘된집. 빠른입주",
+   "realtor": "그라시움하늘공인중개사사무소",
+   "price_text": "75000/160"
+  },
+  {
    "article_no": "2662515220",
    "trade": "B2",
    "deposit": 75000,
@@ -3949,7 +4189,7 @@
    "price_text": "75000/160"
   },
   {
-   "article_no": "2662392339",
+   "article_no": "2662612270",
    "trade": "B2",
    "deposit": 75000,
    "rent": 160,
@@ -3958,9 +4198,9 @@
    "floor": "중/30",
    "building": "118",
    "direction": "WS",
-   "confirmed": "2026-11-17",
-   "description": "주인거주로 관리상태 굿 ,빠른입주, 4베이판상형 ,반전세가능",
-   "realtor": "고덕강남부동산공인중개사사무소",
+   "confirmed": "2026-11-18",
+   "description": "34D 주인거주 관리굿 판상형 4베이 12월말1월초 협의",
+   "realtor": "미래로공인중개사사무소",
    "price_text": "75000/160"
   },
   {
@@ -3979,6 +4219,21 @@
    "price_text": "75000/160"
   },
   {
+   "article_no": "2662329828",
+   "trade": "B2",
+   "deposit": 75000,
+   "rent": 160,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-17",
+   "description": "T 02 3013 2500 저절로 모범생되는 학교앞 뉴시에4 밝고깨끗",
+   "realtor": "부동산뉴스공인중개사사무소",
+   "price_text": "75000/160"
+  },
+  {
    "article_no": "2662298835",
    "trade": "B2",
    "deposit": 75000,
@@ -3991,21 +4246,6 @@
    "confirmed": "2026-11-17",
    "description": "금터 34D 4BAY 남다른 채광 시원한 통풍 정갈하고 깔끔한 컨디션",
    "realtor": "고덕그라시움금터부동산공인중개사사무소",
-   "price_text": "75000/160"
-  },
-  {
-   "article_no": "2662382308",
-   "trade": "B2",
-   "deposit": 75000,
-   "rent": 160,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "WS",
-   "confirmed": "2026-11-17",
-   "description": "힐링조망 가든뷰 따스한온기 시스템에어컨",
-   "realtor": "부동산앤코공인중개사사무소",
    "price_text": "75000/160"
   },
   {
@@ -4024,36 +4264,6 @@
    "price_text": "75000/160"
   },
   {
-   "article_no": "2662329828",
-   "trade": "B2",
-   "deposit": 75000,
-   "rent": 160,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "T 02 3013 2500 저절로 모범생되는 학교앞 뉴시에4 밝고깨끗",
-   "realtor": "부동산뉴스공인중개사사무소",
-   "price_text": "75000/160"
-  },
-  {
-   "article_no": "2662282659",
-   "trade": "B2",
-   "deposit": 75000,
-   "rent": 160,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "ES",
-   "confirmed": "2026-11-17",
-   "description": "전세가능.로얄동호.선호구조.강덕초.입주협의.명문학군.우수커뮤니티",
-   "realtor": "해피부동산공인중개사사무소",
-   "price_text": "75000/160"
-  },
-  {
    "article_no": "2662386191",
    "trade": "B2",
    "deposit": 75000,
@@ -4066,6 +4276,36 @@
    "confirmed": "2026-11-17",
    "description": "잘빠진 구조 4베이 판상형, 강덕초, 커뮤니티 인접동",
    "realtor": "OK그라시움(426-4933)공인중개사사무소",
+   "price_text": "75000/160"
+  },
+  {
+   "article_no": "2662382308",
+   "trade": "B2",
+   "deposit": 75000,
+   "rent": 160,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "WS",
+   "confirmed": "2026-11-17",
+   "description": "힐링조망 가든뷰 따스한온기 시스템에어컨",
+   "realtor": "부동산앤코공인중개사사무소",
+   "price_text": "75000/160"
+  },
+  {
+   "article_no": "2662392339",
+   "trade": "B2",
+   "deposit": 75000,
+   "rent": 160,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "WS",
+   "confirmed": "2026-11-17",
+   "description": "주인거주로 관리상태 굿 ,빠른입주, 4베이판상형 ,반전세가능",
+   "realtor": "고덕강남부동산공인중개사사무소",
    "price_text": "75000/160"
   },
   {
@@ -4114,21 +4354,6 @@
    "price_text": "75000/160"
   },
   {
-   "article_no": "2656569004",
-   "trade": "B2",
-   "deposit": 75000,
-   "rent": 160,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-10-20",
-   "description": "추천 귀한반전세  컨디션최상 선호타입 명문학군지",
-   "realtor": "고덕선경(428-3939)공인중개사사무소",
-   "price_text": "75000/160"
-  },
-  {
    "article_no": "2656547346",
    "trade": "B2",
    "deposit": 75000,
@@ -4141,6 +4366,21 @@
    "confirmed": "2026-10-20",
    "description": "추천. 로얄동층. 고현초 인접동. 초역세권.명문학군. 우수 커뮤니티",
    "realtor": "고덕햇살426-3336공인중개사사무소",
+   "price_text": "75000/160"
+  },
+  {
+   "article_no": "2656569004",
+   "trade": "B2",
+   "deposit": 75000,
+   "rent": 160,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-10-20",
+   "description": "추천 귀한반전세  컨디션최상 선호타입 명문학군지",
+   "realtor": "고덕선경(428-3939)공인중개사사무소",
    "price_text": "75000/160"
   },
   {
@@ -4159,6 +4399,36 @@
    "price_text": "75000/160"
   },
   {
+   "article_no": "2662722137",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 160,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-19",
+   "description": "34p 선호하는4베이 타입 강덕초 초역세권 집상태최고",
+   "realtor": "고덕리더스부동산공인중개사사무소",
+   "price_text": "80000/160"
+  },
+  {
+   "article_no": "2662567482",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 160,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "WS",
+   "confirmed": "2026-11-18",
+   "description": "강덕초, 로얄동 층, 선호타입. 전세도 가능. 11월말 12월초.",
+   "realtor": "고덕탑공인중개사사무소",
+   "price_text": "80000/160"
+  },
+  {
    "article_no": "2662521509",
    "trade": "B2",
    "deposit": 80000,
@@ -4174,21 +4444,6 @@
    "price_text": "80000/160"
   },
   {
-   "article_no": "2662518052",
-   "trade": "B2",
-   "deposit": 80000,
-   "rent": 160,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-18",
-   "description": "34p 선호하는4베이 타입 강덕초 초역세권 집상태최고",
-   "realtor": "고덕리더스부동산공인중개사사무소",
-   "price_text": "80000/160"
-  },
-  {
    "article_no": "2662441654",
    "trade": "B2",
    "deposit": 80000,
@@ -4201,21 +4456,6 @@
    "confirmed": "2026-11-17",
    "description": "로얄동.강덕초.초 역세권.상권및 학원가 이용편리.수영장있는 커뮤니티",
    "realtor": "골드공인중개사사무소",
-   "price_text": "80000/160"
-  },
-  {
-   "article_no": "2662443422",
-   "trade": "B2",
-   "deposit": 80000,
-   "rent": 160,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "WS",
-   "confirmed": "2026-11-17",
-   "description": "강덕초, 로얄동 층, 선호타입. 전세도 가능. 11월말 12월초.",
-   "realtor": "고덕탑공인중개사사무소",
    "price_text": "80000/160"
   },
   {
@@ -4264,21 +4504,6 @@
    "price_text": "80000/160"
   },
   {
-   "article_no": "2660605076",
-   "trade": "B2",
-   "deposit": 80000,
-   "rent": 160,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "ES",
-   "confirmed": "2026-11-09",
-   "description": "알찬 34P 로얄동 로얄층 관리깨끗 날짜협의가능 전세가능",
-   "realtor": "알찬(406-4900)공인중개사사무소",
-   "price_text": "80000/160"
-  },
-  {
    "article_no": "2660593323",
    "trade": "B2",
    "deposit": 80000,
@@ -4291,6 +4516,21 @@
    "confirmed": "2026-11-09",
    "description": "초역세권, 전망굿, 편의시설우수",
    "realtor": "고덕하나부동산공인중개사사무소",
+   "price_text": "80000/160"
+  },
+  {
+   "article_no": "2660605076",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 160,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "ES",
+   "confirmed": "2026-11-09",
+   "description": "알찬 34P 로얄동 로얄층 관리깨끗 날짜협의가능 전세가능",
+   "realtor": "알찬(406-4900)공인중개사사무소",
    "price_text": "80000/160"
   },
   {
@@ -4309,7 +4549,7 @@
    "price_text": "80000/160"
   },
   {
-   "article_no": "2659434390",
+   "article_no": "2659475576",
    "trade": "B2",
    "deposit": 80000,
    "rent": 160,
@@ -4317,10 +4557,10 @@
    "area_supply": 115.63,
    "floor": "중/30",
    "building": "118",
-   "direction": "WS",
+   "direction": "SS",
    "confirmed": "2026-11-03",
-   "description": "판상형 선호타입. 단지뷰 조망.12월입주협의. 전세가능.커뮤니티 우수",
-   "realtor": "참좋은공인중개사사무소",
+   "description": "뛰어라,주인거주로 상태 굿,시에,우수 커뮤니티,역세권",
+   "realtor": "강동뛰어라공인중개사사무소",
    "price_text": "80000/160"
   },
   {
@@ -4339,7 +4579,7 @@
    "price_text": "80000/160"
   },
   {
-   "article_no": "2659475576",
+   "article_no": "2659434390",
    "trade": "B2",
    "deposit": 80000,
    "rent": 160,
@@ -4347,10 +4587,10 @@
    "area_supply": 115.63,
    "floor": "중/30",
    "building": "118",
-   "direction": "SS",
+   "direction": "WS",
    "confirmed": "2026-11-03",
-   "description": "뛰어라,주인거주로 상태 굿,시에,우수 커뮤니티,역세권",
-   "realtor": "강동뛰어라공인중개사사무소",
+   "description": "판상형 선호타입. 단지뷰 조망.12월입주협의. 전세가능.커뮤니티 우수",
+   "realtor": "참좋은공인중개사사무소",
    "price_text": "80000/160"
   },
   {
@@ -4414,21 +4654,6 @@
    "price_text": "80000/160"
   },
   {
-   "article_no": "2656554612",
-   "trade": "B2",
-   "deposit": 80000,
-   "rent": 160,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "WS",
-   "confirmed": "2026-10-20",
-   "description": "선호도 높은 귀한 타입 매물. 강덕초라인.역세권.생활편의시설 인접",
-   "realtor": "김앤김그라시움공인",
-   "price_text": "80000/160"
-  },
-  {
    "article_no": "2656550493",
    "trade": "B2",
    "deposit": 80000,
@@ -4459,6 +4684,36 @@
    "price_text": "80000/160"
   },
   {
+   "article_no": "2656554612",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 160,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "WS",
+   "confirmed": "2026-10-20",
+   "description": "선호도 높은 귀한 타입 매물. 강덕초라인.역세권.생활편의시설 인접",
+   "realtor": "김앤김그라시움공인",
+   "price_text": "80000/160"
+  },
+  {
+   "article_no": "2662724998",
+   "trade": "B2",
+   "deposit": 85000,
+   "rent": 160,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "중/30",
+   "building": "118",
+   "direction": "SS",
+   "confirmed": "2026-11-19",
+   "description": "그라시움 최고 매물  전세가능 날짜협의가능 명품커뮤니티 학군우수",
+   "realtor": "고덕그라시움사랑부동산중개",
+   "price_text": "85000/160"
+  },
+  {
    "article_no": "2662512386",
    "trade": "B2",
    "deposit": 85000,
@@ -4471,21 +4726,6 @@
    "confirmed": "2026-11-18",
    "description": "그라시움 최고 매물  전세가능 날짜협의가능 명품커뮤니티 학군우수",
    "realtor": "사랑부동산공인중개사사무소",
-   "price_text": "85000/160"
-  },
-  {
-   "article_no": "2662270322",
-   "trade": "B2",
-   "deposit": 85000,
-   "rent": 160,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "중/30",
-   "building": "118",
-   "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "그라시움 최고 매물  전세가능 날짜협의가능 명품커뮤니티 학군우수",
-   "realtor": "고덕그라시움사랑부동산중개",
    "price_text": "85000/160"
   },
   {
@@ -4564,7 +4804,7 @@
    "price_text": "85000/160"
   },
   {
-   "article_no": "2660085025",
+   "article_no": "2662640898",
    "trade": "B2",
    "deposit": 85000,
    "rent": 160,
@@ -4573,7 +4813,7 @@
    "floor": "중/29",
    "building": "124",
    "direction": "SS",
-   "confirmed": "2026-11-06",
+   "confirmed": "2026-11-18",
    "description": "독일 강추. 강덕초 고덕중 가까운 동. 지하철 연결. 풀에어컨. 단지뷰.",
    "realtor": "고덕독일489-4100공인중개사사무소",
    "price_text": "85000/160"
@@ -4591,6 +4831,21 @@
    "confirmed": "2026-10-23",
    "description": "타워형 빠른입주 풀에어컨 커뮤니티1분 지하철2분 금액조정",
    "realtor": "나이스공인중개사사무소",
+   "price_text": "40000/180"
+  },
+  {
+   "article_no": "2662681504",
+   "trade": "B2",
+   "deposit": 40000,
+   "rent": 180,
+   "area_exclusive": 59.78,
+   "area_supply": 82.55,
+   "floor": "고/15",
+   "building": "145",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "25P 빠른입주 풀에어컨 깨끗이관리된 집",
+   "realtor": "고덕리더스부동산공인중개사사무소",
    "price_text": "40000/180"
   },
   {
@@ -4624,6 +4879,36 @@
    "price_text": "45000/180"
   },
   {
+   "article_no": "2662750240",
+   "trade": "B2",
+   "deposit": 55000,
+   "rent": 180,
+   "area_exclusive": 73.87,
+   "area_supply": 100.95,
+   "floor": "고/25",
+   "building": "149",
+   "direction": "SS",
+   "confirmed": "2026-11-19",
+   "description": "금터 30A 남다른 채광 정갈하고 깔끔한 컨디션 풀에 고층의 쭉뻗은 조망",
+   "realtor": "고덕그라시움금터부동산공인중개사사무소",
+   "price_text": "55000/180"
+  },
+  {
+   "article_no": "2662724446",
+   "trade": "B2",
+   "deposit": 55000,
+   "rent": 180,
+   "area_exclusive": 73.87,
+   "area_supply": 100.95,
+   "floor": "고/25",
+   "building": "149",
+   "direction": "SS",
+   "confirmed": "2026-11-19",
+   "description": "강.력.추.천 귀한 반전세 풀옵션 보증금 조절 가능",
+   "realtor": "그라시움이레(481-4924)공인중개사사무소",
+   "price_text": "55000/180"
+  },
+  {
    "article_no": "2662515321",
    "trade": "B2",
    "deposit": 55000,
@@ -4636,36 +4921,6 @@
    "confirmed": "2026-11-18",
    "description": "강.력.추.천 귀한 반전세 풀옵션 보증금 조절 가능",
    "realtor": "그라시움이레(481-4924)공인중개사사무소",
-   "price_text": "55000/180"
-  },
-  {
-   "article_no": "2662317796",
-   "trade": "B2",
-   "deposit": 55000,
-   "rent": 180,
-   "area_exclusive": 73.87,
-   "area_supply": 100.95,
-   "floor": "고/25",
-   "building": "149",
-   "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "강.력.추.천 귀한 반전세 풀옵션 보증금 조절 가능",
-   "realtor": "그라시움이레(481-4924)공인중개사사무소",
-   "price_text": "55000/180"
-  },
-  {
-   "article_no": "2662321194",
-   "trade": "B2",
-   "deposit": 55000,
-   "rent": 180,
-   "area_exclusive": 73.87,
-   "area_supply": 100.95,
-   "floor": "고/25",
-   "building": "149",
-   "direction": "SS",
-   "confirmed": "2026-11-17",
-   "description": "금터 30A 남다른 채광 정갈하고 깔끔한 컨디션 풀에 고층의 쭉뻗은 조망",
-   "realtor": "고덕그라시움금터부동산공인중개사사무소",
    "price_text": "55000/180"
   },
   {
@@ -4714,6 +4969,36 @@
    "price_text": "80000/180"
   },
   {
+   "article_no": "2662742121",
+   "trade": "B2",
+   "deposit": 40000,
+   "rent": 200,
+   "area_exclusive": 59.78,
+   "area_supply": 82.55,
+   "floor": "저/9",
+   "building": "138",
+   "direction": "SS",
+   "confirmed": "2026-11-19",
+   "description": "뛰어라추천,귀한월세,풀에,고덕중,입주일 협의가",
+   "realtor": "뛰어라공인중개사사무소",
+   "price_text": "40000/200"
+  },
+  {
+   "article_no": "2662694857",
+   "trade": "B2",
+   "deposit": 40000,
+   "rent": 200,
+   "area_exclusive": 59.78,
+   "area_supply": 82.55,
+   "floor": "저/9",
+   "building": "138",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "독일 추천. 정남향. 고덕초 고덕중 도보2분. 풀에어컨. 2월협의.",
+   "realtor": "고덕독일489-4100공인중개사사무소",
+   "price_text": "40000/200"
+  },
+  {
    "article_no": "2660941349",
    "trade": "B2",
    "deposit": 40000,
@@ -4757,21 +5042,6 @@
    "description": "강덕초    뷰좋아요 입주일 협의",
    "realtor": "LG공인중개사사무소",
    "price_text": "60000/200"
-  },
-  {
-   "article_no": "2660975554",
-   "trade": "B2",
-   "deposit": 65000,
-   "rent": 200,
-   "area_exclusive": 84.24,
-   "area_supply": 114.66,
-   "floor": "저/27",
-   "building": "110",
-   "direction": "ES",
-   "confirmed": "2026-11-10",
-   "description": "보증금조정가능,입주일협의가능,무융자,장기거주가능,풀에어컨",
-   "realtor": "조성무공인중개사사무소",
-   "price_text": "65000/200"
   },
   {
    "article_no": "2657989350",
@@ -4844,7 +5114,7 @@
    "building": "127",
    "direction": "SS",
    "confirmed": "2026-11-18",
-   "description": "선호하는 타워형,장기거주,학기시작 전 이사희망",
+   "description": "선호하는 타워형,장기거주,학기시작 전 이사희망,손님만",
    "realtor": "신고덕(427-8955)공인중개사사무소",
    "price_text": "30000/240"
   },
@@ -4924,7 +5194,7 @@
    "price_text": "60000/260"
   },
   {
-   "article_no": "2661826197",
+   "article_no": "2662565664",
    "trade": "B2",
    "deposit": 60000,
    "rent": 260,
@@ -4933,9 +5203,24 @@
    "floor": "고/29",
    "building": "124",
    "direction": "WS",
-   "confirmed": "2026-11-14",
+   "confirmed": "2026-11-18",
    "description": "강덕초, 보증금조절가. 로얄동 층, 풀에어컨. 전망 채광 좋은 집",
    "realtor": "고덕탑공인중개사사무소",
+   "price_text": "60000/260"
+  },
+  {
+   "article_no": "2662624343",
+   "trade": "B2",
+   "deposit": 60000,
+   "rent": 260,
+   "area_exclusive": 84.04,
+   "area_supply": 115.67,
+   "floor": "고/29",
+   "building": "124",
+   "direction": "WS",
+   "confirmed": "2026-11-18",
+   "description": "보증금 조정가  강덕 관리 잘된집  트인뷰 상가이용편리  수영장 조식서",
+   "realtor": "예스공인중개사사무소",
    "price_text": "60000/260"
   },
   {
@@ -5044,21 +5329,6 @@
    "price_text": "60000/260"
   },
   {
-   "article_no": "2657566680",
-   "trade": "B2",
-   "deposit": 60000,
-   "rent": 260,
-   "area_exclusive": 84.04,
-   "area_supply": 115.67,
-   "floor": "고/29",
-   "building": "124",
-   "direction": "WS",
-   "confirmed": "2026-10-24",
-   "description": "보증금 조정가  강덕 관리 잘된집  트인뷰 상가이용편리  수영장 조식서",
-   "realtor": "예스공인중개사사무소",
-   "price_text": "60000/260"
-  },
-  {
    "article_no": "2657489079",
    "trade": "B2",
    "deposit": 60000,
@@ -5089,7 +5359,7 @@
    "price_text": "60000/260"
   },
   {
-   "article_no": "2661042432",
+   "article_no": "2662545608",
    "trade": "B2",
    "deposit": 40000,
    "rent": 280,
@@ -5098,10 +5368,25 @@
    "floor": "저/30",
    "building": "118",
    "direction": "SS",
-   "confirmed": "2026-11-11",
+   "confirmed": "2026-11-18",
    "description": "강추 입주협의가 융자무 우수한채광 예쁜단지조망 시스템에어컨 강덕초",
    "realtor": "고덕선경(428-3939)공인중개사사무소",
    "price_text": "40000/280"
+  },
+  {
+   "article_no": "2662584944",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 280,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "저/22",
+   "building": "112",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "알찬 강추 34P 귀한월세 융자없음 보증금 조정가능 포베이구조",
+   "realtor": "알찬(406-4900)공인중개사사무소",
+   "price_text": "50000/280"
   },
   {
    "article_no": "2662515369",
@@ -5116,36 +5401,6 @@
    "confirmed": "2026-11-18",
    "description": "금터 34D 넓고 쾌적한 4BAY 풀에  더블 역세권  아이키우기 편한집",
    "realtor": "고덕그라시움금터부동산공인중개사사무소",
-   "price_text": "50000/280"
-  },
-  {
-   "article_no": "2662324951",
-   "trade": "B2",
-   "deposit": 50000,
-   "rent": 280,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "저/22",
-   "building": "112",
-   "direction": "WS",
-   "confirmed": "2026-11-17",
-   "description": "추천. 로얄동. 더블역세권. 풀에어컨. 융자없고 관리잘된집",
-   "realtor": "그라시움하늘공인중개사사무소",
-   "price_text": "50000/280"
-  },
-  {
-   "article_no": "2662501845",
-   "trade": "B2",
-   "deposit": 50000,
-   "rent": 280,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "저/22",
-   "building": "112",
-   "direction": "ES",
-   "confirmed": "2026-11-17",
-   "description": "34p 강추 강덕초 풀에어컨 초역세권 보증금조정 선호하는 타입",
-   "realtor": "고덕리더스부동산공인중개사사무소",
    "price_text": "50000/280"
   },
   {
@@ -5179,6 +5434,36 @@
    "price_text": "50000/280"
   },
   {
+   "article_no": "2662501845",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 280,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "저/22",
+   "building": "112",
+   "direction": "ES",
+   "confirmed": "2026-11-17",
+   "description": "34p 강추 강덕초 풀에어컨 초역세권 보증금조정 선호하는 타입",
+   "realtor": "고덕리더스부동산공인중개사사무소",
+   "price_text": "50000/280"
+  },
+  {
+   "article_no": "2662324951",
+   "trade": "B2",
+   "deposit": 50000,
+   "rent": 280,
+   "area_exclusive": 84.24,
+   "area_supply": 115.63,
+   "floor": "저/22",
+   "building": "112",
+   "direction": "WS",
+   "confirmed": "2026-11-17",
+   "description": "추천. 로얄동. 더블역세권. 풀에어컨. 융자없고 관리잘된집",
+   "realtor": "그라시움하늘공인중개사사무소",
+   "price_text": "50000/280"
+  },
+  {
    "article_no": "2661763243",
    "trade": "B2",
    "deposit": 50000,
@@ -5191,21 +5476,6 @@
    "confirmed": "2026-11-13",
    "description": "추천 선호타입 강덕초 융자무 풀에어컨 커뮤니티 조식서비스 보증금조절가  ",
    "realtor": "그라시움거성공인중개사사무소",
-   "price_text": "50000/280"
-  },
-  {
-   "article_no": "2661465540",
-   "trade": "B2",
-   "deposit": 50000,
-   "rent": 280,
-   "area_exclusive": 84.24,
-   "area_supply": 115.63,
-   "floor": "저/22",
-   "building": "112",
-   "direction": "SS",
-   "confirmed": "2026-11-12",
-   "description": "알찬 강추 34P 귀한월세 융자없음 보증금 조정가능 포베이구조",
-   "realtor": "알찬(406-4900)공인중개사사무소",
    "price_text": "50000/280"
   },
   {
@@ -5254,19 +5524,19 @@
    "price_text": "50000/280"
   },
   {
-   "article_no": "2661157873",
+   "article_no": "2662607923",
    "trade": "B2",
-   "deposit": 22000,
-   "rent": 330,
-   "area_exclusive": 73.87,
-   "area_supply": 100.95,
-   "floor": "중/21",
-   "building": "126",
-   "direction": "ES",
-   "confirmed": "2026-11-11",
-   "description": "무융,강덕초,",
-   "realtor": "고덕종점그라시움공인중개사사무소",
-   "price_text": "22000/330"
+   "deposit": 5000,
+   "rent": 320,
+   "area_exclusive": 59.78,
+   "area_supply": 82.55,
+   "floor": "고/18",
+   "building": "141",
+   "direction": "WS",
+   "confirmed": "2026-11-18",
+   "description": "단기3개월 , 즉시입주가능, 밝고 환한 뷰",
+   "realtor": "고덕탑공인중개사사무소",
+   "price_text": "5000/320"
   },
   {
    "article_no": "2662386062",

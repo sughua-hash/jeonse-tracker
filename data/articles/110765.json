@@ -1,5 +1,5 @@
 {
- "date": "2026-11-18",
+ "date": "2026-11-19",
  "complexNo": "110765",
  "name": "고덕숲아이파크",
  "articles": [
@@ -17,6 +17,21 @@
    "description": "숲속의아파트 한영중고5분거리",
    "realtor": "경성공인중개사사무소",
    "price_text": "79000"
+  },
+  {
+   "article_no": "2662562927",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 84.78,
+   "floor": "고/10",
+   "building": "113",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "한영학군.초록초록 생태숲.채광좋은 조용한 집.장기거주가.넓은공간구성.",
+   "realtor": "골드공인중개사사무소",
+   "price_text": "80000"
   },
   {
    "article_no": "2661112330",
@@ -79,21 +94,6 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2659620669",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.97,
-   "area_supply": 84.78,
-   "floor": "고/10",
-   "building": "113",
-   "direction": "SS",
-   "confirmed": "2026-11-04",
-   "description": "숲뷰 최고동 내부공간넉넉  무융자 학군 채광우수  숲속도서관근접",
-   "realtor": "고덕무지개공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2659705167",
    "trade": "B1",
    "deposit": 80000,
@@ -106,6 +106,21 @@
    "confirmed": "2026-11-04",
    "description": "빠른입주가능.채광좋음.장기거주가능.",
    "realtor": "고덕베네루체공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2659620669",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 84.78,
+   "floor": "고/10",
+   "building": "113",
+   "direction": "SS",
+   "confirmed": "2026-11-04",
+   "description": "숲뷰 최고동 내부공간넉넉  무융자 학군 채광우수  숲속도서관근접",
+   "realtor": "고덕무지개공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -179,23 +194,8 @@
    "building": "107",
    "direction": "SS",
    "confirmed": "2026-11-17",
-   "description": "앞트임동, 숲 전망, 롯데타워 전망",
+   "description": " 숲과 롯데타워 전망,장기거주 환영",
    "realtor": "나라공인",
-   "price_text": "95000"
-  },
-  {
-   "article_no": "2660191495",
-   "trade": "B1",
-   "deposit": 95000,
-   "rent": 0,
-   "area_exclusive": 84.85,
-   "area_supply": 112.83,
-   "floor": "중/25",
-   "building": "108",
-   "direction": "SS",
-   "confirmed": "2026-11-06",
-   "description": "풀에어컨 내부공간 넓고 숲이 보이는 전망",
-   "realtor": "고덕무지개공인중개사사무소",
    "price_text": "95000"
   }
  ]

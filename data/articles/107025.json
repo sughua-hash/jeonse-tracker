@@ -1,5 +1,5 @@
 {
- "date": "2026-11-18",
+ "date": "2026-11-19",
  "complexNo": "107025",
  "name": "미사강변하우스디더레이크",
  "articles": [
@@ -34,24 +34,54 @@
    "price_text": "73000"
   },
   {
-   "article_no": "2662320815",
+   "article_no": "2662637814",
    "trade": "B1",
-   "deposit": 85000,
+   "deposit": 80000,
    "rent": 0,
    "area_exclusive": 84.96,
    "area_supply": 112.35,
    "floor": "중/27",
    "building": "1906",
    "direction": "ES",
-   "confirmed": "2026-11-17",
+   "confirmed": "2026-11-18",
+   "description": "빠른입주, 호수공원뷰, 깔끔한인테리어, 집상태 좋음,애완견불가",
+   "realtor": "푸르지오(031-794-4950)공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2662635781",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 84.96,
+   "area_supply": 112.35,
+   "floor": "중/27",
+   "building": "1906",
+   "direction": "ES",
+   "confirmed": "2026-11-18",
+   "description": "1월입주협의. 망월천뷰. 이쁜인테리어된호실.미사역도보",
+   "realtor": "미사하우스디(031-796-9090)공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2662584018",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 84.96,
+   "area_supply": 112.35,
+   "floor": "중/27",
+   "building": "1906",
+   "direction": "ES",
+   "confirmed": "2026-11-18",
    "description": "예쁜망월천뷰, 집상태최상, 3년전인테리어함, 인기학세권,보증금조정가",
    "realtor": "미사강변(031-796-0033)공인중개사사무소",
-   "price_text": "85000"
+   "price_text": "80000"
   },
   {
    "article_no": "2662126620",
    "trade": "B1",
-   "deposit": 85000,
+   "deposit": 80000,
    "rent": 0,
    "area_exclusive": 84.96,
    "area_supply": 112.35,
@@ -61,7 +91,7 @@
    "confirmed": "2026-11-16",
    "description": "공동환영 입주협의 탁트인뷰 인테리어 귀한전세",
    "realtor": "미사황금알공인중개사사무소",
-   "price_text": "85000"
+   "price_text": "80000"
   },
   {
    "article_no": "2661529638",
@@ -92,21 +122,6 @@
    "description": "입주협의 초.중.고.인접 집상태 최상",
    "realtor": "루나리움미사오(031-793-4499)공인중개사사무소",
    "price_text": "62000/50"
-  },
-  {
-   "article_no": "2661773233",
-   "trade": "B2",
-   "deposit": 30000,
-   "rent": 220,
-   "area_exclusive": 84.96,
-   "area_supply": 112.35,
-   "floor": "중/27",
-   "building": "1906",
-   "direction": "ES",
-   "confirmed": "2026-11-13",
-   "description": "예쁜망월천뷰, 집상태최상, 3년전인테리어함, 인기학세권, 미사역도보",
-   "realtor": "미사강변(031-796-0033)공인중개사사무소",
-   "price_text": "30000/220"
   }
  ]
 }
