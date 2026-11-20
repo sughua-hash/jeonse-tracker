@@ -1,5 +1,5 @@
 {
- "date": "2026-11-19",
+ "date": "2026-11-20",
  "complexNo": "115018",
  "name": "더샵지제역센트럴파크(1BL)",
  "articles": [
@@ -289,21 +289,6 @@
    "price_text": "33000"
   },
   {
-   "article_no": "2662502471",
-   "trade": "B1",
-   "deposit": 33000,
-   "rent": 0,
-   "area_exclusive": 84.79,
-   "area_supply": 110.69,
-   "floor": "11/26",
-   "building": "125",
-   "direction": "ES",
-   "confirmed": "2026-11-17",
-   "description": "1월말입주협의. 융자상환조건.시에2대.지하2층주차동",
-   "realtor": "지제포스코타운공인중개사사무소",
-   "price_text": "33000"
-  },
-  {
    "article_no": "2660350252",
    "trade": "B1",
    "deposit": 33000,
@@ -349,21 +334,6 @@
    "price_text": "33000"
   },
   {
-   "article_no": "2659552762",
-   "trade": "B1",
-   "deposit": 33000,
-   "rent": 0,
-   "area_exclusive": 84.79,
-   "area_supply": 110.69,
-   "floor": "11/26",
-   "building": "125",
-   "direction": "ES",
-   "confirmed": "2026-11-04",
-   "description": "OK.1월입주협의. 시스템2.지하2개층주차편리.",
-   "realtor": "더샵OK공인중개사사무소",
-   "price_text": "33000"
-  },
-  {
    "article_no": "2659719775",
    "trade": "B1",
    "deposit": 33000,
@@ -376,6 +346,21 @@
    "confirmed": "2026-11-04",
    "description": "1월29일시에2대 집상태굿 주차지하2층동 협의입주가능동간넓음",
    "realtor": "지제역더샵영신부동산공인중개사사무소",
+   "price_text": "33000"
+  },
+  {
+   "article_no": "2659552762",
+   "trade": "B1",
+   "deposit": 33000,
+   "rent": 0,
+   "area_exclusive": 84.79,
+   "area_supply": 110.69,
+   "floor": "11/26",
+   "building": "125",
+   "direction": "ES",
+   "confirmed": "2026-11-04",
+   "description": "OK.1월입주협의. 시스템2.지하2개층주차편리.",
+   "realtor": "더샵OK공인중개사사무소",
    "price_text": "33000"
   },
   {

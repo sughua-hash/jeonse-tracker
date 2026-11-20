@@ -1,5 +1,5 @@
 {
- "date": "2026-11-19",
+ "date": "2026-11-20",
  "complexNo": "983",
  "name": "푸른마을",
  "articles": [
@@ -79,7 +79,7 @@
    "price_text": "110000"
   },
   {
-   "article_no": "2661721420",
+   "article_no": "2661731304",
    "trade": "B1",
    "deposit": 110000,
    "rent": 0,
@@ -89,23 +89,8 @@
    "building": "106",
    "direction": "SS",
    "confirmed": "2026-11-13",
-   "description": "31집주인직매물 깨끗한수리상태 남향 로얄동 층 입주일조정",
-   "realtor": "샘터공인중개사사무소",
-   "price_text": "110000"
-  },
-  {
-   "article_no": "2661192227",
-   "trade": "B1",
-   "deposit": 110000,
-   "rent": 0,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "중/15",
-   "building": "106",
-   "direction": "SS",
-   "confirmed": "2026-11-11",
-   "description": "단지내최고전망 올수리 1말 2초입주",
-   "realtor": "삼성(3411-8100)공인중개사사무소",
+   "description": "31.남향,대모산 전망 굿,수리깨끗,초역세권 단지",
+   "realtor": "일원뱅크공인중개사사무소",
    "price_text": "110000"
   },
   {
@@ -139,7 +124,7 @@
    "price_text": "110000"
   },
   {
-   "article_no": "2661731304",
+   "article_no": "2661721420",
    "trade": "B1",
    "deposit": 110000,
    "rent": 0,
@@ -149,8 +134,23 @@
    "building": "106",
    "direction": "SS",
    "confirmed": "2026-11-13",
-   "description": "31.남향,대모산 전망 굿,수리깨끗,초역세권 단지",
-   "realtor": "일원뱅크공인중개사사무소",
+   "description": "31집주인직매물 깨끗한수리상태 남향 로얄동 층 입주일조정",
+   "realtor": "샘터공인중개사사무소",
+   "price_text": "110000"
+  },
+  {
+   "article_no": "2661192227",
+   "trade": "B1",
+   "deposit": 110000,
+   "rent": 0,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "중/15",
+   "building": "106",
+   "direction": "SS",
+   "confirmed": "2026-11-11",
+   "description": "단지내최고전망 올수리 1말 2초입주",
+   "realtor": "삼성(3411-8100)공인중개사사무소",
    "price_text": "110000"
   },
   {
@@ -364,21 +364,6 @@
    "price_text": "80000/120"
   },
   {
-   "article_no": "2662581463",
-   "trade": "B2",
-   "deposit": 40000,
-   "rent": 280,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "14/15",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-11-18",
-   "description": "31집주인매물 남향 입주일2월조정 오랫동안거주",
-   "realtor": "샘터공인중개사사무소",
-   "price_text": "40000/280"
-  },
-  {
    "article_no": "2662589975",
    "trade": "B2",
    "deposit": 40000,
@@ -391,6 +376,21 @@
    "confirmed": "2026-11-18",
    "description": "주인직매물 .공동환영귀한 . 남향수리깨끗 . 방확장",
    "realtor": "양지공인중개사사무소",
+   "price_text": "40000/280"
+  },
+  {
+   "article_no": "2662581463",
+   "trade": "B2",
+   "deposit": 40000,
+   "rent": 280,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "14/15",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "31집주인매물 남향 입주일2월조정 오랫동안거주",
+   "realtor": "샘터공인중개사사무소",
    "price_text": "40000/280"
   },
   {
@@ -499,6 +499,66 @@
    "price_text": "5000/340"
   },
   {
+   "article_no": "2662837774",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 350,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "10/15",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-11-19",
+   "description": "31 남향 동간거리넓고, 해잘드는남향, 빠른입주 ",
+   "realtor": "엘리트공인중개사사무소",
+   "price_text": "20000/350"
+  },
+  {
+   "article_no": "2662589528",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 350,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "10/15",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "남향 밝고 깨끗한집  화장실2 빠른입주가능 전철역가까운동",
+   "realtor": "일원샘터공인중개사사무소",
+   "price_text": "20000/350"
+  },
+  {
+   "article_no": "2662587263",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 350,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "10/15",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "31입주하시 남향 로얄동 층 조용한동 오랫동안거주",
+   "realtor": "샘터공인중개사사무소",
+   "price_text": "20000/350"
+  },
+  {
+   "article_no": "2662591054",
+   "trade": "B2",
+   "deposit": 20000,
+   "rent": 350,
+   "area_exclusive": 84.93,
+   "area_supply": 103.49,
+   "floor": "10/15",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "남향.방3 화2 . 빠른입주가능 . 학군우수한 역세권",
+   "realtor": "양지공인중개사사무소",
+   "price_text": "20000/350"
+  },
+  {
    "article_no": "2662579139",
    "trade": "B2",
    "deposit": 20000,
@@ -526,51 +586,6 @@
    "confirmed": "2026-11-09",
    "description": "31남향 주인직매물 입구방확장 욕실2수리 로얄동 공동환영",
    "realtor": "가이드(단지내)공인중개사사무소",
-   "price_text": "20000/350"
-  },
-  {
-   "article_no": "2662591054",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 350,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "10/15",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-11-18",
-   "description": "남향.방3 화2 . 빠른입주가능 . 학군우수한 역세권",
-   "realtor": "양지공인중개사사무소",
-   "price_text": "20000/350"
-  },
-  {
-   "article_no": "2662587263",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 350,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "10/15",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-11-18",
-   "description": "31입주하시 남향 로얄동 층 조용한동 오랫동안거주",
-   "realtor": "샘터공인중개사사무소",
-   "price_text": "20000/350"
-  },
-  {
-   "article_no": "2662589528",
-   "trade": "B2",
-   "deposit": 20000,
-   "rent": 350,
-   "area_exclusive": 84.93,
-   "area_supply": 103.49,
-   "floor": "10/15",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-11-18",
-   "description": "남향 밝고 깨끗한집  화장실2 빠른입주가능 전철역가까운동",
-   "realtor": "일원샘터공인중개사사무소",
    "price_text": "20000/350"
   },
   {
@@ -634,7 +649,7 @@
    "price_text": "20000/360"
   },
   {
-   "article_no": "2657770089",
+   "article_no": "2657776575",
    "trade": "B2",
    "deposit": 20000,
    "rent": 360,
@@ -644,8 +659,8 @@
    "building": "102",
    "direction": "SS",
    "confirmed": "2026-10-26",
-   "description": "31 남향  주인직매물  수리상태깨끗 로얄동 로얄층 입주협의",
-   "realtor": "가이드(단지내)공인중개사사무소",
+   "description": "푸른로얄동,오래거주가능,일조권전망좋은집",
+   "realtor": "푸른닷컴공인중개사",
    "price_text": "20000/360"
   },
   {
@@ -664,7 +679,7 @@
    "price_text": "20000/360"
   },
   {
-   "article_no": "2657776575",
+   "article_no": "2657770089",
    "trade": "B2",
    "deposit": 20000,
    "rent": 360,
@@ -674,8 +689,8 @@
    "building": "102",
    "direction": "SS",
    "confirmed": "2026-10-26",
-   "description": "푸른로얄동,오래거주가능,일조권전망좋은집",
-   "realtor": "푸른닷컴공인중개사",
+   "description": "31 남향  주인직매물  수리상태깨끗 로얄동 로얄층 입주협의",
+   "realtor": "가이드(단지내)공인중개사사무소",
    "price_text": "20000/360"
   },
   {
