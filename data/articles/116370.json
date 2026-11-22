@@ -1,23 +1,8 @@
 {
- "date": "2026-11-21",
+ "date": "2026-11-22",
  "complexNo": "116370",
  "name": "e편한세상시티인하대역",
  "articles": [
-  {
-   "article_no": "2660938225",
-   "trade": "B1",
-   "deposit": 23500,
-   "rent": 0,
-   "area_exclusive": 58.67,
-   "area_supply": 88.24,
-   "floor": "중/33",
-   "building": "105",
-   "direction": "SS",
-   "confirmed": "2026-11-10",
-   "description": "LH전세로가능 2in1에어컨 인하대역3분 홈플러스5분",
-   "realtor": "e편한씨티공인중개사사무소",
-   "price_text": "23500"
-  },
   {
    "article_no": "2660887633",
    "trade": "B2",
@@ -47,6 +32,21 @@
    "description": "인하대역 풀옵션 27년2월초입주 남학생만 전입가능 융자없음",
    "realtor": "뉴월드공인중개사사무소",
    "price_text": "1000/72"
+  },
+  {
+   "article_no": "2663349891",
+   "trade": "B2",
+   "deposit": 1000,
+   "rent": 75,
+   "area_exclusive": 27.11,
+   "area_supply": 41.23,
+   "floor": "11/37",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-11-21",
+   "description": "1월3일 입주 인하대역 가까운 풀옵션 원룸 큰타입",
+   "realtor": "에스케이일등공인중개사사무소",
+   "price_text": "1000/75"
   },
   {
    "article_no": "2659001608",
