@@ -1,5 +1,5 @@
 {
- "date": "2026-11-22",
+ "date": "2026-11-23",
  "complexNo": "140148",
  "name": "고덕풍경채어바니티",
  "articles": [
@@ -49,21 +49,6 @@
    "price_text": "85000"
   },
   {
-   "article_no": "2657341239",
-   "trade": "B1",
-   "deposit": 85000,
-   "rent": 0,
-   "area_exclusive": 84.23,
-   "area_supply": 117.54,
-   "floor": "저/25",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-10-23",
-   "description": "대형 테라스, 복층, 에어컨 풀, 인테리어 최상",
-   "realtor": "풍경채선우부동산공인중개사사무소",
-   "price_text": "85000"
-  },
-  {
    "article_no": "2658245995",
    "trade": "B1",
    "deposit": 85000,
@@ -75,21 +60,6 @@
    "direction": "SS",
    "confirmed": "2026-10-29",
    "description": "",
-   "realtor": "풍경채어바니티(단지내)부동산중개",
-   "price_text": "85000"
-  },
-  {
-   "article_no": "2657407308",
-   "trade": "B1",
-   "deposit": 85000,
-   "rent": 0,
-   "area_exclusive": 84.03,
-   "area_supply": 115.87,
-   "floor": "고/25",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-10-23",
-   "description": "방3화2 ,에5,큰방,작은방붙박이,중문, 넓은주방,뷰좋음",
    "realtor": "풍경채어바니티(단지내)부동산중개",
    "price_text": "85000"
   },
@@ -514,21 +484,6 @@
    "price_text": "90000/120"
   },
   {
-   "article_no": "2659903245",
-   "trade": "B2",
-   "deposit": 8000,
-   "rent": 160,
-   "area_exclusive": 101.04,
-   "area_supply": 138.88,
-   "floor": "중/25",
-   "building": "103",
-   "direction": "SS",
-   "confirmed": "2026-11-05",
-   "description": "예쁜숲뷰 I 풀시스템에어컨 I 붙박이장 등 풀옵션",
-   "realtor": "노아공인중개사사무소",
-   "price_text": "8000/160"
-  },
-  {
    "article_no": "2663256608",
    "trade": "B2",
    "deposit": 80000,
@@ -559,21 +514,6 @@
    "price_text": "80000/160"
   },
   {
-   "article_no": "2663056800",
-   "trade": "B2",
-   "deposit": 80000,
-   "rent": 160,
-   "area_exclusive": 101.04,
-   "area_supply": 138.88,
-   "floor": "9/25",
-   "building": "103",
-   "direction": "SS",
-   "confirmed": "2026-11-20",
-   "description": "추천. 시원한 숲뷰.보증금 조정가능. 풀옵션 관리 잘된집. 명문학군",
-   "realtor": "고덕햇살426-3336공인중개사사무소",
-   "price_text": "80000/160"
-  },
-  {
    "article_no": "2663194610",
    "trade": "B2",
    "deposit": 80000,
@@ -586,6 +526,21 @@
    "confirmed": "2026-11-20",
    "description": "전망좋은 숲뷰 풀옵션 풀에어컨 최고급인테리어 모든협의가능",
    "realtor": "강동위드공인중개사사무소",
+   "price_text": "80000/160"
+  },
+  {
+   "article_no": "2663056800",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 160,
+   "area_exclusive": 101.04,
+   "area_supply": 138.88,
+   "floor": "9/25",
+   "building": "103",
+   "direction": "SS",
+   "confirmed": "2026-11-20",
+   "description": "추천. 시원한 숲뷰.보증금 조정가능. 풀옵션 관리 잘된집. 명문학군",
+   "realtor": "고덕햇살426-3336공인중개사사무소",
    "price_text": "80000/160"
   },
   {
@@ -664,21 +619,6 @@
    "price_text": "80000/160"
   },
   {
-   "article_no": "2662624177",
-   "trade": "B2",
-   "deposit": 80000,
-   "rent": 160,
-   "area_exclusive": 101.04,
-   "area_supply": 138.88,
-   "floor": "중/25",
-   "building": "103",
-   "direction": "WS",
-   "confirmed": "2026-11-18",
-   "description": "40P대형 반전세  보증금 조정 가능 에어컨풀  풀옵션  관리잘된 집",
-   "realtor": "예스공인중개사사무소",
-   "price_text": "80000/160"
-  },
-  {
    "article_no": "2662553611",
    "trade": "B2",
    "deposit": 80000,
@@ -691,6 +631,21 @@
    "confirmed": "2026-11-18",
    "description": "완전 풀 옵션  2027.2.27이후 협의 9억120가능",
    "realtor": "LG공인중개사사무소",
+   "price_text": "80000/160"
+  },
+  {
+   "article_no": "2662624177",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 160,
+   "area_exclusive": 101.04,
+   "area_supply": 138.88,
+   "floor": "중/25",
+   "building": "103",
+   "direction": "WS",
+   "confirmed": "2026-11-18",
+   "description": "40P대형 반전세  보증금 조정 가능 에어컨풀  풀옵션  관리잘된 집",
+   "realtor": "예스공인중개사사무소",
    "price_text": "80000/160"
   },
   {
@@ -754,7 +709,7 @@
    "price_text": "80000/160"
   },
   {
-   "article_no": "2659885632",
+   "article_no": "2659858162",
    "trade": "B2",
    "deposit": 80000,
    "rent": 160,
@@ -762,10 +717,10 @@
    "area_supply": 138.88,
    "floor": "중/25",
    "building": "103",
-   "direction": "SS",
+   "direction": "WS",
    "confirmed": "2026-11-05",
-   "description": "Ace추천. 보증금조정가 2월말 협의 에어컨풀 붙박이장 중문 식세기등",
-   "realtor": "미사에이스부동산공인중개사사무소",
+   "description": "행복42 숲뷰 조망권좋음 풀옵션 입주일 금액 협의가능",
+   "realtor": "포레온행복부동산중개",
    "price_text": "80000/160"
   },
   {
@@ -784,7 +739,7 @@
    "price_text": "80000/160"
   },
   {
-   "article_no": "2659858162",
+   "article_no": "2659903245",
    "trade": "B2",
    "deposit": 80000,
    "rent": 160,
@@ -792,10 +747,25 @@
    "area_supply": 138.88,
    "floor": "중/25",
    "building": "103",
-   "direction": "WS",
+   "direction": "SS",
    "confirmed": "2026-11-05",
-   "description": "행복42 숲뷰 조망권좋음 풀옵션 입주일 금액 협의가능",
-   "realtor": "포레온행복부동산중개",
+   "description": "예쁜숲뷰 I 풀시스템에어컨 I 붙박이장 등 풀옵션",
+   "realtor": "노아공인중개사사무소",
+   "price_text": "80000/160"
+  },
+  {
+   "article_no": "2659885632",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 160,
+   "area_exclusive": 101.04,
+   "area_supply": 138.88,
+   "floor": "중/25",
+   "building": "103",
+   "direction": "SS",
+   "confirmed": "2026-11-05",
+   "description": "Ace추천. 보증금조정가 2월말 협의 에어컨풀 붙박이장 중문 식세기등",
+   "realtor": "미사에이스부동산공인중개사사무소",
    "price_text": "80000/160"
   },
   {

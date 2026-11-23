@@ -1,5 +1,5 @@
 {
- "date": "2026-11-22",
+ "date": "2026-11-23",
  "complexNo": "110765",
  "name": "고덕숲아이파크",
  "articles": [
@@ -34,21 +34,6 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2661073743",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 59.97,
-   "area_supply": 84.78,
-   "floor": "고/10",
-   "building": "113",
-   "direction": "WS",
-   "confirmed": "2026-11-11",
-   "description": "숲속의아파트,학세권한영중고5분거리",
-   "realtor": "경성공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2661112330",
    "trade": "B1",
    "deposit": 80000,
@@ -61,6 +46,21 @@
    "confirmed": "2026-11-11",
    "description": "입주 협의.풀조망. 명문 학군. 숲속 생활권",
    "realtor": "태양공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2661073743",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 59.97,
+   "area_supply": 84.78,
+   "floor": "고/10",
+   "building": "113",
+   "direction": "WS",
+   "confirmed": "2026-11-11",
+   "description": "숲속의아파트,학세권한영중고5분거리",
+   "realtor": "경성공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -79,7 +79,7 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2659620669",
+   "article_no": "2659638922",
    "trade": "B1",
    "deposit": 80000,
    "rent": 0,
@@ -89,8 +89,8 @@
    "building": "113",
    "direction": "SS",
    "confirmed": "2026-11-04",
-   "description": "숲뷰 최고동 내부공간넉넉  무융자 학군 채광우수  숲속도서관근접",
-   "realtor": "고덕무지개공인중개사사무소",
+   "description": "융자없음. 명문학군. 숲세권. 고층숲뷰",
+   "realtor": "원스탑공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -109,7 +109,7 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2659638922",
+   "article_no": "2659620669",
    "trade": "B1",
    "deposit": 80000,
    "rent": 0,
@@ -119,8 +119,8 @@
    "building": "113",
    "direction": "SS",
    "confirmed": "2026-11-04",
-   "description": "융자없음. 명문학군. 숲세권. 고층숲뷰",
-   "realtor": "원스탑공인중개사사무소",
+   "description": "숲뷰 최고동 내부공간넉넉  무융자 학군 채광우수  숲속도서관근접",
+   "realtor": "고덕무지개공인중개사사무소",
    "price_text": "80000"
   },
   {

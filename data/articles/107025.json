@@ -1,5 +1,5 @@
 {
- "date": "2026-11-22",
+ "date": "2026-11-23",
  "complexNo": "107025",
  "name": "미사강변하우스디더레이크",
  "articles": [
@@ -49,21 +49,6 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2663346365",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 84.96,
-   "area_supply": 112.35,
-   "floor": "중/27",
-   "building": "1906",
-   "direction": "ES",
-   "confirmed": "2026-11-21",
-   "description": "입주협의 호수뷰짱 초중고인기학세권 5호선미사역도보가 광역버스굿 인테리어",
-   "realtor": "미사센텀팰리스공인중개사사무소",
-   "price_text": "80000"
-  },
-  {
    "article_no": "2663338916",
    "trade": "B1",
    "deposit": 80000,
@@ -91,6 +76,21 @@
    "confirmed": "2026-11-21",
    "description": "예쁜망월천뷰, 집상태최상, 3년전인테리어함, 인기학세권",
    "realtor": "미사강변(031-796-0033)공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2663346365",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 84.96,
+   "area_supply": 112.35,
+   "floor": "중/27",
+   "building": "1906",
+   "direction": "ES",
+   "confirmed": "2026-11-21",
+   "description": "입주협의 호수뷰짱 초중고인기학세권 5호선미사역도보가 광역버스굿 인테리어",
+   "realtor": "미사센텀팰리스공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -184,36 +184,6 @@
    "price_text": "30000/220"
   },
   {
-   "article_no": "2663339586",
-   "trade": "B2",
-   "deposit": 30000,
-   "rent": 220,
-   "area_exclusive": 84.96,
-   "area_supply": 112.35,
-   "floor": "중/27",
-   "building": "1906",
-   "direction": "ES",
-   "confirmed": "2026-11-21",
-   "description": "하우스디34, 인테리어 굿,호수공원뷰, 입주협의.",
-   "realtor": "THE오름공인중개사사무소",
-   "price_text": "30000/220"
-  },
-  {
-   "article_no": "2663241492",
-   "trade": "B2",
-   "deposit": 30000,
-   "rent": 220,
-   "area_exclusive": 84.96,
-   "area_supply": 112.35,
-   "floor": "중/27",
-   "building": "1906",
-   "direction": "ES",
-   "confirmed": "2026-11-21",
-   "description": "입주협의. 망월천뷰. 이쁜인테리어된호실.미사역도보",
-   "realtor": "미사하우스디(031-796-9090)공인중개사사무소",
-   "price_text": "30000/220"
-  },
-  {
    "article_no": "2663245446",
    "trade": "B2",
    "deposit": 30000,
@@ -241,6 +211,36 @@
    "confirmed": "2026-11-21",
    "description": "인테리어 너무 예쁜집, 집상태 최상급, 망월천뷰, 1월 초 입주",
    "realtor": "하우스디첫눈에(031-795-1300)공인중개사사무소",
+   "price_text": "30000/220"
+  },
+  {
+   "article_no": "2663339586",
+   "trade": "B2",
+   "deposit": 30000,
+   "rent": 220,
+   "area_exclusive": 84.96,
+   "area_supply": 112.35,
+   "floor": "중/27",
+   "building": "1906",
+   "direction": "ES",
+   "confirmed": "2026-11-21",
+   "description": "하우스디34, 인테리어 굿,호수공원뷰, 입주협의.",
+   "realtor": "THE오름공인중개사사무소",
+   "price_text": "30000/220"
+  },
+  {
+   "article_no": "2663241492",
+   "trade": "B2",
+   "deposit": 30000,
+   "rent": 220,
+   "area_exclusive": 84.96,
+   "area_supply": 112.35,
+   "floor": "중/27",
+   "building": "1906",
+   "direction": "ES",
+   "confirmed": "2026-11-21",
+   "description": "입주협의. 망월천뷰. 이쁜인테리어된호실.미사역도보",
+   "realtor": "미사하우스디(031-796-9090)공인중개사사무소",
    "price_text": "30000/220"
   },
   {

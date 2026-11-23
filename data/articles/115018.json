@@ -1,5 +1,5 @@
 {
- "date": "2026-11-22",
+ "date": "2026-11-23",
  "complexNo": "115018",
  "name": "더샵지제역센트럴파크(1BL)",
  "articles": [
@@ -169,21 +169,6 @@
    "price_text": "31000"
   },
   {
-   "article_no": "2661764149",
-   "trade": "B1",
-   "deposit": 31000,
-   "rent": 0,
-   "area_exclusive": 74.99,
-   "area_supply": 98.71,
-   "floor": "1/27",
-   "building": "110",
-   "direction": "WS",
-   "confirmed": "2026-11-13",
-   "description": "시스템에어컨4 필로티1층 중문 27년2월협의입주",
-   "realtor": "더샵미소공인중개사사무소",
-   "price_text": "31000"
-  },
-  {
    "article_no": "2661714074",
    "trade": "B1",
    "deposit": 31000,
@@ -196,6 +181,21 @@
    "confirmed": "2026-11-13",
    "description": "GM.시에4대,필로팅1층으로 바닥 층고 높음.중문,27년 2월 협의 입주",
    "realtor": "THESHARP굿모닝공인중개사사무소",
+   "price_text": "31000"
+  },
+  {
+   "article_no": "2661764149",
+   "trade": "B1",
+   "deposit": 31000,
+   "rent": 0,
+   "area_exclusive": 74.99,
+   "area_supply": 98.71,
+   "floor": "1/27",
+   "building": "110",
+   "direction": "WS",
+   "confirmed": "2026-11-13",
+   "description": "시스템에어컨4 필로티1층 중문 27년2월협의입주",
+   "realtor": "더샵미소공인중개사사무소",
    "price_text": "31000"
   },
   {
