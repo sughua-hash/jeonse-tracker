@@ -1,8 +1,23 @@
 {
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "complexNo": "102235",
  "name": "고덕리엔파크3단지",
  "articles": [
+  {
+   "article_no": "2663679079",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 84.87,
+   "area_supply": 111.78,
+   "floor": "저/15",
+   "building": "323",
+   "direction": "SS",
+   "confirmed": "2026-11-23",
+   "description": "올확장 남향 트인뷰 추천 전세",
+   "realtor": "그라시움하늘공인중개사사무소",
+   "price_text": "80000"
+  },
   {
    "article_no": "2661869325",
    "trade": "B1",
@@ -34,7 +49,7 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2660610800",
+   "article_no": "2663492044",
    "trade": "B2",
    "deposit": 20000,
    "rent": 210,
@@ -43,7 +58,7 @@
    "floor": "중/15",
    "building": "320",
    "direction": "SS",
-   "confirmed": "2026-11-09",
+   "confirmed": "2026-11-23",
    "description": "융무.판상형.관리굿.즉시입주.협의가.손님만",
    "realtor": "파크공인중개사사무소",
    "price_text": "20000/210"

@@ -1,5 +1,5 @@
 {
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "complexNo": "27297",
  "name": "이안남양주",
  "articles": [
@@ -92,6 +92,36 @@
    "description": "복층 빠를수록 바닥 보일러시공 조망굿",
    "realtor": "두산온누리공인중개사사무소",
    "price_text": "35000/55"
+  },
+  {
+   "article_no": "2663582341",
+   "trade": "B2",
+   "deposit": 6000,
+   "rent": 130,
+   "area_exclusive": 84.61,
+   "area_supply": 110.28,
+   "floor": "3/16",
+   "building": "105",
+   "direction": "ES",
+   "confirmed": "2026-11-23",
+   "description": "",
+   "realtor": "이안대우공인중개사사무소",
+   "price_text": "6000/130"
+  },
+  {
+   "article_no": "2663605576",
+   "trade": "B2",
+   "deposit": 6000,
+   "rent": 130,
+   "area_exclusive": 84.61,
+   "area_supply": 110.28,
+   "floor": "3/16",
+   "building": "105",
+   "direction": "ES",
+   "confirmed": "2026-11-23",
+   "description": "",
+   "realtor": "도뮤토부동산공인중개사사무소",
+   "price_text": "6000/130"
   }
  ]
 }
