@@ -1,8 +1,23 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "complexNo": "140148",
  "name": "고덕풍경채어바니티",
  "articles": [
+  {
+   "article_no": "2663773548",
+   "trade": "B1",
+   "deposit": 85000,
+   "rent": 0,
+   "area_exclusive": 84.23,
+   "area_supply": 117.54,
+   "floor": "저/25",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-11-24",
+   "description": "대형 테라스, 복층, 에어컨 풀, 인테리어 최상",
+   "realtor": "풍경채선우부동산공인중개사사무소",
+   "price_text": "85000"
+  },
   {
    "article_no": "2663054147",
    "trade": "B1",
@@ -64,22 +79,22 @@
    "price_text": "85000"
   },
   {
-   "article_no": "2663620991",
+   "article_no": "2663809097",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
-   "area_exclusive": 84.03,
-   "area_supply": 115.87,
-   "floor": "고/25",
+   "area_exclusive": 84.67,
+   "area_supply": 118.24,
+   "floor": "저/25",
    "building": "102",
    "direction": "SS",
-   "confirmed": "2026-11-23",
-   "description": "방3화2 ,에5,큰방,작은방붙박이,중문, 넓은주방,뷰좋음",
-   "realtor": "풍경채어바니티(단지내)부동산중개",
+   "confirmed": "2026-11-24",
+   "description": "34p 큰문 다락형 넓은펜트리 수납공간 풀옵션",
+   "realtor": "큰문공인중개사사무소",
    "price_text": "90000"
   },
   {
-   "article_no": "2663519991",
+   "article_no": "2663788012",
    "trade": "B1",
    "deposit": 90000,
    "rent": 0,
@@ -88,24 +103,9 @@
    "floor": "저/25",
    "building": "102",
    "direction": "EE",
-   "confirmed": "2026-11-23",
+   "confirmed": "2026-11-24",
    "description": "에풀 풀옵션, 층간소음 걱정없는 복층, 비즈밸리상권이용",
    "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
-   "price_text": "90000"
-  },
-  {
-   "article_no": "2663217381",
-   "trade": "B1",
-   "deposit": 90000,
-   "rent": 0,
-   "area_exclusive": 84.67,
-   "area_supply": 118.24,
-   "floor": "저/25",
-   "building": "102",
-   "direction": "SS",
-   "confirmed": "2026-11-21",
-   "description": "34p 큰문 다락형 넓은펜트리 수납공간 풀옵션",
-   "realtor": "큰문공인중개사사무소",
    "price_text": "90000"
   },
   {
@@ -180,6 +180,21 @@
    "direction": "SS",
    "confirmed": "2026-11-06",
    "description": "방3화2 ,에5,펜트리와 작은방에붙박이,중문, 마당,다락,",
+   "realtor": "풍경채어바니티(단지내)부동산중개",
+   "price_text": "90000"
+  },
+  {
+   "article_no": "2663620991",
+   "trade": "B1",
+   "deposit": 90000,
+   "rent": 0,
+   "area_exclusive": 84.03,
+   "area_supply": 115.87,
+   "floor": "고/25",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-11-23",
+   "description": "방3화2 ,에5,큰방,작은방붙박이,중문, 넓은주방,뷰좋음",
    "realtor": "풍경채어바니티(단지내)부동산중개",
    "price_text": "90000"
   },
@@ -544,21 +559,6 @@
    "price_text": "80000/160"
   },
   {
-   "article_no": "2662553611",
-   "trade": "B2",
-   "deposit": 80000,
-   "rent": 160,
-   "area_exclusive": 101.04,
-   "area_supply": 138.88,
-   "floor": "중/25",
-   "building": "103",
-   "direction": "SS",
-   "confirmed": "2026-11-18",
-   "description": "완전 풀 옵션  2027.2.27이후 협의 9억120가능",
-   "realtor": "LG공인중개사사무소",
-   "price_text": "80000/160"
-  },
-  {
    "article_no": "2662624177",
    "trade": "B2",
    "deposit": 80000,
@@ -571,6 +571,21 @@
    "confirmed": "2026-11-18",
    "description": "40P대형 반전세  보증금 조정 가능 에어컨풀  풀옵션  관리잘된 집",
    "realtor": "예스공인중개사사무소",
+   "price_text": "80000/160"
+  },
+  {
+   "article_no": "2662553611",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 160,
+   "area_exclusive": 101.04,
+   "area_supply": 138.88,
+   "floor": "중/25",
+   "building": "103",
+   "direction": "SS",
+   "confirmed": "2026-11-18",
+   "description": "완전 풀 옵션  2027.2.27이후 협의 9억120가능",
+   "realtor": "LG공인중개사사무소",
    "price_text": "80000/160"
   },
   {
@@ -634,21 +649,6 @@
    "price_text": "80000/160"
   },
   {
-   "article_no": "2659858162",
-   "trade": "B2",
-   "deposit": 80000,
-   "rent": 160,
-   "area_exclusive": 101.04,
-   "area_supply": 138.88,
-   "floor": "중/25",
-   "building": "103",
-   "direction": "WS",
-   "confirmed": "2026-11-05",
-   "description": "행복42 숲뷰 조망권좋음 풀옵션 입주일 금액 협의가능",
-   "realtor": "포레온행복부동산중개",
-   "price_text": "80000/160"
-  },
-  {
    "article_no": "2659866906",
    "trade": "B2",
    "deposit": 80000,
@@ -694,6 +694,21 @@
    "price_text": "80000/160"
   },
   {
+   "article_no": "2659858162",
+   "trade": "B2",
+   "deposit": 80000,
+   "rent": 160,
+   "area_exclusive": 101.04,
+   "area_supply": 138.88,
+   "floor": "중/25",
+   "building": "103",
+   "direction": "WS",
+   "confirmed": "2026-11-05",
+   "description": "행복42 숲뷰 조망권좋음 풀옵션 입주일 금액 협의가능",
+   "realtor": "포레온행복부동산중개",
+   "price_text": "80000/160"
+  },
+  {
    "article_no": "2659723019",
    "trade": "B2",
    "deposit": 80000,
@@ -709,7 +724,7 @@
    "price_text": "80000/160"
   },
   {
-   "article_no": "2663520847",
+   "article_no": "2663788365",
    "trade": "B2",
    "deposit": 80000,
    "rent": 160,
@@ -718,7 +733,7 @@
    "floor": "중/26",
    "building": "104",
    "direction": "EE",
-   "confirmed": "2026-11-23",
+   "confirmed": "2026-11-24",
    "description": "넓은평수, 에풀 트인뷰 채광좋은집, 비즈밸리상권이용",
    "realtor": "고덕굿모닝(437-6009)공인중개사사무소",
    "price_text": "80000/160"
@@ -737,6 +752,21 @@
    "description": "방4 화2 ,에어컨5대,붙박이장,가전, 숲뷰,한강뷰, 아트월,폴링싱타일",
    "realtor": "풍경채어바니티(단지내)부동산중개",
    "price_text": "80000/160"
+  },
+  {
+   "article_no": "2663839433",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 200,
+   "area_exclusive": 101.04,
+   "area_supply": 138.88,
+   "floor": "9/25",
+   "building": "103",
+   "direction": "SS",
+   "confirmed": "2026-11-24",
+   "description": "풀옵션,풀인테리어,조용한단지,보증금조정가능",
+   "realtor": "로얄공인중개사사무소",
+   "price_text": "70000/200"
   },
   {
    "article_no": "2662277798",
@@ -814,21 +844,6 @@
    "price_text": "70000/200"
   },
   {
-   "article_no": "2659832809",
-   "trade": "B2",
-   "deposit": 70000,
-   "rent": 200,
-   "area_exclusive": 101.04,
-   "area_supply": 138.88,
-   "floor": "중/25",
-   "building": "103",
-   "direction": "SS",
-   "confirmed": "2026-11-05",
-   "description": "고덕 풍경채 어바니티 숲뷰 시스템에어컨 6대 고급 인테리어",
-   "realtor": "정원(02-470-3339)공인중개사사무소",
-   "price_text": "70000/200"
-  },
-  {
    "article_no": "2659881057",
    "trade": "B2",
    "deposit": 70000,
@@ -841,6 +856,21 @@
    "confirmed": "2026-11-05",
    "description": "풍경채   42p 최고옵션,최상 관리",
    "realtor": "포인트공인중개사사무소",
+   "price_text": "70000/200"
+  },
+  {
+   "article_no": "2659832809",
+   "trade": "B2",
+   "deposit": 70000,
+   "rent": 200,
+   "area_exclusive": 101.04,
+   "area_supply": 138.88,
+   "floor": "중/25",
+   "building": "103",
+   "direction": "SS",
+   "confirmed": "2026-11-05",
+   "description": "고덕 풍경채 어바니티 숲뷰 시스템에어컨 6대 고급 인테리어",
+   "realtor": "정원(02-470-3339)공인중개사사무소",
    "price_text": "70000/200"
   },
   {
@@ -964,18 +994,18 @@
    "price_text": "10000/340"
   },
   {
-   "article_no": "2663152022",
+   "article_no": "2663772704",
    "trade": "B2",
    "deposit": 5000,
    "rent": 360,
-   "area_exclusive": 84.67,
-   "area_supply": 118.24,
-   "floor": "저/25",
-   "building": "102",
+   "area_exclusive": 84.03,
+   "area_supply": 115.87,
+   "floor": "중/25",
+   "building": "101",
    "direction": "SS",
-   "confirmed": "2026-11-20",
-   "description": "방3화2 ,에5,펜트리와 작은방에붙박이,중문, 마당,다락,",
-   "realtor": "풍경채어바니티(단지내)부동산중개",
+   "confirmed": "2026-11-24",
+   "description": "정남향에 탁트인 뷰, 풀에어컨, 팬트리, 풀옵션",
+   "realtor": "풍경채선우부동산공인중개사사무소",
    "price_text": "5000/360"
   },
   {
@@ -990,6 +1020,21 @@
    "direction": "SS",
    "confirmed": "2026-11-07",
    "description": "방3화2 ,에5,중문,안방펜트리,탁트인뷰",
+   "realtor": "풍경채어바니티(단지내)부동산중개",
+   "price_text": "5000/360"
+  },
+  {
+   "article_no": "2663152022",
+   "trade": "B2",
+   "deposit": 5000,
+   "rent": 360,
+   "area_exclusive": 84.67,
+   "area_supply": 118.24,
+   "floor": "저/25",
+   "building": "102",
+   "direction": "SS",
+   "confirmed": "2026-11-20",
+   "description": "방3화2 ,에5,펜트리와 작은방에붙박이,중문, 마당,다락,",
    "realtor": "풍경채어바니티(단지내)부동산중개",
    "price_text": "5000/360"
   },

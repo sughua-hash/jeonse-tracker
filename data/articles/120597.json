@@ -1,8 +1,23 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "complexNo": "120597",
  "name": "남양주두산위브트레지움",
  "articles": [
+  {
+   "article_no": "2663886621",
+   "trade": "B1",
+   "deposit": 25000,
+   "rent": 0,
+   "area_exclusive": 59.98,
+   "area_supply": 82.01,
+   "floor": "31/32",
+   "building": "103",
+   "direction": "ES",
+   "confirmed": "2026-11-24",
+   "description": "급전세 1월13일이사날짜 고정   융무",
+   "realtor": "신명스카이뷰그린공인중개사사무소",
+   "price_text": "25000"
+  },
   {
    "article_no": "2663754330",
    "trade": "B1",
@@ -77,6 +92,21 @@
    "description": "확장,옵션없음,내년3월 입주가",
    "realtor": "리치공인중개사사무소",
    "price_text": "29000"
+  },
+  {
+   "article_no": "2663825021",
+   "trade": "B1",
+   "deposit": 30000,
+   "rent": 0,
+   "area_exclusive": 59.98,
+   "area_supply": 82.01,
+   "floor": "25/32",
+   "building": "102",
+   "direction": "ES",
+   "confirmed": "2026-11-24",
+   "description": "날짜협의. 최고의 뷰. 아주깨끗, 가전제품 필요시 금액 협의",
+   "realtor": "행복한공인중개사사무소",
+   "price_text": "30000"
   },
   {
    "article_no": "2663186351",

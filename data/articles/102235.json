@@ -1,8 +1,23 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "complexNo": "102235",
  "name": "고덕리엔파크3단지",
  "articles": [
+  {
+   "article_no": "2663883262",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 84.87,
+   "area_supply": 111.78,
+   "floor": "저/15",
+   "building": "323",
+   "direction": "SS",
+   "confirmed": "2026-11-24",
+   "description": "올확장.채광좋은 남향.판상형.강일역 역세권.강명초중 인접.그린웨이 숲세권",
+   "realtor": "고덕삼성공인중개사사무소(02-442-2000)",
+   "price_text": "80000"
+  },
   {
    "article_no": "2663679079",
    "trade": "B1",
@@ -16,6 +31,21 @@
    "confirmed": "2026-11-23",
    "description": "올확장 남향 트인뷰 추천 전세",
    "realtor": "그라시움하늘공인중개사사무소",
+   "price_text": "80000"
+  },
+  {
+   "article_no": "2661862532",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 84.87,
+   "area_supply": 111.78,
+   "floor": "저/15",
+   "building": "323",
+   "direction": "SS",
+   "confirmed": "2026-11-14",
+   "description": "올확장.채광좋은 남향.판상형.그린웨이 숲세권.강명초중인접.강일역 역세권.",
+   "realtor": "고덕삼성공인중개사사무소(02-442-2000)",
    "price_text": "80000"
   },
   {
@@ -34,19 +64,19 @@
    "price_text": "80000"
   },
   {
-   "article_no": "2661862532",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 84.87,
-   "area_supply": 111.78,
-   "floor": "저/15",
-   "building": "323",
+   "article_no": "2663911347",
+   "trade": "B2",
+   "deposit": 40000,
+   "rent": 120,
+   "area_exclusive": 59.72,
+   "area_supply": 79.24,
+   "floor": "중/15",
+   "building": "320",
    "direction": "SS",
-   "confirmed": "2026-11-14",
-   "description": "올확장.채광좋은 남향.판상형.그린웨이 숲세권.강명초중인접.강일역 역세권.",
+   "confirmed": "2026-11-24",
+   "description": "귀한 판상형 반전세. 확장됨. 채광좋음. 강일역.강명초중.27.2.13.",
    "realtor": "고덕삼성공인중개사사무소(02-442-2000)",
-   "price_text": "80000"
+   "price_text": "40000/120"
   },
   {
    "article_no": "2663492044",
@@ -77,6 +107,21 @@
    "description": "즉시입주.판상형구조로 채광.뷰굿.손님만",
    "realtor": "파크공인중개사사무소",
    "price_text": "20000/210"
+  },
+  {
+   "article_no": "2663916299",
+   "trade": "B2",
+   "deposit": 10000,
+   "rent": 240,
+   "area_exclusive": 59.72,
+   "area_supply": 79.24,
+   "floor": "저/12",
+   "building": "338",
+   "direction": "SS",
+   "confirmed": "2026-11-24",
+   "description": "강일역 가장 가까운동.확장.귀한 판상형 월세.강명초중인접.27.2.19.",
+   "realtor": "고덕삼성공인중개사사무소(02-442-2000)",
+   "price_text": "10000/240"
   }
  ]
 }
