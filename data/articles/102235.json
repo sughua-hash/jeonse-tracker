@@ -1,8 +1,23 @@
 {
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "complexNo": "102235",
  "name": "고덕리엔파크3단지",
  "articles": [
+  {
+   "article_no": "2664176172",
+   "trade": "B1",
+   "deposit": 80000,
+   "rent": 0,
+   "area_exclusive": 84.87,
+   "area_supply": 111.78,
+   "floor": "저/15",
+   "building": "323",
+   "direction": "SS",
+   "confirmed": "2026-11-26",
+   "description": "올확장 남향 트인뷰 추천 전세",
+   "realtor": "그라시움하늘공인중개사사무소",
+   "price_text": "80000"
+  },
   {
    "article_no": "2663883262",
    "trade": "B1",
@@ -16,21 +31,6 @@
    "confirmed": "2026-11-24",
    "description": "올확장.채광좋은 남향.판상형.강일역 역세권.강명초중 인접.그린웨이 숲세권",
    "realtor": "고덕삼성공인중개사사무소(02-442-2000)",
-   "price_text": "80000"
-  },
-  {
-   "article_no": "2663679079",
-   "trade": "B1",
-   "deposit": 80000,
-   "rent": 0,
-   "area_exclusive": 84.87,
-   "area_supply": 111.78,
-   "floor": "저/15",
-   "building": "323",
-   "direction": "SS",
-   "confirmed": "2026-11-23",
-   "description": "올확장 남향 트인뷰 추천 전세",
-   "realtor": "그라시움하늘공인중개사사무소",
    "price_text": "80000"
   },
   {
@@ -89,7 +89,7 @@
    "building": "320",
    "direction": "SS",
    "confirmed": "2026-11-23",
-   "description": "융무.판상형.관리굿.즉시입주.협의가.손님만",
+   "description": "34P융무.최저가.판상형.손님만.즉시입주.협의가.관리굿",
    "realtor": "파크공인중개사사무소",
    "price_text": "20000/210"
   },

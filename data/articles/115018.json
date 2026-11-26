@@ -1,5 +1,5 @@
 {
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "complexNo": "115018",
  "name": "더샵지제역센트럴파크(1BL)",
  "articles": [
@@ -49,6 +49,21 @@
    "price_text": "27000"
   },
   {
+   "article_no": "2664082414",
+   "trade": "B1",
+   "deposit": 28000,
+   "rent": 0,
+   "area_exclusive": 59.62,
+   "area_supply": 79.7,
+   "floor": "고/24",
+   "building": "123",
+   "direction": "ES",
+   "confirmed": "2026-11-25",
+   "description": "부엉이확인 로얄동 뻥뷰 이마트지제역 차로5분 에어컨3중문탄성 초품아",
+   "realtor": "지제부엉이공인중개사사무소",
+   "price_text": "28000"
+  },
+  {
    "article_no": "2663368620",
    "trade": "B1",
    "deposit": 28000,
@@ -94,21 +109,6 @@
    "price_text": "29000"
   },
   {
-   "article_no": "2659788396",
-   "trade": "B1",
-   "deposit": 29000,
-   "rent": 0,
-   "area_exclusive": 59.62,
-   "area_supply": 79.7,
-   "floor": "중/26",
-   "building": "114",
-   "direction": "ES",
-   "confirmed": "2026-11-05",
-   "description": "1월 협의입주 주인거주로 집상태 좋아요 투인원에어컨 중문,학교앞동",
-   "realtor": "더샵에이스부동산공인중개사사무소",
-   "price_text": "29000"
-  },
-  {
    "article_no": "2663146680",
    "trade": "B1",
    "deposit": 29000,
@@ -124,7 +124,7 @@
    "price_text": "29000"
   },
   {
-   "article_no": "2663699498",
+   "article_no": "2664069562",
    "trade": "B1",
    "deposit": 31000,
    "rent": 0,
@@ -133,13 +133,13 @@
    "floor": "1/27",
    "building": "110",
    "direction": "WS",
-   "confirmed": "2026-11-23",
-   "description": "융자무 시에4대 중문 주차지하2층동 조경조망굿 2월중순말협의",
-   "realtor": "지제더샵단지내공인중개사사무소",
+   "confirmed": "2026-11-25",
+   "description": "입주협의,시에4,정원뷰,주차장용편리,중문",
+   "realtor": "더샵하나공인중개사사무소",
    "price_text": "31000"
   },
   {
-   "article_no": "2663649631",
+   "article_no": "2664059223",
    "trade": "B1",
    "deposit": 31000,
    "rent": 0,
@@ -148,9 +148,9 @@
    "floor": "1/27",
    "building": "110",
    "direction": "WS",
-   "confirmed": "2026-11-23",
-   "description": "입주협의,시에4,정원뷰,주차장용편리,중문",
-   "realtor": "더샵하나공인중개사사무소",
+   "confirmed": "2026-11-25",
+   "description": "K.무융자.에어컨4대.중문.주차편리.2월하순협의입주.반려동물불가",
+   "realtor": "더샵금메달공인중개사사무소",
    "price_text": "31000"
   },
   {
@@ -166,6 +166,21 @@
    "confirmed": "2026-11-23",
    "description": "아이키우기 좋은집  시스템4대 중문  2월중 협의 주차편리동",
    "realtor": "지제역더샵1단지공인중개사사무소",
+   "price_text": "31000"
+  },
+  {
+   "article_no": "2663699498",
+   "trade": "B1",
+   "deposit": 31000,
+   "rent": 0,
+   "area_exclusive": 74.99,
+   "area_supply": 98.71,
+   "floor": "1/27",
+   "building": "110",
+   "direction": "WS",
+   "confirmed": "2026-11-23",
+   "description": "융자무 시에4대 중문 주차지하2층동 조경조망굿 2월중순말협의",
+   "realtor": "지제더샵단지내공인중개사사무소",
    "price_text": "31000"
   },
   {
@@ -211,21 +226,6 @@
    "confirmed": "2026-11-13",
    "description": "시스템에어컨4 필로티1층 중문 27년2월협의입주",
    "realtor": "더샵미소공인중개사사무소",
-   "price_text": "31000"
-  },
-  {
-   "article_no": "2660699100",
-   "trade": "B1",
-   "deposit": 31000,
-   "rent": 0,
-   "area_exclusive": 74.99,
-   "area_supply": 98.71,
-   "floor": "1/27",
-   "building": "110",
-   "direction": "WS",
-   "confirmed": "2026-11-09",
-   "description": "K.무융자.에어컨4대.중문.주차편리.2월하순협의입주.반려동물불가",
-   "realtor": "더샵금메달공인중개사사무소",
    "price_text": "31000"
   },
   {
@@ -289,7 +289,7 @@
    "price_text": "2000/120"
   },
   {
-   "article_no": "2661748057",
+   "article_no": "2664129011",
    "trade": "B2",
    "deposit": 2000,
    "rent": 130,
@@ -298,9 +298,24 @@
    "floor": "저/26",
    "building": "118",
    "direction": "WS",
-   "confirmed": "2026-11-13",
+   "confirmed": "2026-11-25",
    "description": "추천 조망굿 시에4대 미세방충망 줄눈 탄성 1월말협의입주",
    "realtor": "지제더샵단지내공인중개사사무소",
+   "price_text": "2000/130"
+  },
+  {
+   "article_no": "2664117898",
+   "trade": "B2",
+   "deposit": 2000,
+   "rent": 130,
+   "area_exclusive": 59.62,
+   "area_supply": 79.7,
+   "floor": "저/26",
+   "building": "118",
+   "direction": "WS",
+   "confirmed": "2026-11-25",
+   "description": "No1. 27. 1월하순입주. 시스템에어컨4대. 줄눈. 탄성.",
+   "realtor": "더샵최고공인중개사사무소",
    "price_text": "2000/130"
   },
   {
@@ -319,18 +334,18 @@
    "price_text": "2000/130"
   },
   {
-   "article_no": "2658302694",
+   "article_no": "2664022790",
    "trade": "B2",
    "deposit": 2000,
    "rent": 130,
    "area_exclusive": 59.62,
    "area_supply": 79.7,
    "floor": "저/26",
-   "building": "118",
-   "direction": "WS",
-   "confirmed": "2026-10-29",
-   "description": "No1. 27. 1월하순입주. 시스템에어컨4대. 줄눈. 탄성.",
-   "realtor": "더샵최고공인중개사사무소",
+   "building": "116",
+   "direction": "ES",
+   "confirmed": "2026-11-25",
+   "description": "원탑확인,귀한월세,법인숙소가능,빠른입주,시에4,중문",
+   "realtor": "지제역원탑공인중개사사무소",
    "price_text": "2000/130"
   },
   {
@@ -379,7 +394,7 @@
    "price_text": "2000/130"
   },
   {
-   "article_no": "2661126507",
+   "article_no": "2664061953",
    "trade": "B2",
    "deposit": 2000,
    "rent": 140,
@@ -388,7 +403,7 @@
    "floor": "고/26",
    "building": "116",
    "direction": "SS",
-   "confirmed": "2026-11-11",
+   "confirmed": "2026-11-25",
    "description": "K.시원한남향뷰.에어컨4대.김치냉장고.11월말부터입주가능",
    "realtor": "더샵금메달공인중개사사무소",
    "price_text": "2000/140"
@@ -424,6 +439,21 @@
    "price_text": "2000/140"
   },
   {
+   "article_no": "2664025256",
+   "trade": "B2",
+   "deposit": 2000,
+   "rent": 150,
+   "area_exclusive": 83.71,
+   "area_supply": 109.28,
+   "floor": "저/27",
+   "building": "107",
+   "direction": "WS",
+   "confirmed": "2026-11-25",
+   "description": "K.정원같은단지뷰.에어컨2대.김냉.1년거주하실분.27년1월중순협의입주",
+   "realtor": "더샵금메달공인중개사사무소",
+   "price_text": "2000/150"
+  },
+  {
    "article_no": "2661913386",
    "trade": "B2",
    "deposit": 2000,
@@ -436,21 +466,6 @@
    "confirmed": "2026-11-16",
    "description": "에어컨4대, 중문",
    "realtor": "더샵1옥공인중개사사무소",
-   "price_text": "2000/150"
-  },
-  {
-   "article_no": "2659107235",
-   "trade": "B2",
-   "deposit": 2000,
-   "rent": 150,
-   "area_exclusive": 83.71,
-   "area_supply": 109.28,
-   "floor": "저/27",
-   "building": "107",
-   "direction": "WS",
-   "confirmed": "2026-11-02",
-   "description": "K.정원같은단지뷰.에어컨2대.김냉.1년거주하실분.27년1월중순협의입주",
-   "realtor": "더샵금메달공인중개사사무소",
    "price_text": "2000/150"
   },
   {

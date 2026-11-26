@@ -1,5 +1,5 @@
 {
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "complexNo": "112926",
  "name": "화도센트럴우방아이유쉘",
  "articles": [
@@ -17,6 +17,21 @@
    "description": "27.01.29고정. 독립세대. LH가능. 교통및 생활편의시설이용가능",
    "realtor": "행복라온공인중개사사무소",
    "price_text": "20000/85"
+  },
+  {
+   "article_no": "2664100676",
+   "trade": "B2",
+   "deposit": 5000,
+   "rent": 150,
+   "area_exclusive": 84.91,
+   "area_supply": 115.0,
+   "floor": "13/20",
+   "building": "107",
+   "direction": "ES",
+   "confirmed": "2026-11-25",
+   "description": "입주협의",
+   "realtor": "푸르지오함박공인중개사사무소",
+   "price_text": "5000/150"
   }
  ]
 }
