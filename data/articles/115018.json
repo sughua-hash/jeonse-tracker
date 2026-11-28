@@ -1,5 +1,5 @@
 {
- "date": "2026-11-27",
+ "date": "2026-11-28",
  "complexNo": "115018",
  "name": "더샵지제역센트럴파크(1BL)",
  "articles": [
@@ -59,7 +59,7 @@
    "building": "123",
    "direction": "ES",
    "confirmed": "2026-11-25",
-   "description": "부엉이확인 로얄동 뻥뷰 이마트지제역 차로5분 에어컨3중문탄성 초품아",
+   "description": "부엉이확인 에어컨3 뻥뷰 초품아 지제역차로5분 공동x",
    "realtor": "지제부엉이공인중개사사무소",
    "price_text": "28000"
   },
@@ -199,21 +199,6 @@
    "price_text": "31000"
   },
   {
-   "article_no": "2661714074",
-   "trade": "B1",
-   "deposit": 31000,
-   "rent": 0,
-   "area_exclusive": 74.99,
-   "area_supply": 98.71,
-   "floor": "1/27",
-   "building": "110",
-   "direction": "WS",
-   "confirmed": "2026-11-13",
-   "description": "GM.시에4대,필로팅1층으로 바닥 층고 높음.중문,27년 2월 협의 입주",
-   "realtor": "THESHARP굿모닝공인중개사사무소",
-   "price_text": "31000"
-  },
-  {
    "article_no": "2661764149",
    "trade": "B1",
    "deposit": 31000,
@@ -229,6 +214,21 @@
    "price_text": "31000"
   },
   {
+   "article_no": "2661714074",
+   "trade": "B1",
+   "deposit": 31000,
+   "rent": 0,
+   "area_exclusive": 74.99,
+   "area_supply": 98.71,
+   "floor": "1/27",
+   "building": "110",
+   "direction": "WS",
+   "confirmed": "2026-11-13",
+   "description": "GM.시에4대,필로팅1층으로 바닥 층고 높음.중문,27년 2월 협의 입주",
+   "realtor": "THESHARP굿모닝공인중개사사무소",
+   "price_text": "31000"
+  },
+  {
    "article_no": "2663583573",
    "trade": "B1",
    "deposit": 32000,
@@ -239,7 +239,7 @@
    "building": "101",
    "direction": "WS",
    "confirmed": "2026-11-23",
-   "description": "앞동 로얄층 융자무 시스템에어컨3대  조망굿 3월협의입주",
+   "description": "앞동 로얄층 융자무 시스템에어컨3대  조망굿 3월초중 협의입주",
    "realtor": "지제더샵단지내공인중개사사무소",
    "price_text": "32000"
   },
@@ -331,21 +331,6 @@
    "confirmed": "2026-11-06",
    "description": "No1. 27. 1월하순입주. 시스템에어컨4대. 줄눈. 탄성",
    "realtor": "지제최고공인중개사사무소",
-   "price_text": "2000/130"
-  },
-  {
-   "article_no": "2664022790",
-   "trade": "B2",
-   "deposit": 2000,
-   "rent": 130,
-   "area_exclusive": 59.62,
-   "area_supply": 79.7,
-   "floor": "저/26",
-   "building": "116",
-   "direction": "ES",
-   "confirmed": "2026-11-25",
-   "description": "원탑확인,귀한월세,법인숙소가능,빠른입주,시에4,중문",
-   "realtor": "지제역원탑공인중개사사무소",
    "price_text": "2000/130"
   },
   {
@@ -451,21 +436,6 @@
    "confirmed": "2026-11-16",
    "description": "에어컨4대, 중문",
    "realtor": "더샵1옥공인중개사사무소",
-   "price_text": "2000/150"
-  },
-  {
-   "article_no": "2659702812",
-   "trade": "B2",
-   "deposit": 2000,
-   "rent": 150,
-   "area_exclusive": 74.99,
-   "area_supply": 98.71,
-   "floor": "13/25",
-   "building": "112",
-   "direction": "ES",
-   "confirmed": "2026-11-04",
-   "description": "옵션이있어서 법인 숙소로도 가능합니다.",
-   "realtor": "포스코굿모닝공인중개사사무소",
    "price_text": "2000/150"
   }
  ]
